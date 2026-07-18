@@ -1,4 +1,9 @@
-export type CategoryId = "western-history";
+export type CategoryId =
+  | "modern-celebrities"
+  | "east-asian-history"
+  | "east-asian-mythology"
+  | "western-history"
+  | "western-mythology";
 export type Difficulty = "easy" | "medium" | "hard";
 
 export interface Source {

@@ -1,3 +1,5 @@
+import type { CategoryId } from "../types";
+
 export interface QuickResult {
   score: number;
   completedAt: string;
@@ -11,10 +13,10 @@ export interface DailyProgress {
   selectedFigureId: string | null;
 }
 
-const quickHistoryKey = "kiddle:v1:quick-history";
-const infiniteBestKey = "kiddle:v1:infinite-best";
-const dailyKey = (date: string) => `kiddle:v1:daily:${date}`;
-const dailyProgressKey = (date: string) => `kiddle:v1:daily-progress:${date}`;
+const quickHistoryKey = (category: CategoryId) => `kiddle:v1:quick-history:${category}`;
+const infiniteBestKey = (category: CategoryId) => `kiddle:v1:infinite-best:${category}`;
+const dailyKey = (category: CategoryId, date: string) => `kiddle:v1:daily:${category}:${date}`;
+const dailyProgressKey = (category: CategoryId, date: string) => `kiddle:v1:daily-progress:${category}:${date}`;
 
 function validHistory(value: unknown): value is QuickResult[] {
   return Array.isArray(value) && value.every((item) =>
@@ -35,80 +37,80 @@ function validDailyProgress(value: unknown): value is DailyProgress {
   return answeredCurrentQuestion || awaitingAnswer;
 }
 
-export function saveQuickResult(result: QuickResult): void {
+export function saveQuickResult(category: CategoryId, result: QuickResult): void {
   let history: QuickResult[] = [];
   try {
-    const parsed = JSON.parse(localStorage.getItem(quickHistoryKey) ?? "[]") as unknown;
+    const parsed = JSON.parse(localStorage.getItem(quickHistoryKey(category)) ?? "[]") as unknown;
     history = validHistory(parsed) ? parsed : [];
   } catch {
     // Corrupted history is replaced by the current result below.
   }
   try {
-    localStorage.setItem(quickHistoryKey, JSON.stringify([result, ...history].slice(0, 10)));
+    localStorage.setItem(quickHistoryKey(category), JSON.stringify([result, ...history].slice(0, 10)));
   } catch {
     // Storage is optional; a blocked store must not stop the game.
   }
 }
 
-export function getInfiniteBest(): number {
+export function getInfiniteBest(category: CategoryId): number {
   try {
-    const value = Number(localStorage.getItem(infiniteBestKey));
+    const value = Number(localStorage.getItem(infiniteBestKey(category)));
     return Number.isInteger(value) && value >= 0 ? value : 0;
   } catch {
     return 0;
   }
 }
 
-export function saveInfiniteBest(streak: number): number {
-  const best = Math.max(getInfiniteBest(), streak);
+export function saveInfiniteBest(category: CategoryId, streak: number): number {
+  const best = Math.max(getInfiniteBest(category), streak);
   try {
-    localStorage.setItem(infiniteBestKey, `${best}`);
+    localStorage.setItem(infiniteBestKey(category), `${best}`);
   } catch {
     // Storage is optional; a blocked store must not stop the game.
   }
   return best;
 }
 
-export function getDailyResult(date: string): DailyResult | null {
+export function getDailyResult(category: CategoryId, date: string): DailyResult | null {
   try {
-    const result = JSON.parse(localStorage.getItem(dailyKey(date)) ?? "null") as unknown;
+    const result = JSON.parse(localStorage.getItem(dailyKey(category, date)) ?? "null") as unknown;
     return validHistory([result]) ? result as DailyResult : null;
   } catch {
     return null;
   }
 }
 
-export function saveDailyResult(date: string, result: DailyResult): DailyResult {
-  const existing = getDailyResult(date);
+export function saveDailyResult(category: CategoryId, date: string, result: DailyResult): DailyResult {
+  const existing = getDailyResult(category, date);
   if (existing) return existing;
   try {
-    localStorage.setItem(dailyKey(date), JSON.stringify(result));
+    localStorage.setItem(dailyKey(category, date), JSON.stringify(result));
   } catch {
     // Storage is optional; a blocked store must not stop the game.
   }
   return result;
 }
 
-export function getDailyProgress(date: string): DailyProgress | null {
+export function getDailyProgress(category: CategoryId, date: string): DailyProgress | null {
   try {
-    const progress = JSON.parse(localStorage.getItem(dailyProgressKey(date)) ?? "null") as unknown;
+    const progress = JSON.parse(localStorage.getItem(dailyProgressKey(category, date)) ?? "null") as unknown;
     return validDailyProgress(progress) ? progress : null;
   } catch {
     return null;
   }
 }
 
-export function saveDailyProgress(date: string, progress: DailyProgress): void {
+export function saveDailyProgress(category: CategoryId, date: string, progress: DailyProgress): void {
   try {
-    localStorage.setItem(dailyProgressKey(date), JSON.stringify(progress));
+    localStorage.setItem(dailyProgressKey(category, date), JSON.stringify(progress));
   } catch {
     // Storage is optional; a blocked store must not stop the game.
   }
 }
 
-export function clearDailyProgress(date: string): void {
+export function clearDailyProgress(category: CategoryId, date: string): void {
   try {
-    localStorage.removeItem(dailyProgressKey(date));
+    localStorage.removeItem(dailyProgressKey(category, date));
   } catch {
     // Storage is optional; a blocked store must not stop the game.
   }

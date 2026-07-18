@@ -12,12 +12,12 @@ Launch with these five categories:
 
 ### Category and game support
 
-- [ ] Replace the single `CategoryId` with the five launch category IDs.
-- [ ] Load and filter Figures by category; remove Western History hard-coding from labels, sharing, and game setup.
-- [ ] Add a category picker for Daily, Quick, and Infinite modes.
-- [ ] Seed Daily as `daily:<local-date>:<category>` so a category has one shared puzzle per local date.
-- [ ] Key Daily progress, completed results, Quick history, and Infinite bests by category where applicable.
-- [ ] Verify that changing category cannot resume, overwrite, or share another category's result.
+- [x] Replace the single `CategoryId` with the five launch category IDs.
+- [x] Load and filter Figures by category; remove Western History hard-coding from labels, sharing, and game setup.
+- [x] Add a category picker for Daily, Quick, and Infinite modes. Categories without 20 active Figures remain unavailable.
+- [x] Seed Daily as `daily:<local-date>:<category>` so a category has one shared puzzle per local date.
+- [x] Key Daily progress, completed results, Quick history, and Infinite bests by category where applicable.
+- [x] Verify that changing category cannot resume, overwrite, or share another category's result.
 
 ### Content and data
 
