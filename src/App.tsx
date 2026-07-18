@@ -139,7 +139,7 @@ function Home({ start, pool, setPool }: { start: (mode: PlayMode, pool?: Categor
           <section aria-labelledby="about-title" aria-modal="true" className="about-panel" id="about-dialog" role="dialog">
           <button aria-label="Close more information" className="about-close" onClick={() => setMoreOpen(false)} ref={moreCloseRef} type="button">×</button>
           <div className="section-heading"><p className="eyebrow">About Kiddle</p><h2 id="about-title">How the game works.</h2></div>
-          <div className="about-copy"><section><h3>Make your pick</h3><p>Choose who had more children. Counts and sources appear after every answer.</p></section><section><h3>The Daily Challenge</h3><p>A new themed puzzle starts at midnight in your local time. Progress is saved on this device.</p></section><section><h3>About us</h3><p>Kiddle is an independent trivia game we’re building for curious people.</p></section></div>
+          <div className="about-copy"><section><h3>Make your pick</h3><p>Choose who had more children. Counts and sources appear after every answer.</p></section><section><h3>The Daily Challenge</h3><p>A new themed puzzle starts at midnight in your local time. Progress is saved on this device.</p></section><section><h3>About us</h3><p>Made by Bloin with the help of Codex.</p></section></div>
           </section>
         </div>}
       </main>
