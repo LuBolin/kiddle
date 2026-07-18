@@ -117,9 +117,12 @@ function Home({ start, pool, setPool }: { start: (mode: PlayMode, pool?: Categor
             <p className="eyebrow">Today's theme · {categoryLabel(dailyCategory)}</p>
             <h1>Who had more children?</h1>
             <p>A daily trivia game with sourced answers.</p>
-            <div className="hero-actions">
-              <button className="primary" onClick={() => start("daily")} type="button">Play today’s challenge <span>→</span></button>
-              <button className="text-button" onClick={() => document.getElementById("other-modes")?.scrollIntoView({ behavior: "smooth" })} type="button">See other modes</button>
+            <div className="play-stack">
+              <button className="primary daily-action" onClick={() => start("daily")} type="button"><span><small>Daily Challenge</small><strong>Play today’s challenge</strong></span><span aria-hidden="true">→</span></button>
+              <div className="alternate-modes">
+                <div className="alternate-heading"><span>Other modes</span><details className="pool-menu"><summary>Pool · {pool.length === 0 ? "Choose" : pool.length === 1 ? categoryLabel(pool[0]) : `${pool.length} categories`}</summary><fieldset className="category-picker"><legend>Game pool</legend>{categories.filter((candidate) => categoryHasFigures(candidate.id)).map((candidate) => <label key={candidate.id}><input checked={pool.includes(candidate.id)} onChange={() => setPool(pool.includes(candidate.id) ? pool.filter((id) => id !== candidate.id) : [...pool, candidate.id])} type="checkbox" /> {candidate.label}</label>)}</fieldset></details></div>
+                <div className="mode-choices"><button disabled={!isPlayablePool(pool)} onClick={() => start("quick", pool)} type="button"><strong>Quick</strong><span>10 questions</span></button><button disabled={!isPlayablePool(pool)} onClick={() => start("infinite", pool)} type="button"><strong>Infinite</strong><span>3 lives</span></button></div>
+              </div>
             </div>
           </div>
           <div className="hero-showdown" aria-label="Example figure comparison">
@@ -128,11 +131,6 @@ function Home({ start, pool, setPool }: { start: (mode: PlayMode, pool?: Categor
             <div className="hero-person"><Portrait figure={right} /><strong>{right.displayName}</strong><span>{right.descriptor}</span></div>
             <p className="hero-question">Who had more children?</p>
           </div>
-        </section>
-
-        <section className="other-modes" id="other-modes" aria-labelledby="other-modes-title">
-          <header><div><p className="eyebrow">More ways to play</p><h2 id="other-modes-title">Quick or Infinite</h2></div><fieldset className="category-picker"><legend>Game pool</legend>{categories.filter((candidate) => categoryHasFigures(candidate.id)).map((candidate) => <label key={candidate.id}><input checked={pool.includes(candidate.id)} onChange={() => setPool(pool.includes(candidate.id) ? pool.filter((id) => id !== candidate.id) : [...pool, candidate.id])} type="checkbox" /> {candidate.label}</label>)}</fieldset></header>
-          <div className="other-mode-grid"><article><div><h3>Quick Mode</h3><p>Ten fresh comparisons.</p></div><button className="secondary" disabled={!isPlayablePool(pool)} onClick={() => start("quick", pool)} type="button">Play Quick</button></article><article><div><h3>Infinite Mode</h3><p>Build a streak with three lives.</p></div><button className="secondary" disabled={!isPlayablePool(pool)} onClick={() => start("infinite", pool)} type="button">Play Infinite</button></article></div>
         </section>
 
         {moreOpen && <div className="about-backdrop" onKeyDown={(event) => { if (event.key === "Escape") setMoreOpen(false); }}>
