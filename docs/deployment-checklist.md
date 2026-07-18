@@ -14,14 +14,15 @@ Launch with these five categories:
 
 - [x] Replace the single `CategoryId` with the five launch category IDs.
 - [x] Load and filter Figures by category; remove Western History hard-coding from labels, sharing, and game setup.
-- [x] Add a category picker for Daily, Quick, and Infinite modes. Categories without 20 active Figures remain unavailable.
-- [x] Seed Daily as `daily:<local-date>:<category>` so a category has one shared puzzle per local date.
-- [x] Key Daily progress, completed results, Quick history, and Infinite bests by category where applicable.
-- [x] Verify that changing category cannot resume, overwrite, or share another category's result.
+- [x] Add a multi-select Game-pool picker for Daily, Quick, and Infinite modes. Categories without reviewed Figures remain unavailable.
+- [x] Seed Daily as `daily:<local-date>:<sorted-category-pool>` so a pool has one shared puzzle per local date.
+- [x] Key Daily progress, completed results, Quick history, and Infinite bests by the sorted Game-pool key.
+- [ ] Verify that changing a Game pool cannot resume, overwrite, or share another pool's result.
 
 ### Content and data
 
-- [ ] Gather and review at least 20 active Figures for each category; Quick Mode needs 20 distinct Figures for a ten-question run.
+- [ ] Gather and review at least 20 active Figures for at least two launch Categories; Quick Mode needs 20 distinct Figures in any selectable Game pool.
+- [ ] Verify a mixed two-category pool generates cross-category comparisons and has no repeated Figure inside a Quick session.
 - [ ] Keep one JSON file per category with the same Figure contract: approved child count, explanation, sources, tags, status, image URL, licence, attribution, and source URL.
 - [ ] Run the data validator across all five category files.
 - [ ] Confirm every active Figure has a non-tied possible matchup and that each category can produce the intended easy, medium, and hard mix.

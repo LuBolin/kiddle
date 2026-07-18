@@ -13,8 +13,12 @@ The single, sourced integer count used for a Figure under Kiddle's counting rule
 _Avoid_: Family size, children estimate
 
 **Category**:
-A defined thematic collection of Figures used to scope Daily, Quick, and Infinite games. The planned launch set is `modern-celebrities`, `east-asian-history`, `east-asian-mythology`, `western-history`, and `western-mythology`.
+A defined thematic collection attached to one Figure. The planned launch set is `modern-celebrities`, `east-asian-history`, `east-asian-mythology`, `western-history`, and `western-mythology`.
 _Avoid_: Topic, deck
+
+**Game pool**:
+One or more selected Categories supplying Figures for a Daily, Quick, or Infinite game. A mixed pool permits cross-category comparisons, such as Cao Cao versus George Bush.
+_Avoid_: Category, group
 
 **Tag**:
 A short, lower-case label attached to a Figure for editorial grouping and future filtering; tags supplement, but never replace, a Figure's single Category.
@@ -32,5 +36,5 @@ _Avoid_: Round, matchup
 A higher-or-lower comparison where the previous Figure's approved child count is shown and the player guesses whether the next Figure's count is greater or smaller.
 
 **Daily Challenge**:
-A date-specific set of ten fixed-pair questions shared by every player using the same category, generated from a stable local-date and category seed.
+A date-specific set of ten fixed-pair questions shared by every player using the same Game pool, generated from a stable local-date and sorted pool seed.
 _Avoid_: Daily quiz

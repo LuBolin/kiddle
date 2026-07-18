@@ -11,3 +11,11 @@ export const categories: Array<{ id: CategoryId; label: string }> = [
 export function categoryLabel(category: CategoryId): string {
   return categories.find((candidate) => candidate.id === category)?.label ?? category;
 }
+
+export function categoryKey(pool: readonly CategoryId[]): string {
+  return [...new Set(pool)].sort().join("+");
+}
+
+export function poolLabel(pool: readonly CategoryId[]): string {
+  return pool.map(categoryLabel).join(" + ");
+}
