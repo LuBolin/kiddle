@@ -133,31 +133,9 @@ function Home({ start, pool, setPool }: { start: (mode: PlayMode, pool?: Categor
         {moreOpen && <div className="about-backdrop" onKeyDown={(event) => { if (event.key === "Escape") setMoreOpen(false); }}>
           <section aria-labelledby="about-title" aria-modal="true" className="about-panel" id="about-dialog" role="dialog">
           <button aria-label="Close more information" className="about-close" onClick={() => setMoreOpen(false)} ref={moreCloseRef} type="button">×</button>
-          <div className="section-heading"><p className="eyebrow">About the game</p><h2 id="about-title">A quick game, with sources.</h2></div>
-          <div className="mode-grid">
-            <article className="mode-card featured-mode">
-              <p className="mode-kicker">Recommended · {date}</p><h3>Daily Challenge</h3>
-              <p>Today’s shared ten-question {categoryLabel(dailyCategory)} run.</p>
-              <div className="mode-stats"><span>10 questions</span><span>Shareable</span></div>
-              <button className="primary" onClick={() => start("daily")} type="button">Play today’s challenge</button>
-            </article>
-            <article className="mode-card">
-              <p className="mode-kicker">Play whenever</p><h3>Quick Mode</h3>
-              <p>A fresh ten-question run, with no repeats inside a session.</p>
-              <div className="mode-stats"><span>10 questions</span><span>Fresh mix</span><span>Saved locally</span></div>
-            </article>
-            <article className="mode-card">
-              <p className="mode-kicker">Three lives</p><h3>Infinite Mode</h3>
-              <p>Keep a streak alive by matching a known count against someone new.</p>
-              <div className="mode-stats"><span>3 lives</span><span>Personal best</span></div>
-            </article>
-          </div>
-          <section className="practice-picker" aria-labelledby="pool-title"><div><p className="mode-kicker">Quick & Infinite</p><h3 id="pool-title">Choose a game pool</h3></div><fieldset className="category-picker"><legend>Game pool</legend>{categories.map((candidate) => <label key={candidate.id}><input checked={pool.includes(candidate.id)} disabled={!categoryHasFigures(candidate.id)} onChange={() => setPool(pool.includes(candidate.id) ? pool.filter((id) => id !== candidate.id) : [...pool, candidate.id])} type="checkbox" /> {candidate.label}{categoryHasFigures(candidate.id) ? "" : " · In research"}</label>)}</fieldset><div className="reveal-actions"><button className="secondary" disabled={!isPlayablePool(pool)} onClick={() => start("quick", pool)} type="button">Play Quick</button><button className="primary" disabled={!isPlayablePool(pool)} onClick={() => start("infinite", pool)} type="button">Play Infinite</button></div></section>
-          <div className="trust-strip">
-            <article><strong>01</strong><div><h3>Pick a figure</h3><p>Every card is a direct answer button—no extra controls.</p></div></article>
-            <article><strong>02</strong><div><h3>See the evidence</h3><p>Counts, sources, and portrait credits appear only after you answer.</p></div></article>
-            <article><strong>03</strong><div><h3>Share spoiler-free</h3><p>Results make a compact grid with no names or answers exposed.</p></div></article>
-          </div>
+          <div className="section-heading"><p className="eyebrow">About Kiddle</p><h2 id="about-title">Choose how to play.</h2></div>
+          <section className="about-row" aria-labelledby="daily-title"><div><h3 id="daily-title">Daily Challenge</h3><p>Today’s theme: {categoryLabel(dailyCategory)}.</p></div><button className="primary" onClick={() => start("daily")} type="button">Play Daily</button></section>
+          <section className="practice-picker" aria-labelledby="pool-title"><div><h3 id="pool-title">Quick & Infinite</h3><p>Choose one or more categories.</p></div><fieldset className="category-picker"><legend>Game pool</legend>{categories.filter((candidate) => categoryHasFigures(candidate.id)).map((candidate) => <label key={candidate.id}><input checked={pool.includes(candidate.id)} onChange={() => setPool(pool.includes(candidate.id) ? pool.filter((id) => id !== candidate.id) : [...pool, candidate.id])} type="checkbox" /> {candidate.label}</label>)}</fieldset><div className="mode-actions"><button className="secondary" disabled={!isPlayablePool(pool)} onClick={() => start("quick", pool)} type="button">Quick</button><button className="primary" disabled={!isPlayablePool(pool)} onClick={() => start("infinite", pool)} type="button">Infinite</button></div></section>
           </section>
         </div>}
       </main>
