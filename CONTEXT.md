@@ -17,7 +17,7 @@ A defined thematic collection attached to one Figure. The planned launch set is 
 _Avoid_: Topic, deck
 
 **Game pool**:
-One or more selected Categories supplying Figures for a Daily, Quick, or Infinite game. A mixed pool permits cross-category comparisons, such as Cao Cao versus George Bush.
+One or more selected Categories supplying Figures for a Quick or Infinite game. A mixed pool permits cross-category comparisons, such as Cao Cao versus George Bush.
 _Avoid_: Category, group
 
 **Tag**:
@@ -36,5 +36,5 @@ _Avoid_: Round, matchup
 A higher-or-lower comparison where the previous Figure's approved child count is shown and the player guesses whether the next Figure's count is greater or smaller.
 
 **Daily Challenge**:
-A date-specific set of ten fixed-pair questions shared by every player using the same Game pool, generated from a stable local-date and sorted pool seed.
+A date-specific set of ten fixed-pair questions shared by every player. The local-date seed first selects one playable Category, then generates all pairs inside that theme.
 _Avoid_: Daily quiz

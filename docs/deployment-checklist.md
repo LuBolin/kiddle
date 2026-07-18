@@ -14,10 +14,10 @@ Launch with these five categories:
 
 - [x] Replace the single `CategoryId` with the five launch category IDs.
 - [x] Load and filter Figures by category; remove Western History hard-coding from labels, sharing, and game setup.
-- [x] Add a multi-select Game-pool picker for Daily, Quick, and Infinite modes. Categories without reviewed Figures remain unavailable.
-- [x] Seed Daily as `daily:<local-date>:<sorted-category-pool>` so a pool has one shared puzzle per local date.
-- [x] Key Daily progress, completed results, Quick history, and Infinite bests by the sorted Game-pool key.
-- [ ] Verify that changing a Game pool cannot resume, overwrite, or share another pool's result.
+- [x] Add a multi-select Game-pool picker for Quick and Infinite modes. Categories without reviewed Figures remain unavailable.
+- [x] Seed Daily as `daily:<local-date>:<selected-category>` so the same category theme and puzzle appear for everyone each local date.
+- [x] Key Daily progress and completed results by the selected daily Category; key Quick history and Infinite bests by the sorted Game-pool key.
+- [ ] Verify that changing a Quick/Infinite Game pool cannot resume, overwrite, or share another pool's result.
 
 ### Content and data
 

@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { categories, categoryKey, poolLabel } from "./categories";
+import { categories, categoryKey, categoryLabel, poolLabel } from "./categories";
 import { figures } from "./data/figures";
-import { dailyQuestionsForDate } from "./lib/daily";
+import { dailyCategoryForDate, dailyQuestionsForDate } from "./lib/daily";
 import { generateInfiniteQuestion, generateQuickSession, isCorrect } from "./lib/game";
 import { sessionShareText, share } from "./lib/share";
 import { clearDailyProgress, getDailyProgress, getDailyResult, getInfiniteBest, saveDailyProgress, saveDailyResult, saveInfiniteBest, saveQuickResult, type DailyProgress, type DailyResult } from "./lib/storage";
@@ -95,10 +95,12 @@ function Sources({ figures }: { figures: Figure[] }) {
   );
 }
 
-function Home({ start, pool, setPool }: { start: (mode: PlayMode, pool: CategoryId[]) => void; pool: CategoryId[]; setPool: (pool: CategoryId[]) => void }) {
-  const left = figures.find((figure) => figure.id === "queen-victoria")!;
-  const right = figures.find((figure) => figure.id === "george-washington")!;
+function Home({ start, pool, setPool }: { start: (mode: PlayMode, pool?: CategoryId[]) => void; pool: CategoryId[]; setPool: (pool: CategoryId[]) => void }) {
   const date = localDateKey();
+  const dailyCategory = dailyCategoryForDate(date, figures);
+  const dailyPreview = dailyQuestionsForDate(date, dailyCategory, figures)[0];
+  const left = dailyPreview.left;
+  const right = dailyPreview.right;
   const [moreOpen, setMoreOpen] = useState(false);
   const moreCloseRef = useRef<HTMLButtonElement>(null);
   useEffect(() => { if (moreOpen) moreCloseRef.current?.focus(); }, [moreOpen]);
@@ -112,19 +114,18 @@ function Home({ start, pool, setPool }: { start: (mode: PlayMode, pool: Category
       <main className="site-shell home-content">
         <section className="hero">
           <div className="hero-copy">
-            <p className="eyebrow">The family-fact daily game</p>
+            <p className="eyebrow">Today's theme · {categoryLabel(dailyCategory)}</p>
             <h1>Who had more children?</h1>
             <p>A daily trivia game with sourced answers.</p>
-            <fieldset className="category-picker"><legend>Game pool</legend>{categories.map((candidate) => <label key={candidate.id}><input checked={pool.includes(candidate.id)} disabled={!categoryHasFigures(candidate.id)} onChange={() => setPool(pool.includes(candidate.id) ? pool.filter((id) => id !== candidate.id) : [...pool, candidate.id])} type="checkbox" /> {candidate.label}{categoryHasFigures(candidate.id) ? "" : " · In research"}</label>)}</fieldset>
             <div className="hero-actions">
-              <button className="primary" disabled={!isPlayablePool(pool)} onClick={() => start("daily", pool)} type="button">Play today’s challenge <span>→</span></button>
-              <button className="text-button" disabled={!isPlayablePool(pool)} onClick={() => start("quick", pool)} type="button">Or play Quick Mode</button>
+              <button className="primary" onClick={() => start("daily")} type="button">Play today’s challenge <span>→</span></button>
+              <button className="text-button" onClick={() => setMoreOpen(true)} type="button">Choose Quick or Infinite Mode</button>
             </div>
           </div>
           <div className="hero-showdown" aria-label="Example figure comparison">
-            <div className="hero-person"><Portrait figure={left} /><strong>{left.displayName}</strong><span>British monarch</span></div>
+            <div className="hero-person"><Portrait figure={left} /><strong>{left.displayName}</strong><span>{left.descriptor}</span></div>
             <div className="vs">VS</div>
-            <div className="hero-person"><Portrait figure={right} /><strong>{right.displayName}</strong><span>U.S. president</span></div>
+            <div className="hero-person"><Portrait figure={right} /><strong>{right.displayName}</strong><span>{right.descriptor}</span></div>
             <p className="hero-question">Who had more children?</p>
           </div>
         </section>
@@ -136,23 +137,22 @@ function Home({ start, pool, setPool }: { start: (mode: PlayMode, pool: Category
           <div className="mode-grid">
             <article className="mode-card featured-mode">
               <p className="mode-kicker">Recommended · {date}</p><h3>Daily Challenge</h3>
-              <p>One shared 10-question format designed for a short daily ritual.</p>
+              <p>Today’s shared ten-question {categoryLabel(dailyCategory)} run.</p>
               <div className="mode-stats"><span>10 questions</span><span>Shareable</span></div>
-              <button className="primary" disabled={!isPlayablePool(pool)} onClick={() => start("daily", pool)} type="button">Play today’s challenge</button>
+              <button className="primary" onClick={() => start("daily")} type="button">Play today’s challenge</button>
             </article>
             <article className="mode-card">
               <p className="mode-kicker">Play whenever</p><h3>Quick Mode</h3>
-              <p>A fresh ten-question {poolLabel(pool)} run, with no repeats inside a session.</p>
+              <p>A fresh ten-question run, with no repeats inside a session.</p>
               <div className="mode-stats"><span>10 questions</span><span>Fresh mix</span><span>Saved locally</span></div>
-              <button className="secondary" disabled={!isPlayablePool(pool)} onClick={() => start("quick", pool)} type="button">Play Quick</button>
             </article>
             <article className="mode-card">
               <p className="mode-kicker">Three lives</p><h3>Infinite Mode</h3>
               <p>Keep a streak alive by matching a known count against someone new.</p>
               <div className="mode-stats"><span>3 lives</span><span>Personal best</span></div>
-              <button className="secondary" disabled={!isPlayablePool(pool)} onClick={() => start("infinite", pool)} type="button">Play Infinite</button>
             </article>
           </div>
+          <section className="practice-picker" aria-labelledby="pool-title"><div><p className="mode-kicker">Quick & Infinite</p><h3 id="pool-title">Choose a game pool</h3></div><fieldset className="category-picker"><legend>Game pool</legend>{categories.map((candidate) => <label key={candidate.id}><input checked={pool.includes(candidate.id)} disabled={!categoryHasFigures(candidate.id)} onChange={() => setPool(pool.includes(candidate.id) ? pool.filter((id) => id !== candidate.id) : [...pool, candidate.id])} type="checkbox" /> {candidate.label}{categoryHasFigures(candidate.id) ? "" : " · In research"}</label>)}</fieldset><div className="reveal-actions"><button className="secondary" disabled={!isPlayablePool(pool)} onClick={() => start("quick", pool)} type="button">Play Quick</button><button className="primary" disabled={!isPlayablePool(pool)} onClick={() => start("infinite", pool)} type="button">Play Infinite</button></div></section>
           <div className="trust-strip">
             <article><strong>01</strong><div><h3>Pick a figure</h3><p>Every card is a direct answer button—no extra controls.</p></div></article>
             <article><strong>02</strong><div><h3>See the evidence</h3><p>Counts, sources, and portrait credits appear only after you answer.</p></div></article>
@@ -254,10 +254,11 @@ function DailyComplete({ date, result, home, pool }: { date: string; result: Dai
   return <main className="shell results"><p className="eyebrow">Daily Challenge · {poolLabel(pool)} · {date}</p><h1>Today’s puzzle is complete</h1><p>Great job. You scored <strong>{result.score}/10</strong>.</p><button className="primary" onClick={onShare} type="button">Share spoiler-free result</button>{notice && <p className="notice" role="status">{notice}</p>}<button onClick={home} type="button">Return home</button></main>;
 }
 
-function DailyGame({ restart, home, pool }: { restart: () => void; home: () => void; pool: CategoryId[] }) {
+function DailyGame({ restart, home }: { restart: () => void; home: () => void }) {
   const date = localDateKey();
-  const poolFigures = figures.filter((figure) => pool.includes(figure.category));
-  const questions = useMemo(() => dailyQuestionsForDate(date, pool, poolFigures), [date, pool, poolFigures]);
+  const category = dailyCategoryForDate(date, figures);
+  const pool = [category];
+  const questions = useMemo(() => dailyQuestionsForDate(date, category, figures), [category, date]);
   const result = getDailyResult(categoryKey(pool), date);
   const storedProgress = getDailyProgress(categoryKey(pool), date);
   const progress = storedProgress && (storedProgress.selectedFigureId === null || [questions[storedProgress.index].left.id, questions[storedProgress.index].right.id].includes(storedProgress.selectedFigureId)) ? storedProgress : null;
@@ -349,11 +350,11 @@ export default function App() {
   const [mode, setMode] = useState<PlayMode | null>(modeFromHash);
   const [pool, setPool] = useState<CategoryId[]>(poolFromHash);
   const [gameKey, setGameKey] = useState(0);
-  const start = (nextMode: PlayMode, nextPool = pool) => { window.location.hash = `${nextMode}/${categoryKey(nextPool)}`; setPool(nextPool); setGameKey((current) => current + 1); setMode(nextMode); };
+  const start = (nextMode: PlayMode, nextPool = pool) => { window.location.hash = nextMode === "daily" ? nextMode : `${nextMode}/${categoryKey(nextPool)}`; if (nextMode !== "daily") setPool(nextPool); setGameKey((current) => current + 1); setMode(nextMode); };
   const restart = () => { if (mode) start(mode); };
   const home = () => { window.history.replaceState(null, "", `${window.location.pathname}${window.location.search}`); setMode(null); };
   if (!mode) return <Home start={start} pool={pool} setPool={setPool} />;
   if (mode === "infinite") return <InfiniteGame key={gameKey} restart={restart} home={home} pool={pool} />;
-  if (mode === "daily") return <DailyGame key={gameKey} restart={restart} home={home} pool={pool} />;
+  if (mode === "daily") return <DailyGame key={gameKey} restart={restart} home={home} />;
   return <QuickGame key={gameKey} restart={restart} home={home} pool={pool} />;
 }
