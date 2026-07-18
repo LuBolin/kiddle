@@ -119,7 +119,7 @@ function Home({ start, pool, setPool }: { start: (mode: PlayMode, pool?: Categor
             <p>A daily trivia game with sourced answers.</p>
             <div className="hero-actions">
               <button className="primary" onClick={() => start("daily")} type="button">Play today’s challenge <span>→</span></button>
-              <button className="text-button" onClick={() => setMoreOpen(true)} type="button">Choose Quick or Infinite Mode</button>
+              <button className="text-button" onClick={() => document.getElementById("other-modes")?.scrollIntoView({ behavior: "smooth" })} type="button">See other modes</button>
             </div>
           </div>
           <div className="hero-showdown" aria-label="Example figure comparison">
@@ -130,12 +130,16 @@ function Home({ start, pool, setPool }: { start: (mode: PlayMode, pool?: Categor
           </div>
         </section>
 
+        <section className="other-modes" id="other-modes" aria-labelledby="other-modes-title">
+          <header><div><p className="eyebrow">More ways to play</p><h2 id="other-modes-title">Quick or Infinite</h2></div><fieldset className="category-picker"><legend>Game pool</legend>{categories.filter((candidate) => categoryHasFigures(candidate.id)).map((candidate) => <label key={candidate.id}><input checked={pool.includes(candidate.id)} onChange={() => setPool(pool.includes(candidate.id) ? pool.filter((id) => id !== candidate.id) : [...pool, candidate.id])} type="checkbox" /> {candidate.label}</label>)}</fieldset></header>
+          <div className="other-mode-grid"><article><div><h3>Quick Mode</h3><p>Ten fresh comparisons.</p></div><button className="secondary" disabled={!isPlayablePool(pool)} onClick={() => start("quick", pool)} type="button">Play Quick</button></article><article><div><h3>Infinite Mode</h3><p>Build a streak with three lives.</p></div><button className="secondary" disabled={!isPlayablePool(pool)} onClick={() => start("infinite", pool)} type="button">Play Infinite</button></article></div>
+        </section>
+
         {moreOpen && <div className="about-backdrop" onKeyDown={(event) => { if (event.key === "Escape") setMoreOpen(false); }}>
           <section aria-labelledby="about-title" aria-modal="true" className="about-panel" id="about-dialog" role="dialog">
           <button aria-label="Close more information" className="about-close" onClick={() => setMoreOpen(false)} ref={moreCloseRef} type="button">×</button>
-          <div className="section-heading"><p className="eyebrow">About Kiddle</p><h2 id="about-title">Choose how to play.</h2></div>
-          <section className="about-row" aria-labelledby="daily-title"><div><h3 id="daily-title">Daily Challenge</h3><p>Today’s theme: {categoryLabel(dailyCategory)}.</p></div><button className="primary" onClick={() => start("daily")} type="button">Play Daily</button></section>
-          <section className="practice-picker" aria-labelledby="pool-title"><div><h3 id="pool-title">Quick & Infinite</h3><p>Choose one or more categories.</p></div><fieldset className="category-picker"><legend>Game pool</legend>{categories.filter((candidate) => categoryHasFigures(candidate.id)).map((candidate) => <label key={candidate.id}><input checked={pool.includes(candidate.id)} onChange={() => setPool(pool.includes(candidate.id) ? pool.filter((id) => id !== candidate.id) : [...pool, candidate.id])} type="checkbox" /> {candidate.label}</label>)}</fieldset><div className="mode-actions"><button className="secondary" disabled={!isPlayablePool(pool)} onClick={() => start("quick", pool)} type="button">Quick</button><button className="primary" disabled={!isPlayablePool(pool)} onClick={() => start("infinite", pool)} type="button">Infinite</button></div></section>
+          <div className="section-heading"><p className="eyebrow">About Kiddle</p><h2 id="about-title">How the game works.</h2></div>
+          <div className="about-copy"><section><h3>Make your pick</h3><p>Choose who had more children. Counts and sources appear after every answer.</p></section><section><h3>The Daily Challenge</h3><p>A new themed puzzle starts at midnight in your local time. Progress is saved on this device.</p></section><section><h3>About us</h3><p>Kiddle is an independent trivia game we’re building for curious people.</p></section></div>
           </section>
         </div>}
       </main>
