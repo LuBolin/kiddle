@@ -100,11 +100,13 @@ function Home({ start, pool, setPool }: { start: (mode: PlayMode, pool: Category
   const right = figures.find((figure) => figure.id === "george-washington")!;
   const date = localDateKey();
   const [moreOpen, setMoreOpen] = useState(false);
+  const moreCloseRef = useRef<HTMLButtonElement>(null);
+  useEffect(() => { if (moreOpen) moreCloseRef.current?.focus(); }, [moreOpen]);
   return (
     <div className="home-page">
       <header className="site-header site-shell">
         <button className="wordmark" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })} type="button">Kiddle</button>
-        <button aria-expanded={moreOpen} className="more-info" onClick={() => setMoreOpen((current) => !current)} type="button">{moreOpen ? "Close info" : "More info"}</button>
+        <button aria-controls="about-dialog" aria-expanded={moreOpen} className="more-info" onClick={() => setMoreOpen(true)} type="button">More info</button>
       </header>
 
       <main className="site-shell home-content">
@@ -127,7 +129,9 @@ function Home({ start, pool, setPool }: { start: (mode: PlayMode, pool: Category
           </div>
         </section>
 
-        {moreOpen && <section className="about-panel" aria-labelledby="about-title">
+        {moreOpen && <div className="about-backdrop" onKeyDown={(event) => { if (event.key === "Escape") setMoreOpen(false); }}>
+          <section aria-labelledby="about-title" aria-modal="true" className="about-panel" id="about-dialog" role="dialog">
+          <button aria-label="Close more information" className="about-close" onClick={() => setMoreOpen(false)} ref={moreCloseRef} type="button">×</button>
           <div className="section-heading"><p className="eyebrow">About the game</p><h2 id="about-title">A quick game, with sources.</h2></div>
           <div className="mode-grid">
             <article className="mode-card featured-mode">
@@ -154,7 +158,8 @@ function Home({ start, pool, setPool }: { start: (mode: PlayMode, pool: Category
             <article><strong>02</strong><div><h3>See the evidence</h3><p>Counts, sources, and portrait credits appear only after you answer.</p></div></article>
             <article><strong>03</strong><div><h3>Share spoiler-free</h3><p>Results make a compact grid with no names or answers exposed.</p></div></article>
           </div>
-        </section>}
+          </section>
+        </div>}
       </main>
     </div>
   );
