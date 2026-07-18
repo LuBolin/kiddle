@@ -23,7 +23,7 @@ describe("Quick result storage", () => {
   });
 
   it("locks the first completed Daily result for a date", () => {
-    const first = { score: 6, completedAt: "2026-07-18T00:00:00.000Z" };
+    const first = { score: 6, completedAt: "2026-07-18T00:00:00.000Z", answers: [true, false, true, false, true, false, true, false, true, false] };
     const replay = { score: 10, completedAt: "2026-07-18T00:02:00.000Z" };
     expect(saveDailyResult("western-history", "2026-07-18", first)).toEqual(first);
     expect(saveDailyResult("western-history", "2026-07-18", replay)).toEqual(first);

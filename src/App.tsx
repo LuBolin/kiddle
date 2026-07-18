@@ -171,7 +171,7 @@ function Results({ answers, mode, restart, home, pool, dailyDate, isPractice = f
     const result = { score, completedAt: new Date().toISOString() };
     if (mode === "quick") saveQuickResult(categoryKey(pool), result);
     if (mode === "daily" && dailyDate && !isPractice) {
-      saveDailyResult(categoryKey(pool), dailyDate, result);
+      saveDailyResult(categoryKey(pool), dailyDate, { ...result, answers });
       clearDailyProgress(categoryKey(pool), dailyDate);
     }
   }, [dailyDate, isPractice, mode, pool, score]);
@@ -239,7 +239,14 @@ function QuickGame({ restart, home, pool }: { restart: () => void; home: () => v
 }
 
 function DailyComplete({ date, result, home, pool }: { date: string; result: DailyResult; home: () => void; pool: CategoryId[] }) {
-  return <main className="shell results"><p className="eyebrow">Daily Challenge · {poolLabel(pool)} · {date}</p><h1>Today’s puzzle is complete</h1><p>Great job. You scored <strong>{result.score}/10</strong>.</p><button className="primary" onClick={home} type="button">Return home</button></main>;
+  const [notice, setNotice] = useState("");
+  const onShare = async () => {
+    try {
+      const outcome = await share(sessionShareText(`Daily ${date}`, poolLabel(pool), result.score, result.answers ?? []));
+      setNotice(outcome === "copied" ? "Result copied to your clipboard." : "Share sheet opened.");
+    } catch { setNotice("Could not share your result. Try again from a supported browser."); }
+  };
+  return <main className="shell results"><p className="eyebrow">Daily Challenge · {poolLabel(pool)} · {date}</p><h1>Today’s puzzle is complete</h1><p>Great job. You scored <strong>{result.score}/10</strong>.</p><button className="primary" onClick={onShare} type="button">Share spoiler-free result</button>{notice && <p className="notice" role="status">{notice}</p>}<button onClick={home} type="button">Return home</button></main>;
 }
 
 function DailyGame({ restart, home, pool }: { restart: () => void; home: () => void; pool: CategoryId[] }) {

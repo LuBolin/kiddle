@@ -3,7 +3,9 @@ export interface QuickResult {
   completedAt: string;
 }
 
-export interface DailyResult extends QuickResult {}
+export interface DailyResult extends QuickResult {
+  answers?: boolean[];
+}
 
 export interface DailyProgress {
   index: number;
@@ -33,6 +35,12 @@ function validDailyProgress(value: unknown): value is DailyProgress {
   const answeredCurrentQuestion = progress.answers.length === progress.index + 1 && typeof progress.selectedFigureId === "string";
   const awaitingAnswer = progress.answers.length === progress.index && progress.selectedFigureId === null;
   return answeredCurrentQuestion || awaitingAnswer;
+}
+
+function validDailyResult(value: unknown): value is DailyResult {
+  if (!validHistory([value])) return false;
+  const answers = (value as DailyResult).answers;
+  return answers === undefined || (Array.isArray(answers) && answers.length === 10 && answers.every((answer) => typeof answer === "boolean"));
 }
 
 export function saveQuickResult(poolKey: string, result: QuickResult): void {
@@ -72,7 +80,7 @@ export function saveInfiniteBest(poolKey: string, streak: number): number {
 export function getDailyResult(poolKey: string, date: string): DailyResult | null {
   try {
     const result = JSON.parse(localStorage.getItem(dailyKey(poolKey, date)) ?? "null") as unknown;
-    return validHistory([result]) ? result as DailyResult : null;
+    return validDailyResult(result) ? result : null;
   } catch {
     return null;
   }

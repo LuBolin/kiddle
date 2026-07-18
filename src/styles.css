@@ -6,7 +6,7 @@ button { font: inherit; cursor: pointer; }
 button:focus-visible, a:focus-visible { outline: 3px solid #f3a712; outline-offset: 3px; }
 .site-shell { width: min(100% - 3rem, 1180px); margin: 0 auto; }
 .shell { width: min(100% - 2rem, 900px); margin: 0 auto; padding: 2rem 0 4rem; }
-.home-page { min-height: 100vh; overflow: hidden; background: radial-gradient(circle at 86% 20%, #d49a3d8a, transparent 28rem), radial-gradient(circle at 5% 88%, #b6602d38, transparent 34rem), linear-gradient(135deg, #f7edd9 0%, #ecd19c 52%, #e0b464 100%); }
+.home-page { min-height: 100vh; overflow-x: hidden; background: radial-gradient(circle at 86% 20%, #d49a3d8a, transparent 28rem), radial-gradient(circle at 5% 88%, #b6602d38, transparent 34rem), linear-gradient(135deg, #f7edd9 0%, #ecd19c 52%, #e0b464 100%); }
 .site-header { min-height: 76px; display: flex; align-items: center; justify-content: space-between; gap: 1rem; border-bottom: 1px solid #d9d1c4; }
 .wordmark { border: 0; padding: 0; background: transparent; color: #14213d; font: 700 1.8rem Georgia, serif; }
 .more-info { border: 1px solid #9d6628; border-radius: .6rem; padding: .55rem .8rem; background: #fff6df; color: #5e3515; font-weight: 750; box-shadow: 0 2px 0 #c78a3e; }
