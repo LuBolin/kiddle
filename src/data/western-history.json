@@ -1,0 +1,932 @@
+[
+  {
+    "id": "queen-victoria",
+    "displayName": "Queen Victoria",
+    "descriptor": "British monarch",
+    "category": "western-history",
+    "childrenCount": 9,
+    "countType": "exact",
+    "countingRuleSummary": "Nine documented children with Prince Albert.",
+    "explanation": "Victoria and Prince Albert had nine children, who married into royal houses across Europe.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/500px-Queen_Victoria_by_Bassano.jpg",
+      "alt": "Portrait of Queen Victoria",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_Victoria_by_Bassano.jpg",
+      "licence": "Public domain",
+      "attribution": "Alexander Bassano"
+    },
+    "sources": [
+      {
+        "title": "Royal Collection Trust — Queen Victoria",
+        "url": "https://www.rct.uk/collection/people/queen-victoria-queen-of-the-united-kingdom-1819-1901"
+      }
+    ],
+    "tags": [
+      "british-monarchy",
+      "royalty"
+    ]
+  },
+  {
+    "id": "george-iii",
+    "displayName": "George III",
+    "descriptor": "British monarch",
+    "category": "western-history",
+    "childrenCount": 15,
+    "countType": "exact",
+    "countingRuleSummary": "Fifteen documented children with Queen Charlotte.",
+    "explanation": "George III and Queen Charlotte had fifteen children.",
+    "confidence": "high",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg/500px-Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg",
+      "alt": "Portrait of George III",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg",
+      "licence": "Public domain",
+      "attribution": "Allan Ramsay"
+    },
+    "sources": [
+      {
+        "title": "Royal Collection Trust — George III",
+        "url": "https://www.rct.uk/collection/people/george-iii-king-of-the-united-kingdom-1738-1820"
+      }
+    ],
+    "tags": [
+      "british-monarchy",
+      "royalty"
+    ]
+  },
+  {
+    "id": "elizabeth-ii",
+    "displayName": "Elizabeth II",
+    "descriptor": "British monarch",
+    "category": "western-history",
+    "childrenCount": 4,
+    "countType": "exact",
+    "countingRuleSummary": "Four documented children with Prince Philip.",
+    "explanation": "Elizabeth II and Prince Philip had four children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/500px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg",
+      "alt": "Portrait of Elizabeth II",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
+      "licence": "Public domain",
+      "attribution": "Donald McKague"
+    },
+    "sources": [
+      {
+        "title": "The Royal Family — Queen Elizabeth II",
+        "url": "https://www.royal.uk/queen-elizabeth-ii"
+      }
+    ],
+    "tags": [
+      "british-monarchy",
+      "royalty"
+    ]
+  },
+  {
+    "id": "george-v",
+    "displayName": "George V",
+    "descriptor": "British monarch",
+    "category": "western-history",
+    "childrenCount": 6,
+    "countType": "exact",
+    "countingRuleSummary": "Six documented children with Queen Mary.",
+    "explanation": "George V and Queen Mary had six children.",
+    "confidence": "high",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/King_George_1923_LCCN2014715558_%28cropped%29.jpg/500px-King_George_1923_LCCN2014715558_%28cropped%29.jpg",
+      "alt": "Portrait of George V",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_George_1923_LCCN2014715558_(cropped).jpg",
+      "licence": "Public domain",
+      "attribution": "Bassano Ltd"
+    },
+    "sources": [
+      {
+        "title": "Royal Collection Trust — George V",
+        "url": "https://www.rct.uk/collection/people/george-v-king-of-the-united-kingdom-1865-1936"
+      }
+    ],
+    "tags": [
+      "british-monarchy",
+      "royalty"
+    ]
+  },
+  {
+    "id": "george-vi",
+    "displayName": "George VI",
+    "descriptor": "British monarch",
+    "category": "western-history",
+    "childrenCount": 2,
+    "countType": "exact",
+    "countingRuleSummary": "Two documented daughters with Queen Elizabeth.",
+    "explanation": "George VI and Queen Elizabeth had two daughters: Elizabeth and Margaret.",
+    "confidence": "high",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg/500px-King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg",
+      "alt": "Portrait of George VI",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_George_VI_LOC_matpc.14736_A_(cropped).jpg",
+      "licence": "Public domain",
+      "attribution": "Matson Photo Service"
+    },
+    "sources": [
+      {
+        "title": "The Royal Family — King George VI",
+        "url": "https://www.royal.uk/george-vi"
+      }
+    ],
+    "tags": [
+      "british-monarchy",
+      "royalty"
+    ]
+  },
+  {
+    "id": "charles-i",
+    "displayName": "Charles I",
+    "descriptor": "British monarch",
+    "category": "western-history",
+    "childrenCount": 9,
+    "countType": "exact",
+    "countingRuleSummary": "Nine documented children with Henrietta Maria.",
+    "explanation": "Charles I and Henrietta Maria had nine children.",
+    "confidence": "high",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg/500px-King_Charles_I_after_original_by_van_Dyck.jpg",
+      "alt": "Portrait of Charles I",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_Charles_I_after_original_by_van_Dyck.jpg",
+      "licence": "Public domain",
+      "attribution": "Workshop of Anthony van Dyck"
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica — Charles I",
+        "url": "https://www.britannica.com/biography/Charles-I-king-of-Great-Britain-and-Ireland"
+      }
+    ],
+    "tags": [
+      "british-monarchy",
+      "royalty"
+    ]
+  },
+  {
+    "id": "james-i",
+    "displayName": "James I and VI",
+    "descriptor": "King of England and Scotland",
+    "category": "western-history",
+    "childrenCount": 8,
+    "countType": "exact",
+    "countingRuleSummary": "Eight documented children with Anne of Denmark.",
+    "explanation": "James and Anne of Denmark had eight children, though only three survived infancy.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/JamesIEngland.jpg/500px-JamesIEngland.jpg",
+      "alt": "Portrait of James I and VI",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:JamesIEngland.jpg",
+      "licence": "Public domain",
+      "attribution": "Attributed to John de Critz"
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica — James I",
+        "url": "https://www.britannica.com/biography/James-I-king-of-England-Scotland-and-Ireland"
+      }
+    ],
+    "tags": [
+      "british-monarchy",
+      "royalty"
+    ]
+  },
+  {
+    "id": "mary-queen-of-scots",
+    "displayName": "Mary, Queen of Scots",
+    "descriptor": "Queen of Scotland",
+    "category": "western-history",
+    "childrenCount": 1,
+    "countType": "exact",
+    "countingRuleSummary": "One documented child, James VI and I.",
+    "explanation": "Mary had one child, the future James VI and I.",
+    "confidence": "high",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg/500px-Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg",
+      "alt": "Portrait of Mary, Queen of Scots",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Clouet_-_Mary,_Queen_of_Scots_(1542-87)_-_Google_Art_Project.jpg",
+      "licence": "Public domain",
+      "attribution": "François Clouet"
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica — Mary",
+        "url": "https://www.britannica.com/biography/Mary-queen-of-Scots"
+      }
+    ],
+    "tags": [
+      "scottish-monarchy",
+      "royalty"
+    ]
+  },
+  {
+    "id": "elizabeth-i",
+    "displayName": "Elizabeth I",
+    "descriptor": "Queen of England",
+    "category": "western-history",
+    "childrenCount": 0,
+    "countType": "exact",
+    "countingRuleSummary": "Elizabeth I did not have children.",
+    "explanation": "Elizabeth I never married and had no children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Darnley_stage_3.jpg/500px-Darnley_stage_3.jpg",
+      "alt": "Portrait of Elizabeth I",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Darnley_stage_3.jpg",
+      "licence": "Public domain",
+      "attribution": "Unidentified painter"
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica — Elizabeth I",
+        "url": "https://www.britannica.com/biography/Elizabeth-I"
+      }
+    ],
+    "tags": [
+      "british-monarchy",
+      "royalty"
+    ]
+  },
+  {
+    "id": "william-shakespeare",
+    "displayName": "William Shakespeare",
+    "descriptor": "English playwright",
+    "category": "western-history",
+    "childrenCount": 3,
+    "countType": "exact",
+    "countingRuleSummary": "Three documented children with Anne Hathaway.",
+    "explanation": "Shakespeare and Anne Hathaway had three children: Susanna, and twins Hamnet and Judith.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg/500px-William_Shakespeare_by_John_Taylor%2C_edited.jpg",
+      "alt": "Portrait of William Shakespeare",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_Shakespeare_by_John_Taylor,_edited.jpg",
+      "licence": "Public domain",
+      "attribution": "Attributed to John Taylor"
+    },
+    "sources": [
+      {
+        "title": "The Shakespeare Birthplace Trust — Family",
+        "url": "https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/william-shakespeare/william-shakespeares-family/"
+      }
+    ],
+    "tags": [
+      "writer",
+      "english-literature"
+    ]
+  },
+  {
+    "id": "charles-dickens",
+    "displayName": "Charles Dickens",
+    "descriptor": "English novelist",
+    "category": "western-history",
+    "childrenCount": 10,
+    "countType": "exact",
+    "countingRuleSummary": "Ten documented children with Catherine Hogarth.",
+    "explanation": "Charles Dickens and Catherine Hogarth had ten children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dickens_Gurney_head.jpg/500px-Dickens_Gurney_head.jpg",
+      "alt": "Portrait of Charles Dickens",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dickens_Gurney_head.jpg",
+      "licence": "Public domain",
+      "attribution": "Jeremiah Gurney"
+    },
+    "sources": [
+      {
+        "title": "Charles Dickens Museum — The Dickens Family",
+        "url": "https://dickensmuseum.com/pages/dickens-family"
+      }
+    ],
+    "tags": [
+      "writer",
+      "english-literature"
+    ]
+  },
+  {
+    "id": "charles-darwin",
+    "displayName": "Charles Darwin",
+    "descriptor": "Naturalist",
+    "category": "western-history",
+    "childrenCount": 10,
+    "countType": "exact",
+    "countingRuleSummary": "Ten documented children with Emma Darwin.",
+    "explanation": "Charles and Emma Darwin had ten children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/500px-Charles_Darwin_seated_crop.jpg",
+      "alt": "Portrait of Charles Darwin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_seated_crop.jpg",
+      "licence": "Public domain",
+      "attribution": "Charles_Darwin_seated.jpg : Henry Maull (1829–1914) and John Fox (1832–1907) (Maull & Fox) [ 3 ] derivative work: Bea o"
+    },
+    "sources": [
+      {
+        "title": "Darwin Correspondence Project — Darwin family",
+        "url": "https://www.darwinproject.ac.uk/people/about-darwin/darwins-family"
+      }
+    ],
+    "tags": [
+      "scientist",
+      "natural-history"
+    ]
+  },
+  {
+    "id": "jane-austen",
+    "displayName": "Jane Austen",
+    "descriptor": "English novelist",
+    "category": "western-history",
+    "childrenCount": 0,
+    "countType": "exact",
+    "countingRuleSummary": "Jane Austen had no children.",
+    "explanation": "Jane Austen never married and had no children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg/500px-CassandraAusten-JaneAusten%28c.1810%29_hires.jpg",
+      "alt": "Portrait of Jane Austen",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CassandraAusten-JaneAusten(c.1810)_hires.jpg",
+      "licence": "Public domain",
+      "attribution": "Cassandra Austen"
+    },
+    "sources": [
+      {
+        "title": "Jane Austen's House — Jane Austen",
+        "url": "https://janeaustens.house/discover/jane-austen/"
+      }
+    ],
+    "tags": [
+      "writer",
+      "english-literature"
+    ]
+  },
+  {
+    "id": "isaac-newton",
+    "displayName": "Isaac Newton",
+    "descriptor": "Physicist and mathematician",
+    "category": "western-history",
+    "childrenCount": 0,
+    "countType": "exact",
+    "countingRuleSummary": "Isaac Newton did not marry or have children.",
+    "explanation": "Newton did not marry and had no children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/500px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg",
+      "alt": "Portrait of Isaac Newton",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg",
+      "licence": "Public domain",
+      "attribution": "Godfrey Kneller"
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica — Isaac Newton",
+        "url": "https://www.britannica.com/biography/Isaac-Newton"
+      }
+    ],
+    "tags": [
+      "scientist",
+      "physics"
+    ]
+  },
+  {
+    "id": "marie-curie",
+    "displayName": "Marie Curie",
+    "descriptor": "Physicist and chemist",
+    "category": "western-history",
+    "childrenCount": 2,
+    "countType": "exact",
+    "countingRuleSummary": "Two documented daughters with Pierre Curie.",
+    "explanation": "Marie and Pierre Curie had two daughters, Irène and Ève.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/500px-Marie_Curie_c._1920s.jpg",
+      "alt": "Portrait of Marie Curie",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s.jpg",
+      "licence": "Public domain",
+      "attribution": "Henri Manuel"
+    },
+    "sources": [
+      {
+        "title": "Nobel Prize — Marie Curie",
+        "url": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/"
+      }
+    ],
+    "tags": [
+      "scientist",
+      "nobel-laureate"
+    ]
+  },
+  {
+    "id": "florence-nightingale",
+    "displayName": "Florence Nightingale",
+    "descriptor": "Nursing reformer",
+    "category": "western-history",
+    "childrenCount": 0,
+    "countType": "exact",
+    "countingRuleSummary": "Florence Nightingale did not have children.",
+    "explanation": "Nightingale did not marry and had no children.",
+    "confidence": "high",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg/500px-Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg",
+      "alt": "Portrait of Florence Nightingale",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Florence_Nightingale_(H_Hering_NPG_x82368).jpg",
+      "licence": "Public domain",
+      "attribution": "Henry Hering (1814-1893)"
+    },
+    "sources": [
+      {
+        "title": "Florence Nightingale Museum — Biography",
+        "url": "https://www.florence-nightingale.co.uk/florence-nightingale-biography/"
+      }
+    ],
+    "tags": [
+      "nursing",
+      "social-reformer"
+    ]
+  },
+  {
+    "id": "winston-churchill",
+    "displayName": "Winston Churchill",
+    "descriptor": "British prime minister",
+    "category": "western-history",
+    "childrenCount": 5,
+    "countType": "exact",
+    "countingRuleSummary": "Five documented children with Clementine Churchill.",
+    "explanation": "Winston and Clementine Churchill had five children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/500px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg",
+      "alt": "Portrait of Winston Churchill",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sir_Winston_Churchill_-_19086236948_(restored).jpg",
+      "licence": "Public domain",
+      "attribution": "Yousuf Karsh"
+    },
+    "sources": [
+      {
+        "title": "The International Churchill Society — Family",
+        "url": "https://winstonchurchill.org/the-life-of-churchill/children/"
+      }
+    ],
+    "tags": [
+      "british-politics",
+      "prime-minister"
+    ]
+  },
+  {
+    "id": "george-washington",
+    "displayName": "George Washington",
+    "descriptor": "First U.S. president",
+    "category": "western-history",
+    "childrenCount": 0,
+    "countType": "exact",
+    "countingRuleSummary": "George Washington had no biological or adopted children.",
+    "explanation": "George Washington had no biological or legally adopted children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/500px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+      "alt": "Portrait of George Washington",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+      "licence": "Public domain",
+      "attribution": "Gilbert Stuart"
+    },
+    "sources": [
+      {
+        "title": "Mount Vernon — Children and Family",
+        "url": "https://www.mountvernon.org/george-washington/family/"
+      }
+    ],
+    "tags": [
+      "us-president",
+      "american-founder"
+    ]
+  },
+  {
+    "id": "thomas-jefferson",
+    "displayName": "Thomas Jefferson",
+    "descriptor": "U.S. president",
+    "category": "western-history",
+    "childrenCount": 6,
+    "countType": "exact",
+    "countingRuleSummary": "Six documented children with Martha Wayles Skelton Jefferson.",
+    "explanation": "This candidate needs a full count review before it can meet Kiddle's counting rules.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "disabled",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg/500px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg",
+      "alt": "Portrait of Thomas Jefferson",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Official_Presidential_portrait_of_Thomas_Jefferson_(by_Rembrandt_Peale,_1800).jpg",
+      "licence": "Public domain",
+      "attribution": "Rembrandt Peale"
+    },
+    "sources": [
+      {
+        "title": "Monticello — Martha Jefferson",
+        "url": "https://www.monticello.org/research-education/thomas-jefferson-encyclopedia/martha-wayles-skelton-jefferson/"
+      }
+    ],
+    "tags": [
+      "us-president",
+      "american-founder"
+    ]
+  },
+  {
+    "id": "john-adams",
+    "displayName": "John Adams",
+    "descriptor": "Second U.S. president",
+    "category": "western-history",
+    "childrenCount": 6,
+    "countType": "exact",
+    "countingRuleSummary": "Six documented children with Abigail Adams.",
+    "explanation": "John and Abigail Adams had six children.",
+    "confidence": "high",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/John_Adams_Portrait.jpg/500px-John_Adams_Portrait.jpg",
+      "alt": "Portrait of John Adams",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Adams_Portrait.jpg",
+      "licence": "Public domain",
+      "attribution": "Gilbert Stuart"
+    },
+    "sources": [
+      {
+        "title": "National Park Service — John Adams",
+        "url": "https://www.nps.gov/adam/learn/historyculture/john-adams.htm"
+      }
+    ],
+    "tags": [
+      "us-president",
+      "american-founder"
+    ]
+  },
+  {
+    "id": "abraham-lincoln",
+    "displayName": "Abraham Lincoln",
+    "descriptor": "U.S. president",
+    "category": "western-history",
+    "childrenCount": 4,
+    "countType": "exact",
+    "countingRuleSummary": "Four documented sons with Mary Todd Lincoln.",
+    "explanation": "Abraham and Mary Todd Lincoln had four sons.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg/500px-Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg",
+      "alt": "Portrait of Abraham Lincoln",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_1863_Portrait_(3x4_cropped).jpg",
+      "licence": "Public domain",
+      "attribution": "Alexander Gardner"
+    },
+    "sources": [
+      {
+        "title": "Lincoln Presidential Foundation — Lincoln Family",
+        "url": "https://www.lincolnpresidential.org/learn/educational-resources/abraham-lincoln/lincoln-family"
+      }
+    ],
+    "tags": [
+      "us-president",
+      "american-civil-war"
+    ]
+  },
+  {
+    "id": "theodore-roosevelt",
+    "displayName": "Theodore Roosevelt",
+    "descriptor": "U.S. president",
+    "category": "western-history",
+    "childrenCount": 6,
+    "countType": "exact",
+    "countingRuleSummary": "Six documented children across two marriages.",
+    "explanation": "Theodore Roosevelt had six children across his marriages to Alice Hathaway Lee and Edith Carow Roosevelt.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%282%29.jpg/500px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%282%29.jpg",
+      "alt": "Portrait of Theodore Roosevelt",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt_by_the_Pach_Bros_(4x5_cropped)_(2).jpg",
+      "licence": "Public domain",
+      "attribution": "Adam Cuerden"
+    },
+    "sources": [
+      {
+        "title": "National Park Service — Theodore Roosevelt",
+        "url": "https://www.nps.gov/thro/learn/historyculture/theodore-roosevelt.htm"
+      }
+    ],
+    "tags": [
+      "us-president",
+      "progressive-era"
+    ]
+  },
+  {
+    "id": "franklin-roosevelt",
+    "displayName": "Franklin D. Roosevelt",
+    "descriptor": "U.S. president",
+    "category": "western-history",
+    "childrenCount": 6,
+    "countType": "exact",
+    "countingRuleSummary": "Six documented children with Eleanor Roosevelt.",
+    "explanation": "Franklin and Eleanor Roosevelt had six children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/500px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg",
+      "alt": "Portrait of Franklin D. Roosevelt",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:FDR-1944-Campaign-Portrait_(3x4_retouched,_cropped).jpg",
+      "licence": "CC BY 2.0",
+      "attribution": "Leon Perskie"
+    },
+    "sources": [
+      {
+        "title": "Franklin D. Roosevelt Presidential Library — Biography",
+        "url": "https://www.fdrlibrary.org/fdr-biography"
+      }
+    ],
+    "tags": [
+      "us-president",
+      "world-war-ii"
+    ]
+  },
+  {
+    "id": "ulysses-grant",
+    "displayName": "Ulysses S. Grant",
+    "descriptor": "U.S. president and general",
+    "category": "western-history",
+    "childrenCount": 4,
+    "countType": "exact",
+    "countingRuleSummary": "Four documented children with Julia Grant.",
+    "explanation": "Ulysses and Julia Grant had four children.",
+    "confidence": "high",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ulysses_S._Grant_1870-1880_%28cropped%29.jpg/500px-Ulysses_S._Grant_1870-1880_%28cropped%29.jpg",
+      "alt": "Portrait of Ulysses S. Grant",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ulysses_S._Grant_1870-1880_(cropped).jpg",
+      "licence": "Public domain",
+      "attribution": "Brady-Handy Photograph Collection, Library of Congress"
+    },
+    "sources": [
+      {
+        "title": "Ulysses S. Grant National Historic Site — Family",
+        "url": "https://www.nps.gov/ulsg/learn/historyculture/julia-dent-grant.htm"
+      }
+    ],
+    "tags": [
+      "us-president",
+      "american-civil-war"
+    ]
+  },
+  {
+    "id": "alexander-hamilton",
+    "displayName": "Alexander Hamilton",
+    "descriptor": "U.S. statesman",
+    "category": "western-history",
+    "childrenCount": 8,
+    "countType": "exact",
+    "countingRuleSummary": "Eight documented children with Elizabeth Schuyler Hamilton.",
+    "explanation": "Alexander and Elizabeth Hamilton had eight children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alexander_Hamilton_%28NPG%29.jpg/500px-Alexander_Hamilton_%28NPG%29.jpg",
+      "alt": "Portrait of Alexander Hamilton",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexander_Hamilton_(NPG).jpg",
+      "licence": "Public domain",
+      "attribution": "John Trumbull / Giuseppe Ceracchi"
+    },
+    "sources": [
+      {
+        "title": "National Park Service — Hamilton Grange",
+        "url": "https://www.nps.gov/hagr/learn/historyculture/alexander-hamilton.htm"
+      }
+    ],
+    "tags": [
+      "american-founder",
+      "statesman"
+    ]
+  },
+  {
+    "id": "benjamin-franklin",
+    "displayName": "Benjamin Franklin",
+    "descriptor": "U.S. statesman and inventor",
+    "category": "western-history",
+    "childrenCount": 3,
+    "countType": "exact",
+    "countingRuleSummary": "Three documented children: William, Francis, and Sarah.",
+    "explanation": "Benjamin Franklin had three documented children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/500px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg",
+      "alt": "Portrait of Benjamin Franklin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg",
+      "licence": "Public domain",
+      "attribution": "Joseph-Siffred Duplessis"
+    },
+    "sources": [
+      {
+        "title": "Benjamin Franklin House — Family",
+        "url": "https://benjaminfranklinhouse.org/benjamin-franklin/"
+      }
+    ],
+    "tags": [
+      "american-founder",
+      "inventor"
+    ]
+  },
+  {
+    "id": "johann-bach",
+    "displayName": "J. S. Bach",
+    "descriptor": "German composer",
+    "category": "western-history",
+    "childrenCount": 20,
+    "countType": "exact",
+    "countingRuleSummary": "Twenty documented children across two marriages.",
+    "explanation": "Johann Sebastian Bach had twenty children with Maria Barbara Bach and Anna Magdalena Bach.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/500px-Johann_Sebastian_Bach.jpg",
+      "alt": "Portrait of J. S. Bach",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Johann_Sebastian_Bach.jpg",
+      "licence": "Public domain",
+      "attribution": "Elias Gottlob Haussmann"
+    },
+    "sources": [
+      {
+        "title": "Bach Archive Leipzig — Johann Sebastian Bach",
+        "url": "https://www.bach-leipzig.de/en/bach-archive/johann-sebastian-bach"
+      }
+    ],
+    "tags": [
+      "composer",
+      "baroque"
+    ]
+  },
+  {
+    "id": "william-the-conqueror",
+    "displayName": "William the Conqueror",
+    "descriptor": "First Norman king of England",
+    "category": "western-history",
+    "childrenCount": 9,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "Nine commonly recorded children with Matilda of Flanders.",
+    "explanation": "William and Matilda are commonly recorded as having nine children.",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/William_the_Conqueror_%28TFA%29.jpg/500px-William_the_Conqueror_%28TFA%29.jpg",
+      "alt": "Portrait of William the Conqueror",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_the_Conqueror_(TFA).jpg",
+      "licence": "Public domain",
+      "attribution": "Myrabella"
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica — William I",
+        "url": "https://www.britannica.com/biography/William-I-king-of-England"
+      }
+    ],
+    "tags": [
+      "english-monarchy",
+      "norman"
+    ]
+  },
+  {
+    "id": "mary-antoinette",
+    "displayName": "Marie Antoinette",
+    "descriptor": "Queen of France",
+    "category": "western-history",
+    "childrenCount": 4,
+    "countType": "exact",
+    "countingRuleSummary": "Four documented children with Louis XVI.",
+    "explanation": "Marie Antoinette and Louis XVI had four children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg/500px-Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg",
+      "alt": "Portrait of Marie Antoinette",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marie-Antoinette,_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg",
+      "licence": "Public domain",
+      "attribution": "After Jean-Baptiste André Gautier-Dagoty"
+    },
+    "sources": [
+      {
+        "title": "Château de Versailles — Marie-Antoinette",
+        "url": "https://en.chateauversailles.fr/discover/history/great-characters/marie-antoinette"
+      }
+    ],
+    "tags": [
+      "french-monarchy",
+      "royalty"
+    ]
+  },
+  {
+    "id": "napoleon-iii",
+    "displayName": "Napoleon III",
+    "descriptor": "Emperor of the French",
+    "category": "western-history",
+    "childrenCount": 1,
+    "countType": "exact",
+    "countingRuleSummary": "One documented legitimate child with Eugénie de Montijo.",
+    "explanation": "This candidate needs a full count review before it can meet Kiddle's counting rules.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "disabled",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Alexandre_Cabanel_002.jpg/500px-Alexandre_Cabanel_002.jpg",
+      "alt": "Portrait of Napoleon III",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexandre_Cabanel_002.jpg",
+      "licence": "Public domain",
+      "attribution": "Alexandre Cabanel"
+    },
+    "sources": [
+      {
+        "title": "Encyclopaedia Britannica — Napoleon III",
+        "url": "https://www.britannica.com/biography/Napoleon-III"
+      }
+    ],
+    "tags": [
+      "french-monarchy",
+      "bonapartist"
+    ]
+  },
+  {
+    "id": "louis-xiv",
+    "displayName": "Louis XIV",
+    "descriptor": "King of France",
+    "category": "western-history",
+    "childrenCount": 6,
+    "countType": "exact",
+    "countingRuleSummary": "Six documented legitimate children with Maria Theresa of Spain.",
+    "explanation": "This candidate needs a full count review before it can meet Kiddle's counting rules.",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "disabled",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_XIV_of_France.jpg/500px-Louis_XIV_of_France.jpg",
+      "alt": "Portrait of Louis XIV",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Louis_XIV_of_France.jpg",
+      "licence": "Public domain",
+      "attribution": "Hyacinthe Rigaud"
+    },
+    "sources": [
+      {
+        "title": "Château de Versailles — Louis XIV",
+        "url": "https://en.chateauversailles.fr/discover/history/great-characters/louis-xiv"
+      }
+    ],
+    "tags": [
+      "french-monarchy",
+      "royalty"
+    ]
+  }
+]
