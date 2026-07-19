@@ -30,7 +30,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid #f3a712; outline-offs
 .game-help summary { color: #f2b36f; }
 .game-panel .back { border-color: #cfad7a; background: #fff3dc; }
 .game-progress { background: #4c5c76; }
-.figures { width: min(100%, 900px); margin-inline: auto; }
+.figures, .reveal { width: min(100%, 900px); margin-inline: auto; }
 .figure-card { min-height: clamp(280px, 39svh, 400px); }
 .site-actions { display: flex; align-items: center; gap: .65rem; }
 .language-select > span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
