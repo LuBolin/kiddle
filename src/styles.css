@@ -23,6 +23,15 @@ button:focus-visible, a:focus-visible { outline: 3px solid #f3a712; outline-offs
 .back, .reveal-actions > button:not(.primary) { border-color: #b99a70; background: #fff3dc; }
 .game-help p, .reveal { border-color: #b99a70; background: #fff3dc; }
 .hidden-count { color: #96501f; font: 700 2.25rem/1 Georgia, serif; }
+.game-panel { border-color: #14243e; background: #1b2d4a; box-shadow: 0 5px 0 #9b704d66; }
+.game-header { color: #dfc9a4; }
+.game-brand strong, .game-status strong { color: #fff3dc; }
+.game-brand span { color: #dfc9a4; }
+.game-help summary { color: #f2b36f; }
+.game-panel .back { border-color: #cfad7a; background: #fff3dc; }
+.game-progress { background: #4c5c76; }
+.figures { width: min(100%, 900px); margin-inline: auto; }
+.figure-card { min-height: clamp(280px, 39svh, 400px); }
 @media (max-width: 800px) { .site-shell { width: min(100% - 2rem, 1180px); }.hero { grid-template-columns: 1fr; gap: 2.5rem; padding-top: 3rem; }.hero h1 { max-width: 10ch; }.hero-showdown { max-width: 550px; } }
 @media (max-width: 600px) { .site-header { min-height: auto; flex-direction: column; align-items: flex-start; padding: 1rem 0; }.site-header nav { width: 100%; flex-wrap: wrap; gap: .15rem; }.site-header nav button, .site-header nav a, .nav-disabled { padding-left: .4rem; padding-right: .4rem; font-size: .82rem; }.hero { min-height: 0; padding: 2.8rem 0; }.hero h1 { font-size: clamp(3rem, 16vw, 4.6rem); }.hero-showdown { padding: 1.5rem .4rem 4rem; }.hero-showdown .portrait { width: 104px; height: 104px; }.hero-person strong { font-size: 1rem; }.shell { width: min(100% - 1.25rem, 850px); padding-top: 1.25rem; }.game-header { grid-template-columns: auto 1fr; }.game-brand { justify-items: end; }.game-tools { grid-column: 1 / -1; justify-content: space-between; padding-top: .7rem; border-top: 1px solid #e3d9cf; }.game-status { gap: .45rem; font-size: .75rem; }.figures { grid-template-columns: 1fr; }.figure-card { min-height: 245px; } }
 @media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; transition: none !important; } }
