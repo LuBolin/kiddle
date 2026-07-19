@@ -1,0 +1,3242 @@
+[
+  {
+    "id": "charlie-chaplin",
+    "displayName": "Charlie Chaplin",
+    "descriptor": "Actor and filmmaker",
+    "category": "modern-celebrities",
+    "tags": [
+      "film",
+      "actor"
+    ],
+    "childrenCount": 11,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "Eleven children are documented across his marriages.",
+    "explanation": "Charlie Chaplin had eleven children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/500px-Charlie_Chaplin_portrait_Getty_1739411952.jpg",
+      "alt": "Portrait of Charlie Chaplin",
+      "licence": "Public domain",
+      "attribution": "Strauss-Peyton Studio",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlie_Chaplin_portrait_Getty_1739411952.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Charlie Chaplin",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Chaplin"
+      }
+    ]
+  },
+  {
+    "id": "walt-disney",
+    "displayName": "Walt Disney",
+    "descriptor": "Animator and entrepreneur",
+    "category": "modern-celebrities",
+    "tags": [
+      "film",
+      "animation"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "Two daughters, Diane and Sharon, are documented.",
+    "explanation": "Walt Disney and Lillian Disney raised two daughters.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Walt_Disney_1946_%28cropped2%29.JPG",
+      "alt": "Portrait of Walt Disney",
+      "licence": "Public domain",
+      "attribution": "Boy Scouts of America",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walt_Disney_1946_(cropped2).JPG"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Walt Disney",
+        "url": "https://en.wikipedia.org/wiki/Walt_Disney"
+      }
+    ]
+  },
+  {
+    "id": "muhammad-ali",
+    "displayName": "Muhammad Ali",
+    "descriptor": "Boxer and activist",
+    "category": "modern-celebrities",
+    "tags": [
+      "sport",
+      "boxing"
+    ],
+    "childrenCount": 9,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "Nine children are documented.",
+    "explanation": "Muhammad Ali had nine children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/500px-Muhammad_Ali_NYWTS.jpg",
+      "alt": "Portrait of Muhammad Ali",
+      "licence": "Public domain",
+      "attribution": "Ira Rosenberg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_NYWTS.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Muhammad Ali",
+        "url": "https://en.wikipedia.org/wiki/Muhammad_Ali"
+      }
+    ]
+  },
+  {
+    "id": "pele",
+    "displayName": "Pelé",
+    "descriptor": "Brazilian footballer",
+    "category": "modern-celebrities",
+    "tags": [
+      "sport",
+      "football"
+    ],
+    "childrenCount": 7,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "Seven acknowledged children are documented.",
+    "explanation": "Pelé acknowledged seven children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pele_con_brasil_%28cropped%29.jpg",
+      "alt": "Portrait of Pelé",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pele_con_brasil_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Pelé",
+        "url": "https://en.wikipedia.org/wiki/Pel%C3%A9"
+      }
+    ]
+  },
+  {
+    "id": "martin-luther-king-jr",
+    "displayName": "Martin Luther King Jr.",
+    "descriptor": "Civil rights leader",
+    "category": "modern-celebrities",
+    "tags": [
+      "activist",
+      "civil-rights"
+    ],
+    "childrenCount": 4,
+    "countType": "exact",
+    "countingRuleSummary": "Four children with Coretta Scott King are documented.",
+    "explanation": "Martin Luther King Jr. and Coretta Scott King had four children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/500px-Martin_Luther_King%2C_Jr..jpg",
+      "alt": "Portrait of Martin Luther King Jr.",
+      "licence": "Public domain",
+      "attribution": "Creator:Bernie Faingold",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Martin_Luther_King,_Jr..jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Martin Luther King Jr.",
+        "url": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
+      }
+    ]
+  },
+  {
+    "id": "neil-armstrong",
+    "displayName": "Neil Armstrong",
+    "descriptor": "Astronaut",
+    "category": "modern-celebrities",
+    "tags": [
+      "space",
+      "astronaut"
+    ],
+    "childrenCount": 3,
+    "countType": "exact",
+    "countingRuleSummary": "Three children with Janet Shearon are documented.",
+    "explanation": "Neil Armstrong and Janet Shearon had three children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Neil_Armstrong_pose.jpg/500px-Neil_Armstrong_pose.jpg",
+      "alt": "Portrait of Neil Armstrong",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neil_Armstrong_pose.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Neil Armstrong",
+        "url": "https://en.wikipedia.org/wiki/Neil_Armstrong"
+      }
+    ]
+  },
+  {
+    "id": "princess-diana",
+    "displayName": "Diana, Princess of Wales",
+    "descriptor": "British royal and humanitarian",
+    "category": "modern-celebrities",
+    "tags": [
+      "royalty",
+      "humanitarian"
+    ],
+    "childrenCount": 2,
+    "countType": "exact",
+    "countingRuleSummary": "Two sons, William and Harry, are documented.",
+    "explanation": "Diana, Princess of Wales had two children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Diana%2C_Princess_of_Wales_1997_%282%29.jpg/500px-Diana%2C_Princess_of_Wales_1997_%282%29.jpg",
+      "alt": "Portrait of Diana, Princess of Wales",
+      "licence": "CC BY-SA 2.0",
+      "attribution": "John Mathew Smith & www.celebrity-photos.com from Laurel Maryland, USA ( Archived link)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diana,_Princess_of_Wales_1997_(2).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Diana, Princess of Wales",
+        "url": "https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales"
+      }
+    ]
+  },
+  {
+    "id": "steve-jobs",
+    "displayName": "Steve Jobs",
+    "descriptor": "Technology entrepreneur",
+    "category": "modern-celebrities",
+    "tags": [
+      "technology",
+      "business"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "Four children are documented.",
+    "explanation": "Steve Jobs had four children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg/500px-Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg",
+      "alt": "Portrait of Steve Jobs",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Matthew Yohe",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steve_Jobs_Headshot_2010_(cropped_4).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Steve Jobs",
+        "url": "https://en.wikipedia.org/wiki/Steve_Jobs"
+      }
+    ]
+  },
+  {
+    "id": "stephen-hawking",
+    "displayName": "Stephen Hawking",
+    "descriptor": "Theoretical physicist",
+    "category": "modern-celebrities",
+    "tags": [
+      "science",
+      "physics"
+    ],
+    "childrenCount": 3,
+    "countType": "exact",
+    "countingRuleSummary": "Three children with Jane Wilde are documented.",
+    "explanation": "Stephen Hawking and Jane Wilde had three children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg",
+      "alt": "Portrait of Stephen Hawking",
+      "licence": "Public domain",
+      "attribution": "NASA",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stephen_Hawking.StarChild.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Stephen Hawking",
+        "url": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+      }
+    ]
+  },
+  {
+    "id": "michael-jackson",
+    "displayName": "Michael Jackson",
+    "descriptor": "Singer and performer",
+    "category": "modern-celebrities",
+    "tags": [
+      "music",
+      "pop"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "Three children are documented.",
+    "explanation": "Michael Jackson had three children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg/500px-Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg",
+      "alt": "Portrait of Michael Jackson",
+      "licence": "Public domain",
+      "attribution": "Matthew Rolston; Distributed by Epic Records",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Michael_Jackson_1983_(3x4_cropped)_(contrast).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Michael Jackson",
+        "url": "https://en.wikipedia.org/wiki/Michael_Jackson"
+      }
+    ]
+  },
+  {
+    "id": "whitney-houston",
+    "displayName": "Whitney Houston",
+    "descriptor": "Singer and actress",
+    "category": "modern-celebrities",
+    "tags": [
+      "music",
+      "film"
+    ],
+    "childrenCount": 1,
+    "countType": "exact",
+    "countingRuleSummary": "One daughter, Bobbi Kristina Brown, is documented.",
+    "explanation": "Whitney Houston had one child.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Whitney_Houston_%28cropped3%29.JPEG/500px-Whitney_Houston_%28cropped3%29.JPEG",
+      "alt": "Portrait of Whitney Houston",
+      "licence": "Public domain",
+      "attribution": "PH2 Mark Kettenhofen",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Whitney_Houston_(cropped3).JPEG"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Whitney Houston",
+        "url": "https://en.wikipedia.org/wiki/Whitney_Houston"
+      }
+    ]
+  },
+  {
+    "id": "bruce-lee",
+    "displayName": "Bruce Lee",
+    "descriptor": "Martial artist and actor",
+    "category": "modern-celebrities",
+    "tags": [
+      "film",
+      "martial-arts"
+    ],
+    "childrenCount": 2,
+    "countType": "exact",
+    "countingRuleSummary": "Two children, Brandon and Shannon, are documented.",
+    "explanation": "Bruce Lee and Linda Lee Cadwell had two children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bruce_Lee_as_Chen_Zhen_%284x5_cropped%29.jpg/500px-Bruce_Lee_as_Chen_Zhen_%284x5_cropped%29.jpg",
+      "alt": "Portrait of Bruce Lee",
+      "licence": "Public domain",
+      "attribution": "National General Pictures",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bruce_Lee_as_Chen_Zhen_(4x5_cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Bruce Lee",
+        "url": "https://en.wikipedia.org/wiki/Bruce_Lee"
+      }
+    ]
+  },
+  {
+    "id": "david-bowie",
+    "displayName": "David Bowie",
+    "descriptor": "Musician and actor",
+    "category": "modern-celebrities",
+    "tags": [
+      "music",
+      "rock"
+    ],
+    "childrenCount": 2,
+    "countType": "exact",
+    "countingRuleSummary": "Two children, Duncan and Alexandria, are documented.",
+    "explanation": "David Bowie had two children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg",
+      "alt": "Portrait of David Bowie",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Adam Bielawski",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — David Bowie",
+        "url": "https://en.wikipedia.org/wiki/David_Bowie"
+      }
+    ]
+  },
+  {
+    "id": "marilyn-monroe",
+    "displayName": "Marilyn Monroe",
+    "descriptor": "Actress and model",
+    "category": "modern-celebrities",
+    "tags": [
+      "film",
+      "actor"
+    ],
+    "childrenCount": 0,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "No children are documented.",
+    "explanation": "Marilyn Monroe had no children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Monroecirca1953.jpg/500px-Monroecirca1953.jpg",
+      "alt": "Portrait of Marilyn Monroe",
+      "licence": "Public domain",
+      "attribution": "Bert Parry",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monroecirca1953.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Marilyn Monroe",
+        "url": "https://en.wikipedia.org/wiki/Marilyn_Monroe"
+      }
+    ]
+  },
+  {
+    "id": "frida-kahlo",
+    "displayName": "Frida Kahlo",
+    "descriptor": "Painter",
+    "category": "modern-celebrities",
+    "tags": [
+      "art",
+      "painting"
+    ],
+    "childrenCount": 0,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "No children are documented.",
+    "explanation": "Frida Kahlo had no children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg/500px-Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg",
+      "alt": "Portrait of Frida Kahlo",
+      "licence": "Public domain",
+      "attribution": "Guillermo Kahlo",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frida_Kahlo,_by_Guillermo_Kahlo.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Frida Kahlo",
+        "url": "https://en.wikipedia.org/wiki/Frida_Kahlo"
+      }
+    ]
+  },
+  {
+    "id": "elvis-presley",
+    "displayName": "Elvis Presley",
+    "descriptor": "Singer and actor",
+    "category": "modern-celebrities",
+    "tags": [
+      "music",
+      "rock-and-roll"
+    ],
+    "childrenCount": 1,
+    "countType": "exact",
+    "countingRuleSummary": "One daughter, Lisa Marie Presley, is documented.",
+    "explanation": "Elvis Presley had one child.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/500px-Elvis_Presley_promoting_Jailhouse_Rock.jpg",
+      "alt": "Portrait of Elvis Presley",
+      "licence": "Public domain",
+      "attribution": "Metro-Goldwyn-Mayer, Inc. Reproduction Number: LC-USZ6-2067 Location: NYWTS -- BIOG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elvis_Presley_promoting_Jailhouse_Rock.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Elvis Presley",
+        "url": "https://en.wikipedia.org/wiki/Elvis_Presley"
+      }
+    ]
+  },
+  {
+    "id": "john-lennon",
+    "displayName": "John Lennon",
+    "descriptor": "Musician",
+    "category": "modern-celebrities",
+    "tags": [
+      "music",
+      "rock"
+    ],
+    "childrenCount": 2,
+    "countType": "exact",
+    "countingRuleSummary": "Two sons, Julian and Sean, are documented.",
+    "explanation": "John Lennon had two children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/500px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg",
+      "alt": "Portrait of John Lennon",
+      "licence": "Public domain",
+      "attribution": "Bob Gruen; Distributed by Capitol Records",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_(color)_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — John Lennon",
+        "url": "https://en.wikipedia.org/wiki/John_Lennon"
+      }
+    ]
+  },
+  {
+    "id": "pablo-picasso",
+    "displayName": "Pablo Picasso",
+    "descriptor": "Painter and sculptor",
+    "category": "modern-celebrities",
+    "tags": [
+      "art",
+      "painting"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "Four children are documented.",
+    "explanation": "Pablo Picasso had four children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pablo_picasso_1.jpg/500px-Pablo_picasso_1.jpg",
+      "alt": "Portrait of Pablo Picasso",
+      "licence": "Public domain",
+      "attribution": "Argentina . Revista Vea y Lea",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pablo_picasso_1.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Pablo Picasso",
+        "url": "https://en.wikipedia.org/wiki/Pablo_Picasso"
+      }
+    ]
+  },
+  {
+    "id": "nelson-mandela",
+    "displayName": "Nelson Mandela",
+    "descriptor": "South African leader",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics",
+      "activist"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "Six children are documented across two marriages.",
+    "explanation": "Nelson Mandela had six children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nelson_Mandela_1994.jpg/500px-Nelson_Mandela_1994.jpg",
+      "alt": "Portrait of Nelson Mandela",
+      "licence": "CC BY-SA 2.0",
+      "attribution": "Kingkongphoto & www.celebrity-photos.com from Laurel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nelson_Mandela_1994.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Nelson Mandela",
+        "url": "https://en.wikipedia.org/wiki/Nelson_Mandela"
+      }
+    ]
+  },
+  {
+    "id": "shakira",
+    "displayName": "Shakira",
+    "descriptor": "Singer and songwriter",
+    "category": "modern-celebrities",
+    "tags": [
+      "music",
+      "pop"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "Two sons are documented.",
+    "explanation": "Shakira has two children.",
+    "confidence": "high",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg/500px-2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg",
+      "alt": "Portrait of Shakira",
+      "licence": "CC BY-SA 2.0",
+      "attribution": "Junta de Andalucía",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2023-11-16_Gala_de_los_Latin_Grammy,_03_(cropped)02.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Shakira",
+        "url": "https://en.wikipedia.org/wiki/Shakira"
+      }
+    ]
+  },
+  {
+    "id": "barack-obama",
+    "displayName": "Barack Obama",
+    "descriptor": "president of the United States from 2009 to 2017",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "2 children are recorded by Wikidata.",
+    "explanation": "Barack Obama has 2 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/500px-President_Barack_Obama.jpg",
+      "alt": "Portrait of Barack Obama",
+      "licence": "Public domain",
+      "attribution": "Official White House Photo by Pete Souza",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Barack Obama",
+        "url": "https://en.wikipedia.org/wiki/Barack_Obama"
+      },
+      {
+        "title": "Wikidata — Barack Obama",
+        "url": "https://www.wikidata.org/entity/Q76"
+      }
+    ]
+  },
+  {
+    "id": "donald-trump",
+    "displayName": "Donald Trump",
+    "descriptor": "American businessman and politician (born 1946), President of the United States",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "5 children are recorded by Wikidata.",
+    "explanation": "Donald Trump has 5 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg/500px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg",
+      "alt": "Portrait of Donald Trump",
+      "licence": "Public domain",
+      "attribution": "Daniel Torok",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025)_(cropped)(2).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Donald Trump",
+        "url": "https://en.wikipedia.org/wiki/Donald_Trump"
+      },
+      {
+        "title": "Wikidata — Donald Trump",
+        "url": "https://www.wikidata.org/entity/Q22686"
+      }
+    ]
+  },
+  {
+    "id": "george-w-bush",
+    "displayName": "George W. Bush",
+    "descriptor": "President of the United States from 2001 to 2009",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "2 children are recorded by Wikidata.",
+    "explanation": "George W. Bush has 2 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/500px-George-W-Bush.jpeg",
+      "alt": "Portrait of George W. Bush",
+      "licence": "Public domain",
+      "attribution": "Eric Draper",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:George-W-Bush.jpeg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — George W. Bush",
+        "url": "https://en.wikipedia.org/wiki/George_W._Bush"
+      },
+      {
+        "title": "Wikidata — George W. Bush",
+        "url": "https://www.wikidata.org/entity/Q207"
+      }
+    ]
+  },
+  {
+    "id": "leo-tolstoy",
+    "displayName": "Leo Tolstoy",
+    "descriptor": "Russian author",
+    "category": "modern-celebrities",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 13,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "13 children are recorded by Wikidata.",
+    "explanation": "Leo Tolstoy has 13 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg/500px-L.N.Tolstoy_Prokudin-Gorsky.jpg",
+      "alt": "Portrait of Leo Tolstoy",
+      "licence": "Public domain",
+      "attribution": "Sergei Prokudin-Gorskii",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:L.N.Tolstoy_Prokudin-Gorsky.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Leo Tolstoy",
+        "url": "https://en.wikipedia.org/wiki/Leo_Tolstoy"
+      },
+      {
+        "title": "Wikidata — Leo Tolstoy",
+        "url": "https://www.wikidata.org/entity/Q7243"
+      }
+    ]
+  },
+  {
+    "id": "joe-biden",
+    "displayName": "Joe Biden",
+    "descriptor": "46th President of the United States",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "4 children are recorded by Wikidata.",
+    "explanation": "Joe Biden has 4 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/500px-Joe_Biden_presidential_portrait.jpg",
+      "alt": "Portrait of Joe Biden",
+      "licence": "Public domain",
+      "attribution": "Adam Schultz",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Joe Biden",
+        "url": "https://en.wikipedia.org/wiki/Joe_Biden"
+      },
+      {
+        "title": "Wikidata — Joe Biden",
+        "url": "https://www.wikidata.org/entity/Q6279"
+      }
+    ]
+  },
+  {
+    "id": "john-f-kennedy",
+    "displayName": "John F. Kennedy",
+    "descriptor": "president of the United States from 1961 to 1963",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "4 children are recorded by Wikidata.",
+    "explanation": "John F. Kennedy has 4 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/500px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+      "alt": "Portrait of John F. Kennedy",
+      "licence": "Public domain",
+      "attribution": "Cecil W. Stoughton",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_F._Kennedy,_White_House_color_photo_portrait.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — John F. Kennedy",
+        "url": "https://en.wikipedia.org/wiki/John_F._Kennedy"
+      },
+      {
+        "title": "Wikidata — John F. Kennedy",
+        "url": "https://www.wikidata.org/entity/Q9696"
+      }
+    ]
+  },
+  {
+    "id": "franklin-delano-roosevelt",
+    "displayName": "Franklin Delano Roosevelt",
+    "descriptor": "president of the United States from 1933 to 1945",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "6 children are recorded by Wikidata.",
+    "explanation": "Franklin Delano Roosevelt has 6 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/500px-FDR_1944_Color_Portrait.jpg",
+      "alt": "Portrait of Franklin Delano Roosevelt",
+      "licence": "CC BY 2.0",
+      "attribution": "Leon Perskie",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:FDR_1944_Color_Portrait.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Franklin Delano Roosevelt",
+        "url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+      },
+      {
+        "title": "Wikidata — Franklin Delano Roosevelt",
+        "url": "https://www.wikidata.org/entity/Q8007"
+      }
+    ]
+  },
+  {
+    "id": "bill-gates",
+    "displayName": "Bill Gates",
+    "descriptor": "American businessman, investor, and philanthropist",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "3 children are recorded by Wikidata.",
+    "explanation": "Bill Gates has 3 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bill_Gates_at_the_European_Commission_-_2025_-_P067383-987995_%28cropped%29.jpg/500px-Bill_Gates_at_the_European_Commission_-_2025_-_P067383-987995_%28cropped%29.jpg",
+      "alt": "Portrait of Bill Gates",
+      "licence": "CC BY 4.0",
+      "attribution": "Bogdan Hoyaux / European Union",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bill_Gates_at_the_European_Commission_-_2025_-_P067383-987995_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Bill Gates",
+        "url": "https://en.wikipedia.org/wiki/Bill_Gates"
+      },
+      {
+        "title": "Wikidata — Bill Gates",
+        "url": "https://www.wikidata.org/entity/Q5284"
+      }
+    ]
+  },
+  {
+    "id": "mao-zedong",
+    "displayName": "Mao Zedong",
+    "descriptor": "1st chairman of the Chinese Communist Party and founder of the People's Republic of China",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 10,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "10 children are recorded by Wikidata.",
+    "explanation": "Mao Zedong has 10 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mao_Tse_Tung.jpg/500px-Mao_Tse_Tung.jpg",
+      "alt": "Portrait of Mao Zedong",
+      "licence": "Public domain",
+      "attribution": "Chen Zhengqing (1917–1966)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mao_Tse_Tung.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Mao Zedong",
+        "url": "https://en.wikipedia.org/wiki/Mao_Zedong"
+      },
+      {
+        "title": "Wikidata — Mao Zedong",
+        "url": "https://www.wikidata.org/entity/Q5816"
+      }
+    ]
+  },
+  {
+    "id": "che-guevara",
+    "displayName": "Che Guevara",
+    "descriptor": "Argentine Marxist revolutionary",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "5 children are recorded by Wikidata.",
+    "explanation": "Che Guevara has 5 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg/500px-Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg",
+      "alt": "Portrait of Che Guevara",
+      "licence": "Public domain",
+      "attribution": "Alberto Korda, restored by Adam Cuerden",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Che Guevara",
+        "url": "https://en.wikipedia.org/wiki/Che_Guevara"
+      },
+      {
+        "title": "Wikidata — Che Guevara",
+        "url": "https://www.wikidata.org/entity/Q5809"
+      }
+    ]
+  },
+  {
+    "id": "lionel-messi",
+    "displayName": "Lionel Messi",
+    "descriptor": "Argentine association football player",
+    "category": "modern-celebrities",
+    "tags": [
+      "sport"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "3 children are recorded by Wikidata.",
+    "explanation": "Lionel Messi has 3 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/500px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+      "alt": "Portrait of Lionel Messi",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Bryan Berlin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Lionel Messi",
+        "url": "https://en.wikipedia.org/wiki/Lionel_Messi"
+      },
+      {
+        "title": "Wikidata — Lionel Messi",
+        "url": "https://www.wikidata.org/entity/Q615"
+      }
+    ]
+  },
+  {
+    "id": "bill-clinton",
+    "displayName": "Bill Clinton",
+    "descriptor": "President of the United States from 1993 to 2001",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "1 child is recorded by Wikidata.",
+    "explanation": "Bill Clinton has 1 child in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/500px-Bill_Clinton.jpg",
+      "alt": "Portrait of Bill Clinton",
+      "licence": "Public domain",
+      "attribution": "Bob McNeely, The White House [ 1 ]",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bill_Clinton.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Bill Clinton",
+        "url": "https://en.wikipedia.org/wiki/Bill_Clinton"
+      },
+      {
+        "title": "Wikidata — Bill Clinton",
+        "url": "https://www.wikidata.org/entity/Q1124"
+      }
+    ]
+  },
+  {
+    "id": "volodymyr-zelenskyy",
+    "displayName": "Volodymyr Zelenskyy",
+    "descriptor": "President of Ukraine since 2019",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "2 children are recorded by Wikidata.",
+    "explanation": "Volodymyr Zelenskyy has 2 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%2831-12-2023%29.jpg/500px-%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%2831-12-2023%29.jpg",
+      "alt": "Portrait of Volodymyr Zelenskyy",
+      "licence": "CC0",
+      "attribution": "President.gov.ua",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_(31-12-2023).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Volodymyr Zelenskyy",
+        "url": "https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy"
+      },
+      {
+        "title": "Wikidata — Volodymyr Zelenskyy",
+        "url": "https://www.wikidata.org/entity/Q3874799"
+      }
+    ]
+  },
+  {
+    "id": "cristiano-ronaldo",
+    "displayName": "Cristiano Ronaldo",
+    "descriptor": "Portuguese association football player",
+    "category": "modern-celebrities",
+    "tags": [
+      "sport"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "6 children are recorded by Wikidata.",
+    "explanation": "Cristiano Ronaldo has 6 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/500px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg",
+      "alt": "Portrait of Cristiano Ronaldo",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Bryan Berlin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Cristiano Ronaldo",
+        "url": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo"
+      },
+      {
+        "title": "Wikidata — Cristiano Ronaldo",
+        "url": "https://www.wikidata.org/entity/Q11571"
+      }
+    ]
+  },
+  {
+    "id": "j-r-r-tolkien",
+    "displayName": "J. R. R. Tolkien",
+    "descriptor": "English writer and philologist",
+    "category": "modern-celebrities",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "4 children are recorded by Wikidata.",
+    "explanation": "J. R. R. Tolkien has 4 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/J._R._R._Tolkien%2C_ca._1925.jpg/500px-J._R._R._Tolkien%2C_ca._1925.jpg",
+      "alt": "Portrait of J. R. R. Tolkien",
+      "licence": "Public domain",
+      "attribution": "Unknown photo studio commissioned by Tolkien's students 1925/6 (private communication from Catherine McIlwaine, Tolkien Archivist, Bodleian Library)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:J._R._R._Tolkien,_ca._1925.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — J. R. R. Tolkien",
+        "url": "https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+      },
+      {
+        "title": "Wikidata — J. R. R. Tolkien",
+        "url": "https://www.wikidata.org/entity/Q892"
+      }
+    ]
+  },
+  {
+    "id": "mikhail-gorbachev",
+    "displayName": "Mikhail Gorbachev",
+    "descriptor": "leader of the Soviet Union from 1985 to 1991",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "1 child is recorded by Wikidata.",
+    "explanation": "Mikhail Gorbachev has 1 child in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/GorbachevMS.jpg/500px-GorbachevMS.jpg",
+      "alt": "Portrait of Mikhail Gorbachev",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Leo Medvedev/Лев Леонидович Медведев",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:GorbachevMS.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Mikhail Gorbachev",
+        "url": "https://en.wikipedia.org/wiki/Mikhail_Gorbachev"
+      },
+      {
+        "title": "Wikidata — Mikhail Gorbachev",
+        "url": "https://www.wikidata.org/entity/Q30487"
+      }
+    ]
+  },
+  {
+    "id": "elon-musk",
+    "displayName": "Elon Musk",
+    "descriptor": "American businessman",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 14,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "14 children are recorded by Wikidata.",
+    "explanation": "Elon Musk has 14 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg/500px-Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg",
+      "alt": "Portrait of Elon Musk",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Gage Skidmore",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elon_Musk_(54816836217)_(cropped_2)_(b).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Elon Musk",
+        "url": "https://en.wikipedia.org/wiki/Elon_Musk"
+      },
+      {
+        "title": "Wikidata — Elon Musk",
+        "url": "https://www.wikidata.org/entity/Q317521"
+      }
+    ]
+  },
+  {
+    "id": "jimmy-carter",
+    "displayName": "Jimmy Carter",
+    "descriptor": "president of the United States from 1977 to 1981",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "4 children are recorded by Wikidata.",
+    "explanation": "Jimmy Carter has 4 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/JimmyCarterPortrait2.jpg/500px-JimmyCarterPortrait2.jpg",
+      "alt": "Portrait of Jimmy Carter",
+      "licence": "Public domain",
+      "attribution": "Department of Defense. Department of the Navy. Naval Photographic Center",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:JimmyCarterPortrait2.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Jimmy Carter",
+        "url": "https://en.wikipedia.org/wiki/Jimmy_Carter"
+      },
+      {
+        "title": "Wikidata — Jimmy Carter",
+        "url": "https://www.wikidata.org/entity/Q23685"
+      }
+    ]
+  },
+  {
+    "id": "hillary-clinton",
+    "displayName": "Hillary Clinton",
+    "descriptor": "American politician and diplomat",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "1 child is recorded by Wikidata.",
+    "explanation": "Hillary Clinton has 1 child in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg/500px-Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg",
+      "alt": "Portrait of Hillary Clinton",
+      "licence": "Public domain",
+      "attribution": "United States Department of State",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hillary_Clinton_official_Secretary_of_State_portrait_crop.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Hillary Clinton",
+        "url": "https://en.wikipedia.org/wiki/Hillary_Clinton"
+      },
+      {
+        "title": "Wikidata — Hillary Clinton",
+        "url": "https://www.wikidata.org/entity/Q6294"
+      }
+    ]
+  },
+  {
+    "id": "harry-s-truman",
+    "displayName": "Harry S. Truman",
+    "descriptor": "president of the United States from 1945 to 1953; politician",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "1 child is recorded by Wikidata.",
+    "explanation": "Harry S. Truman has 1 child in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/500px-TRUMAN_58-766-06_%28cropped%29.jpg",
+      "alt": "Portrait of Harry S. Truman",
+      "licence": "Public domain",
+      "attribution": "National Archives and Records Administration. Office of Presidential Libraries. Harry S. Truman Library.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TRUMAN_58-766-06_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Harry S. Truman",
+        "url": "https://en.wikipedia.org/wiki/Harry_S._Truman"
+      },
+      {
+        "title": "Wikidata — Harry S. Truman",
+        "url": "https://www.wikidata.org/entity/Q11613"
+      }
+    ]
+  },
+  {
+    "id": "george-h-w-bush",
+    "displayName": "George H. W. Bush",
+    "descriptor": "president of the United States from 1989 to 1993",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "6 children are recorded by Wikidata.",
+    "explanation": "George H. W. Bush has 6 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg/500px-George_H._W._Bush_presidential_portrait_%28cropped%29.jpg",
+      "alt": "Portrait of George H. W. Bush",
+      "licence": "Public domain",
+      "attribution": "David Valdez",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:George_H._W._Bush_presidential_portrait_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — George H. W. Bush",
+        "url": "https://en.wikipedia.org/wiki/George_H._W._Bush"
+      },
+      {
+        "title": "Wikidata — George H. W. Bush",
+        "url": "https://www.wikidata.org/entity/Q23505"
+      }
+    ]
+  },
+  {
+    "id": "nicolas-sarkozy",
+    "displayName": "Nicolas Sarkozy",
+    "descriptor": "23rd president of the French Republic from 2007 to 2012",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "4 children are recorded by Wikidata.",
+    "explanation": "Nicolas Sarkozy has 4 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Nicolas_Sarkozy_in_2010.jpg/500px-Nicolas_Sarkozy_in_2010.jpg",
+      "alt": "Portrait of Nicolas Sarkozy",
+      "licence": "CC BY 2.0",
+      "attribution": "European People's Party",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nicolas_Sarkozy_in_2010.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Nicolas Sarkozy",
+        "url": "https://en.wikipedia.org/wiki/Nicolas_Sarkozy"
+      },
+      {
+        "title": "Wikidata — Nicolas Sarkozy",
+        "url": "https://www.wikidata.org/entity/Q329"
+      }
+    ]
+  },
+  {
+    "id": "pyotr-ilyich-tchaikovsky",
+    "displayName": "Pyotr Ilyich Tchaikovsky",
+    "descriptor": "Russian composer",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 0,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "0 children are recorded by Wikidata.",
+    "explanation": "Pyotr Ilyich Tchaikovsky has 0 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_%281840-1893%29.jpg/500px-Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_%281840-1893%29.jpg",
+      "alt": "Portrait of Pyotr Ilyich Tchaikovsky",
+      "licence": "Public domain",
+      "attribution": "Nikolai Kuznetsov",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_(1840-1893).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Pyotr Ilyich Tchaikovsky",
+        "url": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky"
+      },
+      {
+        "title": "Wikidata — Pyotr Ilyich Tchaikovsky",
+        "url": "https://www.wikidata.org/entity/Q7315"
+      }
+    ]
+  },
+  {
+    "id": "kamala-harris",
+    "displayName": "Kamala Harris",
+    "descriptor": "Vice President of the United States from 2021 to 2025",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 0,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "0 children are recorded by Wikidata.",
+    "explanation": "Kamala Harris has 0 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kamala_Harris_Vice_Presidential_Portrait.jpg/500px-Kamala_Harris_Vice_Presidential_Portrait.jpg",
+      "alt": "Portrait of Kamala Harris",
+      "licence": "Public domain",
+      "attribution": "Lawrence Jackson",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kamala_Harris_Vice_Presidential_Portrait.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Kamala Harris",
+        "url": "https://en.wikipedia.org/wiki/Kamala_Harris"
+      },
+      {
+        "title": "Wikidata — Kamala Harris",
+        "url": "https://www.wikidata.org/entity/Q10853588"
+      }
+    ]
+  },
+  {
+    "id": "madonna",
+    "displayName": "Madonna",
+    "descriptor": "American singer, songwriter, and actress",
+    "category": "modern-celebrities",
+    "tags": [
+      "music"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "6 children are recorded by Wikidata.",
+    "explanation": "Madonna has 6 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Madonna_Rebel_Heart_Tour_2015_-_Stockholm_%2823051472299%29_%28cropped%29.jpg/500px-Madonna_Rebel_Heart_Tour_2015_-_Stockholm_%2823051472299%29_%28cropped%29.jpg",
+      "alt": "Portrait of Madonna",
+      "licence": "CC BY-SA 2.0",
+      "attribution": "chrisweger",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madonna_Rebel_Heart_Tour_2015_-_Stockholm_(23051472299)_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Madonna",
+        "url": "https://en.wikipedia.org/wiki/Madonna"
+      },
+      {
+        "title": "Wikidata — Madonna",
+        "url": "https://www.wikidata.org/entity/Q1744"
+      }
+    ]
+  },
+  {
+    "id": "dwight-d-eisenhower",
+    "displayName": "Dwight D. Eisenhower",
+    "descriptor": "president of the United States from 1953 to 1961",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "2 children are recorded by Wikidata.",
+    "explanation": "Dwight D. Eisenhower has 2 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/500px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg",
+      "alt": "Portrait of Dwight D. Eisenhower",
+      "licence": "Public domain",
+      "attribution": "White House",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Dwight D. Eisenhower",
+        "url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
+      },
+      {
+        "title": "Wikidata — Dwight D. Eisenhower",
+        "url": "https://www.wikidata.org/entity/Q9916"
+      }
+    ]
+  },
+  {
+    "id": "richard-nixon",
+    "displayName": "Richard Nixon",
+    "descriptor": "president of the United States from 1969 to 1974",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "3 children are recorded by Wikidata.",
+    "explanation": "Richard Nixon has 3 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Richard_Nixon_presidential_portrait.jpg/500px-Richard_Nixon_presidential_portrait.jpg",
+      "alt": "Portrait of Richard Nixon",
+      "licence": "Public domain",
+      "attribution": "Department of Defense. Department of the Army. Office of the Deputy Chief of Staff for Operations. U.S. Army Audiovisual Center. (ca. 1974 - 05/15/1984)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Richard_Nixon_presidential_portrait.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Richard Nixon",
+        "url": "https://en.wikipedia.org/wiki/Richard_Nixon"
+      },
+      {
+        "title": "Wikidata — Richard Nixon",
+        "url": "https://www.wikidata.org/entity/Q9588"
+      }
+    ]
+  },
+  {
+    "id": "woodrow-wilson",
+    "displayName": "Woodrow Wilson",
+    "descriptor": "president of the United States from 1913 to 1921",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "3 children are recorded by Wikidata.",
+    "explanation": "Woodrow Wilson has 3 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg/500px-Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg",
+      "alt": "Portrait of Woodrow Wilson",
+      "licence": "Public domain",
+      "attribution": "Harris & Ewing",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thomas_Woodrow_Wilson,_Harris_%26_Ewing_bw_photo_portrait,_1919.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Woodrow Wilson",
+        "url": "https://en.wikipedia.org/wiki/Woodrow_Wilson"
+      },
+      {
+        "title": "Wikidata — Woodrow Wilson",
+        "url": "https://www.wikidata.org/entity/Q34296"
+      }
+    ]
+  },
+  {
+    "id": "noam-chomsky",
+    "displayName": "Noam Chomsky",
+    "descriptor": "American linguist and activist",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "3 children are recorded by Wikidata.",
+    "explanation": "Noam Chomsky has 3 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Noam_Chomsky_portrait_2015.jpg/500px-Noam_Chomsky_portrait_2015.jpg",
+      "alt": "Portrait of Noam Chomsky",
+      "licence": "CC BY-SA 2.0",
+      "attribution": "Augusto Starita / Ministerio de Cultura de la Nación",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noam_Chomsky_portrait_2015.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Noam Chomsky",
+        "url": "https://en.wikipedia.org/wiki/Noam_Chomsky"
+      },
+      {
+        "title": "Wikidata — Noam Chomsky",
+        "url": "https://www.wikidata.org/entity/Q9049"
+      }
+    ]
+  },
+  {
+    "id": "hugo-chavez",
+    "displayName": "Hugo Chávez",
+    "descriptor": "Venezuelan politician, 56th president of Venezuela",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "6 children are recorded by Wikidata.",
+    "explanation": "Hugo Chávez has 6 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hugo_Ch%C3%A1vez_in_Bras%C3%ADlia_2011_%283x4_cropped%29_%282%29.jpg/500px-Hugo_Ch%C3%A1vez_in_Bras%C3%ADlia_2011_%283x4_cropped%29_%282%29.jpg",
+      "alt": "Portrait of Hugo Chávez",
+      "licence": "CC BY-SA 2.0",
+      "attribution": "Office of the President of Brazil",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hugo_Ch%C3%A1vez_in_Bras%C3%ADlia_2011_(3x4_cropped)_(2).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Hugo Chávez",
+        "url": "https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez"
+      },
+      {
+        "title": "Wikidata — Hugo Chávez",
+        "url": "https://www.wikidata.org/entity/Q8440"
+      }
+    ]
+  },
+  {
+    "id": "justin-bieber",
+    "displayName": "Justin Bieber",
+    "descriptor": "Canadian singer-songwriter",
+    "category": "modern-celebrities",
+    "tags": [
+      "music"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "1 child is recorded by Wikidata.",
+    "explanation": "Justin Bieber has 1 child in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Justin_Bieber_in_2015.jpg/500px-Justin_Bieber_in_2015.jpg",
+      "alt": "Portrait of Justin Bieber",
+      "licence": "CC BY 2.0",
+      "attribution": "Lou Stejskal",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Justin_Bieber_in_2015.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Justin Bieber",
+        "url": "https://en.wikipedia.org/wiki/Justin_Bieber"
+      },
+      {
+        "title": "Wikidata — Justin Bieber",
+        "url": "https://www.wikidata.org/entity/Q34086"
+      }
+    ]
+  },
+  {
+    "id": "giuseppe-verdi",
+    "displayName": "Giuseppe Verdi",
+    "descriptor": "Italian opera composer",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "2 children are recorded by Wikidata.",
+    "explanation": "Giuseppe Verdi has 2 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Giuseppi_Verdi_by_Ferdinand_Mulnier_c1870.jpg/500px-Giuseppi_Verdi_by_Ferdinand_Mulnier_c1870.jpg",
+      "alt": "Portrait of Giuseppe Verdi",
+      "licence": "Public domain",
+      "attribution": "Ferdinand Mulnier",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giuseppi_Verdi_by_Ferdinand_Mulnier_c1870.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Giuseppe Verdi",
+        "url": "https://en.wikipedia.org/wiki/Giuseppe_Verdi"
+      },
+      {
+        "title": "Wikidata — Giuseppe Verdi",
+        "url": "https://www.wikidata.org/entity/Q7317"
+      }
+    ]
+  },
+  {
+    "id": "kofi-annan",
+    "displayName": "Kofi Annan",
+    "descriptor": "7th Secretary-General of the United Nations",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "3 children are recorded by Wikidata.",
+    "explanation": "Kofi Annan has 3 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kofi_Annan_2012_%28cropped%29.jpg/500px-Kofi_Annan_2012_%28cropped%29.jpg",
+      "alt": "Portrait of Kofi Annan",
+      "licence": "Public domain",
+      "attribution": "US Mission in Geneva",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kofi_Annan_2012_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Kofi Annan",
+        "url": "https://en.wikipedia.org/wiki/Kofi_Annan"
+      },
+      {
+        "title": "Wikidata — Kofi Annan",
+        "url": "https://www.wikidata.org/entity/Q1254"
+      }
+    ]
+  },
+  {
+    "id": "osama-bin-laden",
+    "displayName": "Osama bin Laden",
+    "descriptor": "Saudi terrorist and co-founder of al-Qaeda",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 26,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "26 children are recorded by Wikidata.",
+    "explanation": "Osama bin Laden has 26 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Osama_bin_Laden_portrait.jpg",
+      "alt": "Portrait of Osama bin Laden",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Hamid Mir",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Osama_bin_Laden_portrait.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Osama bin Laden",
+        "url": "https://en.wikipedia.org/wiki/Osama_bin_Laden"
+      },
+      {
+        "title": "Wikidata — Osama bin Laden",
+        "url": "https://www.wikidata.org/entity/Q1317"
+      }
+    ]
+  },
+  {
+    "id": "eminem",
+    "displayName": "Eminem",
+    "descriptor": "American rapper, record producer and actor",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "3 children are recorded by Wikidata.",
+    "explanation": "Eminem has 3 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eminem_2021_Color_Corrected.jpg/500px-Eminem_2021_Color_Corrected.jpg",
+      "alt": "Portrait of Eminem",
+      "licence": "CC0",
+      "attribution": "Brendan_linden",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eminem_2021_Color_Corrected.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Eminem",
+        "url": "https://en.wikipedia.org/wiki/Eminem"
+      },
+      {
+        "title": "Wikidata — Eminem",
+        "url": "https://www.wikidata.org/entity/Q5608"
+      }
+    ]
+  },
+  {
+    "id": "gerald-ford",
+    "displayName": "Gerald Ford",
+    "descriptor": "president of the United States from 1974 to 1977",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "4 children are recorded by Wikidata.",
+    "explanation": "Gerald Ford has 4 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gerald_Ford_presidential_portrait_%28cropped%29.jpg/500px-Gerald_Ford_presidential_portrait_%28cropped%29.jpg",
+      "alt": "Portrait of Gerald Ford",
+      "licence": "Public domain",
+      "attribution": "David Hume Kennerly",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gerald_Ford_presidential_portrait_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Gerald Ford",
+        "url": "https://en.wikipedia.org/wiki/Gerald_Ford"
+      },
+      {
+        "title": "Wikidata — Gerald Ford",
+        "url": "https://www.wikidata.org/entity/Q9582"
+      }
+    ]
+  },
+  {
+    "id": "lyndon-b-johnson",
+    "displayName": "Lyndon B. Johnson",
+    "descriptor": "president of the United States from 1963 to 1969",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "2 children are recorded by Wikidata.",
+    "explanation": "Lyndon B. Johnson has 2 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lyndon_B._Johnson%2C_photo_portrait%2C_leaning_on_chair%2C_color_cropped.jpg/500px-Lyndon_B._Johnson%2C_photo_portrait%2C_leaning_on_chair%2C_color_cropped.jpg",
+      "alt": "Portrait of Lyndon B. Johnson",
+      "licence": "Public domain",
+      "attribution": "Arnold Newman",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lyndon_B._Johnson,_photo_portrait,_leaning_on_chair,_color_cropped.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Lyndon B. Johnson",
+        "url": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson"
+      },
+      {
+        "title": "Wikidata — Lyndon B. Johnson",
+        "url": "https://www.wikidata.org/entity/Q9640"
+      }
+    ]
+  },
+  {
+    "id": "charles-iii",
+    "displayName": "Charles III",
+    "descriptor": "King of the United Kingdom since 2022",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "2 children are recorded by Wikidata.",
+    "explanation": "Charles III has 2 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/King_Charles_III_%28July_2023%29.jpg/500px-King_Charles_III_%28July_2023%29.jpg",
+      "alt": "Portrait of Charles III",
+      "licence": "Public domain",
+      "attribution": "White House",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_Charles_III_(July_2023).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Charles III",
+        "url": "https://en.wikipedia.org/wiki/Charles_III"
+      },
+      {
+        "title": "Wikidata — Charles III",
+        "url": "https://www.wikidata.org/entity/Q43274"
+      }
+    ]
+  },
+  {
+    "id": "akira-kurosawa",
+    "displayName": "Akira Kurosawa",
+    "descriptor": "Japanese filmmaker",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "2 children are recorded by Wikidata.",
+    "explanation": "Akira Kurosawa has 2 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Akirakurosawa-onthesetof7samurai-1953-page88.jpg/500px-Akirakurosawa-onthesetof7samurai-1953-page88.jpg",
+      "alt": "Portrait of Akira Kurosawa",
+      "licence": "Public domain",
+      "attribution": "映画の友 (Eiga no tomo)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akirakurosawa-onthesetof7samurai-1953-page88.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Akira Kurosawa",
+        "url": "https://en.wikipedia.org/wiki/Akira_Kurosawa"
+      },
+      {
+        "title": "Wikidata — Akira Kurosawa",
+        "url": "https://www.wikidata.org/entity/Q8006"
+      }
+    ]
+  },
+  {
+    "id": "beyonce",
+    "displayName": "Beyoncé",
+    "descriptor": "American singer, songwriter, record producer, and dancer",
+    "category": "modern-celebrities",
+    "tags": [
+      "music"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "3 children are recorded by Wikidata.",
+    "explanation": "Beyoncé has 3 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_%2810_of_118%29_%2852946364598%29_%28best_crop%29.jpg/500px-Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_%2810_of_118%29_%2852946364598%29_%28best_crop%29.jpg",
+      "alt": "Portrait of Beyoncé",
+      "licence": "CC BY 2.0",
+      "attribution": "Raph_PH",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_(10_of_118)_(52946364598)_(best_crop).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Beyoncé",
+        "url": "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
+      },
+      {
+        "title": "Wikidata — Beyoncé",
+        "url": "https://www.wikidata.org/entity/Q36153"
+      }
+    ]
+  },
+  {
+    "id": "narendra-modi",
+    "displayName": "Narendra Modi",
+    "descriptor": "Prime Minister of India since 2014",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 0,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "0 children are recorded by Wikidata.",
+    "explanation": "Narendra Modi has 0 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg/500px-Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg",
+      "alt": "Portrait of Narendra Modi",
+      "licence": "GODL-India",
+      "attribution": "Prime Minister's Office",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Narendra Modi",
+        "url": "https://en.wikipedia.org/wiki/Narendra_Modi"
+      },
+      {
+        "title": "Wikidata — Narendra Modi",
+        "url": "https://www.wikidata.org/entity/Q1058"
+      }
+    ]
+  },
+  {
+    "id": "angelina-jolie",
+    "displayName": "Angelina Jolie",
+    "descriptor": "American actress, humanitarian and filmmaker",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "6 children are recorded by Wikidata.",
+    "explanation": "Angelina Jolie has 6 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Angelina_Jolie-643531_%28cropped%29.jpg/500px-Angelina_Jolie-643531_%28cropped%29.jpg",
+      "alt": "Portrait of Angelina Jolie",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Harald Krichel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angelina_Jolie-643531_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Angelina Jolie",
+        "url": "https://en.wikipedia.org/wiki/Angelina_Jolie"
+      },
+      {
+        "title": "Wikidata — Angelina Jolie",
+        "url": "https://www.wikidata.org/entity/Q13909"
+      }
+    ]
+  },
+  {
+    "id": "aung-san-suu-kyi",
+    "displayName": "Aung San Suu Kyi",
+    "descriptor": "former State Counsellor of Myanmar and Leader of the National League for Democracy",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "2 children are recorded by Wikidata.",
+    "explanation": "Aung San Suu Kyi has 2 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Aung_San_Suu_Kyi_at_the_Enthronement_of_Naruhito_%281%29.jpg",
+      "alt": "Portrait of Aung San Suu Kyi",
+      "licence": "CC BY 4.0",
+      "attribution": "Cabinet Public Relations Office of the Cabinet Secretariat",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aung_San_Suu_Kyi_at_the_Enthronement_of_Naruhito_(1).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Aung San Suu Kyi",
+        "url": "https://en.wikipedia.org/wiki/Aung_San_Suu_Kyi"
+      },
+      {
+        "title": "Wikidata — Aung San Suu Kyi",
+        "url": "https://www.wikidata.org/entity/Q36740"
+      }
+    ]
+  },
+  {
+    "id": "steven-spielberg",
+    "displayName": "Steven Spielberg",
+    "descriptor": "American filmmaker",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 7,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "7 children are recorded by Wikidata.",
+    "explanation": "Steven Spielberg has 7 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Steven_Spielberg_2025.jpg/500px-Steven_Spielberg_2025.jpg",
+      "alt": "Portrait of Steven Spielberg",
+      "licence": "CC BY 4.0",
+      "attribution": "Raph_PH",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steven_Spielberg_2025.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Steven Spielberg",
+        "url": "https://en.wikipedia.org/wiki/Steven_Spielberg"
+      },
+      {
+        "title": "Wikidata — Steven Spielberg",
+        "url": "https://www.wikidata.org/entity/Q8877"
+      }
+    ]
+  },
+  {
+    "id": "celine-dion",
+    "displayName": "Céline Dion",
+    "descriptor": "French Canadian singer",
+    "category": "modern-celebrities",
+    "tags": [
+      "music"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "3 children are recorded by Wikidata.",
+    "explanation": "Céline Dion has 3 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/C%C3%A9line_Dion_2012.jpg/500px-C%C3%A9line_Dion_2012.jpg",
+      "alt": "Portrait of Céline Dion",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Georges Biard",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:C%C3%A9line_Dion_2012.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Céline Dion",
+        "url": "https://en.wikipedia.org/wiki/Celine_Dion"
+      },
+      {
+        "title": "Wikidata — Céline Dion",
+        "url": "https://www.wikidata.org/entity/Q5105"
+      }
+    ]
+  },
+  {
+    "id": "roger-federer",
+    "displayName": "Roger Federer",
+    "descriptor": "Swiss tennis player",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "4 children are recorded by Wikidata.",
+    "explanation": "Roger Federer has 4 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Federer_WM16_%2837%29_%2828136155830%29.jpg/500px-Federer_WM16_%2837%29_%2828136155830%29.jpg",
+      "alt": "Portrait of Roger Federer",
+      "licence": "CC BY-SA 2.0",
+      "attribution": "si.robi",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Federer_WM16_(37)_(28136155830).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Roger Federer",
+        "url": "https://en.wikipedia.org/wiki/Roger_Federer"
+      },
+      {
+        "title": "Wikidata — Roger Federer",
+        "url": "https://www.wikidata.org/entity/Q1426"
+      }
+    ]
+  },
+  {
+    "id": "marlon-brando",
+    "displayName": "Marlon Brando",
+    "descriptor": "American actor",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 11,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "11 children are recorded by Wikidata.",
+    "explanation": "Marlon Brando has 11 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Marlon_Brando_publicity_for_One-Eyed_Jacks.png/500px-Marlon_Brando_publicity_for_One-Eyed_Jacks.png",
+      "alt": "Portrait of Marlon Brando",
+      "licence": "Public domain",
+      "attribution": "None visible/Paramount Pictures",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marlon_Brando_publicity_for_One-Eyed_Jacks.png"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Marlon Brando",
+        "url": "https://en.wikipedia.org/wiki/Marlon_Brando"
+      },
+      {
+        "title": "Wikidata — Marlon Brando",
+        "url": "https://www.wikidata.org/entity/Q34012"
+      }
+    ]
+  },
+  {
+    "id": "rihanna",
+    "displayName": "Rihanna",
+    "descriptor": "Barbadian singer",
+    "category": "modern-celebrities",
+    "tags": [
+      "music"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "3 children are recorded by Wikidata.",
+    "explanation": "Rihanna has 3 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Rihanna_visits_U.S._Embassy_in_Barbados_2024_%28cropped%29.jpg",
+      "alt": "Portrait of Rihanna",
+      "licence": "Public domain",
+      "attribution": "U.S. Embassy Bridgetown",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rihanna_visits_U.S._Embassy_in_Barbados_2024_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Rihanna",
+        "url": "https://en.wikipedia.org/wiki/Rihanna"
+      },
+      {
+        "title": "Wikidata — Rihanna",
+        "url": "https://www.wikidata.org/entity/Q36844"
+      }
+    ]
+  },
+  {
+    "id": "arnold-schwarzenegger",
+    "displayName": "Arnold Schwarzenegger",
+    "descriptor": "Austrian and American actor, bodybuilder, and politician",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "5 children are recorded by Wikidata.",
+    "explanation": "Arnold Schwarzenegger has 5 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Arnold_Schwarzenegger_2025_%28cropped%29.jpg/500px-Arnold_Schwarzenegger_2025_%28cropped%29.jpg",
+      "alt": "Portrait of Arnold Schwarzenegger",
+      "licence": "Public domain",
+      "attribution": "DHSgov",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arnold_Schwarzenegger_2025_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Arnold Schwarzenegger",
+        "url": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger"
+      },
+      {
+        "title": "Wikidata — Arnold Schwarzenegger",
+        "url": "https://www.wikidata.org/entity/Q2685"
+      }
+    ]
+  },
+  {
+    "id": "brad-pitt",
+    "displayName": "Brad Pitt",
+    "descriptor": "American actor",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "6 children are recorded by Wikidata.",
+    "explanation": "Brad Pitt has 6 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brad_Pitt-69858.jpg/500px-Brad_Pitt-69858.jpg",
+      "alt": "Portrait of Brad Pitt",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Harald Krichel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brad_Pitt-69858.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Brad Pitt",
+        "url": "https://en.wikipedia.org/wiki/Brad_Pitt"
+      },
+      {
+        "title": "Wikidata — Brad Pitt",
+        "url": "https://www.wikidata.org/entity/Q35332"
+      }
+    ]
+  },
+  {
+    "id": "johnny-depp",
+    "displayName": "Johnny Depp",
+    "descriptor": "American actor",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "2 children are recorded by Wikidata.",
+    "explanation": "Johnny Depp has 2 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Johnny_Depp_2020.jpg",
+      "alt": "Portrait of Johnny Depp",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Harald Krichel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Johnny_Depp_2020.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Johnny Depp",
+        "url": "https://en.wikipedia.org/wiki/Johnny_Depp"
+      },
+      {
+        "title": "Wikidata — Johnny Depp",
+        "url": "https://www.wikidata.org/entity/Q37175"
+      }
+    ]
+  },
+  {
+    "id": "robert-de-niro",
+    "displayName": "Robert De Niro",
+    "descriptor": "American actor",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 7,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "7 children are recorded by Wikidata.",
+    "explanation": "Robert De Niro has 7 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Robert_de_Niro_Cannes_Film_Festival_%283x4_cropped%29.jpg/500px-Robert_de_Niro_Cannes_Film_Festival_%283x4_cropped%29.jpg",
+      "alt": "Portrait of Robert De Niro",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Harald Krichel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robert_de_Niro_Cannes_Film_Festival_(3x4_cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Robert De Niro",
+        "url": "https://en.wikipedia.org/wiki/Robert_De_Niro"
+      },
+      {
+        "title": "Wikidata — Robert De Niro",
+        "url": "https://www.wikidata.org/entity/Q36949"
+      }
+    ]
+  },
+  {
+    "id": "adele",
+    "displayName": "Adele",
+    "descriptor": "English singer-songwriter",
+    "category": "modern-celebrities",
+    "tags": [
+      "music"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "1 child is recorded by Wikidata.",
+    "explanation": "Adele has 1 child in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Adele_2016.jpg/500px-Adele_2016.jpg",
+      "alt": "Portrait of Adele",
+      "licence": "CC BY 2.0",
+      "attribution": "Marc E.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adele_2016.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Adele",
+        "url": "https://en.wikipedia.org/wiki/Adele"
+      },
+      {
+        "title": "Wikidata — Adele",
+        "url": "https://www.wikidata.org/entity/Q23215"
+      }
+    ]
+  },
+  {
+    "id": "golda-meir",
+    "displayName": "Golda Meir",
+    "descriptor": "Prime Minister of Israel from 1969 to 1974",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "2 children are recorded by Wikidata.",
+    "explanation": "Golda Meir has 2 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Golda_Meir_03265u-2_%28cropped%29.jpg/500px-Golda_Meir_03265u-2_%28cropped%29.jpg",
+      "alt": "Portrait of Golda Meir",
+      "licence": "Public domain",
+      "attribution": "Talmoryair ( talk ) after Marion S. Trikosko",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Golda_Meir_03265u-2_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Golda Meir",
+        "url": "https://en.wikipedia.org/wiki/Golda_Meir"
+      },
+      {
+        "title": "Wikidata — Golda Meir",
+        "url": "https://www.wikidata.org/entity/Q42992"
+      }
+    ]
+  },
+  {
+    "id": "will-smith",
+    "displayName": "Will Smith",
+    "descriptor": "American actor, film producer and rapper",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "3 children are recorded by Wikidata.",
+    "explanation": "Will Smith has 3 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/TechCrunch_Disrupt_2019_%2848834434641%29_%28cropped%29.jpg/500px-TechCrunch_Disrupt_2019_%2848834434641%29_%28cropped%29.jpg",
+      "alt": "Portrait of Will Smith",
+      "licence": "CC BY 2.0",
+      "attribution": "TechCrunch",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_2019_(48834434641)_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Will Smith",
+        "url": "https://en.wikipedia.org/wiki/Will_Smith"
+      },
+      {
+        "title": "Wikidata — Will Smith",
+        "url": "https://www.wikidata.org/entity/Q40096"
+      }
+    ]
+  },
+  {
+    "id": "al-pacino",
+    "displayName": "Al Pacino",
+    "descriptor": "American actor",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "4 children are recorded by Wikidata.",
+    "explanation": "Al Pacino has 4 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ALPACINO_0234e_%2830401875260%29_%28cropped%29.jpg/500px-ALPACINO_0234e_%2830401875260%29_%28cropped%29.jpg",
+      "alt": "Portrait of Al Pacino",
+      "licence": "CC BY 2.0",
+      "attribution": "Embajada de EEUU en la Argentina",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ALPACINO_0234e_(30401875260)_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Al Pacino",
+        "url": "https://en.wikipedia.org/wiki/Al_Pacino"
+      },
+      {
+        "title": "Wikidata — Al Pacino",
+        "url": "https://www.wikidata.org/entity/Q41163"
+      }
+    ]
+  },
+  {
+    "id": "nicole-kidman",
+    "displayName": "Nicole Kidman",
+    "descriptor": "Australian-American actress, producer, and model",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "4 children are recorded by Wikidata.",
+    "explanation": "Nicole Kidman has 4 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nicole_Kidman-66060_%28cropped%29.jpg/500px-Nicole_Kidman-66060_%28cropped%29.jpg",
+      "alt": "Portrait of Nicole Kidman",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Harald Krichel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nicole_Kidman-66060_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Nicole Kidman",
+        "url": "https://en.wikipedia.org/wiki/Nicole_Kidman"
+      },
+      {
+        "title": "Wikidata — Nicole Kidman",
+        "url": "https://www.wikidata.org/entity/Q37459"
+      }
+    ]
+  },
+  {
+    "id": "morgan-freeman",
+    "displayName": "Morgan Freeman",
+    "descriptor": "American actor and producer",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "4 children are recorded by Wikidata.",
+    "explanation": "Morgan Freeman has 4 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg/500px-Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg",
+      "alt": "Portrait of Morgan Freeman",
+      "licence": "Public domain",
+      "attribution": "U.S. Secretary of Defense",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Morgan Freeman",
+        "url": "https://en.wikipedia.org/wiki/Morgan_Freeman"
+      },
+      {
+        "title": "Wikidata — Morgan Freeman",
+        "url": "https://www.wikidata.org/entity/Q48337"
+      }
+    ]
+  },
+  {
+    "id": "tom-cruise",
+    "displayName": "Tom Cruise",
+    "descriptor": "American actor and producer",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "3 children are recorded by Wikidata.",
+    "explanation": "Tom Cruise has 3 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg/500px-Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg",
+      "alt": "Portrait of Tom Cruise",
+      "licence": "CC BY 4.0",
+      "attribution": "Kevin Paul",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Tom Cruise",
+        "url": "https://en.wikipedia.org/wiki/Tom_Cruise"
+      },
+      {
+        "title": "Wikidata — Tom Cruise",
+        "url": "https://www.wikidata.org/entity/Q37079"
+      }
+    ]
+  },
+  {
+    "id": "jane-fonda",
+    "displayName": "Jane Fonda",
+    "descriptor": "American actress and activist",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "3 children are recorded by Wikidata.",
+    "explanation": "Jane Fonda has 3 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Jane_Fonda_1963.jpg/500px-Jane_Fonda_1963.jpg",
+      "alt": "Portrait of Jane Fonda",
+      "licence": "Public domain",
+      "attribution": "Unstated photographer",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jane_Fonda_1963.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Jane Fonda",
+        "url": "https://en.wikipedia.org/wiki/Jane_Fonda"
+      },
+      {
+        "title": "Wikidata — Jane Fonda",
+        "url": "https://www.wikidata.org/entity/Q41142"
+      }
+    ]
+  },
+  {
+    "id": "harrison-ford",
+    "displayName": "Harrison Ford",
+    "descriptor": "American actor",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "5 children are recorded by Wikidata.",
+    "explanation": "Harrison Ford has 5 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Harrison_Ford_-_Televerse_2025-03.jpg/500px-Harrison_Ford_-_Televerse_2025-03.jpg",
+      "alt": "Portrait of Harrison Ford",
+      "licence": "CC BY 4.0",
+      "attribution": "Kevin Paul",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harrison_Ford_-_Televerse_2025-03.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Harrison Ford",
+        "url": "https://en.wikipedia.org/wiki/Harrison_Ford"
+      },
+      {
+        "title": "Wikidata — Harrison Ford",
+        "url": "https://www.wikidata.org/entity/Q81328"
+      }
+    ]
+  },
+  {
+    "id": "jeff-bezos",
+    "displayName": "Jeff Bezos",
+    "descriptor": "American business magnate",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "4 children are recorded by Wikidata.",
+    "explanation": "Jeff Bezos has 4 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped%29.jpg/500px-Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped%29.jpg",
+      "alt": "Portrait of Jeff Bezos",
+      "licence": "CC BY 2.0",
+      "attribution": "Seattle City Council from Seattle",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_(39074799225)_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Jeff Bezos",
+        "url": "https://en.wikipedia.org/wiki/Jeff_Bezos"
+      },
+      {
+        "title": "Wikidata — Jeff Bezos",
+        "url": "https://www.wikidata.org/entity/Q312556"
+      }
+    ]
+  },
+  {
+    "id": "rodrigo-duterte",
+    "displayName": "Rodrigo Duterte",
+    "descriptor": "President of the Philippines from 2016 to 2022",
+    "category": "modern-celebrities",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "4 children are recorded by Wikidata.",
+    "explanation": "Rodrigo Duterte has 4 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/President_Rodrigo_Duterte_portrait_%28half-body_crop%29.jpg/500px-President_Rodrigo_Duterte_portrait_%28half-body_crop%29.jpg",
+      "alt": "Portrait of Rodrigo Duterte",
+      "licence": "Public domain",
+      "attribution": "Government of the Philippines",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:President_Rodrigo_Duterte_portrait_(half-body_crop).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Rodrigo Duterte",
+        "url": "https://en.wikipedia.org/wiki/Rodrigo_Duterte"
+      },
+      {
+        "title": "Wikidata — Rodrigo Duterte",
+        "url": "https://www.wikidata.org/entity/Q457786"
+      }
+    ]
+  },
+  {
+    "id": "dwayne-johnson",
+    "displayName": "Dwayne Johnson",
+    "descriptor": "American actor and professional wrestler",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "3 children are recorded by Wikidata.",
+    "explanation": "Dwayne Johnson has 3 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dwayne_Johnson-1809_%28cropped%29.jpg/500px-Dwayne_Johnson-1809_%28cropped%29.jpg",
+      "alt": "Portrait of Dwayne Johnson",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Harald Krichel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dwayne_Johnson-1809_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Dwayne Johnson",
+        "url": "https://en.wikipedia.org/wiki/Dwayne_Johnson"
+      },
+      {
+        "title": "Wikidata — Dwayne Johnson",
+        "url": "https://www.wikidata.org/entity/Q10738"
+      }
+    ]
+  },
+  {
+    "id": "denzel-washington",
+    "displayName": "Denzel Washington",
+    "descriptor": "American actor",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "4 children are recorded by Wikidata.",
+    "explanation": "Denzel Washington has 4 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Denzel_Washington_at_the_2025_Cannes_Film_Festival.jpg/500px-Denzel_Washington_at_the_2025_Cannes_Film_Festival.jpg",
+      "alt": "Portrait of Denzel Washington",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Gabriel Hutchinson",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Denzel_Washington_at_the_2025_Cannes_Film_Festival.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Denzel Washington",
+        "url": "https://en.wikipedia.org/wiki/Denzel_Washington"
+      },
+      {
+        "title": "Wikidata — Denzel Washington",
+        "url": "https://www.wikidata.org/entity/Q42101"
+      }
+    ]
+  },
+  {
+    "id": "kanye-west",
+    "displayName": "Kanye West",
+    "descriptor": "American rapper and record producer",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "4 children are recorded by Wikidata.",
+    "explanation": "Kanye West has 4 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg/500px-Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg",
+      "alt": "Portrait of Kanye West",
+      "licence": "Public domain",
+      "attribution": "David Shankbone",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kanye_West_at_the_2009_Tribeca_Film_Festival_(crop_2).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Kanye West",
+        "url": "https://en.wikipedia.org/wiki/Kanye_West"
+      },
+      {
+        "title": "Wikidata — Kanye West",
+        "url": "https://www.wikidata.org/entity/Q15935"
+      }
+    ]
+  },
+  {
+    "id": "christopher-nolan",
+    "displayName": "Christopher Nolan",
+    "descriptor": "British-American filmmaker",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "4 children are recorded by Wikidata.",
+    "explanation": "Christopher Nolan has 4 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ChristopherNolan-byPhilipRomano_%28cropped%29.jpg/500px-ChristopherNolan-byPhilipRomano_%28cropped%29.jpg",
+      "alt": "Portrait of Christopher Nolan",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "PhilipRomano",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ChristopherNolan-byPhilipRomano_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Christopher Nolan",
+        "url": "https://en.wikipedia.org/wiki/Christopher_Nolan"
+      },
+      {
+        "title": "Wikidata — Christopher Nolan",
+        "url": "https://www.wikidata.org/entity/Q25191"
+      }
+    ]
+  },
+  {
+    "id": "liam-neeson",
+    "displayName": "Liam Neeson",
+    "descriptor": "actor from Northern Ireland",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "2 children are recorded by Wikidata.",
+    "explanation": "Liam Neeson has 2 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Liam_Neeson_Deauville_2012.jpg",
+      "alt": "Portrait of Liam Neeson",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Georges Biard",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Liam_Neeson_Deauville_2012.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Liam Neeson",
+        "url": "https://en.wikipedia.org/wiki/Liam_Neeson"
+      },
+      {
+        "title": "Wikidata — Liam Neeson",
+        "url": "https://www.wikidata.org/entity/Q58444"
+      }
+    ]
+  },
+  {
+    "id": "prince-harry-duke-of-sussex",
+    "displayName": "Prince Harry, Duke of Sussex",
+    "descriptor": "younger son of Charles III of the United Kingdom and Diana, Princess of Wales",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "2 children are recorded by Wikidata.",
+    "explanation": "Prince Harry, Duke of Sussex has 2 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Prince_Harry%2C_Duke_of_Sussex_2020_cropped_02.jpg/500px-Prince_Harry%2C_Duke_of_Sussex_2020_cropped_02.jpg",
+      "alt": "Portrait of Prince Harry, Duke of Sussex",
+      "licence": "CC BY 2.0",
+      "attribution": "File:Prince Harry arrives at the UK-Africa Investment Summit in London 20 January 2020 (49413820711).jpg : DFID - UK Department for International Development derivative work: Minerva97",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prince_Harry,_Duke_of_Sussex_2020_cropped_02.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Prince Harry, Duke of Sussex",
+        "url": "https://en.wikipedia.org/wiki/Prince_Harry%2C_Duke_of_Sussex"
+      },
+      {
+        "title": "Wikidata — Prince Harry, Duke of Sussex",
+        "url": "https://www.wikidata.org/entity/Q152316"
+      }
+    ]
+  },
+  {
+    "id": "ayman-al-zawahiri",
+    "displayName": "Ayman al-Zawahiri",
+    "descriptor": "al-Qaeda terrorist leader (1951–2022), Muslim jurist and theologian (Sunni), surgeon",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 10,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "10 children are recorded by Wikidata.",
+    "explanation": "Ayman al-Zawahiri has 10 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Ayman_al-Zawahiri_portrait.JPG",
+      "alt": "Portrait of Ayman al-Zawahiri",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Hamid Mir",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ayman_al-Zawahiri_portrait.JPG"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Ayman al-Zawahiri",
+        "url": "https://en.wikipedia.org/wiki/Ayman_al-Zawahiri"
+      },
+      {
+        "title": "Wikidata — Ayman al-Zawahiri",
+        "url": "https://www.wikidata.org/entity/Q186316"
+      }
+    ]
+  },
+  {
+    "id": "ennio-morricone",
+    "displayName": "Ennio Morricone",
+    "descriptor": "Italian composer, orchestrator and conductor",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "4 children are recorded by Wikidata.",
+    "explanation": "Ennio Morricone has 4 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ennio_Morricone_Cannes_2007.jpg/500px-Ennio_Morricone_Cannes_2007.jpg",
+      "alt": "Portrait of Ennio Morricone",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Olivier Strecker",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ennio_Morricone_Cannes_2007.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Ennio Morricone",
+        "url": "https://en.wikipedia.org/wiki/Ennio_Morricone"
+      },
+      {
+        "title": "Wikidata — Ennio Morricone",
+        "url": "https://www.wikidata.org/entity/Q23848"
+      }
+    ]
+  },
+  {
+    "id": "alec-baldwin",
+    "displayName": "Alec Baldwin",
+    "descriptor": "American actor",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 8,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "8 children are recorded by Wikidata.",
+    "explanation": "Alec Baldwin has 8 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Alec_Baldwin_by_Gage_Skidmore.jpg/500px-Alec_Baldwin_by_Gage_Skidmore.jpg",
+      "alt": "Portrait of Alec Baldwin",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Gage Skidmore",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alec_Baldwin_by_Gage_Skidmore.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Alec Baldwin",
+        "url": "https://en.wikipedia.org/wiki/Alec_Baldwin"
+      },
+      {
+        "title": "Wikidata — Alec Baldwin",
+        "url": "https://www.wikidata.org/entity/Q170572"
+      }
+    ]
+  },
+  {
+    "id": "jeff-bridges",
+    "displayName": "Jeff Bridges",
+    "descriptor": "American actor",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "3 children are recorded by Wikidata.",
+    "explanation": "Jeff Bridges has 3 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Jeff_Bridges_by_Gage_Skidmore_3.jpg/500px-Jeff_Bridges_by_Gage_Skidmore_3.jpg",
+      "alt": "Portrait of Jeff Bridges",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Gage Skidmore",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeff_Bridges_by_Gage_Skidmore_3.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Jeff Bridges",
+        "url": "https://en.wikipedia.org/wiki/Jeff_Bridges"
+      },
+      {
+        "title": "Wikidata — Jeff Bridges",
+        "url": "https://www.wikidata.org/entity/Q174843"
+      }
+    ]
+  },
+  {
+    "id": "kaley-cuoco",
+    "displayName": "Kaley Cuoco",
+    "descriptor": "American actress and producer",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "2 children are recorded by Wikidata.",
+    "explanation": "Kaley Cuoco has 2 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kaley_Cuoco_by_Gage_Skidmore.jpg/500px-Kaley_Cuoco_by_Gage_Skidmore.jpg",
+      "alt": "Portrait of Kaley Cuoco",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Gage Skidmore",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaley_Cuoco_by_Gage_Skidmore.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Kaley Cuoco",
+        "url": "https://en.wikipedia.org/wiki/Kaley_Cuoco"
+      },
+      {
+        "title": "Wikidata — Kaley Cuoco",
+        "url": "https://www.wikidata.org/entity/Q16759"
+      }
+    ]
+  },
+  {
+    "id": "burt-reynolds",
+    "displayName": "Burt Reynolds",
+    "descriptor": "American actor",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "1 child is recorded by Wikidata.",
+    "explanation": "Burt Reynolds has 1 child in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Burt_Reynolds_1991_portrait_crop.jpg",
+      "alt": "Portrait of Burt Reynolds",
+      "licence": "CC BY 2.0",
+      "attribution": "Alan Light ( https://www.flickr.com/people/alan-light/ )",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Burt_Reynolds_1991_portrait_crop.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Burt Reynolds",
+        "url": "https://en.wikipedia.org/wiki/Burt_Reynolds"
+      },
+      {
+        "title": "Wikidata — Burt Reynolds",
+        "url": "https://www.wikidata.org/entity/Q202148"
+      }
+    ]
+  },
+  {
+    "id": "jeff-goldblum",
+    "displayName": "Jeff Goldblum",
+    "descriptor": "American actor and musician",
+    "category": "modern-celebrities",
+    "tags": [
+      "music"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "2 children are recorded by Wikidata.",
+    "explanation": "Jeff Goldblum has 2 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Jeff_Goldblum_by_Gage_Skidmore.jpg/500px-Jeff_Goldblum_by_Gage_Skidmore.jpg",
+      "alt": "Portrait of Jeff Goldblum",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Gage Skidmore",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeff_Goldblum_by_Gage_Skidmore.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Jeff Goldblum",
+        "url": "https://en.wikipedia.org/wiki/Jeff_Goldblum"
+      },
+      {
+        "title": "Wikidata — Jeff Goldblum",
+        "url": "https://www.wikidata.org/entity/Q106706"
+      }
+    ]
+  },
+  {
+    "id": "james-caan",
+    "displayName": "James Caan",
+    "descriptor": "American actor",
+    "category": "modern-celebrities",
+    "tags": [
+      "film"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "5 children are recorded by Wikidata.",
+    "explanation": "James Caan has 5 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/James_Caan_Guillaume_Canet_Cannes_2013_cropped.jpg",
+      "alt": "Portrait of James Caan",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Georges Biard",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:James_Caan_Guillaume_Canet_Cannes_2013_cropped.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — James Caan",
+        "url": "https://en.wikipedia.org/wiki/James_Caan"
+      },
+      {
+        "title": "Wikidata — James Caan",
+        "url": "https://www.wikidata.org/entity/Q95043"
+      }
+    ]
+  },
+  {
+    "id": "pietro-badoglio",
+    "displayName": "Pietro Badoglio",
+    "descriptor": "Italian Military General Officer and Marshal of the Royal Italian Army from 1916-1943 during both World Wars and Prime Minister of Italy from 1943-1944",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "4 children are recorded by Wikidata.",
+    "explanation": "Pietro Badoglio has 4 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Pietro_Badoglio_3.jpg",
+      "alt": "Portrait of Pietro Badoglio",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pietro_Badoglio_3.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Pietro Badoglio",
+        "url": "https://en.wikipedia.org/wiki/Pietro_Badoglio"
+      },
+      {
+        "title": "Wikidata — Pietro Badoglio",
+        "url": "https://www.wikidata.org/entity/Q200085"
+      }
+    ]
+  },
+  {
+    "id": "rosanna-arquette",
+    "displayName": "Rosanna Arquette",
+    "descriptor": "American actress",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "1 child is recorded by Wikidata.",
+    "explanation": "Rosanna Arquette has 1 child in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rosanna_Arquette_Blue_Moon-23_%28cropped%29.jpg/500px-Rosanna_Arquette_Blue_Moon-23_%28cropped%29.jpg",
+      "alt": "Portrait of Rosanna Arquette",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Bryan Berlin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosanna_Arquette_Blue_Moon-23_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Rosanna Arquette",
+        "url": "https://en.wikipedia.org/wiki/Rosanna_Arquette"
+      },
+      {
+        "title": "Wikidata — Rosanna Arquette",
+        "url": "https://www.wikidata.org/entity/Q109232"
+      }
+    ]
+  },
+  {
+    "id": "germanicus",
+    "displayName": "Germanicus",
+    "descriptor": "nephew and adopted son of emperor Tiberius, heir apparent of the Roman Empire, and father of emperor Caligula",
+    "category": "modern-celebrities",
+    "tags": [
+      "public-figure"
+    ],
+    "childrenCount": 9,
+    "countType": "commonly-recorded",
+    "countingRuleSummary": "9 children are recorded by Wikidata.",
+    "explanation": "Germanicus has 9 children in the cited records.",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%28Toulouse%29_Portrait_de_Germanicus_-_Mus%C3%A9e_Saint-Raymond_Ra_342_c.jpg/500px-%28Toulouse%29_Portrait_de_Germanicus_-_Mus%C3%A9e_Saint-Raymond_Ra_342_c.jpg",
+      "alt": "Portrait of Germanicus",
+      "licence": "Public domain",
+      "attribution": "Didier Descouens",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:(Toulouse)_Portrait_de_Germanicus_-_Mus%C3%A9e_Saint-Raymond_Ra_342_c.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Germanicus",
+        "url": "https://en.wikipedia.org/wiki/Germanicus"
+      },
+      {
+        "title": "Wikidata — Germanicus",
+        "url": "https://www.wikidata.org/entity/Q191039"
+      }
+    ]
+  }
+]
