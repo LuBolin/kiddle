@@ -99,13 +99,13 @@ function Sources({ figures }: { figures: Figure[] }) {
   );
 }
 
-function GameHeader({ home, label, children }: { home: () => void; label: string; children: ReactNode }) {
+function GameHeader({ home, label, children, tracker }: { home: () => void; label: string; children: ReactNode; tracker?: ReactNode }) {
   const { text } = useLanguage();
   return (
     <header className="game-header">
       <button className="back" onClick={home} type="button">← {text.home}</button>
-      <div className="game-brand"><strong>Kiddle</strong><span>{label}</span></div>
-      <div className="game-tools"><div className="game-status">{children}</div><LanguageSelect /><details className="game-help"><summary>{text.howToPlay}</summary><p>{text.help}</p></details></div>
+      <div className="game-brand"><strong>Kiddle</strong><span>{label}</span><div className="game-status">{children}</div>{tracker}</div>
+      <div className="game-tools"><LanguageSelect /><details className="game-help"><summary>{text.howToPlay}</summary><p>{text.help}</p></details></div>
     </header>
   );
 }
@@ -217,7 +217,7 @@ function FixedGame({ mode, questions, restart, home, pool, dailyDate, isPractice
   const score = answers.filter(Boolean).length;
   return (
     <main className="shell game">
-      <section className="game-panel"><GameHeader home={home} label={`${modeLabel(mode, language)}${isPractice ? ` · ${text.practice}` : ""} · ${poolLabel(pool, language)}`}><span>{text.question} <strong>{index + 1}/10</strong></span><span>{text.score} <strong>{score}</strong></span></GameHeader><div className="game-progress" aria-label={language === "zh" ? `已完成 ${index}/${questions.length} 题` : `${index} of ${questions.length} questions complete`} aria-valuemax={questions.length} aria-valuemin={0} aria-valuenow={index} role="progressbar"><span style={{ width: `${(index / questions.length) * 100}%` }} /></div></section>
+      <section className="game-panel"><GameHeader home={home} label={`${modeLabel(mode, language)}${isPractice ? ` · ${text.practice}` : ""} · ${poolLabel(pool, language)}`} tracker={<div className="question-tracker" aria-label={language === "zh" ? `已完成 ${index}/${questions.length} 题` : `${index} of ${questions.length} questions complete`} aria-valuemax={questions.length} aria-valuemin={0} aria-valuenow={index} role="progressbar">{questions.map((item, trackerIndex) => <span aria-hidden="true" className={trackerIndex < index ? "complete" : trackerIndex === index ? "current" : ""} key={item.id} />)}</div>}><span>{text.question} <strong>{index + 1}/10</strong></span><span>{text.score} <strong>{score}</strong></span></GameHeader></section>
       {newDailyAvailable && <div className="daily-notice" role="status">{text.newDaily} <button onClick={restart} type="button">{text.startIt}</button></div>}
       <section className="game-prompt">
         <h1>{text.title}</h1>
@@ -275,6 +275,7 @@ function InfiniteGame({ restart, home, pool }: { restart: () => void; home: () =
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [showSources, setShowSources] = useState(false);
   const [lives, setLives] = useState(3);
+  const [heartPopKey, setHeartPopKey] = useState(0);
   const [streak, setStreak] = useState(0);
   const [runBest, setRunBest] = useState(0);
   const [personalBest, setPersonalBest] = useState(() => getInfiniteBest(categoryKey(pool)));
@@ -303,6 +304,7 @@ function InfiniteGame({ restart, home, pool }: { restart: () => void; home: () =
       setStreak(nextStreak);
       setRunBest((best) => Math.max(best, nextStreak));
     } else {
+      setHeartPopKey((current) => current + 1);
       setLives((current) => current - 1);
       setStreak(0);
     }
@@ -322,7 +324,7 @@ function InfiniteGame({ restart, home, pool }: { restart: () => void; home: () =
 
   return (
     <main className="shell game">
-      <section className="game-panel"><GameHeader home={home} label={`${text.infinite} · ${poolLabel(pool, language)}`}><span>{text.lives} <strong className="lives" aria-label={language === "zh" ? `剩余 ${lives} 条命` : `${lives} lives remaining`}>{"♥".repeat(lives)}</strong></span><span>{text.streak} <strong>{streak}</strong></span><span>{text.best} <strong>{personalBest}</strong></span></GameHeader></section>
+      <section className="game-panel"><GameHeader home={home} label={`${text.infinite} · ${poolLabel(pool, language)}`}><span>{text.lives} <strong className="lives" aria-label={language === "zh" ? `剩余 ${lives} 条命` : `${lives} lives remaining`}>{"♥".repeat(lives)}{heartPopKey > 0 && <span aria-hidden="true" className="lost-heart" key={heartPopKey}>♥</span>}</strong></span><span>{text.streak} <strong>{streak}</strong></span><span>{text.best} <strong>{personalBest}</strong></span></GameHeader></section>
       <section className="game-prompt">
         <h1>{text.title}</h1>
       </section>
