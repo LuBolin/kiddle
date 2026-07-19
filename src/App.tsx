@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import { categories, categoryKey, categoryLabel, poolLabel } from "./categories";
 import { figures } from "./data/figures";
 import { dailyCategoryForDate, dailyQuestionsForDate } from "./lib/daily";
@@ -92,6 +92,16 @@ function Sources({ figures }: { figures: Figure[] }) {
         </article>
       ))}
     </section>
+  );
+}
+
+function GameHeader({ home, label, children }: { home: () => void; label: string; children: ReactNode }) {
+  return (
+    <header className="game-header">
+      <button className="back" onClick={home} type="button">← Home</button>
+      <div className="game-brand"><strong>Kiddle</strong><span>{label}</span></div>
+      <div className="game-tools"><div className="game-status">{children}</div><details className="game-help"><summary>How to play</summary><p>Pick the figure with more children. Counts and sources appear after your answer.</p></details></div>
+    </header>
   );
 }
 
@@ -199,12 +209,7 @@ function FixedGame({ mode, questions, restart, home, pool, dailyDate, isPractice
   const score = answers.filter(Boolean).length;
   return (
     <main className="shell game">
-      <header className="game-header">
-        <button className="back" onClick={home} type="button">← Home</button>
-        <div className="game-brand"><strong>Kiddle</strong><span>{modeLabel(mode)}{isPractice ? " · Practice" : ""} · {poolLabel(pool)}</span></div>
-        <div className="game-status"><span>Question <strong>{index + 1}/10</strong></span><span>Score <strong>{score}</strong></span></div>
-      </header>
-      <div className="game-progress" aria-label={`${index} of ${questions.length} questions complete`} aria-valuemax={questions.length} aria-valuemin={0} aria-valuenow={index} role="progressbar"><span style={{ width: `${(index / questions.length) * 100}%` }} /></div>
+      <section className="game-panel"><GameHeader home={home} label={`${modeLabel(mode)}${isPractice ? " · Practice" : ""} · ${poolLabel(pool)}`}><span>Question <strong>{index + 1}/10</strong></span><span>Score <strong>{score}</strong></span></GameHeader><div className="game-progress" aria-label={`${index} of ${questions.length} questions complete`} aria-valuemax={questions.length} aria-valuemin={0} aria-valuenow={index} role="progressbar"><span style={{ width: `${(index / questions.length) * 100}%` }} /></div></section>
       {newDailyAvailable && <div className="daily-notice" role="status">A new Daily Challenge is ready. <button onClick={restart} type="button">Start it</button></div>}
       <section className="game-prompt">
         <p className="eyebrow">Make your pick</p>
@@ -309,11 +314,7 @@ function InfiniteGame({ restart, home, pool }: { restart: () => void; home: () =
 
   return (
     <main className="shell game">
-      <header className="game-header">
-        <button className="back" onClick={home} type="button">← Home</button>
-        <div className="game-brand"><strong>Kiddle</strong><span>Infinite · {poolLabel(pool)}</span></div>
-        <div className="game-status infinite-status"><span>Lives <strong className="lives" aria-label={`${lives} lives remaining`}>{"♥".repeat(lives)}</strong></span><span>Streak <strong>{streak}</strong></span><span>Best <strong>{personalBest}</strong></span></div>
-      </header>
+      <section className="game-panel"><GameHeader home={home} label={`Infinite · ${poolLabel(pool)}`}><span>Lives <strong className="lives" aria-label={`${lives} lives remaining`}>{"♥".repeat(lives)}</strong></span><span>Streak <strong>{streak}</strong></span><span>Best <strong>{personalBest}</strong></span></GameHeader></section>
       <section className="game-prompt">
         <p className="eyebrow">Infinite Mode</p>
         <h1>Who had more children?</h1>
