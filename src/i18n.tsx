@@ -17,7 +17,10 @@ const copy = {
     shareResult: "Share spoiler-free result", copied: "Result copied to your clipboard.", shareOpened: "Share sheet opened.", shareFailed: "Could not share your result. Try again from a supported browser.",
     playAgain: "Play again", returnHome: "Return home", todayComplete: "Today’s puzzle is complete", greatJob: "Great job. You scored",
     moreFigures: "More figures needed", infiniteMode: "Infinite Mode", streakContinues: "Streak continues.", everySeen: "Every figure seen", runOver: "Run over",
-    noLives: "Your three lives are gone.", bestStreak: "Best streak", personalBest: "Personal best"
+    noLives: "Your three lives are gone.", bestStreak: "Best streak", personalBest: "Personal best",
+    reportProblem: "Report a problem", closeReport: "Close problem report", problemKind: "What kind of problem is it?", websiteProblem: "Website problem", dataProblem: "Data problem",
+    problemDescription: "What is the problem?", websitePrompt: "Clearly describe what happened, what you expected, and your browser or device if relevant.", dataPrompt: "Explain what is wrong and include a reliable source URL.",
+    continueGitHub: "Continue to GitHub", trackerNotConfigured: "The GitHub issue tracker is not configured for this build.", reportSource: "Believe something is wrong? Report to us with a source"
   },
   zh: {
     home: "主页", language: "语言", moreInfo: "更多信息", todayTheme: "今日主题", title: "谁的孩子更多？",
@@ -34,7 +37,10 @@ const copy = {
     shareResult: "分享无剧透结果", copied: "结果已复制到剪贴板。", shareOpened: "分享窗口已打开。", shareFailed: "无法分享结果，请使用支持分享的浏览器重试。",
     playAgain: "再玩一次", returnHome: "返回主页", todayComplete: "今天的挑战已完成", greatJob: "太棒了！你的得分是",
     moreFigures: "需要更多人物资料", infiniteMode: "无限模式", streakContinues: "继续连胜！", everySeen: "所有人物都出现过了", runOver: "本轮结束",
-    noLives: "三条命已经用完。", bestStreak: "本轮最佳", personalBest: "个人最佳"
+    noLives: "三条命已经用完。", bestStreak: "本轮最佳", personalBest: "个人最佳",
+    reportProblem: "报告问题", closeReport: "关闭问题报告", problemKind: "问题属于哪一类？", websiteProblem: "网站问题", dataProblem: "资料问题",
+    problemDescription: "请描述问题", websitePrompt: "请清楚说明发生了什么、预期结果，以及相关的浏览器或设备。", dataPrompt: "请说明资料哪里有误，并附上可靠的来源网址。",
+    continueGitHub: "前往 GitHub", trackerNotConfigured: "此版本尚未配置 GitHub 问题追踪。", reportSource: "认为资料有误？请附上来源报告给我们"
   }
 } as const;
 

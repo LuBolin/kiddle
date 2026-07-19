@@ -1,15 +1,52 @@
-import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
+import { createContext, useContext, useEffect, useMemo, useRef, useState, type FormEvent, type ReactNode } from "react";
 import { categories, categoryKey, categoryLabel, poolLabel } from "./categories";
 import { figures } from "./data/figures";
 import { dailyCategoryForDate, dailyQuestionsForDate } from "./lib/daily";
 import { generateInfiniteQuestion, generateQuickSession, isCorrect } from "./lib/game";
 import { sessionShareText, share } from "./lib/share";
+import { buildGitHubIssueUrl, type ProblemType } from "./lib/report";
 import { clearDailyProgress, getDailyProgress, getDailyResult, getInfiniteBest, saveDailyProgress, saveDailyResult, saveInfiniteBest, saveQuickResult, type DailyProgress, type DailyResult } from "./lib/storage";
 import { LanguageProvider, LanguageSelect, useLanguage } from "./i18n";
 import type { CategoryId, Figure, Language, Question } from "./types";
 import "./styles.css";
 
 type PlayMode = "quick" | "daily" | "infinite";
+
+const ReportContext = createContext<(type?: ProblemType, context?: string) => void>(() => undefined);
+
+function ReportProvider({ children }: { children: ReactNode }) {
+  const { text } = useLanguage();
+  const [open, setOpen] = useState(false);
+  const [type, setType] = useState<ProblemType>("website");
+  const [description, setDescription] = useState("");
+  const [context, setContext] = useState("");
+  const closeRef = useRef<HTMLButtonElement>(null);
+  const repository = import.meta.env.VITE_GITHUB_REPO?.trim();
+  const issueUrl = buildGitHubIssueUrl(repository, type, description.trim(), window.location.href, context);
+  const show = (nextType: ProblemType = "website", nextContext = "") => { setType(nextType); setContext(nextContext); setDescription(""); setOpen(true); };
+  const close = () => setOpen(false);
+  useEffect(() => { if (open) closeRef.current?.focus(); }, [open]);
+  const submit = (event: FormEvent) => {
+    event.preventDefault();
+    if (issueUrl && description.trim()) window.open(issueUrl, "_blank", "noopener,noreferrer");
+  };
+  return <ReportContext.Provider value={show}>
+    {children}
+    <button className="report-fab" onClick={() => show()} type="button">{text.reportProblem}</button>
+    {open && <div className="report-backdrop" onKeyDown={(event) => { if (event.key === "Escape") close(); }}>
+      <section aria-labelledby="report-title" aria-modal="true" className="report-dialog" role="dialog">
+        <button aria-label={text.closeReport} className="report-close" onClick={close} ref={closeRef} type="button">×</button>
+        <h2 id="report-title">{text.reportProblem}</h2>
+        <form onSubmit={submit}>
+          <fieldset><legend>{text.problemKind}</legend><label><input checked={type === "website"} name="problem-type" onChange={() => setType("website")} type="radio" /> {text.websiteProblem}</label><label><input checked={type === "data"} name="problem-type" onChange={() => setType("data")} type="radio" /> {text.dataProblem}</label></fieldset>
+          <label className="report-description">{text.problemDescription}<textarea onChange={(event) => setDescription(event.target.value)} placeholder={type === "data" ? text.dataPrompt : text.websitePrompt} required rows={6} value={description} /></label>
+          {!repository && <p className="report-config" role="status">{text.trackerNotConfigured}</p>}
+          <button className="primary" disabled={!repository || !description.trim()} type="submit">{text.continueGitHub}</button>
+        </form>
+      </section>
+    </div>}
+  </ReportContext.Provider>;
+}
 
 function modeFromHash(): PlayMode | null {
   const mode = window.location.hash.slice(1).split("/")[0];
@@ -83,6 +120,7 @@ function FigureButton({ figure, onSelect, selected, correct, revealed, known = f
 
 function Sources({ figures }: { figures: Figure[] }) {
   const { text } = useLanguage();
+  const report = useContext(ReportContext);
   return (
     <section className="sources" aria-labelledby="sources-title">
       <h2 id="sources-title">{text.sources}</h2>
@@ -95,6 +133,7 @@ function Sources({ figures }: { figures: Figure[] }) {
           <ul>{figure.sources.map((source) => <li key={source.url}><a href={source.url} target="_blank" rel="noreferrer">{source.title}</a></li>)}</ul>
         </article>
       ))}
+      <button className="source-report" onClick={() => report("data", figures.map((figure) => figure.displayName).join(" and "))} type="button">{text.reportSource}</button>
     </section>
   );
 }
@@ -349,5 +388,5 @@ function AppContent() {
 }
 
 export default function App() {
-  return <LanguageProvider><AppContent /></LanguageProvider>;
+  return <LanguageProvider><ReportProvider><AppContent /></ReportProvider></LanguageProvider>;
 }
