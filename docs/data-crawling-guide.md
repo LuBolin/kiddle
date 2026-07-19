@@ -64,9 +64,9 @@ Use a stable, lower-case hyphenated ID. `descriptor` is a short role, not a biog
 - A source title may be localized for display, but `sourceLanguage` records the language of the linked page. Do not imply that an English source URL contains Chinese text.
 - Image alternative text belongs under `text.<language>.imageAlt`; the image URL and rights metadata remain shared.
 
-### Migration from the current data
+### Migration status
 
-The current category JSON uses legacy top-level English fields (`displayName`, `descriptor`, `countingRuleSummary`, `explanation`, and `image.alt`). Before adding more categories, migrate those fields into `text.en`, add reviewed `text.zh`, update the TypeScript Figure type and validator, and make rendering use field-level English fallback. Do not maintain both shapes after the migration is complete.
+The active category data uses this canonical localized shape. Do not add legacy top-level English fields (`displayName`, `descriptor`, `countingRuleSummary`, `explanation`, or `image.alt`) back into a Figure record. The renderer falls back field-by-field to `text.en`; the validator requires complete English and Simplified Chinese text for every active Figure.
 
 ## Research workflow
 

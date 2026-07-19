@@ -6,6 +6,7 @@ import { generateChainedInfiniteQuestion, generateChainedQuickSession, generateI
 import { infiniteShareText, sessionShareText, share } from "./lib/share";
 import { buildGitHubIssueUrl, type ProblemType } from "./lib/report";
 import { clearDailyProgress, getDailyProgress, getDailyResult, saveDailyProgress, saveDailyResult, saveQuickResult, type DailyProgress, type DailyResult } from "./lib/storage";
+import { figureText } from "./lib/figure-text";
 import { LanguageProvider, LanguageSelect, useLanguage } from "./i18n";
 import type { CategoryId, Figure, Language, Question } from "./types";
 import "./styles.css";
@@ -94,12 +95,14 @@ function modeLabel(mode: PlayMode, language: Language = "en"): string {
 }
 
 function Portrait({ figure }: { figure: Figure }) {
+  const { language } = useLanguage();
   const [failed, setFailed] = useState(false);
+  const localized = figureText(figure, language);
   return (
     <div className="portrait" aria-hidden="true">
       {!failed
         ? <img src={figure.image.url} alt="" onError={() => setFailed(true)} />
-        : figure.displayName.split(" ").map((word) => word[0]).join("").slice(0, 2)}
+        : localized.displayName.split(" ").map((word) => word[0]).join("").slice(0, 2)}
     </div>
   );
 }
@@ -117,13 +120,14 @@ function FigureButton({ figure, onSelect, selected, correct, revealed, known = f
   known?: boolean;
 }) {
   const { language, text } = useLanguage();
+  const localized = figureText(figure, language);
   const resultClass = !revealed ? "" : correct ? " correct" : selected ? " incorrect" : "";
   const showCount = revealed || known;
   return (
     <button className={`figure-card${resultClass}`} disabled={revealed} onClick={onSelect} type="button">
       <Portrait figure={figure} />
-      <span className="figure-name">{figure.displayName}</span>
-      <span className="descriptor">{figure.descriptor}</span>
+      <span className="figure-name">{localized.displayName}</span>
+      <span className="descriptor">{localized.descriptor}</span>
       {showCount ? <strong className="count">{childLabel(figure.childrenCount, language)}</strong> : <span aria-label={text.hiddenCount} className="hidden-count">?</span>}
       {revealed && correct && <span className="result-mark">✓ {text.moreChildren}</span>}
       {revealed && selected && !correct && <span className="result-mark">✕ {text.notThisOne}</span>}
@@ -132,21 +136,22 @@ function FigureButton({ figure, onSelect, selected, correct, revealed, known = f
 }
 
 function Sources({ figures }: { figures: Figure[] }) {
-  const { text } = useLanguage();
+  const { language, text } = useLanguage();
   const report = useContext(ReportContext);
   return (
     <section className="sources" aria-labelledby="sources-title">
       <h2 id="sources-title">{text.sources}</h2>
-      {figures.map((figure) => (
-        <article key={figure.id} className="source-item">
-          <h3>{figure.displayName}: {figure.childrenCount}</h3>
-          <p>{figure.explanation}</p>
-          <p className="rule">{figure.countingRuleSummary}</p>
+      {figures.map((figure) => {
+        const localized = figureText(figure, language);
+        return <article key={figure.id} className="source-item">
+          <h3>{localized.displayName}: {figure.childrenCount}</h3>
+          <p>{localized.explanation}</p>
+          <p className="rule">{localized.countingRuleSummary}</p>
           <p className="image-credit">{text.portrait}: {figure.image.attribution} · <a href={figure.image.sourceUrl} target="_blank" rel="noreferrer">Wikimedia Commons ({figure.image.licence})</a></p>
           <ul>{figure.sources.map((source) => <li key={source.url}><a href={source.url} target="_blank" rel="noreferrer">{source.title}</a></li>)}</ul>
-        </article>
-      ))}
-      <button className="source-report" onClick={() => report("data", figures.map((figure) => figure.displayName).join(" and "))} type="button">{text.reportSource}</button>
+        </article>;
+      })}
+      <button className="source-report" onClick={() => report("data", figures.map((figure) => figureText(figure, language).displayName).join(" and "))} type="button">{text.reportSource}</button>
     </section>
   );
 }
@@ -169,6 +174,8 @@ function Home({ start, pool, setPool, chainedMatches, setChainedMatches }: { sta
   const dailyPreview = dailyQuestionsForDate(date, dailyCategory, figures)[0];
   const left = dailyPreview.left;
   const right = dailyPreview.right;
+  const leftText = figureText(left, language);
+  const rightText = figureText(right, language);
   const [moreOpen, setMoreOpen] = useState(false);
   const moreCloseRef = useRef<HTMLButtonElement>(null);
   useEffect(() => { if (moreOpen) moreCloseRef.current?.focus(); }, [moreOpen]);
@@ -195,9 +202,9 @@ function Home({ start, pool, setPool, chainedMatches, setChainedMatches }: { sta
             </div>
           </div>
           <div className="hero-showdown" aria-label={text.exampleComparison} data-label={language === "zh" ? "今日对决" : "TODAY'S PAIR"}>
-            <div className="hero-person"><Portrait figure={left} /><strong>{left.displayName}</strong><span>{left.descriptor}</span></div>
+            <div className="hero-person"><Portrait figure={left} /><strong>{leftText.displayName}</strong><span>{leftText.descriptor}</span></div>
             <div className="vs">VS</div>
-            <div className="hero-person"><Portrait figure={right} /><strong>{right.displayName}</strong><span>{right.descriptor}</span></div>
+            <div className="hero-person"><Portrait figure={right} /><strong>{rightText.displayName}</strong><span>{rightText.descriptor}</span></div>
             <p className="hero-question">{text.title}</p>
           </div>
         </section>
@@ -276,7 +283,7 @@ function FixedGame({ mode, questions, restart, home, pool, dailyDate, isPractice
         <h1>{text.title}</h1>
       </section>
       <div className="figures"><FigureButton figure={question.left} known={chained} onSelect={() => choose(question.left.id)} selected={selectedId === question.left.id} correct={winnerId === question.left.id} revealed={revealed} /><FigureButton figure={question.right} onSelect={() => choose(question.right.id)} selected={selectedId === question.right.id} correct={winnerId === question.right.id} revealed={revealed} /></div>
-      {revealed && <section className={`reveal ${selectedCorrect ? "positive" : "negative"}`} aria-live="polite"><h2>{selectedCorrect ? text.correct : text.incorrect}</h2><p>{selectedCorrect ? text.niceCall : `${question.left.childrenCount > question.right.childrenCount ? question.left.displayName : question.right.displayName}${language === "zh" ? "" : " "}${text.hadMoreChildren}`}</p><div className="reveal-actions"><button onClick={() => setShowSources((current) => !current)} type="button">{showSources ? text.hideSources : text.showSources}</button><button className="primary" onClick={() => { setIndex((current) => current + 1); setSelectedId(null); setShowSources(false); }} type="button">{index === questions.length - 1 ? text.seeResults : text.nextQuestion}</button></div>{showSources && <Sources figures={[question.left, question.right]} />}</section>}
+      {revealed && <section className={`reveal ${selectedCorrect ? "positive" : "negative"}`} aria-live="polite"><h2>{selectedCorrect ? text.correct : text.incorrect}</h2><p>{selectedCorrect ? text.niceCall : `${figureText(question.left.childrenCount > question.right.childrenCount ? question.left : question.right, language).displayName}${language === "zh" ? "" : " "}${text.hadMoreChildren}`}</p><div className="reveal-actions"><button onClick={() => setShowSources((current) => !current)} type="button">{showSources ? text.hideSources : text.showSources}</button><button className="primary" onClick={() => { setIndex((current) => current + 1); setSelectedId(null); setShowSources(false); }} type="button">{index === questions.length - 1 ? text.seeResults : text.nextQuestion}</button></div>{showSources && <Sources figures={[question.left, question.right]} />}</section>}
     </main>
   );
 }
@@ -384,7 +391,7 @@ function InfiniteGame({ restart, home, pool, chained }: { restart: () => void; h
         <h1>{text.title}</h1>
       </section>
       <div className="figures"><FigureButton figure={question.left} known={knownIds.has(question.left.id) || (chained && seenIds.length === 0)} onSelect={() => choose(question.left.id)} selected={selectedId === question.left.id} correct={winnerId === question.left.id} revealed={revealed} /><FigureButton figure={question.right} known={knownIds.has(question.right.id)} onSelect={() => choose(question.right.id)} selected={selectedId === question.right.id} correct={winnerId === question.right.id} revealed={revealed} /></div>
-      {revealed && !gameOver && <section className={`reveal ${selectedCorrect ? "positive" : "negative"}`} aria-live="polite"><h2>{selectedCorrect ? text.correct : text.incorrect}</h2><p>{selectedCorrect ? text.streakContinues : `${question.left.childrenCount > question.right.childrenCount ? question.left.displayName : question.right.displayName}${language === "zh" ? "" : " "}${text.hadMoreChildren}`}</p><div className="reveal-actions"><button onClick={() => setShowSources((current) => !current)} type="button">{showSources ? text.hideSources : text.showSources}</button><button className="primary" onClick={nextQuestion} type="button">{text.nextMatch}</button></div>{showSources && <Sources figures={[question.left, question.right]} />}</section>}
+      {revealed && !gameOver && <section className={`reveal ${selectedCorrect ? "positive" : "negative"}`} aria-live="polite"><h2>{selectedCorrect ? text.correct : text.incorrect}</h2><p>{selectedCorrect ? text.streakContinues : `${figureText(question.left.childrenCount > question.right.childrenCount ? question.left : question.right, language).displayName}${language === "zh" ? "" : " "}${text.hadMoreChildren}`}</p><div className="reveal-actions"><button onClick={() => setShowSources((current) => !current)} type="button">{showSources ? text.hideSources : text.showSources}</button><button className="primary" onClick={nextQuestion} type="button">{text.nextMatch}</button></div>{showSources && <Sources figures={[question.left, question.right]} />}</section>}
       {gameOver && <div className="modal-backdrop"><section aria-labelledby="run-over-title" aria-modal="true" className="game-over" role="dialog"><p className="eyebrow">{text.infiniteMode}</p><h2 id="run-over-title">{finished ? text.everySeen : text.runOver}</h2><p>{finished ? (language === "zh" ? `你已经看完目前${poolLabel(pool, language)}题库中的所有人物。` : `You reached the end of the current ${poolLabel(pool, language)} pool.`) : text.noLives}</p><div className="run-stats"><span>{text.score} <strong>{score}</strong></span><span>{text.bestStreak} <strong>{runBest}</strong></span></div><div className="reveal-actions"><button className="primary" onClick={onShare} type="button">{text.shareResult}</button><button onClick={restart} type="button">{text.playAgain}</button><button onClick={home} type="button">{text.returnHome}</button></div>{notice && <p className="notice" role="status">{notice}</p>}</section></div>}
     </main>
   );

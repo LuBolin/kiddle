@@ -112,7 +112,6 @@ for (const [id, title] of Object.entries(titles)) {
   figure.tags ??= tags[id] ?? [];
   figure.image = {
     url: thumbnailUrl,
-    alt: `Portrait of ${figure.displayName}`,
     sourceUrl: image.descriptionurl,
     licence: license,
     attribution: plainText(image.extmetadata?.Artist?.value ?? "Wikimedia Commons contributor"),

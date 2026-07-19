@@ -1,19 +1,14 @@
 [
   {
     "id": "queen-victoria",
-    "displayName": "Queen Victoria",
-    "descriptor": "British monarch",
     "category": "western-history",
     "childrenCount": 9,
     "countType": "exact",
-    "countingRuleSummary": "Nine documented children with Prince Albert.",
-    "explanation": "Victoria and Prince Albert had nine children, who married into royal houses across Europe.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/500px-Queen_Victoria_by_Bassano.jpg",
-      "alt": "Portrait of Queen Victoria",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_Victoria_by_Bassano.jpg",
       "licence": "Public domain",
       "attribution": "Alexander Bassano"
@@ -27,23 +22,34 @@
     "tags": [
       "british-monarchy",
       "royalty"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Queen Victoria",
+        "descriptor": "British monarch",
+        "countingRuleSummary": "Nine documented children with Prince Albert.",
+        "explanation": "Victoria and Prince Albert had nine children, who married into royal houses across Europe.",
+        "imageAlt": "Portrait of Queen Victoria"
+      },
+      "zh": {
+        "displayName": "维多利亚女王",
+        "descriptor": "英国君主",
+        "countingRuleSummary": "据记载与阿尔伯特亲王育有九名子女。",
+        "explanation": "维多利亚与阿尔伯特亲王育有九名子女，他们与欧洲各国王室联姻。",
+        "imageAlt": "维多利亚女王肖像"
+      }
+    }
   },
   {
     "id": "george-iii",
-    "displayName": "George III",
-    "descriptor": "British monarch",
     "category": "western-history",
     "childrenCount": 15,
     "countType": "exact",
-    "countingRuleSummary": "Fifteen documented children with Queen Charlotte.",
-    "explanation": "George III and Queen Charlotte had fifteen children.",
     "confidence": "high",
     "recognisabilityScore": 4,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg/500px-Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg",
-      "alt": "Portrait of George III",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg",
       "licence": "Public domain",
       "attribution": "Allan Ramsay"
@@ -57,23 +63,34 @@
     "tags": [
       "british-monarchy",
       "royalty"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "George III",
+        "descriptor": "British monarch",
+        "countingRuleSummary": "Fifteen documented children with Queen Charlotte.",
+        "explanation": "George III and Queen Charlotte had fifteen children.",
+        "imageAlt": "Portrait of George III"
+      },
+      "zh": {
+        "displayName": "乔治三世",
+        "descriptor": "英国君主",
+        "countingRuleSummary": "据记载与夏洛特王后育有十五名子女。",
+        "explanation": "乔治三世与夏洛特王后育有十五名子女。",
+        "imageAlt": "乔治三世肖像"
+      }
+    }
   },
   {
     "id": "elizabeth-ii",
-    "displayName": "Elizabeth II",
-    "descriptor": "British monarch",
     "category": "western-history",
     "childrenCount": 4,
     "countType": "exact",
-    "countingRuleSummary": "Four documented children with Prince Philip.",
-    "explanation": "Elizabeth II and Prince Philip had four children.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/500px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg",
-      "alt": "Portrait of Elizabeth II",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
       "licence": "Public domain",
       "attribution": "Donald McKague"
@@ -87,23 +104,34 @@
     "tags": [
       "british-monarchy",
       "royalty"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Elizabeth II",
+        "descriptor": "British monarch",
+        "countingRuleSummary": "Four documented children with Prince Philip.",
+        "explanation": "Elizabeth II and Prince Philip had four children.",
+        "imageAlt": "Portrait of Elizabeth II"
+      },
+      "zh": {
+        "displayName": "伊丽莎白二世",
+        "descriptor": "英国君主",
+        "countingRuleSummary": "据记载与菲利普亲王育有四名子女。",
+        "explanation": "伊丽莎白二世与菲利普亲王育有四名子女。",
+        "imageAlt": "伊丽莎白二世肖像"
+      }
+    }
   },
   {
     "id": "george-v",
-    "displayName": "George V",
-    "descriptor": "British monarch",
     "category": "western-history",
     "childrenCount": 6,
     "countType": "exact",
-    "countingRuleSummary": "Six documented children with Queen Mary.",
-    "explanation": "George V and Queen Mary had six children.",
     "confidence": "high",
     "recognisabilityScore": 3,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/King_George_1923_LCCN2014715558_%28cropped%29.jpg/500px-King_George_1923_LCCN2014715558_%28cropped%29.jpg",
-      "alt": "Portrait of George V",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_George_1923_LCCN2014715558_(cropped).jpg",
       "licence": "Public domain",
       "attribution": "Bassano Ltd"
@@ -117,23 +145,34 @@
     "tags": [
       "british-monarchy",
       "royalty"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "George V",
+        "descriptor": "British monarch",
+        "countingRuleSummary": "Six documented children with Queen Mary.",
+        "explanation": "George V and Queen Mary had six children.",
+        "imageAlt": "Portrait of George V"
+      },
+      "zh": {
+        "displayName": "乔治五世",
+        "descriptor": "英国君主",
+        "countingRuleSummary": "据记载与玛丽王后育有六名子女。",
+        "explanation": "乔治五世与玛丽王后育有六名子女。",
+        "imageAlt": "乔治五世肖像"
+      }
+    }
   },
   {
     "id": "george-vi",
-    "displayName": "George VI",
-    "descriptor": "British monarch",
     "category": "western-history",
     "childrenCount": 2,
     "countType": "exact",
-    "countingRuleSummary": "Two documented daughters with Queen Elizabeth.",
-    "explanation": "George VI and Queen Elizabeth had two daughters: Elizabeth and Margaret.",
     "confidence": "high",
     "recognisabilityScore": 4,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg/500px-King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg",
-      "alt": "Portrait of George VI",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_George_VI_LOC_matpc.14736_A_(cropped).jpg",
       "licence": "Public domain",
       "attribution": "Matson Photo Service"
@@ -147,23 +186,34 @@
     "tags": [
       "british-monarchy",
       "royalty"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "George VI",
+        "descriptor": "British monarch",
+        "countingRuleSummary": "Two documented daughters with Queen Elizabeth.",
+        "explanation": "George VI and Queen Elizabeth had two daughters: Elizabeth and Margaret.",
+        "imageAlt": "Portrait of George VI"
+      },
+      "zh": {
+        "displayName": "乔治六世",
+        "descriptor": "英国君主",
+        "countingRuleSummary": "据记载与伊丽莎白王后育有两名女儿。",
+        "explanation": "乔治六世与伊丽莎白王后育有两名女儿：伊丽莎白和玛格丽特。",
+        "imageAlt": "乔治六世肖像"
+      }
+    }
   },
   {
     "id": "charles-i",
-    "displayName": "Charles I",
-    "descriptor": "British monarch",
     "category": "western-history",
     "childrenCount": 9,
     "countType": "exact",
-    "countingRuleSummary": "Nine documented children with Henrietta Maria.",
-    "explanation": "Charles I and Henrietta Maria had nine children.",
     "confidence": "high",
     "recognisabilityScore": 3,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg/500px-King_Charles_I_after_original_by_van_Dyck.jpg",
-      "alt": "Portrait of Charles I",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_Charles_I_after_original_by_van_Dyck.jpg",
       "licence": "Public domain",
       "attribution": "Workshop of Anthony van Dyck"
@@ -177,23 +227,34 @@
     "tags": [
       "british-monarchy",
       "royalty"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Charles I",
+        "descriptor": "British monarch",
+        "countingRuleSummary": "Nine documented children with Henrietta Maria.",
+        "explanation": "Charles I and Henrietta Maria had nine children.",
+        "imageAlt": "Portrait of Charles I"
+      },
+      "zh": {
+        "displayName": "查理一世",
+        "descriptor": "英国君主",
+        "countingRuleSummary": "据记载与亨丽埃塔·玛丽亚育有九名子女。",
+        "explanation": "查理一世与亨丽埃塔·玛丽亚育有九名子女。",
+        "imageAlt": "查理一世肖像"
+      }
+    }
   },
   {
     "id": "james-i",
-    "displayName": "James I and VI",
-    "descriptor": "King of England and Scotland",
     "category": "western-history",
     "childrenCount": 8,
     "countType": "exact",
-    "countingRuleSummary": "Eight documented children with Anne of Denmark.",
-    "explanation": "James and Anne of Denmark had eight children, though only three survived infancy.",
     "confidence": "medium",
     "recognisabilityScore": 3,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/JamesIEngland.jpg/500px-JamesIEngland.jpg",
-      "alt": "Portrait of James I and VI",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:JamesIEngland.jpg",
       "licence": "Public domain",
       "attribution": "Attributed to John de Critz"
@@ -207,23 +268,34 @@
     "tags": [
       "british-monarchy",
       "royalty"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "James I and VI",
+        "descriptor": "King of England and Scotland",
+        "countingRuleSummary": "Eight documented children with Anne of Denmark.",
+        "explanation": "James and Anne of Denmark had eight children, though only three survived infancy.",
+        "imageAlt": "Portrait of James I and VI"
+      },
+      "zh": {
+        "displayName": "詹姆斯一世及六世",
+        "descriptor": "英格兰及苏格兰国王",
+        "countingRuleSummary": "据记载与丹麦的安妮育有八名子女。",
+        "explanation": "詹姆斯与丹麦的安妮育有八名子女，但仅三人存活至成年。",
+        "imageAlt": "詹姆斯一世及六世肖像"
+      }
+    }
   },
   {
     "id": "mary-queen-of-scots",
-    "displayName": "Mary, Queen of Scots",
-    "descriptor": "Queen of Scotland",
     "category": "western-history",
     "childrenCount": 1,
     "countType": "exact",
-    "countingRuleSummary": "One documented child, James VI and I.",
-    "explanation": "Mary had one child, the future James VI and I.",
     "confidence": "high",
     "recognisabilityScore": 4,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg/500px-Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg",
-      "alt": "Portrait of Mary, Queen of Scots",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Clouet_-_Mary,_Queen_of_Scots_(1542-87)_-_Google_Art_Project.jpg",
       "licence": "Public domain",
       "attribution": "François Clouet"
@@ -237,23 +309,34 @@
     "tags": [
       "scottish-monarchy",
       "royalty"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Mary, Queen of Scots",
+        "descriptor": "Queen of Scotland",
+        "countingRuleSummary": "One documented child, James VI and I.",
+        "explanation": "Mary had one child, the future James VI and I.",
+        "imageAlt": "Portrait of Mary, Queen of Scots"
+      },
+      "zh": {
+        "displayName": "苏格兰女王玛丽",
+        "descriptor": "苏格兰女王",
+        "countingRuleSummary": "据记载有一名子女：詹姆斯六世及一世。",
+        "explanation": "玛丽有一名子女，即后来的詹姆斯六世及一世。",
+        "imageAlt": "苏格兰女王玛丽肖像"
+      }
+    }
   },
   {
     "id": "elizabeth-i",
-    "displayName": "Elizabeth I",
-    "descriptor": "Queen of England",
     "category": "western-history",
     "childrenCount": 0,
     "countType": "exact",
-    "countingRuleSummary": "Elizabeth I did not have children.",
-    "explanation": "Elizabeth I never married and had no children.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Darnley_stage_3.jpg/500px-Darnley_stage_3.jpg",
-      "alt": "Portrait of Elizabeth I",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Darnley_stage_3.jpg",
       "licence": "Public domain",
       "attribution": "Unidentified painter"
@@ -267,23 +350,34 @@
     "tags": [
       "british-monarchy",
       "royalty"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Elizabeth I",
+        "descriptor": "Queen of England",
+        "countingRuleSummary": "Elizabeth I did not have children.",
+        "explanation": "Elizabeth I never married and had no children.",
+        "imageAlt": "Portrait of Elizabeth I"
+      },
+      "zh": {
+        "displayName": "伊丽莎白一世",
+        "descriptor": "英格兰女王",
+        "countingRuleSummary": "伊丽莎白一世无子女。",
+        "explanation": "伊丽莎白一世终身未婚，无子女。",
+        "imageAlt": "伊丽莎白一世肖像"
+      }
+    }
   },
   {
     "id": "william-shakespeare",
-    "displayName": "William Shakespeare",
-    "descriptor": "English playwright",
     "category": "western-history",
     "childrenCount": 3,
     "countType": "exact",
-    "countingRuleSummary": "Three documented children with Anne Hathaway.",
-    "explanation": "Shakespeare and Anne Hathaway had three children: Susanna, and twins Hamnet and Judith.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg/500px-William_Shakespeare_by_John_Taylor%2C_edited.jpg",
-      "alt": "Portrait of William Shakespeare",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_Shakespeare_by_John_Taylor,_edited.jpg",
       "licence": "Public domain",
       "attribution": "Attributed to John Taylor"
@@ -297,23 +391,34 @@
     "tags": [
       "writer",
       "english-literature"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "William Shakespeare",
+        "descriptor": "English playwright",
+        "countingRuleSummary": "Three documented children with Anne Hathaway.",
+        "explanation": "Shakespeare and Anne Hathaway had three children: Susanna, and twins Hamnet and Judith.",
+        "imageAlt": "Portrait of William Shakespeare"
+      },
+      "zh": {
+        "displayName": "威廉·莎士比亚",
+        "descriptor": "英国剧作家",
+        "countingRuleSummary": "据记载与安妮·海瑟薇育有三名子女。",
+        "explanation": "莎士比亚与安妮·海瑟薇育有三名子女：苏珊娜，以及双胞胎哈姆内特和朱迪丝。",
+        "imageAlt": "威廉·莎士比亚肖像"
+      }
+    }
   },
   {
     "id": "charles-dickens",
-    "displayName": "Charles Dickens",
-    "descriptor": "English novelist",
     "category": "western-history",
     "childrenCount": 10,
     "countType": "exact",
-    "countingRuleSummary": "Ten documented children with Catherine Hogarth.",
-    "explanation": "Charles Dickens and Catherine Hogarth had ten children.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dickens_Gurney_head.jpg/500px-Dickens_Gurney_head.jpg",
-      "alt": "Portrait of Charles Dickens",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dickens_Gurney_head.jpg",
       "licence": "Public domain",
       "attribution": "Jeremiah Gurney"
@@ -327,23 +432,34 @@
     "tags": [
       "writer",
       "english-literature"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Charles Dickens",
+        "descriptor": "English novelist",
+        "countingRuleSummary": "Ten documented children with Catherine Hogarth.",
+        "explanation": "Charles Dickens and Catherine Hogarth had ten children.",
+        "imageAlt": "Portrait of Charles Dickens"
+      },
+      "zh": {
+        "displayName": "查尔斯·狄更斯",
+        "descriptor": "英国小说家",
+        "countingRuleSummary": "据记载与凯瑟琳·霍加斯育有十名子女。",
+        "explanation": "查尔斯·狄更斯与凯瑟琳·霍加斯育有十名子女。",
+        "imageAlt": "查尔斯·狄更斯肖像"
+      }
+    }
   },
   {
     "id": "charles-darwin",
-    "displayName": "Charles Darwin",
-    "descriptor": "Naturalist",
     "category": "western-history",
     "childrenCount": 10,
     "countType": "exact",
-    "countingRuleSummary": "Ten documented children with Emma Darwin.",
-    "explanation": "Charles and Emma Darwin had ten children.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/500px-Charles_Darwin_seated_crop.jpg",
-      "alt": "Portrait of Charles Darwin",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_seated_crop.jpg",
       "licence": "Public domain",
       "attribution": "Charles_Darwin_seated.jpg : Henry Maull (1829–1914) and John Fox (1832–1907) (Maull & Fox) [ 3 ] derivative work: Bea o"
@@ -357,23 +473,34 @@
     "tags": [
       "scientist",
       "natural-history"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Charles Darwin",
+        "descriptor": "Naturalist",
+        "countingRuleSummary": "Ten documented children with Emma Darwin.",
+        "explanation": "Charles and Emma Darwin had ten children.",
+        "imageAlt": "Portrait of Charles Darwin"
+      },
+      "zh": {
+        "displayName": "查尔斯·达尔文",
+        "descriptor": "博物学家",
+        "countingRuleSummary": "据记载与爱玛·达尔文育有十名子女。",
+        "explanation": "查尔斯与爱玛·达尔文育有十名子女。",
+        "imageAlt": "查尔斯·达尔文肖像"
+      }
+    }
   },
   {
     "id": "jane-austen",
-    "displayName": "Jane Austen",
-    "descriptor": "English novelist",
     "category": "western-history",
     "childrenCount": 0,
     "countType": "exact",
-    "countingRuleSummary": "Jane Austen had no children.",
-    "explanation": "Jane Austen never married and had no children.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg/500px-CassandraAusten-JaneAusten%28c.1810%29_hires.jpg",
-      "alt": "Portrait of Jane Austen",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:CassandraAusten-JaneAusten(c.1810)_hires.jpg",
       "licence": "Public domain",
       "attribution": "Cassandra Austen"
@@ -387,23 +514,34 @@
     "tags": [
       "writer",
       "english-literature"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Jane Austen",
+        "descriptor": "English novelist",
+        "countingRuleSummary": "Jane Austen had no children.",
+        "explanation": "Jane Austen never married and had no children.",
+        "imageAlt": "Portrait of Jane Austen"
+      },
+      "zh": {
+        "displayName": "简·奥斯汀",
+        "descriptor": "英国小说家",
+        "countingRuleSummary": "简·奥斯汀无子女。",
+        "explanation": "简·奥斯汀终身未婚，无子女。",
+        "imageAlt": "简·奥斯汀肖像"
+      }
+    }
   },
   {
     "id": "isaac-newton",
-    "displayName": "Isaac Newton",
-    "descriptor": "Physicist and mathematician",
     "category": "western-history",
     "childrenCount": 0,
     "countType": "exact",
-    "countingRuleSummary": "Isaac Newton did not marry or have children.",
-    "explanation": "Newton did not marry and had no children.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/500px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg",
-      "alt": "Portrait of Isaac Newton",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg",
       "licence": "Public domain",
       "attribution": "Godfrey Kneller"
@@ -417,23 +555,34 @@
     "tags": [
       "scientist",
       "physics"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Isaac Newton",
+        "descriptor": "Physicist and mathematician",
+        "countingRuleSummary": "Isaac Newton did not marry or have children.",
+        "explanation": "Newton did not marry and had no children.",
+        "imageAlt": "Portrait of Isaac Newton"
+      },
+      "zh": {
+        "displayName": "艾萨克·牛顿",
+        "descriptor": "物理学家兼数学家",
+        "countingRuleSummary": "艾萨克·牛顿未结婚，无子女。",
+        "explanation": "牛顿未结婚，无子女。",
+        "imageAlt": "艾萨克·牛顿肖像"
+      }
+    }
   },
   {
     "id": "marie-curie",
-    "displayName": "Marie Curie",
-    "descriptor": "Physicist and chemist",
     "category": "western-history",
     "childrenCount": 2,
     "countType": "exact",
-    "countingRuleSummary": "Two documented daughters with Pierre Curie.",
-    "explanation": "Marie and Pierre Curie had two daughters, Irène and Ève.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/500px-Marie_Curie_c._1920s.jpg",
-      "alt": "Portrait of Marie Curie",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s.jpg",
       "licence": "Public domain",
       "attribution": "Henri Manuel"
@@ -447,23 +596,34 @@
     "tags": [
       "scientist",
       "nobel-laureate"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Marie Curie",
+        "descriptor": "Physicist and chemist",
+        "countingRuleSummary": "Two documented daughters with Pierre Curie.",
+        "explanation": "Marie and Pierre Curie had two daughters, Irène and Ève.",
+        "imageAlt": "Portrait of Marie Curie"
+      },
+      "zh": {
+        "displayName": "玛丽·居里",
+        "descriptor": "物理学家兼化学家",
+        "countingRuleSummary": "据记载与皮埃尔·居里育有两名女儿。",
+        "explanation": "玛丽与皮埃尔·居里育有两名女儿：伊雷娜和艾芙。",
+        "imageAlt": "玛丽·居里肖像"
+      }
+    }
   },
   {
     "id": "florence-nightingale",
-    "displayName": "Florence Nightingale",
-    "descriptor": "Nursing reformer",
     "category": "western-history",
     "childrenCount": 0,
     "countType": "exact",
-    "countingRuleSummary": "Florence Nightingale did not have children.",
-    "explanation": "Nightingale did not marry and had no children.",
     "confidence": "high",
     "recognisabilityScore": 4,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg/500px-Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg",
-      "alt": "Portrait of Florence Nightingale",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Florence_Nightingale_(H_Hering_NPG_x82368).jpg",
       "licence": "Public domain",
       "attribution": "Henry Hering (1814-1893)"
@@ -477,23 +637,34 @@
     "tags": [
       "nursing",
       "social-reformer"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Florence Nightingale",
+        "descriptor": "Nursing reformer",
+        "countingRuleSummary": "Florence Nightingale did not have children.",
+        "explanation": "Nightingale did not marry and had no children.",
+        "imageAlt": "Portrait of Florence Nightingale"
+      },
+      "zh": {
+        "displayName": "弗洛伦斯·南丁格尔",
+        "descriptor": "护理改革者",
+        "countingRuleSummary": "弗洛伦斯·南丁格尔无子女。",
+        "explanation": "南丁格尔未结婚，无子女。",
+        "imageAlt": "弗洛伦斯·南丁格尔肖像"
+      }
+    }
   },
   {
     "id": "winston-churchill",
-    "displayName": "Winston Churchill",
-    "descriptor": "British prime minister",
     "category": "western-history",
     "childrenCount": 5,
     "countType": "exact",
-    "countingRuleSummary": "Five documented children with Clementine Churchill.",
-    "explanation": "Winston and Clementine Churchill had five children.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/500px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg",
-      "alt": "Portrait of Winston Churchill",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sir_Winston_Churchill_-_19086236948_(restored).jpg",
       "licence": "Public domain",
       "attribution": "Yousuf Karsh"
@@ -507,23 +678,34 @@
     "tags": [
       "british-politics",
       "prime-minister"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Winston Churchill",
+        "descriptor": "British prime minister",
+        "countingRuleSummary": "Five documented children with Clementine Churchill.",
+        "explanation": "Winston and Clementine Churchill had five children.",
+        "imageAlt": "Portrait of Winston Churchill"
+      },
+      "zh": {
+        "displayName": "温斯顿·丘吉尔",
+        "descriptor": "英国首相",
+        "countingRuleSummary": "据记载与克莱门汀·丘吉尔育有五名子女。",
+        "explanation": "温斯顿与克莱门汀·丘吉尔育有五名子女。",
+        "imageAlt": "温斯顿·丘吉尔肖像"
+      }
+    }
   },
   {
     "id": "george-washington",
-    "displayName": "George Washington",
-    "descriptor": "First U.S. president",
     "category": "western-history",
     "childrenCount": 0,
     "countType": "exact",
-    "countingRuleSummary": "George Washington had no biological or adopted children.",
-    "explanation": "George Washington had no biological or legally adopted children.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/500px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
-      "alt": "Portrait of George Washington",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
       "licence": "Public domain",
       "attribution": "Gilbert Stuart"
@@ -537,23 +719,34 @@
     "tags": [
       "us-president",
       "american-founder"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "George Washington",
+        "descriptor": "First U.S. president",
+        "countingRuleSummary": "George Washington had no biological or adopted children.",
+        "explanation": "George Washington had no biological or legally adopted children.",
+        "imageAlt": "Portrait of George Washington"
+      },
+      "zh": {
+        "displayName": "乔治·华盛顿",
+        "descriptor": "美国第一任总统",
+        "countingRuleSummary": "乔治·华盛顿无亲生或收养子女。",
+        "explanation": "乔治·华盛顿无亲生或合法收养子女。",
+        "imageAlt": "乔治·华盛顿肖像"
+      }
+    }
   },
   {
     "id": "thomas-jefferson",
-    "displayName": "Thomas Jefferson",
-    "descriptor": "U.S. president",
     "category": "western-history",
     "childrenCount": 6,
     "countType": "exact",
-    "countingRuleSummary": "Six documented children with Martha Wayles Skelton Jefferson.",
-    "explanation": "This candidate needs a full count review before it can meet Kiddle's counting rules.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "disabled",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg/500px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg",
-      "alt": "Portrait of Thomas Jefferson",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Official_Presidential_portrait_of_Thomas_Jefferson_(by_Rembrandt_Peale,_1800).jpg",
       "licence": "Public domain",
       "attribution": "Rembrandt Peale"
@@ -567,23 +760,34 @@
     "tags": [
       "us-president",
       "american-founder"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Thomas Jefferson",
+        "descriptor": "U.S. president",
+        "countingRuleSummary": "Six documented children with Martha Wayles Skelton Jefferson.",
+        "explanation": "This candidate needs a full count review before it can meet Kiddle's counting rules.",
+        "imageAlt": "Portrait of Thomas Jefferson"
+      },
+      "zh": {
+        "displayName": "托马斯·杰斐逊",
+        "descriptor": "美国总统",
+        "countingRuleSummary": "据记载与玛莎·韦尔斯·斯凯尔顿·杰斐逊育有六名子女。",
+        "explanation": "该人物需要完整的子女数量审查才能符合 Kiddle 的计数规则。",
+        "imageAlt": "托马斯·杰斐逊肖像"
+      }
+    }
   },
   {
     "id": "john-adams",
-    "displayName": "John Adams",
-    "descriptor": "Second U.S. president",
     "category": "western-history",
     "childrenCount": 6,
     "countType": "exact",
-    "countingRuleSummary": "Six documented children with Abigail Adams.",
-    "explanation": "John and Abigail Adams had six children.",
     "confidence": "high",
     "recognisabilityScore": 4,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/John_Adams_Portrait.jpg/500px-John_Adams_Portrait.jpg",
-      "alt": "Portrait of John Adams",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Adams_Portrait.jpg",
       "licence": "Public domain",
       "attribution": "Gilbert Stuart"
@@ -597,23 +801,34 @@
     "tags": [
       "us-president",
       "american-founder"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "John Adams",
+        "descriptor": "Second U.S. president",
+        "countingRuleSummary": "Six documented children with Abigail Adams.",
+        "explanation": "John and Abigail Adams had six children.",
+        "imageAlt": "Portrait of John Adams"
+      },
+      "zh": {
+        "displayName": "约翰·亚当斯",
+        "descriptor": "美国第二任总统",
+        "countingRuleSummary": "据记载与阿比盖尔·亚当斯育有六名子女。",
+        "explanation": "约翰与阿比盖尔·亚当斯育有六名子女。",
+        "imageAlt": "约翰·亚当斯肖像"
+      }
+    }
   },
   {
     "id": "abraham-lincoln",
-    "displayName": "Abraham Lincoln",
-    "descriptor": "U.S. president",
     "category": "western-history",
     "childrenCount": 4,
     "countType": "exact",
-    "countingRuleSummary": "Four documented sons with Mary Todd Lincoln.",
-    "explanation": "Abraham and Mary Todd Lincoln had four sons.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg/500px-Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg",
-      "alt": "Portrait of Abraham Lincoln",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_1863_Portrait_(3x4_cropped).jpg",
       "licence": "Public domain",
       "attribution": "Alexander Gardner"
@@ -627,23 +842,34 @@
     "tags": [
       "us-president",
       "american-civil-war"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Abraham Lincoln",
+        "descriptor": "U.S. president",
+        "countingRuleSummary": "Four documented sons with Mary Todd Lincoln.",
+        "explanation": "Abraham and Mary Todd Lincoln had four sons.",
+        "imageAlt": "Portrait of Abraham Lincoln"
+      },
+      "zh": {
+        "displayName": "亚伯拉罕·林肯",
+        "descriptor": "美国总统",
+        "countingRuleSummary": "据记载与玛丽·托德·林肯育有四名儿子。",
+        "explanation": "亚伯拉罕与玛丽·托德·林肯育有四名儿子。",
+        "imageAlt": "亚伯拉罕·林肯肖像"
+      }
+    }
   },
   {
     "id": "theodore-roosevelt",
-    "displayName": "Theodore Roosevelt",
-    "descriptor": "U.S. president",
     "category": "western-history",
     "childrenCount": 6,
     "countType": "exact",
-    "countingRuleSummary": "Six documented children across two marriages.",
-    "explanation": "Theodore Roosevelt had six children across his marriages to Alice Hathaway Lee and Edith Carow Roosevelt.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%282%29.jpg/500px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29_%282%29.jpg",
-      "alt": "Portrait of Theodore Roosevelt",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt_by_the_Pach_Bros_(4x5_cropped)_(2).jpg",
       "licence": "Public domain",
       "attribution": "Adam Cuerden"
@@ -657,23 +883,34 @@
     "tags": [
       "us-president",
       "progressive-era"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Theodore Roosevelt",
+        "descriptor": "U.S. president",
+        "countingRuleSummary": "Six documented children across two marriages.",
+        "explanation": "Theodore Roosevelt had six children across his marriages to Alice Hathaway Lee and Edith Carow Roosevelt.",
+        "imageAlt": "Portrait of Theodore Roosevelt"
+      },
+      "zh": {
+        "displayName": "西奥多·罗斯福",
+        "descriptor": "美国总统",
+        "countingRuleSummary": "据记载在两段婚姻中共有六名子女。",
+        "explanation": "西奥多·罗斯福在两段婚姻中共有六名子女。",
+        "imageAlt": "西奥多·罗斯福肖像"
+      }
+    }
   },
   {
     "id": "franklin-roosevelt",
-    "displayName": "Franklin D. Roosevelt",
-    "descriptor": "U.S. president",
     "category": "western-history",
     "childrenCount": 6,
     "countType": "exact",
-    "countingRuleSummary": "Six documented children with Eleanor Roosevelt.",
-    "explanation": "Franklin and Eleanor Roosevelt had six children.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/500px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg",
-      "alt": "Portrait of Franklin D. Roosevelt",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:FDR-1944-Campaign-Portrait_(3x4_retouched,_cropped).jpg",
       "licence": "CC BY 2.0",
       "attribution": "Leon Perskie"
@@ -687,23 +924,34 @@
     "tags": [
       "us-president",
       "world-war-ii"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Franklin D. Roosevelt",
+        "descriptor": "U.S. president",
+        "countingRuleSummary": "Six documented children with Eleanor Roosevelt.",
+        "explanation": "Franklin and Eleanor Roosevelt had six children.",
+        "imageAlt": "Portrait of Franklin D. Roosevelt"
+      },
+      "zh": {
+        "displayName": "富兰克林·D·罗斯福",
+        "descriptor": "美国总统",
+        "countingRuleSummary": "据记载与埃莉诺·罗斯福育有六名子女。",
+        "explanation": "富兰克林与埃莉诺·罗斯福育有六名子女。",
+        "imageAlt": "富兰克林·D·罗斯福肖像"
+      }
+    }
   },
   {
     "id": "ulysses-grant",
-    "displayName": "Ulysses S. Grant",
-    "descriptor": "U.S. president and general",
     "category": "western-history",
     "childrenCount": 4,
     "countType": "exact",
-    "countingRuleSummary": "Four documented children with Julia Grant.",
-    "explanation": "Ulysses and Julia Grant had four children.",
     "confidence": "high",
     "recognisabilityScore": 4,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ulysses_S._Grant_1870-1880_%28cropped%29.jpg/500px-Ulysses_S._Grant_1870-1880_%28cropped%29.jpg",
-      "alt": "Portrait of Ulysses S. Grant",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ulysses_S._Grant_1870-1880_(cropped).jpg",
       "licence": "Public domain",
       "attribution": "Brady-Handy Photograph Collection, Library of Congress"
@@ -717,23 +965,34 @@
     "tags": [
       "us-president",
       "american-civil-war"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Ulysses S. Grant",
+        "descriptor": "U.S. president and general",
+        "countingRuleSummary": "Four documented children with Julia Grant.",
+        "explanation": "Ulysses and Julia Grant had four children.",
+        "imageAlt": "Portrait of Ulysses S. Grant"
+      },
+      "zh": {
+        "displayName": "尤利西斯·S·格兰特",
+        "descriptor": "美国总统兼将军",
+        "countingRuleSummary": "据记载与朱莉娅·格兰特育有四名子女。",
+        "explanation": "尤利西斯与朱莉娅·格兰特育有四名子女。",
+        "imageAlt": "尤利西斯·S·格兰特肖像"
+      }
+    }
   },
   {
     "id": "alexander-hamilton",
-    "displayName": "Alexander Hamilton",
-    "descriptor": "U.S. statesman",
     "category": "western-history",
     "childrenCount": 8,
     "countType": "exact",
-    "countingRuleSummary": "Eight documented children with Elizabeth Schuyler Hamilton.",
-    "explanation": "Alexander and Elizabeth Hamilton had eight children.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alexander_Hamilton_%28NPG%29.jpg/500px-Alexander_Hamilton_%28NPG%29.jpg",
-      "alt": "Portrait of Alexander Hamilton",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexander_Hamilton_(NPG).jpg",
       "licence": "Public domain",
       "attribution": "John Trumbull / Giuseppe Ceracchi"
@@ -747,23 +1006,34 @@
     "tags": [
       "american-founder",
       "statesman"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Alexander Hamilton",
+        "descriptor": "U.S. statesman",
+        "countingRuleSummary": "Eight documented children with Elizabeth Schuyler Hamilton.",
+        "explanation": "Alexander and Elizabeth Hamilton had eight children.",
+        "imageAlt": "Portrait of Alexander Hamilton"
+      },
+      "zh": {
+        "displayName": "亚历山大·汉密尔顿",
+        "descriptor": "美国政治家",
+        "countingRuleSummary": "据记载与伊丽莎白·斯凯勒·汉密尔顿育有八名子女。",
+        "explanation": "亚历山大与伊丽莎白·汉密尔顿育有八名子女。",
+        "imageAlt": "亚历山大·汉密尔顿肖像"
+      }
+    }
   },
   {
     "id": "benjamin-franklin",
-    "displayName": "Benjamin Franklin",
-    "descriptor": "U.S. statesman and inventor",
     "category": "western-history",
     "childrenCount": 3,
     "countType": "exact",
-    "countingRuleSummary": "Three documented children: William, Francis, and Sarah.",
-    "explanation": "Benjamin Franklin had three documented children.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/500px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg",
-      "alt": "Portrait of Benjamin Franklin",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg",
       "licence": "Public domain",
       "attribution": "Joseph-Siffred Duplessis"
@@ -777,23 +1047,34 @@
     "tags": [
       "american-founder",
       "inventor"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Benjamin Franklin",
+        "descriptor": "U.S. statesman and inventor",
+        "countingRuleSummary": "Three documented children: William, Francis, and Sarah.",
+        "explanation": "Benjamin Franklin had three documented children.",
+        "imageAlt": "Portrait of Benjamin Franklin"
+      },
+      "zh": {
+        "displayName": "本杰明·富兰克林",
+        "descriptor": "美国政治家兼发明家",
+        "countingRuleSummary": "据记载有三名子女：威廉、弗朗西斯和莎拉。",
+        "explanation": "本杰明·富兰克林有三名有记载的子女。",
+        "imageAlt": "本杰明·富兰克林肖像"
+      }
+    }
   },
   {
     "id": "johann-bach",
-    "displayName": "J. S. Bach",
-    "descriptor": "German composer",
     "category": "western-history",
     "childrenCount": 20,
     "countType": "exact",
-    "countingRuleSummary": "Twenty documented children across two marriages.",
-    "explanation": "Johann Sebastian Bach had twenty children with Maria Barbara Bach and Anna Magdalena Bach.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/500px-Johann_Sebastian_Bach.jpg",
-      "alt": "Portrait of J. S. Bach",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Johann_Sebastian_Bach.jpg",
       "licence": "Public domain",
       "attribution": "Elias Gottlob Haussmann"
@@ -807,23 +1088,34 @@
     "tags": [
       "composer",
       "baroque"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "J. S. Bach",
+        "descriptor": "German composer",
+        "countingRuleSummary": "Twenty documented children across two marriages.",
+        "explanation": "Johann Sebastian Bach had twenty children with Maria Barbara Bach and Anna Magdalena Bach.",
+        "imageAlt": "Portrait of J. S. Bach"
+      },
+      "zh": {
+        "displayName": "约翰·塞巴斯蒂安·巴赫",
+        "descriptor": "德国作曲家",
+        "countingRuleSummary": "据记载在两段婚姻中共有二十名子女。",
+        "explanation": "约翰·塞巴斯蒂安·巴赫与玛丽亚·芭芭拉·巴赫及安娜·玛格达莱娜·巴赫共有二十名子女。",
+        "imageAlt": "约翰·塞巴斯蒂安·巴赫肖像"
+      }
+    }
   },
   {
     "id": "william-the-conqueror",
-    "displayName": "William the Conqueror",
-    "descriptor": "First Norman king of England",
     "category": "western-history",
     "childrenCount": 9,
     "countType": "commonly-recorded",
-    "countingRuleSummary": "Nine commonly recorded children with Matilda of Flanders.",
-    "explanation": "William and Matilda are commonly recorded as having nine children.",
     "confidence": "medium",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/William_the_Conqueror_%28TFA%29.jpg/500px-William_the_Conqueror_%28TFA%29.jpg",
-      "alt": "Portrait of William the Conqueror",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_the_Conqueror_(TFA).jpg",
       "licence": "Public domain",
       "attribution": "Myrabella"
@@ -837,23 +1129,34 @@
     "tags": [
       "english-monarchy",
       "norman"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "William the Conqueror",
+        "descriptor": "First Norman king of England",
+        "countingRuleSummary": "Nine commonly recorded children with Matilda of Flanders.",
+        "explanation": "William and Matilda are commonly recorded as having nine children.",
+        "imageAlt": "Portrait of William the Conqueror"
+      },
+      "zh": {
+        "displayName": "征服者威廉",
+        "descriptor": "英格兰首位诺曼国王",
+        "countingRuleSummary": "普遍记载与佛兰德的玛蒂尔达育有九名子女。",
+        "explanation": "威廉与玛蒂尔达普遍记载有九名子女。",
+        "imageAlt": "征服者威廉肖像"
+      }
+    }
   },
   {
     "id": "mary-antoinette",
-    "displayName": "Marie Antoinette",
-    "descriptor": "Queen of France",
     "category": "western-history",
     "childrenCount": 4,
     "countType": "exact",
-    "countingRuleSummary": "Four documented children with Louis XVI.",
-    "explanation": "Marie Antoinette and Louis XVI had four children.",
     "confidence": "high",
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg/500px-Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg",
-      "alt": "Portrait of Marie Antoinette",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marie-Antoinette,_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg",
       "licence": "Public domain",
       "attribution": "After Jean-Baptiste André Gautier-Dagoty"
@@ -867,23 +1170,34 @@
     "tags": [
       "french-monarchy",
       "royalty"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Marie Antoinette",
+        "descriptor": "Queen of France",
+        "countingRuleSummary": "Four documented children with Louis XVI.",
+        "explanation": "Marie Antoinette and Louis XVI had four children.",
+        "imageAlt": "Portrait of Marie Antoinette"
+      },
+      "zh": {
+        "displayName": "玛丽·安托瓦内特",
+        "descriptor": "法国王后",
+        "countingRuleSummary": "据记载与路易十六育有四名子女。",
+        "explanation": "玛丽·安托瓦内特与路易十六育有四名子女。",
+        "imageAlt": "玛丽·安托瓦内特肖像"
+      }
+    }
   },
   {
     "id": "napoleon-iii",
-    "displayName": "Napoleon III",
-    "descriptor": "Emperor of the French",
     "category": "western-history",
     "childrenCount": 1,
     "countType": "exact",
-    "countingRuleSummary": "One documented legitimate child with Eugénie de Montijo.",
-    "explanation": "This candidate needs a full count review before it can meet Kiddle's counting rules.",
     "confidence": "medium",
     "recognisabilityScore": 3,
     "status": "disabled",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Alexandre_Cabanel_002.jpg/500px-Alexandre_Cabanel_002.jpg",
-      "alt": "Portrait of Napoleon III",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexandre_Cabanel_002.jpg",
       "licence": "Public domain",
       "attribution": "Alexandre Cabanel"
@@ -897,23 +1211,34 @@
     "tags": [
       "french-monarchy",
       "bonapartist"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Napoleon III",
+        "descriptor": "Emperor of the French",
+        "countingRuleSummary": "One documented legitimate child with Eugénie de Montijo.",
+        "explanation": "This candidate needs a full count review before it can meet Kiddle's counting rules.",
+        "imageAlt": "Portrait of Napoleon III"
+      },
+      "zh": {
+        "displayName": "拿破仑三世",
+        "descriptor": "法兰西皇帝",
+        "countingRuleSummary": "据记载与欧仁妮·德·蒙蒂霍有一名婚生子女。",
+        "explanation": "该人物需要完整的子女数量审查才能符合 Kiddle 的计数规则。",
+        "imageAlt": "拿破仑三世肖像"
+      }
+    }
   },
   {
     "id": "louis-xiv",
-    "displayName": "Louis XIV",
-    "descriptor": "King of France",
     "category": "western-history",
     "childrenCount": 6,
     "countType": "exact",
-    "countingRuleSummary": "Six documented legitimate children with Maria Theresa of Spain.",
-    "explanation": "This candidate needs a full count review before it can meet Kiddle's counting rules.",
     "confidence": "medium",
     "recognisabilityScore": 5,
     "status": "disabled",
     "image": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_XIV_of_France.jpg/500px-Louis_XIV_of_France.jpg",
-      "alt": "Portrait of Louis XIV",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Louis_XIV_of_France.jpg",
       "licence": "Public domain",
       "attribution": "Hyacinthe Rigaud"
@@ -927,6 +1252,4070 @@
     "tags": [
       "french-monarchy",
       "royalty"
-    ]
+    ],
+    "text": {
+      "en": {
+        "displayName": "Louis XIV",
+        "descriptor": "King of France",
+        "countingRuleSummary": "Six documented legitimate children with Maria Theresa of Spain.",
+        "explanation": "This candidate needs a full count review before it can meet Kiddle's counting rules.",
+        "imageAlt": "Portrait of Louis XIV"
+      },
+      "zh": {
+        "displayName": "路易十四",
+        "descriptor": "法国国王",
+        "countingRuleSummary": "据记载与西班牙的玛丽亚·特蕾莎育有六名婚生子女。",
+        "explanation": "该人物需要完整的子女数量审查才能符合 Kiddle 的计数规则。",
+        "imageAlt": "路易十四肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-franklin-delano-roosevelt",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Franklin Delano Roosevelt",
+        "url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+      },
+      {
+        "title": "Wikidata — Franklin Delano Roosevelt",
+        "url": "https://www.wikidata.org/entity/Q8007"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/500px-FDR_1944_Color_Portrait.jpg",
+      "licence": "CC BY 2.0",
+      "attribution": "Leon Perskie",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:FDR_1944_Color_Portrait.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Franklin Delano Roosevelt",
+        "descriptor": "president of the United States from 1933 to 1945",
+        "countingRuleSummary": "6 children are recorded by Wikidata.",
+        "explanation": "Franklin Delano Roosevelt has 6 children in the cited records.",
+        "imageAlt": "Portrait of Franklin Delano Roosevelt"
+      },
+      "zh": {
+        "displayName": "富兰克林·德拉诺·罗斯福",
+        "descriptor": "1933年至1945年任美国总统",
+        "countingRuleSummary": "维基数据记载6名子女。",
+        "explanation": "富兰克林·德拉诺·罗斯福在引用记录中有6名子女。",
+        "imageAlt": "富兰克林·德拉诺·罗斯福肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-james-joyce",
+    "category": "western-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — James Joyce",
+        "url": "https://en.wikipedia.org/wiki/James_Joyce"
+      },
+      {
+        "title": "Wikidata — James Joyce",
+        "url": "https://www.wikidata.org/entity/Q6882"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/James_Joyce_by_Alex_Ehrenzweig%2C_1915_cropped.jpg/500px-James_Joyce_by_Alex_Ehrenzweig%2C_1915_cropped.jpg",
+      "licence": "Public domain",
+      "attribution": "James_Joyce_by_Alex_Ehrenzweig,_1915_restored.jpg : * James_Joyce_by_Alex_Ehrenzweig,_1915.jpg : Alex Ehrenzweig derivative work: RedAppleJack ( talk ) derivative work: Missionary ( talk )",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:James_Joyce_by_Alex_Ehrenzweig,_1915_cropped.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "James Joyce",
+        "descriptor": "Irish novelist and poet",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "James Joyce has 2 children in the cited records.",
+        "imageAlt": "Portrait of James Joyce"
+      },
+      "zh": {
+        "displayName": "詹姆斯·乔伊斯",
+        "descriptor": "爱尔兰小说家兼诗人",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "詹姆斯·乔伊斯在引用记录中有2名子女。",
+        "imageAlt": "詹姆斯·乔伊斯肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-j-r-r-tolkien",
+    "category": "western-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — J. R. R. Tolkien",
+        "url": "https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+      },
+      {
+        "title": "Wikidata — J. R. R. Tolkien",
+        "url": "https://www.wikidata.org/entity/Q892"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/J._R._R._Tolkien%2C_ca._1925.jpg/500px-J._R._R._Tolkien%2C_ca._1925.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown photo studio commissioned by Tolkien's students 1925/6 (private communication from Catherine McIlwaine, Tolkien Archivist, Bodleian Library)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:J._R._R._Tolkien,_ca._1925.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "J. R. R. Tolkien",
+        "descriptor": "English writer and philologist",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "J. R. R. Tolkien has 4 children in the cited records.",
+        "imageAlt": "Portrait of J. R. R. Tolkien"
+      },
+      "zh": {
+        "displayName": "J·R·R·托尔金",
+        "descriptor": "英国作家兼语言学家",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "J·R·R·托尔金在引用记录中有4名子女。",
+        "imageAlt": "J·R·R·托尔金肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-harry-s-truman",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Harry S. Truman",
+        "url": "https://en.wikipedia.org/wiki/Harry_S._Truman"
+      },
+      {
+        "title": "Wikidata — Harry S. Truman",
+        "url": "https://www.wikidata.org/entity/Q11613"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/500px-TRUMAN_58-766-06_%28cropped%29.jpg",
+      "licence": "Public domain",
+      "attribution": "National Archives and Records Administration. Office of Presidential Libraries. Harry S. Truman Library.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TRUMAN_58-766-06_(cropped).jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Harry S. Truman",
+        "descriptor": "president of the United States from 1945 to 1953; politician",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Harry S. Truman has 1 child in the cited records.",
+        "imageAlt": "Portrait of Harry S. Truman"
+      },
+      "zh": {
+        "displayName": "哈里·S·杜鲁门",
+        "descriptor": "美国第33任总统（1945–1953）；政治家",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "哈里·S·杜鲁门在引用记录中有1名子女。",
+        "imageAlt": "哈里·S·杜鲁门肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-dwight-d-eisenhower",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Dwight D. Eisenhower",
+        "url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
+      },
+      {
+        "title": "Wikidata — Dwight D. Eisenhower",
+        "url": "https://www.wikidata.org/entity/Q9916"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/500px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg",
+      "licence": "Public domain",
+      "attribution": "White House",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Dwight D. Eisenhower",
+        "descriptor": "president of the United States from 1953 to 1961",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Dwight D. Eisenhower has 2 children in the cited records.",
+        "imageAlt": "Portrait of Dwight D. Eisenhower"
+      },
+      "zh": {
+        "displayName": "德怀特·D·艾森豪威尔",
+        "descriptor": "美国第34任总统（1953–1961）",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "德怀特·D·艾森豪威尔在引用记录中有2名子女。",
+        "imageAlt": "德怀特·D·艾森豪威尔肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-woodrow-wilson",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Woodrow Wilson",
+        "url": "https://en.wikipedia.org/wiki/Woodrow_Wilson"
+      },
+      {
+        "title": "Wikidata — Woodrow Wilson",
+        "url": "https://www.wikidata.org/entity/Q34296"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg/500px-Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg",
+      "licence": "Public domain",
+      "attribution": "Harris & Ewing",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thomas_Woodrow_Wilson,_Harris_%26_Ewing_bw_photo_portrait,_1919.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Woodrow Wilson",
+        "descriptor": "president of the United States from 1913 to 1921",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Woodrow Wilson has 3 children in the cited records.",
+        "imageAlt": "Portrait of Woodrow Wilson"
+      },
+      "zh": {
+        "displayName": "伍德罗·威尔逊",
+        "descriptor": "美国第28任总统（1913–1921）",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "伍德罗·威尔逊在引用记录中有3名子女。",
+        "imageAlt": "伍德罗·威尔逊肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-james-madison",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 0,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — James Madison",
+        "url": "https://en.wikipedia.org/wiki/James_Madison"
+      },
+      {
+        "title": "Wikidata — James Madison",
+        "url": "https://www.wikidata.org/entity/Q11813"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/500px-James_Madison.jpg",
+      "licence": "Public domain",
+      "attribution": "John Vanderlyn",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:James_Madison.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "James Madison",
+        "descriptor": "President of the United States from 1809 to 1817",
+        "countingRuleSummary": "0 children are recorded by Wikidata.",
+        "explanation": "James Madison has 0 children in the cited records.",
+        "imageAlt": "Portrait of James Madison"
+      },
+      "zh": {
+        "displayName": "詹姆斯·麦迪逊",
+        "descriptor": "美国第4任总统（1809–1817）",
+        "countingRuleSummary": "维基数据无子女记录。",
+        "explanation": "詹姆斯·麦迪逊在引用记录中有0名子女。",
+        "imageAlt": "詹姆斯·麦迪逊肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-simon-bolivar",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 0,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Simón Bolívar",
+        "url": "https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar"
+      },
+      {
+        "title": "Wikidata — Simón Bolívar",
+        "url": "https://www.wikidata.org/entity/Q8605"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sim%C3%B3n_Bol%C3%ADvar_by_Acevedo_Bernal%2C_1922.jpg/500px-Sim%C3%B3n_Bol%C3%ADvar_by_Acevedo_Bernal%2C_1922.jpg",
+      "licence": "Public domain",
+      "attribution": "Ricardo Acevedo Bernal",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sim%C3%B3n_Bol%C3%ADvar_by_Acevedo_Bernal,_1922.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Simón Bolívar",
+        "descriptor": "Venezuelan statesman and military officer",
+        "countingRuleSummary": "0 children are recorded by Wikidata.",
+        "explanation": "Simón Bolívar has 0 children in the cited records.",
+        "imageAlt": "Portrait of Simón Bolívar"
+      },
+      "zh": {
+        "displayName": "西蒙·玻利瓦尔",
+        "descriptor": "委内瑞拉政治家兼军事将领",
+        "countingRuleSummary": "维基数据无子女记录。",
+        "explanation": "西蒙·玻利瓦尔在引用记录中有0名子女。",
+        "imageAlt": "西蒙·玻利瓦尔肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-john-quincy-adams",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — John Quincy Adams",
+        "url": "https://en.wikipedia.org/wiki/John_Quincy_Adams"
+      },
+      {
+        "title": "Wikidata — John Quincy Adams",
+        "url": "https://www.wikidata.org/entity/Q11816"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/John_Q._Adams-edit.jpg/500px-John_Q._Adams-edit.jpg",
+      "licence": "Public domain",
+      "attribution": "jklamo Cleaned and enhanced by Julielangford",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Q._Adams-edit.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "John Quincy Adams",
+        "descriptor": "President of the United States from 1825 to 1829",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "John Quincy Adams has 4 children in the cited records.",
+        "imageAlt": "Portrait of John Quincy Adams"
+      },
+      "zh": {
+        "displayName": "约翰·昆西·亚当斯",
+        "descriptor": "美国第6任总统（1825–1829）",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "约翰·昆西·亚当斯在引用记录中有4名子女。",
+        "imageAlt": "约翰·昆西·亚当斯肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-herbert-hoover",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Herbert Hoover",
+        "url": "https://en.wikipedia.org/wiki/Herbert_Hoover"
+      },
+      {
+        "title": "Wikidata — Herbert Hoover",
+        "url": "https://www.wikidata.org/entity/Q35236"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/President_Hoover_portrait.jpg/500px-President_Hoover_portrait.jpg",
+      "licence": "Public domain",
+      "attribution": "Underwood & Underwood",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:President_Hoover_portrait.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Herbert Hoover",
+        "descriptor": "president of the United States from 1929 to 1933",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Herbert Hoover has 2 children in the cited records.",
+        "imageAlt": "Portrait of Herbert Hoover"
+      },
+      "zh": {
+        "displayName": "赫伯特·胡佛",
+        "descriptor": "美国第31任总统（1929–1933）",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "赫伯特·胡佛在引用记录中有2名子女。",
+        "imageAlt": "赫伯特·胡佛肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-octave-mirbeau",
+    "category": "western-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 0,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Octave Mirbeau",
+        "url": "https://en.wikipedia.org/wiki/Octave_Mirbeau"
+      },
+      {
+        "title": "Wikidata — Octave Mirbeau",
+        "url": "https://www.wikidata.org/entity/Q23441"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Octave_Mirbeau_portrait.jpg/500px-Octave_Mirbeau_portrait.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Octave_Mirbeau_portrait.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Octave Mirbeau",
+        "descriptor": "French writer, art critic and journalist",
+        "countingRuleSummary": "0 children are recorded by Wikidata.",
+        "explanation": "Octave Mirbeau has 0 children in the cited records.",
+        "imageAlt": "Portrait of Octave Mirbeau"
+      },
+      "zh": {
+        "displayName": "奥克塔夫·米尔博",
+        "descriptor": "法国作家、艺术评论家兼记者",
+        "countingRuleSummary": "维基数据无子女记录。",
+        "explanation": "奥克塔夫·米尔博在引用记录中有0名子女。",
+        "imageAlt": "奥克塔夫·米尔博肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-james-monroe",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — James Monroe",
+        "url": "https://en.wikipedia.org/wiki/James_Monroe"
+      },
+      {
+        "title": "Wikidata — James Monroe",
+        "url": "https://www.wikidata.org/entity/Q11815"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/James_Monroe_by_Gilbert_Stuart_c1817.jpg/500px-James_Monroe_by_Gilbert_Stuart_c1817.jpg",
+      "licence": "Public domain",
+      "attribution": "Gilbert Stuart",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:James_Monroe_by_Gilbert_Stuart_c1817.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "James Monroe",
+        "descriptor": "president of the United States from 1817 to 1825",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "James Monroe has 4 children in the cited records.",
+        "imageAlt": "Portrait of James Monroe"
+      },
+      "zh": {
+        "displayName": "詹姆斯·门罗",
+        "descriptor": "美国第5任总统（1817–1825）",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "詹姆斯·门罗在引用记录中有4名子女。",
+        "imageAlt": "詹姆斯·门罗肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-william-howard-taft",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — William Howard Taft",
+        "url": "https://en.wikipedia.org/wiki/William_Howard_Taft"
+      },
+      {
+        "title": "Wikidata — William Howard Taft",
+        "url": "https://www.wikidata.org/entity/Q35648"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-_Cropped_to_image.jpg/500px-Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-_Cropped_to_image.jpg",
+      "licence": "Public domain",
+      "attribution": "Pach Brothers, restored by Adam Cuerden",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-_Cropped_to_image.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "William Howard Taft",
+        "descriptor": "27th President of the United States from 1909 to 1913",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "William Howard Taft has 3 children in the cited records.",
+        "imageAlt": "Portrait of William Howard Taft"
+      },
+      "zh": {
+        "displayName": "威廉·霍华德·塔夫脱",
+        "descriptor": "美国第27任总统（1909–1913）",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "威廉·霍华德·塔夫脱在引用记录中有3名子女。",
+        "imageAlt": "威廉·霍华德·塔夫脱肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-grover-cleveland",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Grover Cleveland",
+        "url": "https://en.wikipedia.org/wiki/Grover_Cleveland"
+      },
+      {
+        "title": "Wikidata — Grover Cleveland",
+        "url": "https://www.wikidata.org/entity/Q35171"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg/500px-Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author or not provided",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grover_Cleveland_-_NARA_-_518139_(cropped).jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Grover Cleveland",
+        "descriptor": "President of the United States",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Grover Cleveland has 5 children in the cited records.",
+        "imageAlt": "Portrait of Grover Cleveland"
+      },
+      "zh": {
+        "displayName": "格罗弗·克利夫兰",
+        "descriptor": "美国总统",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "格罗弗·克利夫兰在引用记录中有5名子女。",
+        "imageAlt": "格罗弗·克利夫兰肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-konrad-adenauer",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 8,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Konrad Adenauer",
+        "url": "https://en.wikipedia.org/wiki/Konrad_Adenauer"
+      },
+      {
+        "title": "Wikidata — Konrad Adenauer",
+        "url": "https://www.wikidata.org/entity/Q2492"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bundesarchiv_B_145_Bild-F078072-0004%2C_Konrad_Adenauer.jpg/500px-Bundesarchiv_B_145_Bild-F078072-0004%2C_Konrad_Adenauer.jpg",
+      "licence": "CC BY-SA 3.0 de",
+      "attribution": "Katherine Young (1906–1993)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_B_145_Bild-F078072-0004,_Konrad_Adenauer.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Konrad Adenauer",
+        "descriptor": "German politician, Chancellor of West Germany (1949–1963), Zentrum and CDU",
+        "countingRuleSummary": "8 children are recorded by Wikidata.",
+        "explanation": "Konrad Adenauer has 8 children in the cited records.",
+        "imageAlt": "Portrait of Konrad Adenauer"
+      },
+      "zh": {
+        "displayName": "康拉德·阿登纳",
+        "descriptor": "德国政治家、西德总理（1949–1963）",
+        "countingRuleSummary": "维基数据记载8名子女。",
+        "explanation": "康拉德·阿登纳在引用记录中有8名子女。",
+        "imageAlt": "康拉德·阿登纳肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-james-a-garfield",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 7,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — James A. Garfield",
+        "url": "https://en.wikipedia.org/wiki/James_A._Garfield"
+      },
+      {
+        "title": "Wikidata — James A. Garfield",
+        "url": "https://www.wikidata.org/entity/Q34597"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg/500px-James_Abram_Garfield%2C_photo_portrait_seated.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown; part of Brady-Handy Photograph Collection.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:James_Abram_Garfield,_photo_portrait_seated.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "James A. Garfield",
+        "descriptor": "president of the United States in 1881",
+        "countingRuleSummary": "7 children are recorded by Wikidata.",
+        "explanation": "James A. Garfield has 7 children in the cited records.",
+        "imageAlt": "Portrait of James A. Garfield"
+      },
+      "zh": {
+        "displayName": "詹姆斯·A·加菲尔德",
+        "descriptor": "美国第20任总统（1881）",
+        "countingRuleSummary": "维基数据记载7名子女。",
+        "explanation": "詹姆斯·A·加菲尔德在引用记录中有7名子女。",
+        "imageAlt": "詹姆斯·A·加菲尔德肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-martin-van-buren",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Martin Van Buren",
+        "url": "https://en.wikipedia.org/wiki/Martin_Van_Buren"
+      },
+      {
+        "title": "Wikidata — Martin Van Buren",
+        "url": "https://www.wikidata.org/entity/Q11820"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Martin_Van_Buren_by_Mathew_Brady_c1855-58_sepia_original_restored.jpg/500px-Martin_Van_Buren_by_Mathew_Brady_c1855-58_sepia_original_restored.jpg",
+      "licence": "Public domain",
+      "attribution": "Mathew Benjamin Brady",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Martin_Van_Buren_by_Mathew_Brady_c1855-58_sepia_original_restored.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Martin Van Buren",
+        "descriptor": "president of the United States from 1837 to 1841",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Martin Van Buren has 5 children in the cited records.",
+        "imageAlt": "Portrait of Martin Van Buren"
+      },
+      "zh": {
+        "displayName": "马丁·范布伦",
+        "descriptor": "美国第8任总统（1837–1841）",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "马丁·范布伦在引用记录中有5名子女。",
+        "imageAlt": "马丁·范布伦肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-andrew-johnson",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Andrew Johnson",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Johnson"
+      },
+      {
+        "title": "Wikidata — Andrew Johnson",
+        "url": "https://www.wikidata.org/entity/Q8612"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/President_Andrew_Johnson.jpg/500px-President_Andrew_Johnson.jpg",
+      "licence": "Public domain",
+      "attribution": "Mathew Brady, Retouched by Mmxx",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:President_Andrew_Johnson.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Andrew Johnson",
+        "descriptor": "President of the United States from 1865 to 1869",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Andrew Johnson has 5 children in the cited records.",
+        "imageAlt": "Portrait of Andrew Johnson"
+      },
+      "zh": {
+        "displayName": "安德鲁·约翰逊",
+        "descriptor": "美国第17任总统（1865–1869）",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "安德鲁·约翰逊在引用记录中有5名子女。",
+        "imageAlt": "安德鲁·约翰逊肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-james-buchanan",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — James Buchanan",
+        "url": "https://en.wikipedia.org/wiki/James_Buchanan"
+      },
+      {
+        "title": "Wikidata — James Buchanan",
+        "url": "https://www.wikidata.org/entity/Q12325"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/James_Buchanan_%28cropped%29.jpg/500px-James_Buchanan_%28cropped%29.jpg",
+      "licence": "Public domain",
+      "attribution": "From Brady daguerreotype (Mathew Brady) (1822-1896)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:James_Buchanan_(cropped).jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "James Buchanan",
+        "descriptor": "president of the United States from 1857 to 1861",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "James Buchanan has 1 child in the cited records.",
+        "imageAlt": "Portrait of James Buchanan"
+      },
+      "zh": {
+        "displayName": "詹姆斯·布坎南",
+        "descriptor": "美国第15任总统（1857–1861）",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "詹姆斯·布坎南在引用记录中有1名子女。",
+        "imageAlt": "詹姆斯·布坎南肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-zachary-taylor",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Zachary Taylor",
+        "url": "https://en.wikipedia.org/wiki/Zachary_Taylor"
+      },
+      {
+        "title": "Wikidata — Zachary Taylor",
+        "url": "https://www.wikidata.org/entity/Q11896"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Zachary_Taylor_2.jpg/500px-Zachary_Taylor_2.jpg",
+      "licence": "Public domain",
+      "attribution": "James Lambdin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zachary_Taylor_2.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Zachary Taylor",
+        "descriptor": "president of the United States from 1849 to 1850",
+        "countingRuleSummary": "6 children are recorded by Wikidata.",
+        "explanation": "Zachary Taylor has 6 children in the cited records.",
+        "imageAlt": "Portrait of Zachary Taylor"
+      },
+      "zh": {
+        "displayName": "扎卡里·泰勒",
+        "descriptor": "美国第12任总统（1849–1850）",
+        "countingRuleSummary": "维基数据记载6名子女。",
+        "explanation": "扎卡里·泰勒在引用记录中有6名子女。",
+        "imageAlt": "扎卡里·泰勒肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-james-k-polk",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 0,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — James K. Polk",
+        "url": "https://en.wikipedia.org/wiki/James_K._Polk"
+      },
+      {
+        "title": "Wikidata — James K. Polk",
+        "url": "https://www.wikidata.org/entity/Q11891"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/JamesKnoxPolk.jpg/500px-JamesKnoxPolk.jpg",
+      "licence": "Public domain",
+      "attribution": "George Peter Alexander Healy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:JamesKnoxPolk.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "James K. Polk",
+        "descriptor": "President of the United States from 1845 to 1849",
+        "countingRuleSummary": "0 children are recorded by Wikidata.",
+        "explanation": "James K. Polk has 0 children in the cited records.",
+        "imageAlt": "Portrait of James K. Polk"
+      },
+      "zh": {
+        "displayName": "詹姆斯·K·波尔克",
+        "descriptor": "美国第11任总统（1845–1849）",
+        "countingRuleSummary": "维基数据无子女记录。",
+        "explanation": "詹姆斯·K·波尔克在引用记录中有0名子女。",
+        "imageAlt": "詹姆斯·K·波尔克肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-william-mckinley",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — William McKinley",
+        "url": "https://en.wikipedia.org/wiki/William_McKinley"
+      },
+      {
+        "title": "Wikidata — William McKinley",
+        "url": "https://www.wikidata.org/entity/Q35041"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/William_mckinley.jpg/500px-William_mckinley.jpg",
+      "licence": "Public domain",
+      "attribution": "photographer",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_mckinley.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "William McKinley",
+        "descriptor": "president of the United States from 1897 to 1901",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "William McKinley has 2 children in the cited records.",
+        "imageAlt": "Portrait of William McKinley"
+      },
+      "zh": {
+        "displayName": "威廉·麦金利",
+        "descriptor": "美国第25任总统（1897–1901）",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "威廉·麦金利在引用记录中有2名子女。",
+        "imageAlt": "威廉·麦金利肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-john-tyler",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 15,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — John Tyler",
+        "url": "https://en.wikipedia.org/wiki/John_Tyler"
+      },
+      {
+        "title": "Wikidata — John Tyler",
+        "url": "https://www.wikidata.org/entity/Q11881"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/WHOportTyler.jpg/500px-WHOportTyler.jpg",
+      "licence": "Public domain",
+      "attribution": "George Peter Alexander Healy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:WHOportTyler.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "John Tyler",
+        "descriptor": "president of the United States from 1841 to 1845",
+        "countingRuleSummary": "15 children are recorded by Wikidata.",
+        "explanation": "John Tyler has 15 children in the cited records.",
+        "imageAlt": "Portrait of John Tyler"
+      },
+      "zh": {
+        "displayName": "约翰·泰勒",
+        "descriptor": "美国第10任总统（1841–1845）",
+        "countingRuleSummary": "维基数据记载15名子女。",
+        "explanation": "约翰·泰勒在引用记录中有15名子女。",
+        "imageAlt": "约翰·泰勒肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-warren-g-harding",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Warren G. Harding",
+        "url": "https://en.wikipedia.org/wiki/Warren_G._Harding"
+      },
+      {
+        "title": "Wikidata — Warren G. Harding",
+        "url": "https://www.wikidata.org/entity/Q35286"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Warren_G_Harding_portrait_as_senator_June_1920.jpg/500px-Warren_G_Harding_portrait_as_senator_June_1920.jpg",
+      "licence": "Public domain",
+      "attribution": "Copyright by Moffett, Chicago. J241772 U.S. Copyright Office.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Warren_G_Harding_portrait_as_senator_June_1920.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Warren G. Harding",
+        "descriptor": "president of the United States from 1921 to 1923",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Warren G. Harding has 1 child in the cited records.",
+        "imageAlt": "Portrait of Warren G. Harding"
+      },
+      "zh": {
+        "displayName": "沃伦·G·哈丁",
+        "descriptor": "美国第29任总统（1921–1923）",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "沃伦·G·哈丁在引用记录中有1名子女。",
+        "imageAlt": "沃伦·G·哈丁肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-pearl-s-buck",
+    "category": "western-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 8,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Pearl S. Buck",
+        "url": "https://en.wikipedia.org/wiki/Pearl_S._Buck"
+      },
+      {
+        "title": "Wikidata — Pearl S. Buck",
+        "url": "https://www.wikidata.org/entity/Q80900"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Pearl_Buck_%28Nobel%29.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown (see print without name",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pearl_Buck_(Nobel).jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Pearl S. Buck",
+        "descriptor": "American writer",
+        "countingRuleSummary": "8 children are recorded by Wikidata.",
+        "explanation": "Pearl S. Buck has 8 children in the cited records.",
+        "imageAlt": "Portrait of Pearl S. Buck"
+      },
+      "zh": {
+        "displayName": "赛珍珠",
+        "descriptor": "美国作家",
+        "countingRuleSummary": "维基数据记载8名子女。",
+        "explanation": "赛珍珠在引用记录中有8名子女。",
+        "imageAlt": "赛珍珠肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-millard-fillmore",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Millard Fillmore",
+        "url": "https://en.wikipedia.org/wiki/Millard_Fillmore"
+      },
+      {
+        "title": "Wikidata — Millard Fillmore",
+        "url": "https://www.wikidata.org/entity/Q12306"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Millard_Fillmore.jpg/500px-Millard_Fillmore.jpg",
+      "licence": "Public domain",
+      "attribution": "Mathew Benjamin Brady",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Millard_Fillmore.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Millard Fillmore",
+        "descriptor": "president of the United States from 1850 to 1853",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Millard Fillmore has 2 children in the cited records.",
+        "imageAlt": "Portrait of Millard Fillmore"
+      },
+      "zh": {
+        "displayName": "米勒德·菲尔莫尔",
+        "descriptor": "1850年至1853年任美国总统",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "米勒德·菲尔莫尔在引用记录中有2名子女。",
+        "imageAlt": "米勒德·菲尔莫尔肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-william-henry-harrison",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 10,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — William Henry Harrison",
+        "url": "https://en.wikipedia.org/wiki/William_Henry_Harrison"
+      },
+      {
+        "title": "Wikidata — William Henry Harrison",
+        "url": "https://www.wikidata.org/entity/Q11869"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/William_Henry_Harrison_by_James_Reid_Lambdin%2C_1835.jpg/500px-William_Henry_Harrison_by_James_Reid_Lambdin%2C_1835.jpg",
+      "licence": "Public domain",
+      "attribution": "James Lambdin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_Henry_Harrison_by_James_Reid_Lambdin,_1835.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "William Henry Harrison",
+        "descriptor": "president of the United States in 1841",
+        "countingRuleSummary": "10 children are recorded by Wikidata.",
+        "explanation": "William Henry Harrison has 10 children in the cited records.",
+        "imageAlt": "Portrait of William Henry Harrison"
+      },
+      "zh": {
+        "displayName": "威廉·亨利·哈里森",
+        "descriptor": "1841年任美国总统",
+        "countingRuleSummary": "维基数据记载10名子女。",
+        "explanation": "威廉·亨利·哈里森在引用记录中有10名子女。",
+        "imageAlt": "威廉·亨利·哈里森肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-joseph-goebbels",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Joseph Goebbels",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Goebbels"
+      },
+      {
+        "title": "Wikidata — Joseph Goebbels",
+        "url": "https://www.wikidata.org/entity/Q41749"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bundesarchiv_Bild_146-1968-101-20A%2C_Joseph_Goebbels.jpg/500px-Bundesarchiv_Bild_146-1968-101-20A%2C_Joseph_Goebbels.jpg",
+      "licence": "CC BY-SA 3.0 de",
+      "attribution": "Heinrich Hoffmann",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1968-101-20A,_Joseph_Goebbels.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Joseph Goebbels",
+        "descriptor": "Nazi politician and Propaganda Minister",
+        "countingRuleSummary": "6 children are recorded by Wikidata.",
+        "explanation": "Joseph Goebbels has 6 children in the cited records.",
+        "imageAlt": "Portrait of Joseph Goebbels"
+      },
+      "zh": {
+        "displayName": "约瑟夫·戈培尔",
+        "descriptor": "纳粹政治人物及宣传部长",
+        "countingRuleSummary": "维基数据记载6名子女。",
+        "explanation": "约瑟夫·戈培尔在引用记录中有6名子女。",
+        "imageAlt": "约瑟夫·戈培尔肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-franklin-pierce",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Franklin Pierce",
+        "url": "https://en.wikipedia.org/wiki/Franklin_Pierce"
+      },
+      {
+        "title": "Wikidata — Franklin Pierce",
+        "url": "https://www.wikidata.org/entity/Q12312"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Franklin_Pierce.jpg/500px-Franklin_Pierce.jpg",
+      "licence": "Public domain",
+      "attribution": "Mathew Benjamin Brady",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Franklin_Pierce.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Franklin Pierce",
+        "descriptor": "president of the United States from 1853 to 1857",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Franklin Pierce has 3 children in the cited records.",
+        "imageAlt": "Portrait of Franklin Pierce"
+      },
+      "zh": {
+        "displayName": "富兰克林·皮尔斯",
+        "descriptor": "美国第14任总统（1853–1857）",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "富兰克林·皮尔斯在引用记录中有3名子女。",
+        "imageAlt": "富兰克林·皮尔斯肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-rutherford-b-hayes",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 8,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Rutherford B. Hayes",
+        "url": "https://en.wikipedia.org/wiki/Rutherford_B._Hayes"
+      },
+      {
+        "title": "Wikidata — Rutherford B. Hayes",
+        "url": "https://www.wikidata.org/entity/Q35686"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/President_Rutherford_Hayes_1870_-_1880_Restored.jpg/500px-President_Rutherford_Hayes_1870_-_1880_Restored.jpg",
+      "licence": "Public domain",
+      "attribution": "Mathew Benjamin Brady",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:President_Rutherford_Hayes_1870_-_1880_Restored.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Rutherford B. Hayes",
+        "descriptor": "president of the United States from 1877 to 1881",
+        "countingRuleSummary": "8 children are recorded by Wikidata.",
+        "explanation": "Rutherford B. Hayes has 8 children in the cited records.",
+        "imageAlt": "Portrait of Rutherford B. Hayes"
+      },
+      "zh": {
+        "displayName": "拉瑟福德·B·海斯",
+        "descriptor": "美国第19任总统（1877–1881）",
+        "countingRuleSummary": "维基数据记载8名子女。",
+        "explanation": "拉瑟福德·B·海斯在引用记录中有8名子女。",
+        "imageAlt": "拉瑟福德·B·海斯肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-walter-scott",
+    "category": "western-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Walter Scott",
+        "url": "https://en.wikipedia.org/wiki/Walter_Scott"
+      },
+      {
+        "title": "Wikidata — Walter Scott",
+        "url": "https://www.wikidata.org/entity/Q79025"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Sir_Henry_Raeburn_-_Portrait_of_Sir_Walter_Scott.jpg/500px-Sir_Henry_Raeburn_-_Portrait_of_Sir_Walter_Scott.jpg",
+      "licence": "Public domain",
+      "attribution": "Henry Raeburn",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sir_Henry_Raeburn_-_Portrait_of_Sir_Walter_Scott.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Walter Scott",
+        "descriptor": "Scottish novelist, poet and playwright",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Walter Scott has 4 children in the cited records.",
+        "imageAlt": "Portrait of Walter Scott"
+      },
+      "zh": {
+        "displayName": "沃尔特·司各特",
+        "descriptor": "苏格兰小说家、诗人兼剧作家",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "沃尔特·司各特在引用记录中有4名子女。",
+        "imageAlt": "沃尔特·司各特肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-benjamin-harrison",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Benjamin Harrison",
+        "url": "https://en.wikipedia.org/wiki/Benjamin_Harrison"
+      },
+      {
+        "title": "Wikidata — Benjamin Harrison",
+        "url": "https://www.wikidata.org/entity/Q35678"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg/500px-Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg",
+      "licence": "Public domain",
+      "attribution": "Pach Brothers",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Benjamin_Harrison,_head_and_shoulders_bw_photo,_1896.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Benjamin Harrison",
+        "descriptor": "President of the United States, 1889-1893",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Benjamin Harrison has 3 children in the cited records.",
+        "imageAlt": "Portrait of Benjamin Harrison"
+      },
+      "zh": {
+        "displayName": "本杰明·哈里森",
+        "descriptor": "美国第23任总统（1889–1893）",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "本杰明·哈里森在引用记录中有3名子女。",
+        "imageAlt": "本杰明·哈里森肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-pierre-simon-laplace",
+    "category": "western-history",
+    "tags": [
+      "science"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Pierre-Simon Laplace",
+        "url": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace"
+      },
+      {
+        "title": "Wikidata — Pierre-Simon Laplace",
+        "url": "https://www.wikidata.org/entity/Q44481"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pierre-Simon%2C_marquis_de_Laplace_%281745-1827%29_-_Gu%C3%A9rin.jpg/500px-Pierre-Simon%2C_marquis_de_Laplace_%281745-1827%29_-_Gu%C3%A9rin.jpg",
+      "licence": "Public domain",
+      "attribution": "Jean-Baptiste Paulin Guérin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pierre-Simon,_marquis_de_Laplace_(1745-1827)_-_Gu%C3%A9rin.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Pierre-Simon Laplace",
+        "descriptor": "French mathematician and astronomer",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Pierre-Simon Laplace has 2 children in the cited records.",
+        "imageAlt": "Portrait of Pierre-Simon Laplace"
+      },
+      "zh": {
+        "displayName": "皮埃尔-西蒙·拉普拉斯",
+        "descriptor": "法国数学家兼天文学家",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "皮埃尔-西蒙·拉普拉斯在引用记录中有2名子女。",
+        "imageAlt": "皮埃尔-西蒙·拉普拉斯肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-sinclair-lewis",
+    "category": "western-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Sinclair Lewis",
+        "url": "https://en.wikipedia.org/wiki/Sinclair_Lewis"
+      },
+      {
+        "title": "Wikidata — Sinclair Lewis",
+        "url": "https://www.wikidata.org/entity/Q123469"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Sinclair_Lewis_by_Oscar_Whiite%2C_Pach_Brothers_Studio%2C_c._1945%2C_gelatin_silver_print%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_93_388_23_%28cropped%29.jpg/500px-Sinclair_Lewis_by_Oscar_Whiite%2C_Pach_Brothers_Studio%2C_c._1945%2C_gelatin_silver_print%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_93_388_23_%28cropped%29.jpg",
+      "licence": "Public domain",
+      "attribution": "Oscar White, Pach Brothers Studio",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sinclair_Lewis_by_Oscar_Whiite,_Pach_Brothers_Studio,_c._1945,_gelatin_silver_print,_from_the_National_Portrait_Gallery_-_NPG-NPG_93_388_23_(cropped).jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Sinclair Lewis",
+        "descriptor": "American writer and playwright",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Sinclair Lewis has 2 children in the cited records.",
+        "imageAlt": "Portrait of Sinclair Lewis"
+      },
+      "zh": {
+        "displayName": "辛克莱·刘易斯",
+        "descriptor": "美国作家兼剧作家",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "辛克莱·刘易斯在引用记录中有2名子女。",
+        "imageAlt": "辛克莱·刘易斯肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-harriet-beecher-stowe",
+    "category": "western-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Harriet Beecher Stowe",
+        "url": "https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe"
+      },
+      {
+        "title": "Wikidata — Harriet Beecher Stowe",
+        "url": "https://www.wikidata.org/entity/Q102513"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Beecher-Stowe.jpg/500px-Beecher-Stowe.jpg",
+      "licence": "Public domain",
+      "attribution": "not specified",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beecher-Stowe.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Harriet Beecher Stowe",
+        "descriptor": "American abolitionist and author",
+        "countingRuleSummary": "6 children are recorded by Wikidata.",
+        "explanation": "Harriet Beecher Stowe has 6 children in the cited records.",
+        "imageAlt": "Portrait of Harriet Beecher Stowe"
+      },
+      "zh": {
+        "displayName": "哈里特·比彻·斯托",
+        "descriptor": "美国废奴主义者兼作家",
+        "countingRuleSummary": "维基数据记载6名子女。",
+        "explanation": "哈里特·比彻·斯托在引用记录中有6名子女。",
+        "imageAlt": "哈里特·比彻·斯托肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-pierre-de-fermat",
+    "category": "western-history",
+    "tags": [
+      "science"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Pierre de Fermat",
+        "url": "https://en.wikipedia.org/wiki/Pierre_de_Fermat"
+      },
+      {
+        "title": "Wikidata — Pierre de Fermat",
+        "url": "https://www.wikidata.org/entity/Q75655"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Pierre_de_Fermat3.jpg/500px-Pierre_de_Fermat3.jpg",
+      "licence": "Public domain",
+      "attribution": "Rolland Lefebvre",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pierre_de_Fermat3.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Pierre de Fermat",
+        "descriptor": "French mathematician and lawyer",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Pierre de Fermat has 5 children in the cited records.",
+        "imageAlt": "Portrait of Pierre de Fermat"
+      },
+      "zh": {
+        "displayName": "皮埃尔·德·费马",
+        "descriptor": "法国数学家兼律师",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "皮埃尔·德·费马在引用记录中有5名子女。",
+        "imageAlt": "皮埃尔·德·费马肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-louisa-may-alcott",
+    "category": "western-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 0,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Louisa May Alcott",
+        "url": "https://en.wikipedia.org/wiki/Louisa_May_Alcott"
+      },
+      {
+        "title": "Wikidata — Louisa May Alcott",
+        "url": "https://www.wikidata.org/entity/Q185696"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Louisa_May_Alcott%2C_c._1870_-_Warren%27s_Portraits%2C_Boston.jpg/500px-Louisa_May_Alcott%2C_c._1870_-_Warren%27s_Portraits%2C_Boston.jpg",
+      "licence": "Public domain",
+      "attribution": "Adam Cuerden",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Louisa_May_Alcott,_c._1870_-_Warren%27s_Portraits,_Boston.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Louisa May Alcott",
+        "descriptor": "American novelist",
+        "countingRuleSummary": "0 children are recorded by Wikidata.",
+        "explanation": "Louisa May Alcott has 0 children in the cited records.",
+        "imageAlt": "Portrait of Louisa May Alcott"
+      },
+      "zh": {
+        "displayName": "路易莎·梅·奥尔科特",
+        "descriptor": "美国小说家",
+        "countingRuleSummary": "维基数据无子女记录。",
+        "explanation": "路易莎·梅·奥尔科特在引用记录中有0名子女。",
+        "imageAlt": "路易莎·梅·奥尔科特肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-isadora-duncan",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Isadora Duncan",
+        "url": "https://en.wikipedia.org/wiki/Isadora_Duncan"
+      },
+      {
+        "title": "Wikidata — Isadora Duncan",
+        "url": "https://www.wikidata.org/entity/Q483512"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/1923._duncan_%28cropped%29.jpg/500px-1923._duncan_%28cropped%29.jpg",
+      "licence": "Public domain",
+      "attribution": "Wikimedia Commons contributor",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:1923._duncan_(cropped).jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Isadora Duncan",
+        "descriptor": "American dancer and choreographer",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Isadora Duncan has 3 children in the cited records.",
+        "imageAlt": "Portrait of Isadora Duncan"
+      },
+      "zh": {
+        "displayName": "伊莎多拉·邓肯",
+        "descriptor": "美国舞蹈家兼编舞家",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "伊莎多拉·邓肯在引用记录中有3名子女。",
+        "imageAlt": "伊莎多拉·邓肯肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-maria-montessori",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Maria Montessori",
+        "url": "https://en.wikipedia.org/wiki/Maria_Montessori"
+      },
+      {
+        "title": "Wikidata — Maria Montessori",
+        "url": "https://www.wikidata.org/entity/Q131117"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Maria_Montessori_%28portrait%29.jpg/500px-Maria_Montessori_%28portrait%29.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maria_Montessori_(portrait).jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Maria Montessori",
+        "descriptor": "Italian physician and educator",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Maria Montessori has 1 child in the cited records.",
+        "imageAlt": "Portrait of Maria Montessori"
+      },
+      "zh": {
+        "displayName": "玛丽亚·蒙特梭利",
+        "descriptor": "意大利医师兼教育家",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "玛丽亚·蒙特梭利在引用记录中有1名子女。",
+        "imageAlt": "玛丽亚·蒙特梭利肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-joan-miro",
+    "category": "western-history",
+    "tags": [
+      "art"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Joan Miró",
+        "url": "https://en.wikipedia.org/wiki/Joan_Mir%C3%B3"
+      },
+      {
+        "title": "Wikidata — Joan Miró",
+        "url": "https://www.wikidata.org/entity/Q152384"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Joan_Miro_%28cropped%29.jpg",
+      "licence": "Public domain",
+      "attribution": "Carl Van Vechten",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joan_Miro_(cropped).jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Joan Miró",
+        "descriptor": "Spanish painter, sculptor, and ceramicist",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Joan Miró has 1 child in the cited records.",
+        "imageAlt": "Portrait of Joan Miró"
+      },
+      "zh": {
+        "displayName": "胡安·米罗",
+        "descriptor": "西班牙画家、雕塑家兼陶艺家",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "胡安·米罗在引用记录中有1名子女。",
+        "imageAlt": "胡安·米罗肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-david-livingstone",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — David Livingstone",
+        "url": "https://en.wikipedia.org/wiki/David_Livingstone"
+      },
+      {
+        "title": "Wikidata — David Livingstone",
+        "url": "https://www.wikidata.org/entity/Q48373"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/David_Livingstone_by_Thomas_Annan.jpg/500px-David_Livingstone_by_Thomas_Annan.jpg",
+      "licence": "Public domain",
+      "attribution": "Thomas Annan / Adam Cuerden",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Livingstone_by_Thomas_Annan.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "David Livingstone",
+        "descriptor": "Scottish missionary and explorer",
+        "countingRuleSummary": "6 children are recorded by Wikidata.",
+        "explanation": "David Livingstone has 6 children in the cited records.",
+        "imageAlt": "Portrait of David Livingstone"
+      },
+      "zh": {
+        "displayName": "大卫·利文斯通",
+        "descriptor": "苏格兰传教士兼探险家",
+        "countingRuleSummary": "维基数据记载6名子女。",
+        "explanation": "大卫·利文斯通在引用记录中有6名子女。",
+        "imageAlt": "大卫·利文斯通肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-gustave-eiffel",
+    "category": "western-history",
+    "tags": [
+      "art"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Gustave Eiffel",
+        "url": "https://en.wikipedia.org/wiki/Gustave_Eiffel"
+      },
+      {
+        "title": "Wikidata — Gustave Eiffel",
+        "url": "https://www.wikidata.org/entity/Q20882"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gustave_Eiffel_1888_Nadar2.jpg/500px-Gustave_Eiffel_1888_Nadar2.jpg",
+      "licence": "Public domain",
+      "attribution": "Nadar",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gustave_Eiffel_1888_Nadar2.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Gustave Eiffel",
+        "descriptor": "French chemical engineer and architect",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Gustave Eiffel has 5 children in the cited records.",
+        "imageAlt": "Portrait of Gustave Eiffel"
+      },
+      "zh": {
+        "displayName": "古斯塔夫·埃菲尔",
+        "descriptor": "法国化学工程师兼建筑师",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "古斯塔夫·埃菲尔在引用记录中有5名子女。",
+        "imageAlt": "古斯塔夫·埃菲尔肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-frederick-douglass",
+    "category": "western-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Frederick Douglass",
+        "url": "https://en.wikipedia.org/wiki/Frederick_Douglass"
+      },
+      {
+        "title": "Wikidata — Frederick Douglass",
+        "url": "https://www.wikidata.org/entity/Q215562"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Frederick_Douglass_as_a_younger_man.jpg/500px-Frederick_Douglass_as_a_younger_man.jpg",
+      "licence": "Public domain",
+      "attribution": "Engraved by J.C. Buttre from a daguerreotype.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frederick_Douglass_as_a_younger_man.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Frederick Douglass",
+        "descriptor": "African-American social reformer, writer, and abolitionist",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Frederick Douglass has 5 children in the cited records.",
+        "imageAlt": "Portrait of Frederick Douglass"
+      },
+      "zh": {
+        "displayName": "弗雷德里克·道格拉斯",
+        "descriptor": "非裔美国社会改革家、作家兼废奴主义者",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "弗雷德里克·道格拉斯在引用记录中有5名子女。",
+        "imageAlt": "弗雷德里克·道格拉斯肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-miguel-de-unamuno",
+    "category": "western-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 9,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Miguel de Unamuno",
+        "url": "https://en.wikipedia.org/wiki/Miguel_de_Unamuno"
+      },
+      {
+        "title": "Wikidata — Miguel de Unamuno",
+        "url": "https://www.wikidata.org/entity/Q185085"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Miguel_de_Unamuno_Meurisse_1925.jpg/500px-Miguel_de_Unamuno_Meurisse_1925.jpg",
+      "licence": "Public domain",
+      "attribution": "Agence de presse Meurisse",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miguel_de_Unamuno_Meurisse_1925.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Miguel de Unamuno",
+        "descriptor": "Spanish poet",
+        "countingRuleSummary": "9 children are recorded by Wikidata.",
+        "explanation": "Miguel de Unamuno has 9 children in the cited records.",
+        "imageAlt": "Portrait of Miguel de Unamuno"
+      },
+      "zh": {
+        "displayName": "米格尔·德·乌纳穆诺",
+        "descriptor": "西班牙诗人",
+        "countingRuleSummary": "维基数据记载9名子女。",
+        "explanation": "米格尔·德·乌纳穆诺在引用记录中有9名子女。",
+        "imageAlt": "米格尔·德·乌纳穆诺肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-gloria-swanson",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Gloria Swanson",
+        "url": "https://en.wikipedia.org/wiki/Gloria_Swanson"
+      },
+      {
+        "title": "Wikidata — Gloria Swanson",
+        "url": "https://www.wikidata.org/entity/Q229232"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gloria_Swanson_1941.jpg/500px-Gloria_Swanson_1941.jpg",
+      "licence": "Public domain",
+      "attribution": "RKO Studio",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gloria_Swanson_1941.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Gloria Swanson",
+        "descriptor": "American actress",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Gloria Swanson has 3 children in the cited records.",
+        "imageAlt": "Portrait of Gloria Swanson"
+      },
+      "zh": {
+        "displayName": "格洛丽亚·斯旺森",
+        "descriptor": "美国女演员",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "格洛丽亚·斯旺森在引用记录中有3名子女。",
+        "imageAlt": "格洛丽亚·斯旺森肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-ludwig-erhard",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Ludwig Erhard",
+        "url": "https://en.wikipedia.org/wiki/Ludwig_Erhard"
+      },
+      {
+        "title": "Wikidata — Ludwig Erhard",
+        "url": "https://www.wikidata.org/entity/Q2496"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bundesarchiv_B_145_Bild-F041449-0007%2C_Hamburg%2C_CDU-Bundesparteitag%2C_Ludwig_Erhard.jpg",
+      "licence": "CC BY-SA 3.0 de",
+      "attribution": "Engelbert Reineke",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_B_145_Bild-F041449-0007,_Hamburg,_CDU-Bundesparteitag,_Ludwig_Erhard.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Ludwig Erhard",
+        "descriptor": "Chancellor of West Germany",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Ludwig Erhard has 1 child in the cited records.",
+        "imageAlt": "Portrait of Ludwig Erhard"
+      },
+      "zh": {
+        "displayName": "路德维希·艾哈德",
+        "descriptor": "西德总理",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "路德维希·艾哈德在引用记录中有1名子女。",
+        "imageAlt": "路德维希·艾哈德肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-john-ford",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — John Ford",
+        "url": "https://en.wikipedia.org/wiki/John_Ford"
+      },
+      {
+        "title": "Wikidata — John Ford",
+        "url": "https://www.wikidata.org/entity/Q51114"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Ford_1946.jpg/500px-John_Ford_1946.jpg",
+      "licence": "Public domain",
+      "attribution": "Los Angeles Daily News",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Ford_1946.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "John Ford",
+        "descriptor": "American film director",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "John Ford has 2 children in the cited records.",
+        "imageAlt": "Portrait of John Ford"
+      },
+      "zh": {
+        "displayName": "约翰·福特",
+        "descriptor": "美国电影导演",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "约翰·福特在引用记录中有2名子女。",
+        "imageAlt": "约翰·福特肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-joachim-von-ribbentrop",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Joachim von Ribbentrop",
+        "url": "https://en.wikipedia.org/wiki/Joachim_von_Ribbentrop"
+      },
+      {
+        "title": "Wikidata — Joachim von Ribbentrop",
+        "url": "https://www.wikidata.org/entity/Q101886"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bundesarchiv_Bild_183-H04810%2C_Joachim_von_Ribbentrop_%28cropped%29_2.jpg",
+      "licence": "CC BY-SA 3.0 de",
+      "attribution": "Unknown Unknown",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-H04810,_Joachim_von_Ribbentrop_(cropped)_2.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Joachim von Ribbentrop",
+        "descriptor": "German Foreign Minister of Nazi Germany",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Joachim von Ribbentrop has 5 children in the cited records.",
+        "imageAlt": "Portrait of Joachim von Ribbentrop"
+      },
+      "zh": {
+        "displayName": "约阿希姆·冯·里宾特洛甫",
+        "descriptor": "纳粹德国外交部长",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "约阿希姆·冯·里宾特洛甫在引用记录中有5名子女。",
+        "imageAlt": "约阿希姆·冯·里宾特洛甫肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-karl-donitz",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Karl Dönitz",
+        "url": "https://en.wikipedia.org/wiki/Karl_D%C3%B6nitz"
+      },
+      {
+        "title": "Wikidata — Karl Dönitz",
+        "url": "https://www.wikidata.org/entity/Q76437"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Karl_D%C3%B6nitz.jpg/500px-Karl_D%C3%B6nitz.jpg",
+      "licence": "Public domain",
+      "attribution": "Wikimedia Commons contributor",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karl_D%C3%B6nitz.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Karl Dönitz",
+        "descriptor": "German admiral and former president of Nazi Germany in 1945",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Karl Dönitz has 3 children in the cited records.",
+        "imageAlt": "Portrait of Karl Dönitz"
+      },
+      "zh": {
+        "displayName": "卡尔·邓尼茨",
+        "descriptor": "德国海军元帅、纳粹德国总统（1945）",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "卡尔·邓尼茨在引用记录中有3名子女。",
+        "imageAlt": "卡尔·邓尼茨肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-herbert-marcuse",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Herbert Marcuse",
+        "url": "https://en.wikipedia.org/wiki/Herbert_Marcuse"
+      },
+      {
+        "title": "Wikidata — Herbert Marcuse",
+        "url": "https://www.wikidata.org/entity/Q60030"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Herbert_Marcuse_in_Newton%2C_Massachusetts_1955.jpeg/500px-Herbert_Marcuse_in_Newton%2C_Massachusetts_1955.jpeg",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Copyright holder: Marcuse family, represented by Harold Marcuse",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herbert_Marcuse_in_Newton,_Massachusetts_1955.jpeg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Herbert Marcuse",
+        "descriptor": "German philosopher, sociologist, and political theorist",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Herbert Marcuse has 1 child in the cited records.",
+        "imageAlt": "Portrait of Herbert Marcuse"
+      },
+      "zh": {
+        "displayName": "赫伯特·马尔库塞",
+        "descriptor": "德国哲学家、社会学家兼政治理论家",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "赫伯特·马尔库塞在引用记录中有1名子女。",
+        "imageAlt": "赫伯特·马尔库塞肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-jefferson-davis",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 10,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Jefferson Davis",
+        "url": "https://en.wikipedia.org/wiki/Jefferson_Davis"
+      },
+      {
+        "title": "Wikidata — Jefferson Davis",
+        "url": "https://www.wikidata.org/entity/Q162269"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/President-Jefferson-Davis.jpg/500px-President-Jefferson-Davis.jpg",
+      "licence": "Public domain",
+      "attribution": "Mathew Benjamin Brady",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:President-Jefferson-Davis.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Jefferson Davis",
+        "descriptor": "President of the Confederate States from 1861 to 1865",
+        "countingRuleSummary": "10 children are recorded by Wikidata.",
+        "explanation": "Jefferson Davis has 10 children in the cited records.",
+        "imageAlt": "Portrait of Jefferson Davis"
+      },
+      "zh": {
+        "displayName": "杰斐逊·戴维斯",
+        "descriptor": "美利坚联盟国总统（1861–1865）",
+        "countingRuleSummary": "维基数据记载10名子女。",
+        "explanation": "杰斐逊·戴维斯在引用记录中有10名子女。",
+        "imageAlt": "杰斐逊·戴维斯肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-abigail-adams",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Abigail Adams",
+        "url": "https://en.wikipedia.org/wiki/Abigail_Adams"
+      },
+      {
+        "title": "Wikidata — Abigail Adams",
+        "url": "https://www.wikidata.org/entity/Q206191"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Abigail_Adams.jpg/500px-Abigail_Adams.jpg",
+      "licence": "Public domain",
+      "attribution": "Benjamin Blyth",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abigail_Adams.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Abigail Adams",
+        "descriptor": "First Lady of the United States from 1797 to 1801",
+        "countingRuleSummary": "6 children are recorded by Wikidata.",
+        "explanation": "Abigail Adams has 6 children in the cited records.",
+        "imageAlt": "Portrait of Abigail Adams"
+      },
+      "zh": {
+        "displayName": "阿比盖尔·亚当斯",
+        "descriptor": "美国第一夫人（1797–1801）",
+        "countingRuleSummary": "维基数据记载6名子女。",
+        "explanation": "阿比盖尔·亚当斯在引用记录中有6名子女。",
+        "imageAlt": "阿比盖尔·亚当斯肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-albert-szent-gyorgyi",
+    "category": "western-history",
+    "tags": [
+      "science"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Albert Szent-Györgyi",
+        "url": "https://en.wikipedia.org/wiki/Albert_Szent-Gy%C3%B6rgyi"
+      },
+      {
+        "title": "Wikidata — Albert Szent-Györgyi",
+        "url": "https://www.wikidata.org/entity/Q180468"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Albert_Szent-Gy%C3%B6rgyi.jpg/500px-Albert_Szent-Gy%C3%B6rgyi.jpg",
+      "licence": "Public domain",
+      "attribution": "J.W. McGuire",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Albert_Szent-Gy%C3%B6rgyi.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Albert Szent-Györgyi",
+        "descriptor": "Hungarian biochemist, Nobel Prize laureate in Physiology or Medicine in 1937",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Albert Szent-Györgyi has 1 child in the cited records.",
+        "imageAlt": "Portrait of Albert Szent-Györgyi"
+      },
+      "zh": {
+        "displayName": "阿尔伯特·森特-哲尔吉",
+        "descriptor": "匈牙利生物化学家、1937年诺贝尔生理学或医学奖得主",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "阿尔伯特·森特-哲尔吉在引用记录中有1名子女。",
+        "imageAlt": "阿尔伯特·森特-哲尔吉肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-joseph-louis-gay-lussac",
+    "category": "western-history",
+    "tags": [
+      "science"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Joseph Louis Gay-Lussac",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Louis_Gay-Lussac"
+      },
+      {
+        "title": "Wikidata — Joseph Louis Gay-Lussac",
+        "url": "https://www.wikidata.org/entity/Q153185"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gaylussac.jpg/500px-Gaylussac.jpg",
+      "licence": "Public domain",
+      "attribution": "François-Séraphin Delpech",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gaylussac.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Joseph Louis Gay-Lussac",
+        "descriptor": "French chemist and physicist",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Joseph Louis Gay-Lussac has 5 children in the cited records.",
+        "imageAlt": "Portrait of Joseph Louis Gay-Lussac"
+      },
+      "zh": {
+        "displayName": "约瑟夫·路易·盖-吕萨克",
+        "descriptor": "法国化学家兼物理学家",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "约瑟夫·路易·盖-吕萨克在引用记录中有5名子女。",
+        "imageAlt": "约瑟夫·路易·盖-吕萨克肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-georges-melies",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Georges Méliès",
+        "url": "https://en.wikipedia.org/wiki/Georges_M%C3%A9li%C3%A8s"
+      },
+      {
+        "title": "Wikidata — Georges Méliès",
+        "url": "https://www.wikidata.org/entity/Q152272"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/M%C3%A9li%C3%A8s_portrait_%28cropped%29.png/500px-M%C3%A9li%C3%A8s_portrait_%28cropped%29.png",
+      "licence": "Public domain",
+      "attribution": "Georges Méliès",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:M%C3%A9li%C3%A8s_portrait_(cropped).png"
+    },
+    "text": {
+      "en": {
+        "displayName": "Georges Méliès",
+        "descriptor": "French filmmaker and illusionist",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Georges Méliès has 2 children in the cited records.",
+        "imageAlt": "Portrait of Georges Méliès"
+      },
+      "zh": {
+        "displayName": "乔治·梅里爱",
+        "descriptor": "法国电影制作人兼魔术师",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "乔治·梅里爱在引用记录中有2名子女。",
+        "imageAlt": "乔治·梅里爱肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-thomas-hunt-morgan",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Thomas Hunt Morgan",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Hunt_Morgan"
+      },
+      {
+        "title": "Wikidata — Thomas Hunt Morgan",
+        "url": "https://www.wikidata.org/entity/Q177681"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Thomas_Hunt_Morgan.jpg/500px-Thomas_Hunt_Morgan.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thomas_Hunt_Morgan.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Thomas Hunt Morgan",
+        "descriptor": "American biologist",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Thomas Hunt Morgan has 4 children in the cited records.",
+        "imageAlt": "Portrait of Thomas Hunt Morgan"
+      },
+      "zh": {
+        "displayName": "托马斯·亨特·摩尔根",
+        "descriptor": "美国生物学家",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "托马斯·亨特·摩尔根在引用记录中有4名子女。",
+        "imageAlt": "托马斯·亨特·摩尔根肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-h-h-asquith",
+    "category": "western-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 10,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — H. H. Asquith",
+        "url": "https://en.wikipedia.org/wiki/H._H._Asquith"
+      },
+      {
+        "title": "Wikidata — H. H. Asquith",
+        "url": "https://www.wikidata.org/entity/Q166714"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Herbert_Henry_Asquith.jpg/500px-Herbert_Henry_Asquith.jpg",
+      "licence": "Public domain",
+      "attribution": "Bain News Service",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herbert_Henry_Asquith.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "H. H. Asquith",
+        "descriptor": "British politician; Prime Minister of the United Kingdom from 1908 to 1916",
+        "countingRuleSummary": "10 children are recorded by Wikidata.",
+        "explanation": "H. H. Asquith has 10 children in the cited records.",
+        "imageAlt": "Portrait of H. H. Asquith"
+      },
+      "zh": {
+        "displayName": "H·H·阿斯奎斯",
+        "descriptor": "英国政治家、首相（1908–1916）",
+        "countingRuleSummary": "维基数据记载10名子女。",
+        "explanation": "H·H·阿斯奎斯在引用记录中有10名子女。",
+        "imageAlt": "H·H·阿斯奎斯肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-aleister-crowley",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Aleister Crowley",
+        "url": "https://en.wikipedia.org/wiki/Aleister_Crowley"
+      },
+      {
+        "title": "Wikidata — Aleister Crowley",
+        "url": "https://www.wikidata.org/entity/Q172684"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Aleister_Crowley%2C_thinker.jpg/500px-Aleister_Crowley%2C_thinker.jpg",
+      "licence": "Public domain",
+      "attribution": "Aleister Crowley",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aleister_Crowley,_thinker.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Aleister Crowley",
+        "descriptor": "English occultist",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Aleister Crowley has 5 children in the cited records.",
+        "imageAlt": "Portrait of Aleister Crowley"
+      },
+      "zh": {
+        "displayName": "阿莱斯特·克劳利",
+        "descriptor": "英国神秘学家",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "阿莱斯特·克劳利在引用记录中有5名子女。",
+        "imageAlt": "阿莱斯特·克劳利肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-john-logie-baird",
+    "category": "western-history",
+    "tags": [
+      "science"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — John Logie Baird",
+        "url": "https://en.wikipedia.org/wiki/John_Logie_Baird"
+      },
+      {
+        "title": "Wikidata — John Logie Baird",
+        "url": "https://www.wikidata.org/entity/Q133544"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/John_Logie_Baird_in_1917.jpg/500px-John_Logie_Baird_in_1917.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Logie_Baird_in_1917.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "John Logie Baird",
+        "descriptor": "Scottish inventor, demonstrating the world's first working television",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "John Logie Baird has 2 children in the cited records.",
+        "imageAlt": "Portrait of John Logie Baird"
+      },
+      "zh": {
+        "displayName": "约翰·洛吉·贝尔德",
+        "descriptor": "苏格兰发明家、世界首台电视机演示者",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "约翰·洛吉·贝尔德在引用记录中有2名子女。",
+        "imageAlt": "约翰·洛吉·贝尔德肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-ramsay-macdonald",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Ramsay MacDonald",
+        "url": "https://en.wikipedia.org/wiki/Ramsay_MacDonald"
+      },
+      {
+        "title": "Wikidata — Ramsay MacDonald",
+        "url": "https://www.wikidata.org/entity/Q166646"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/J._Ramsay_MacDonald_LCCN2014715885_%28cropped%29.jpg/500px-J._Ramsay_MacDonald_LCCN2014715885_%28cropped%29.jpg",
+      "licence": "Public domain",
+      "attribution": "Walter Stoneman",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:J._Ramsay_MacDonald_LCCN2014715885_(cropped).jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Ramsay MacDonald",
+        "descriptor": "British prime minister in 1924 and 1929 to 1935",
+        "countingRuleSummary": "6 children are recorded by Wikidata.",
+        "explanation": "Ramsay MacDonald has 6 children in the cited records.",
+        "imageAlt": "Portrait of Ramsay MacDonald"
+      },
+      "zh": {
+        "displayName": "拉姆齐·麦克唐纳",
+        "descriptor": "英国首相（1924、1929–1935）",
+        "countingRuleSummary": "维基数据记载6名子女。",
+        "explanation": "拉姆齐·麦克唐纳在引用记录中有6名子女。",
+        "imageAlt": "拉姆齐·麦克唐纳肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-aleksey-tolstoy",
+    "category": "western-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Aleksey Tolstoy",
+        "url": "https://en.wikipedia.org/wiki/Aleksey_Nikolayevich_Tolstoy"
+      },
+      {
+        "title": "Wikidata — Aleksey Tolstoy",
+        "url": "https://www.wikidata.org/entity/Q192279"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ANTolstoy.jpg/500px-ANTolstoy.jpg",
+      "licence": "Public domain",
+      "attribution": "ИППИ",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ANTolstoy.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Aleksey Tolstoy",
+        "descriptor": "Russian-Soviet writer",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Aleksey Tolstoy has 4 children in the cited records.",
+        "imageAlt": "Portrait of Aleksey Tolstoy"
+      },
+      "zh": {
+        "displayName": "阿列克谢·托尔斯泰",
+        "descriptor": "俄苏作家",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "阿列克谢·托尔斯泰在引用记录中有4名子女。",
+        "imageAlt": "阿列克谢·托尔斯泰肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-aaron-burr",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Aaron Burr",
+        "url": "https://en.wikipedia.org/wiki/Aaron_Burr"
+      },
+      {
+        "title": "Wikidata — Aaron Burr",
+        "url": "https://www.wikidata.org/entity/Q179090"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/John_Vanderlyn_-_Official_Portrait_of_Vice_President_Aaron_Burr.jpg/500px-John_Vanderlyn_-_Official_Portrait_of_Vice_President_Aaron_Burr.jpg",
+      "licence": "Public domain",
+      "attribution": "John Vanderlyn",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Vanderlyn_-_Official_Portrait_of_Vice_President_Aaron_Burr.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Aaron Burr",
+        "descriptor": "vice president of the United States from 1801 to 1805, lived",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Aaron Burr has 3 children in the cited records.",
+        "imageAlt": "Portrait of Aaron Burr"
+      },
+      "zh": {
+        "displayName": "阿龙·伯尔",
+        "descriptor": "美国副总统（1801–1805）",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "阿龙·伯尔在引用记录中有3名子女。",
+        "imageAlt": "阿龙·伯尔肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-nestor-makhno",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Nestor Makhno",
+        "url": "https://en.wikipedia.org/wiki/Nestor_Makhno"
+      },
+      {
+        "title": "Wikidata — Nestor Makhno",
+        "url": "https://www.wikidata.org/entity/Q47900"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/1921._%D0%9D%D0%B5%D1%81%D1%82%D0%BE%D1%80_%D0%9C%D0%B0%D1%85%D0%BD%D0%BE_%D0%B2_%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D0%B5_%D0%B4%D0%BB%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%BB%D0%B8%D1%86_%D0%B2_%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D0%B8.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:1921._%D0%9D%D0%B5%D1%81%D1%82%D0%BE%D1%80_%D0%9C%D0%B0%D1%85%D0%BD%D0%BE_%D0%B2_%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D0%B5_%D0%B4%D0%BB%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%BB%D0%B8%D1%86_%D0%B2_%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D0%B8.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Nestor Makhno",
+        "descriptor": "Ukrainian anarchist revolutionary",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Nestor Makhno has 1 child in the cited records.",
+        "imageAlt": "Portrait of Nestor Makhno"
+      },
+      "zh": {
+        "displayName": "涅斯托尔·马赫诺",
+        "descriptor": "乌克兰无政府主义革命家",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "涅斯托尔·马赫诺在引用记录中有1名子女。",
+        "imageAlt": "涅斯托尔·马赫诺肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-charles-g-dawes",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Charles G. Dawes",
+        "url": "https://en.wikipedia.org/wiki/Charles_G._Dawes"
+      },
+      {
+        "title": "Wikidata — Charles G. Dawes",
+        "url": "https://www.wikidata.org/entity/Q184565"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Chas_G_Dawes-H%26E.jpg/500px-Chas_G_Dawes-H%26E.jpg",
+      "licence": "Public domain",
+      "attribution": "Harris & Ewing",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chas_G_Dawes-H%26E.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Charles G. Dawes",
+        "descriptor": "vice president of the United States from 1925 to 1929",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Charles G. Dawes has 4 children in the cited records.",
+        "imageAlt": "Portrait of Charles G. Dawes"
+      },
+      "zh": {
+        "displayName": "查尔斯·G·道斯",
+        "descriptor": "美国副总统（1925–1929）",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "查尔斯·G·道斯在引用记录中有4名子女。",
+        "imageAlt": "查尔斯·G·道斯肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-john-c-calhoun",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 10,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — John C. Calhoun",
+        "url": "https://en.wikipedia.org/wiki/John_C._Calhoun"
+      },
+      {
+        "title": "Wikidata — John C. Calhoun",
+        "url": "https://www.wikidata.org/entity/Q207191"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/John_C._Calhoun.jpeg/500px-John_C._Calhoun.jpeg",
+      "licence": "Public domain",
+      "attribution": "Rembrandt Peale",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_C._Calhoun.jpeg"
+    },
+    "text": {
+      "en": {
+        "displayName": "John C. Calhoun",
+        "descriptor": "vice president of the United States from 1825 to 1832",
+        "countingRuleSummary": "10 children are recorded by Wikidata.",
+        "explanation": "John C. Calhoun has 10 children in the cited records.",
+        "imageAlt": "Portrait of John C. Calhoun"
+      },
+      "zh": {
+        "displayName": "约翰·C·卡尔霍恩",
+        "descriptor": "美国副总统（1825–1832）",
+        "countingRuleSummary": "维基数据记载10名子女。",
+        "explanation": "约翰·C·卡尔霍恩在引用记录中有10名子女。",
+        "imageAlt": "约翰·C·卡尔霍恩肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-berthe-morisot",
+    "category": "western-history",
+    "tags": [
+      "art"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Berthe Morisot",
+        "url": "https://en.wikipedia.org/wiki/Berthe_Morisot"
+      },
+      {
+        "title": "Wikidata — Berthe Morisot",
+        "url": "https://www.wikidata.org/entity/Q105320"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Morisot_berthe_photo.jpg/500px-Morisot_berthe_photo.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morisot_berthe_photo.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Berthe Morisot",
+        "descriptor": "French painter",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Berthe Morisot has 1 child in the cited records.",
+        "imageAlt": "Portrait of Berthe Morisot"
+      },
+      "zh": {
+        "displayName": "贝尔特·莫里索",
+        "descriptor": "法国画家",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "贝尔特·莫里索在引用记录中有1名子女。",
+        "imageAlt": "贝尔特·莫里索肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-heinrich-schliemann",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Heinrich Schliemann",
+        "url": "https://en.wikipedia.org/wiki/Heinrich_Schliemann"
+      },
+      {
+        "title": "Wikidata — Heinrich Schliemann",
+        "url": "https://www.wikidata.org/entity/Q57106"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Heinrich_Schliemann_%28HeidICON_28763%29_%28cropped%29.jpg/500px-Heinrich_Schliemann_%28HeidICON_28763%29_%28cropped%29.jpg",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Ed. Schultze Hofphotograph Heidelberg Plöckstrasse 79",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heinrich_Schliemann_(HeidICON_28763)_(cropped).jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Heinrich Schliemann",
+        "descriptor": "German businessman and archaeologist",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Heinrich Schliemann has 5 children in the cited records.",
+        "imageAlt": "Portrait of Heinrich Schliemann"
+      },
+      "zh": {
+        "displayName": "海因里希·施利曼",
+        "descriptor": "德国商人兼考古学家",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "海因里希·施利曼在引用记录中有5名子女。",
+        "imageAlt": "海因里希·施利曼肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-jeanne-calment",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Jeanne Calment",
+        "url": "https://en.wikipedia.org/wiki/Jeanne_Calment"
+      },
+      {
+        "title": "Wikidata — Jeanne Calment",
+        "url": "https://www.wikidata.org/entity/Q182260"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/JeanneCalmentaged40.jpg/500px-JeanneCalmentaged40.jpg",
+      "licence": "Public domain",
+      "attribution": "Gustave Ouvière",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:JeanneCalmentaged40.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Jeanne Calment",
+        "descriptor": "French supercentenarian, person with the longest confirmed lifespan",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Jeanne Calment has 1 child in the cited records.",
+        "imageAlt": "Portrait of Jeanne Calment"
+      },
+      "zh": {
+        "displayName": "让娜·卡尔芒",
+        "descriptor": "法国超级人瑞、最长确认寿命纪录保持者",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "让娜·卡尔芒在引用记录中有1名子女。",
+        "imageAlt": "让娜·卡尔芒肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-hugo-von-hofmannsthal",
+    "category": "western-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Hugo von Hofmannsthal",
+        "url": "https://en.wikipedia.org/wiki/Hugo_von_Hofmannsthal"
+      },
+      {
+        "title": "Wikidata — Hugo von Hofmannsthal",
+        "url": "https://www.wikidata.org/entity/Q51513"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hofmannsthal_1893.jpg/500px-Hofmannsthal_1893.jpg",
+      "licence": "Public domain",
+      "attribution": "Wikimedia Commons contributor",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hofmannsthal_1893.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Hugo von Hofmannsthal",
+        "descriptor": "Austrian novelist, librettist, poet, dramatist",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Hugo von Hofmannsthal has 3 children in the cited records.",
+        "imageAlt": "Portrait of Hugo von Hofmannsthal"
+      },
+      "zh": {
+        "displayName": "胡戈·冯·霍夫曼斯塔尔",
+        "descriptor": "奥地利小说家、剧作家、诗人",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "胡戈·冯·霍夫曼斯塔尔在引用记录中有3名子女。",
+        "imageAlt": "胡戈·冯·霍夫曼斯塔尔肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-henry-a-wallace",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Henry A. Wallace",
+        "url": "https://en.wikipedia.org/wiki/Henry_A._Wallace"
+      },
+      {
+        "title": "Wikidata — Henry A. Wallace",
+        "url": "https://www.wikidata.org/entity/Q251666"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Henry-A.-Wallace-Townsend.jpeg/500px-Henry-A.-Wallace-Townsend.jpeg",
+      "licence": "Public domain",
+      "attribution": "Photo copyrighted by D.N. Townsend; no renewal in the U.S. Copyright Office",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Henry-A.-Wallace-Townsend.jpeg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Henry A. Wallace",
+        "descriptor": "American politician (1888–1965); Vice President of the United States from 1941 to 1945",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Henry A. Wallace has 3 children in the cited records.",
+        "imageAlt": "Portrait of Henry A. Wallace"
+      },
+      "zh": {
+        "displayName": "亨利·A·华莱士",
+        "descriptor": "美国政治家（1888–1965）；副总统（1941–1945）",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "亨利·A·华莱士在引用记录中有3名子女。",
+        "imageAlt": "亨利·A·华莱士肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-chaim-weizmann",
+    "category": "western-history",
+    "tags": [
+      "science"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Chaim Weizmann",
+        "url": "https://en.wikipedia.org/wiki/Chaim_Weizmann"
+      },
+      {
+        "title": "Wikidata — Chaim Weizmann",
+        "url": "https://www.wikidata.org/entity/Q172183"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flickr_-_Government_Press_Office_%28GPO%29_-_President_Chaim_Weizmann_%28retouched%29.jpg/500px-Flickr_-_Government_Press_Office_%28GPO%29_-_President_Chaim_Weizmann_%28retouched%29.jpg",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Hugo Mendelson",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flickr_-_Government_Press_Office_(GPO)_-_President_Chaim_Weizmann_(retouched).jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Chaim Weizmann",
+        "descriptor": "Israeli statesman and British chemist",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Chaim Weizmann has 2 children in the cited records.",
+        "imageAlt": "Portrait of Chaim Weizmann"
+      },
+      "zh": {
+        "displayName": "哈伊姆·魏茨曼",
+        "descriptor": "以色列政治家兼英国化学家",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "哈伊姆·魏茨曼在引用记录中有2名子女。",
+        "imageAlt": "哈伊姆·魏茨曼肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-gerhard-domagk",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Gerhard Domagk",
+        "url": "https://en.wikipedia.org/wiki/Gerhard_Domagk"
+      },
+      {
+        "title": "Wikidata — Gerhard Domagk",
+        "url": "https://www.wikidata.org/entity/Q57192"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Gerhard_Domagk_nobel.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gerhard_Domagk_nobel.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Gerhard Domagk",
+        "descriptor": "German bacteriologist",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Gerhard Domagk has 4 children in the cited records.",
+        "imageAlt": "Portrait of Gerhard Domagk"
+      },
+      "zh": {
+        "displayName": "格哈德·多马克",
+        "descriptor": "德国细菌学家",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "格哈德·多马克在引用记录中有4名子女。",
+        "imageAlt": "格哈德·多马克肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-elisabeth-louise-vigee-le-brun",
+    "category": "western-history",
+    "tags": [
+      "art"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Élisabeth Louise Vigée Le Brun",
+        "url": "https://en.wikipedia.org/wiki/%C3%89lisabeth_Vig%C3%A9e_Le_Brun"
+      },
+      {
+        "title": "Wikidata — Élisabeth Louise Vigée Le Brun",
+        "url": "https://www.wikidata.org/entity/Q213163"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Self-portrait_in_a_Straw_Hat_by_Elisabeth-Louise_Vig%C3%A9e-Lebrun.jpg/500px-Self-portrait_in_a_Straw_Hat_by_Elisabeth-Louise_Vig%C3%A9e-Lebrun.jpg",
+      "licence": "Public domain",
+      "attribution": "Élisabeth Louise Vigée Le Brun",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Self-portrait_in_a_Straw_Hat_by_Elisabeth-Louise_Vig%C3%A9e-Lebrun.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Élisabeth Louise Vigée Le Brun",
+        "descriptor": "French portrait painter",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Élisabeth Louise Vigée Le Brun has 1 child in the cited records.",
+        "imageAlt": "Portrait of Élisabeth Louise Vigée Le Brun"
+      },
+      "zh": {
+        "displayName": "伊丽莎白·路易丝·维热-勒布伦",
+        "descriptor": "法国肖像画家",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "伊丽莎白·路易丝·维热-勒布伦在引用记录中有1名子女。",
+        "imageAlt": "伊丽莎白·路易丝·维热-勒布伦肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-pietro-badoglio",
+    "category": "western-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Pietro Badoglio",
+        "url": "https://en.wikipedia.org/wiki/Pietro_Badoglio"
+      },
+      {
+        "title": "Wikidata — Pietro Badoglio",
+        "url": "https://www.wikidata.org/entity/Q200085"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Pietro_Badoglio_3.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pietro_Badoglio_3.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Pietro Badoglio",
+        "descriptor": "Italian Military General Officer and Marshal of the Royal Italian Army from 1916-1943 during both World Wars and Prime Minister of Italy from 1943-1944",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Pietro Badoglio has 4 children in the cited records.",
+        "imageAlt": "Portrait of Pietro Badoglio"
+      },
+      "zh": {
+        "displayName": "彼得罗·巴多格里奥",
+        "descriptor": "意大利军事将领、元帅（1916–1943），意大利首相（1943–1944）",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "彼得罗·巴多格里奥在引用记录中有4名子女。",
+        "imageAlt": "彼得罗·巴多格里奥肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-dolores-ibarruri",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Dolores Ibárruri",
+        "url": "https://en.wikipedia.org/wiki/Dolores_Ib%C3%A1rruri"
+      },
+      {
+        "title": "Wikidata — Dolores Ibárruri",
+        "url": "https://www.wikidata.org/entity/Q238955"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Dolores002.jpg/500px-Dolores002.jpg",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "Nemo",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dolores002.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Dolores Ibárruri",
+        "descriptor": "Spanish Republican leader of the Spanish Civil War and communist politician",
+        "countingRuleSummary": "6 children are recorded by Wikidata.",
+        "explanation": "Dolores Ibárruri has 6 children in the cited records.",
+        "imageAlt": "Portrait of Dolores Ibárruri"
+      },
+      "zh": {
+        "displayName": "多洛雷斯·伊巴露丽",
+        "descriptor": "西班牙内战共和派领袖、共产主义政治家",
+        "countingRuleSummary": "维基数据记载6名子女。",
+        "explanation": "多洛雷斯·伊巴露丽在引用记录中有6名子女。",
+        "imageAlt": "多洛雷斯·伊巴露丽肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-igor-sikorsky",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Igor Sikorsky",
+        "url": "https://en.wikipedia.org/wiki/Igor_Sikorsky"
+      },
+      {
+        "title": "Wikidata — Igor Sikorsky",
+        "url": "https://www.wikidata.org/entity/Q212446"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Sikorsky%2C_Igor.jpg/500px-Sikorsky%2C_Igor.jpg",
+      "licence": "Public domain",
+      "attribution": "SDASM Archives",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sikorsky,_Igor.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Igor Sikorsky",
+        "descriptor": "American aviation pioneer from Russian Empire",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Igor Sikorsky has 5 children in the cited records.",
+        "imageAlt": "Portrait of Igor Sikorsky"
+      },
+      "zh": {
+        "displayName": "伊戈尔·西科尔斯基",
+        "descriptor": "俄裔美国航空先驱",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "伊戈尔·西科尔斯基在引用记录中有5名子女。",
+        "imageAlt": "伊戈尔·西科尔斯基肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-soh-jaipil",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Soh Jaipil",
+        "url": "https://en.wikipedia.org/wiki/Philip_Jaisohn"
+      },
+      {
+        "title": "Wikidata — Soh Jaipil",
+        "url": "https://www.wikidata.org/entity/Q319934"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Seo_Jae-pil_1947.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seo_Jae-pil_1947.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Soh Jaipil",
+        "descriptor": "Korean-American independence activist and journalist",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Soh Jaipil has 2 children in the cited records.",
+        "imageAlt": "Portrait of Soh Jaipil"
+      },
+      "zh": {
+        "displayName": "徐载弼",
+        "descriptor": "韩裔美国独立活动家兼记者",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "徐载弼在引用记录中有2名子女。",
+        "imageAlt": "徐载弼肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-alben-w-barkley",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Alben W. Barkley",
+        "url": "https://en.wikipedia.org/wiki/Alben_W._Barkley"
+      },
+      {
+        "title": "Wikidata — Alben W. Barkley",
+        "url": "https://www.wikidata.org/entity/Q273549"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/AlbenBarkley.jpg/500px-AlbenBarkley.jpg",
+      "licence": "Public domain",
+      "attribution": "Wikimedia Commons contributor",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:AlbenBarkley.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Alben W. Barkley",
+        "descriptor": "vice president of the United States from 1949 to 1953",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Alben W. Barkley has 3 children in the cited records.",
+        "imageAlt": "Portrait of Alben W. Barkley"
+      },
+      "zh": {
+        "displayName": "阿尔本·W·巴克利",
+        "descriptor": "美国副总统（1949–1953）",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "阿尔本·W·巴克利在引用记录中有3名子女。",
+        "imageAlt": "阿尔本·W·巴克利肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-miguel-primo-de-rivera-2nd-marquis-of-estella",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Miguel Primo de Rivera, 2nd Marquis of Estella",
+        "url": "https://en.wikipedia.org/wiki/Miguel_Primo_de_Rivera"
+      },
+      {
+        "title": "Wikidata — Miguel Primo de Rivera, 2nd Marquis of Estella",
+        "url": "https://www.wikidata.org/entity/Q192894"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Miguel_Primo_de_Rivera%2C_Kaulak_%28cropped%29.jpg/500px-Miguel_Primo_de_Rivera%2C_Kaulak_%28cropped%29.jpg",
+      "licence": "CC0",
+      "attribution": "Kaulak",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miguel_Primo_de_Rivera,_Kaulak_(cropped).jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Miguel Primo de Rivera, 2nd Marquis of Estella",
+        "descriptor": "Spanish politician; dictator, aristocrat, and military officer who served as Prime Minister of Spain from 1923 to 1930",
+        "countingRuleSummary": "6 children are recorded by Wikidata.",
+        "explanation": "Miguel Primo de Rivera, 2nd Marquis of Estella has 6 children in the cited records.",
+        "imageAlt": "Portrait of Miguel Primo de Rivera, 2nd Marquis of Estella"
+      },
+      "zh": {
+        "displayName": "米格尔·普里莫·德·里韦拉",
+        "descriptor": "西班牙政治家、独裁者、首相（1923–1930）",
+        "countingRuleSummary": "维基数据记载6名子女。",
+        "explanation": "米格尔·普里莫·德·里韦拉在引用记录中有6名子女。",
+        "imageAlt": "米格尔·普里莫·德·里韦拉肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-margaret-sanger",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Margaret Sanger",
+        "url": "https://en.wikipedia.org/wiki/Margaret_Sanger"
+      },
+      {
+        "title": "Wikidata — Margaret Sanger",
+        "url": "https://www.wikidata.org/entity/Q285514"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Margaret_Sanger_visits_Los_Angeles.jpg/500px-Margaret_Sanger_visits_Los_Angeles.jpg",
+      "licence": "CC BY 4.0",
+      "attribution": "Los Angeles Times",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Margaret_Sanger_visits_Los_Angeles.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Margaret Sanger",
+        "descriptor": "American birth control activist and nurse",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Margaret Sanger has 5 children in the cited records.",
+        "imageAlt": "Portrait of Margaret Sanger"
+      },
+      "zh": {
+        "displayName": "玛格丽特·桑格",
+        "descriptor": "美国节育活动家兼护士",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "玛格丽特·桑格在引用记录中有5名子女。",
+        "imageAlt": "玛格丽特·桑格肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-edward-thorndike",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Edward Thorndike",
+        "url": "https://en.wikipedia.org/wiki/Edward_Thorndike"
+      },
+      {
+        "title": "Wikidata — Edward Thorndike",
+        "url": "https://www.wikidata.org/entity/Q309765"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/PSM_V80_D211_Edward_Lee_Thorndike.png/500px-PSM_V80_D211_Edward_Lee_Thorndike.png",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:PSM_V80_D211_Edward_Lee_Thorndike.png"
+    },
+    "text": {
+      "en": {
+        "displayName": "Edward Thorndike",
+        "descriptor": "American psychologist",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Edward Thorndike has 5 children in the cited records.",
+        "imageAlt": "Portrait of Edward Thorndike"
+      },
+      "zh": {
+        "displayName": "爱德华·桑代克",
+        "descriptor": "美国心理学家",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "爱德华·桑代克在引用记录中有5名子女。",
+        "imageAlt": "爱德华·桑代克肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-john-nance-garner",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — John Nance Garner",
+        "url": "https://en.wikipedia.org/wiki/John_Nance_Garner"
+      },
+      {
+        "title": "Wikidata — John Nance Garner",
+        "url": "https://www.wikidata.org/entity/Q298991"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/JohnNanceGarner.png",
+      "licence": "Public domain",
+      "attribution": "Harris & Ewing",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:JohnNanceGarner.png"
+    },
+    "text": {
+      "en": {
+        "displayName": "John Nance Garner",
+        "descriptor": "Vice President of the United States from 1933 to 1941",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "John Nance Garner has 1 child in the cited records.",
+        "imageAlt": "Portrait of John Nance Garner"
+      },
+      "zh": {
+        "displayName": "约翰·南斯·加纳",
+        "descriptor": "美国副总统（1933–1941）",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "约翰·南斯·加纳在引用记录中有1名子女。",
+        "imageAlt": "约翰·南斯·加纳肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-pierre-laval",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Pierre Laval",
+        "url": "https://en.wikipedia.org/wiki/Pierre_Laval"
+      },
+      {
+        "title": "Wikidata — Pierre Laval",
+        "url": "https://www.wikidata.org/entity/Q151983"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pierre_Laval_a_Meurisse_1931.jpg/500px-Pierre_Laval_a_Meurisse_1931.jpg",
+      "licence": "Public domain",
+      "attribution": "Agence de presse Meurisse",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pierre_Laval_a_Meurisse_1931.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Pierre Laval",
+        "descriptor": "French politician",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Pierre Laval has 1 child in the cited records.",
+        "imageAlt": "Portrait of Pierre Laval"
+      },
+      "zh": {
+        "displayName": "皮埃尔·赖伐尔",
+        "descriptor": "法国政治家",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "皮埃尔·赖伐尔在引用记录中有1名子女。",
+        "imageAlt": "皮埃尔·赖伐尔肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-john-muir",
+    "category": "western-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — John Muir",
+        "url": "https://en.wikipedia.org/wiki/John_Muir"
+      },
+      {
+        "title": "Wikidata — John Muir",
+        "url": "https://www.wikidata.org/entity/Q379580"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/John_Muir_1912.jpg/500px-John_Muir_1912.jpg",
+      "licence": "Public domain",
+      "attribution": "Underwood & Underwood",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Muir_1912.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "John Muir",
+        "descriptor": "Scottish-American naturalist",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "John Muir has 2 children in the cited records.",
+        "imageAlt": "Portrait of John Muir"
+      },
+      "zh": {
+        "displayName": "约翰·缪尔",
+        "descriptor": "苏格兰裔美国博物学家",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "约翰·缪尔在引用记录中有2名子女。",
+        "imageAlt": "约翰·缪尔肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-edgar-wallace",
+    "category": "western-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Edgar Wallace",
+        "url": "https://en.wikipedia.org/wiki/Edgar_Wallace"
+      },
+      {
+        "title": "Wikidata — Edgar Wallace",
+        "url": "https://www.wikidata.org/entity/Q271824"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bundesarchiv_Bild_102-13109%2C_Edgar_Wallace.jpg",
+      "licence": "CC BY-SA 3.0 de",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-13109,_Edgar_Wallace.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Edgar Wallace",
+        "descriptor": "British crime writer, journalist and playwright",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Edgar Wallace has 3 children in the cited records.",
+        "imageAlt": "Portrait of Edgar Wallace"
+      },
+      "zh": {
+        "displayName": "埃德加·华莱士",
+        "descriptor": "英国犯罪小说作家、记者兼剧作家",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "埃德加·华莱士在引用记录中有3名子女。",
+        "imageAlt": "埃德加·华莱士肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-elbridge-gerry",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 10,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Elbridge Gerry",
+        "url": "https://en.wikipedia.org/wiki/Elbridge_Gerry"
+      },
+      {
+        "title": "Wikidata — Elbridge Gerry",
+        "url": "https://www.wikidata.org/entity/Q219797"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/05_Elbridge_Gerry_3x4.jpg/500px-05_Elbridge_Gerry_3x4.jpg",
+      "licence": "Public domain",
+      "attribution": "James Bogle",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:05_Elbridge_Gerry_3x4.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Elbridge Gerry",
+        "descriptor": "vice president of the United States from 1813 to 1814",
+        "countingRuleSummary": "10 children are recorded by Wikidata.",
+        "explanation": "Elbridge Gerry has 10 children in the cited records.",
+        "imageAlt": "Portrait of Elbridge Gerry"
+      },
+      "zh": {
+        "displayName": "埃尔布里奇·格里",
+        "descriptor": "美国副总统（1813–1814）",
+        "countingRuleSummary": "维基数据记载10名子女。",
+        "explanation": "埃尔布里奇·格里在引用记录中有10名子女。",
+        "imageAlt": "埃尔布里奇·格里肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-lucas-cranach-the-elder",
+    "category": "western-history",
+    "tags": [
+      "art"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Lucas Cranach the Elder",
+        "url": "https://en.wikipedia.org/wiki/Lucas_Cranach_the_Elder"
+      },
+      {
+        "title": "Wikidata — Lucas Cranach the Elder",
+        "url": "https://www.wikidata.org/entity/Q191748"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lucas_Cranach_d._%C3%84._063.jpg/500px-Lucas_Cranach_d._%C3%84._063.jpg",
+      "licence": "Public domain",
+      "attribution": "Lucas Cranach the Younger",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lucas_Cranach_d._%C3%84._063.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Lucas Cranach the Elder",
+        "descriptor": "German painter and printmaker",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Lucas Cranach the Elder has 5 children in the cited records.",
+        "imageAlt": "Portrait of Lucas Cranach the Elder"
+      },
+      "zh": {
+        "displayName": "老卢卡斯·克拉纳赫",
+        "descriptor": "德国画家兼版画家",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "老卢卡斯·克拉纳赫在引用记录中有5名子女。",
+        "imageAlt": "老卢卡斯·克拉纳赫肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-hannibal-hamlin",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Hannibal Hamlin",
+        "url": "https://en.wikipedia.org/wiki/Hannibal_Hamlin"
+      },
+      {
+        "title": "Wikidata — Hannibal Hamlin",
+        "url": "https://www.wikidata.org/entity/Q273546"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Hannibal_Hamlin%2C_photo_portrait_seated%2C_c1860-65.jpg/500px-Hannibal_Hamlin%2C_photo_portrait_seated%2C_c1860-65.jpg",
+      "licence": "Public domain",
+      "attribution": "Brady National Photographic Art Gallery (Washington, D.C.), photographer.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hannibal_Hamlin,_photo_portrait_seated,_c1860-65.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Hannibal Hamlin",
+        "descriptor": "Vice President of the United States from 1861 to 1865",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Hannibal Hamlin has 4 children in the cited records.",
+        "imageAlt": "Portrait of Hannibal Hamlin"
+      },
+      "zh": {
+        "displayName": "汉尼巴尔·哈姆林",
+        "descriptor": "美国副总统（1861–1865）",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "汉尼巴尔·哈姆林在引用记录中有4名子女。",
+        "imageAlt": "汉尼巴尔·哈姆林肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-charles-curtis",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Charles Curtis",
+        "url": "https://en.wikipedia.org/wiki/Charles_Curtis"
+      },
+      {
+        "title": "Wikidata — Charles Curtis",
+        "url": "https://www.wikidata.org/entity/Q271023"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Charles_Curtis-portrait.jpg/500px-Charles_Curtis-portrait.jpg",
+      "licence": "Public domain",
+      "attribution": "Strauss Peyton, Kansas City, Missouri",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_Curtis-portrait.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Charles Curtis",
+        "descriptor": "vice president of the United States from 1929 to 1933",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Charles Curtis has 3 children in the cited records.",
+        "imageAlt": "Portrait of Charles Curtis"
+      },
+      "zh": {
+        "displayName": "查尔斯·柯蒂斯",
+        "descriptor": "美国副总统（1929–1933）",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "查尔斯·柯蒂斯在引用记录中有3名子女。",
+        "imageAlt": "查尔斯·柯蒂斯肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-george-clinton",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — George Clinton",
+        "url": "https://en.wikipedia.org/wiki/George_Clinton_(vice_president)"
+      },
+      {
+        "title": "Wikidata — George Clinton",
+        "url": "https://www.wikidata.org/entity/Q201646"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/George_Clinton_by_Ezra_Ames.jpg",
+      "licence": "Public domain",
+      "attribution": "Ezra Ames (May 5, 1768 – February 23, 1836)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:George_Clinton_by_Ezra_Ames.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "George Clinton",
+        "descriptor": "vice president of the United States from 1805 to 1812",
+        "countingRuleSummary": "6 children are recorded by Wikidata.",
+        "explanation": "George Clinton has 6 children in the cited records.",
+        "imageAlt": "Portrait of George Clinton"
+      },
+      "zh": {
+        "displayName": "乔治·克林顿",
+        "descriptor": "美国副总统（1805–1812）",
+        "countingRuleSummary": "维基数据记载6名子女。",
+        "explanation": "乔治·克林顿在引用记录中有6名子女。",
+        "imageAlt": "乔治·克林顿肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-frederick-winslow-taylor",
+    "category": "western-history",
+    "tags": [
+      "science"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Frederick Winslow Taylor",
+        "url": "https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor"
+      },
+      {
+        "title": "Wikidata — Frederick Winslow Taylor",
+        "url": "https://www.wikidata.org/entity/Q203906"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Frederick_Winslow_Taylor_%281%29.JPG",
+      "licence": "Public domain",
+      "attribution": "Wikimedia Commons contributor",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frederick_Winslow_Taylor_(1).JPG"
+    },
+    "text": {
+      "en": {
+        "displayName": "Frederick Winslow Taylor",
+        "descriptor": "American mechanical engineer",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Frederick Winslow Taylor has 3 children in the cited records.",
+        "imageAlt": "Portrait of Frederick Winslow Taylor"
+      },
+      "zh": {
+        "displayName": "弗雷德里克·温斯洛·泰勒",
+        "descriptor": "美国机械工程师",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "弗雷德里克·温斯洛·泰勒在引用记录中有3名子女。",
+        "imageAlt": "弗雷德里克·温斯洛·泰勒肖像"
+      }
+    }
+  },
+  {
+    "id": "western-history-thomas-r-marshall",
+    "category": "western-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Thomas R. Marshall",
+        "url": "https://en.wikipedia.org/wiki/Thomas_R._Marshall"
+      },
+      {
+        "title": "Wikidata — Thomas R. Marshall",
+        "url": "https://www.wikidata.org/entity/Q299001"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Thomas_Riley_Marshall_headshot.jpg/500px-Thomas_Riley_Marshall_headshot.jpg",
+      "licence": "Public domain",
+      "attribution": "Harris & Ewing",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thomas_Riley_Marshall_headshot.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Thomas R. Marshall",
+        "descriptor": "vice president of the United States from 1913 to 1921",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Thomas R. Marshall has 1 child in the cited records.",
+        "imageAlt": "Portrait of Thomas R. Marshall"
+      },
+      "zh": {
+        "displayName": "托马斯·R·马歇尔",
+        "descriptor": "美国副总统（1913–1921）",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "托马斯·R·马歇尔在引用记录中有1名子女。",
+        "imageAlt": "托马斯·R·马歇尔肖像"
+      }
+    }
   }
 ]

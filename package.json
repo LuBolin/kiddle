@@ -8,7 +8,9 @@
     "build": "tsc -b && vite build",
     "test": "vitest run",
     "validate-data": "node scripts/validate-data.mjs",
+    "discover-candidates": "node scripts/discover-candidates.mjs",
     "seed-modern-celebrities": "node scripts/seed-modern-celebrities.mjs",
+    "seed-history-pools": "node scripts/seed-history-pools.mjs",
     "sync-portraits": "node scripts/download-portraits.mjs"
   },
   "dependencies": {

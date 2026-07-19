@@ -1,0 +1,1723 @@
+{
+  "category": "east-asian-history",
+  "generatedBy": "opencode-deepseek-research-draft",
+  "records": [
+    {
+      "id": "mao-zedong",
+      "category": "east-asian-history",
+      "tags": ["chinese", "political-leader", "communist", "20th-century"],
+      "childrenCount": 10,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 5,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Mao Zedong",
+          "descriptor": "Chinese revolutionary and founding father",
+          "countingRuleSummary": "Ten documented children across three marriages.",
+          "explanation": "Mao Zedong had ten children (six sons and four daughters) with his three wives. Several died young or were lost during wartime."
+        },
+        "zh": {
+          "displayName": "毛泽东",
+          "descriptor": "中国革命家、开国领袖",
+          "countingRuleSummary": "三任配偶所生的十名有文献记录的子女。",
+          "explanation": "毛泽东与三位配偶共生育十名子女（六子四女），其中多人在战争年代夭折或失散。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.wikitree.com/wiki/%E6%AF%9B-1",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Mao Zedong profile on WikiTree",
+            "zh": "毛泽东在WikiTree上的资料"
+          }
+        },
+        {
+          "url": "https://baike.baidu.com/en/item/Mao%20Zedong%20and%20His%20Children/997840",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Mao Zedong and His Children",
+            "zh": "毛泽东和他的孩子们"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zhou-enlai",
+      "category": "east-asian-history",
+      "tags": ["chinese", "political-leader", "communist", "20th-century"],
+      "childrenCount": 0,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 5,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Zhou Enlai",
+          "descriptor": "First Premier of China",
+          "countingRuleSummary": "No biological children; two miscarriages before 1940 ended the possibility of conception.",
+          "explanation": "Zhou Enlai and his wife Deng Yingchao had no biological children. She suffered two miscarriages, and after a 1940 illness became unable to conceive. The couple informally supported orphaned children of revolutionary comrades."
+        },
+        "zh": {
+          "displayName": "周恩来",
+          "descriptor": "中华人民共和国首任总理",
+          "countingRuleSummary": "无亲生子女；1940年前两次流产后再无法生育。",
+          "explanation": "周恩来与夫人邓颖超没有亲生子女。邓颖超曾两次流产，1940年因伤病失去生育能力。夫妇二人曾抚养多名革命烈士遗孤。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.britannica.com/biography/Zhou-Enlai",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Zhou Enlai at Encyclopaedia Britannica",
+            "zh": "不列颠百科全书中的周恩来条目"
+          }
+        }
+      ]
+    },
+    {
+      "id": "liu-shaoqi",
+      "category": "east-asian-history",
+      "tags": ["chinese", "political-leader", "communist", "20th-century"],
+      "childrenCount": 9,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Liu Shaoqi",
+          "descriptor": "President of China",
+          "countingRuleSummary": "Nine documented children from three marriages.",
+          "explanation": "Liu Shaoqi raised nine children: three with martyr He Baozhen, two with former wife Wang Qian, and four with his wife Wang Guangmei."
+        },
+        "zh": {
+          "displayName": "刘少奇",
+          "descriptor": "中华人民共和国主席",
+          "countingRuleSummary": "三段婚姻共九名有文献记录的子女。",
+          "explanation": "刘少奇一生育有九名子女：与烈士何宝珍育有三名，与前妻王前育有两名，与夫人王光美育有四名。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/archive/politics/1980/03/04/5-children-of-liu-shaoqi-detail-years-in-disfavor/024ff499-48af-4c41-b47c-fd7e0031bf75/",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "5 Children of Liu Shaoqi Detail Years in Disfavor",
+            "zh": "刘少奇五名子女详述受牵连岁月"
+          }
+        }
+      ]
+    },
+    {
+      "id": "soong-ching-ling",
+      "category": "east-asian-history",
+      "tags": ["chinese", "political-figure", "20th-century", "womens-rights"],
+      "childrenCount": 0,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 4,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Soong Ching-ling",
+          "descriptor": "Chinese political leader and vice-chairperson",
+          "countingRuleSummary": "No biological children. One miscarriage in 1922 after which she could not conceive again.",
+          "explanation": "Soong Ching-ling suffered a miscarriage during the Chen Jiongming rebellion in 1922 and was later informed she could never conceive again. She later adopted two daughters."
+        },
+        "zh": {
+          "displayName": "宋庆龄",
+          "descriptor": "中华人民共和国名誉主席",
+          "countingRuleSummary": "无亲生子女。1922年流产后失去生育能力。",
+          "explanation": "宋庆龄在1922年陈炯明兵变中不幸流产，此后被告知无法再生育。她后来收养了两名女儿。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.bbc.com/culture/article/20151223-soon-qingling-the-mother-of-modern-china",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Soong Qingling: 'The mother of modern China' - BBC Culture",
+            "zh": "BBC文化：宋庆龄——\u201C现代中国之母\u201D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ye-jianying",
+      "category": "east-asian-history",
+      "tags": ["chinese", "military-leader", "communist", "20th-century"],
+      "childrenCount": 6,
+      "countType": "exact",
+      "confidence": "medium",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Ye Jianying",
+          "descriptor": "Chinese military leader and head of state",
+          "countingRuleSummary": "Six documented children from multiple marriages.",
+          "explanation": "Ye Jianying married six times and had six children, including sons Ye Xuanping and Ye Xuanning and daughter Ye Chumei."
+        },
+        "zh": {
+          "displayName": "叶剑英",
+          "descriptor": "中国军事家、国家领导人",
+          "countingRuleSummary": "六名有文献记录的子女。",
+          "explanation": "叶剑英先后有六段婚姻，育有六名子女，包括儿子叶选平、叶选宁和女儿叶楚梅等。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://people.followcn.com/2017/06/12/ye-jianying-clan-legacy/",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Ye Jianying and his clan legacy",
+            "zh": "叶剑英及其家族传承"
+          }
+        }
+      ]
+    },
+    {
+      "id": "guo-moruo",
+      "category": "east-asian-history",
+      "tags": ["chinese", "writer", "scholar", "20th-century"],
+      "childrenCount": 11,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Guo Moruo",
+          "descriptor": "Chinese writer, poet and historian",
+          "countingRuleSummary": "Eleven documented children: five with first wife and six with second wife.",
+          "explanation": "Guo Moruo had five children (four sons, one daughter) with Sato Tomiko and six children (four sons, two daughters) with Yu Liqun, totalling eleven."
+        },
+        "zh": {
+          "displayName": "郭沫若",
+          "descriptor": "中国文学家、历史学家",
+          "countingRuleSummary": "十一名有文献记录的子女：与第一任配偶五人，与第二任配偶六人。",
+          "explanation": "郭沫若有五名子女（四子一女）与佐藤富子所生，六名子女（四子二女）与于立群所生，共十一人。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.newworldencyclopedia.org/entry/Guo_Moruo",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Guo Moruo at New World Encyclopedia",
+            "zh": "新世界百科全书中的郭沫若条目"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lao-she",
+      "category": "east-asian-history",
+      "tags": ["chinese", "writer", "20th-century"],
+      "childrenCount": 4,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Lao She",
+          "descriptor": "Chinese novelist and dramatist",
+          "countingRuleSummary": "Four documented children: one son and three daughters.",
+          "explanation": "Lao She and his wife Hu Jieqing had four children: a daughter Shu Ji (born 1933), son Shu Yi (born 1935), daughter Shu Yu (born 1937), and daughter Shu Li (born 1945)."
+        },
+        "zh": {
+          "displayName": "老舍",
+          "descriptor": "中国小说家、剧作家",
+          "countingRuleSummary": "四名有文献记录的子女：一子三女。",
+          "explanation": "老舍与夫人胡絜青共有四名子女：长女舒济（生于1933）、长子舒乙（生于1935）、次女舒雨（生于1937）、三女舒立（生于1945）。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.newworldencyclopedia.org/entry/Lao_She",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Lao She at New World Encyclopedia",
+            "zh": "新世界百科全书中的老舍条目"
+          }
+        }
+      ]
+    },
+    {
+      "id": "peng-dehuai",
+      "category": "east-asian-history",
+      "tags": ["chinese", "military-leader", "communist", "20th-century"],
+      "childrenCount": 0,
+      "countType": "exact",
+      "confidence": "medium",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Peng Dehuai",
+          "descriptor": "Chinese military leader",
+          "countingRuleSummary": "No documented biological children.",
+          "explanation": "Peng Dehuai married twice but had no biological children of his own. He raised his brother's son after his brother was killed."
+        },
+        "zh": {
+          "displayName": "彭德怀",
+          "descriptor": "中国军事家",
+          "countingRuleSummary": "无有文献记录的亲生子女。",
+          "explanation": "彭德怀先后两次结婚，但没有亲生子女。在兄长遇害后，他抚养了兄长的孩子。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.britannica.com/biography/Peng-Dehuai",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Peng Dehuai at Encyclopaedia Britannica",
+            "zh": "不列颠百科全书中的彭德怀条目"
+          }
+        }
+      ]
+    },
+    {
+      "id": "emperor-meiji",
+      "category": "east-asian-history",
+      "tags": ["japanese", "emperor", "19th-century"],
+      "childrenCount": 15,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 5,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Emperor Meiji",
+          "descriptor": "Emperor of Japan",
+          "countingRuleSummary": "Fifteen documented children by five official ladies-in-waiting.",
+          "explanation": "Emperor Meiji had fifteen children with five official concubines, but only five survived to adulthood, including Crown Prince Yoshihito (later Emperor Taishō). Empress Shōken bore no children."
+        },
+        "zh": {
+          "displayName": "明治天皇",
+          "descriptor": "日本天皇",
+          "countingRuleSummary": "五名女官所生的十五名有文献记录的子女。",
+          "explanation": "明治天皇与五名女官共生育十五名子女，但仅有五人活至成年，包括后来的大正天皇。昭宪皇后无所出。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.unofficialroyalty.com/emperor-meiji-of-japan-mutsuhito/",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Emperor Meiji of Japan at Unofficial Royalty",
+            "zh": "非官方王室资料中的明治天皇"
+          }
+        },
+        {
+          "url": "https://www.newworldencyclopedia.org/entry/Emperor_Meiji",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Emperor Meiji at New World Encyclopedia",
+            "zh": "新世界百科全书中的明治天皇条目"
+          }
+        }
+      ]
+    },
+    {
+      "id": "emperor-taisho",
+      "category": "east-asian-history",
+      "tags": ["japanese", "emperor", "20th-century"],
+      "childrenCount": 4,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 4,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Emperor Taishō",
+          "descriptor": "Emperor of Japan",
+          "countingRuleSummary": "Four documented sons with Empress Teimei.",
+          "explanation": "Emperor Taishō and Empress Teimei had four sons: Hirohito (later Emperor Shōwa), Yasuhito Chichibu, Nobuhito Takamatsu, and Takahito Mikasa."
+        },
+        "zh": {
+          "displayName": "大正天皇",
+          "descriptor": "日本天皇",
+          "countingRuleSummary": "与贞明皇后所生的四名有文献记录的儿子。",
+          "explanation": "大正天皇与贞明皇后育有四子：裕仁（后来的昭和天皇）、秩父宫雍仁亲王、高松宫宣仁亲王、三笠宫崇仁亲王。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.unofficialroyalty.com/emperor-taisho-of-japan-yoshihito/",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Emperor Taishō at Unofficial Royalty",
+            "zh": "非官方王室资料中的大正天皇"
+          }
+        }
+      ]
+    },
+    {
+      "id": "emperor-kokaku",
+      "category": "east-asian-history",
+      "tags": ["japanese", "emperor", "18th-century", "19th-century"],
+      "childrenCount": 16,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 2,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Emperor Kōkaku",
+          "descriptor": "Emperor of Japan",
+          "countingRuleSummary": "Sixteen documented children, of whom only one survived to adulthood.",
+          "explanation": "Emperor Kōkaku fathered 16 children (eight sons, eight daughters) with one wife and six concubines. Only his son Prince Ayahito (later Emperor Ninkō) survived to adulthood."
+        },
+        "zh": {
+          "displayName": "光格天皇",
+          "descriptor": "日本天皇",
+          "countingRuleSummary": "十六名有文献记录的子女，仅一人活至成年。",
+          "explanation": "光格天皇与一位皇后和六名女官共生育十六名子女（八子八女），仅一子——后来的仁孝天皇——活至成年。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://prabook.com/web/emperor_kokaku/3778447",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Emperor Kōkaku at Prabook",
+            "zh": "Prabook中的光格天皇"
+          }
+        }
+      ]
+    },
+    {
+      "id": "emperor-ninko",
+      "category": "east-asian-history",
+      "tags": ["japanese", "emperor", "19th-century"],
+      "childrenCount": 15,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 2,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Emperor Ninkō",
+          "descriptor": "Emperor of Japan",
+          "countingRuleSummary": "Fifteen documented children, of whom only three lived to adulthood.",
+          "explanation": "Emperor Ninkō had fifteen children (seven sons, eight daughters) by various concubines. Only three survived to adulthood, including his fourth son who became Emperor Kōmei."
+        },
+        "zh": {
+          "displayName": "仁孝天皇",
+          "descriptor": "日本天皇",
+          "countingRuleSummary": "十五名有文献记录的子女，仅三人活至成年。",
+          "explanation": "仁孝天皇与多位女官共生育十五名子女（七子八女），仅三人活至成年，包括后来成为孝明天皇的第四子。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://kids.kiddle.co/Emperor_Nink%C5%8D",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Emperor Ninkō at Kiddle",
+            "zh": "Kiddle百科中的仁孝天皇"
+          }
+        }
+      ]
+    },
+    {
+      "id": "emperor-kanmu",
+      "category": "east-asian-history",
+      "tags": ["japanese", "emperor", "ancient"],
+      "childrenCount": 32,
+      "countType": "approximate",
+      "confidence": "high",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Emperor Kanmu",
+          "descriptor": "Emperor of Japan",
+          "countingRuleSummary": "Thirty-two documented imperial sons and daughters.",
+          "explanation": "Emperor Kanmu had 16 empresses and consorts who bore him 32 imperial children (sons and daughters). Three of his sons later became emperors."
+        },
+        "zh": {
+          "displayName": "桓武天皇",
+          "descriptor": "日本天皇",
+          "countingRuleSummary": "三十二名有文献记录的皇室子女。",
+          "explanation": "桓武天皇有十六位后妃，共生育三十二名皇室子女。其中三子后来成为天皇。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://kids.kiddle.co/Emperor_Kanmu",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Emperor Kanmu at Kiddle",
+            "zh": "Kiddle百科中的桓武天皇"
+          }
+        }
+      ]
+    },
+    {
+      "id": "emperor-saga",
+      "category": "east-asian-history",
+      "tags": ["japanese", "emperor", "ancient"],
+      "childrenCount": 47,
+      "countType": "approximate",
+      "confidence": "high",
+      "recognisabilityScore": 2,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Emperor Saga",
+          "descriptor": "Emperor of Japan",
+          "countingRuleSummary": "Forty-seven documented imperial sons and daughters.",
+          "explanation": "Emperor Saga had nine empresses and consorts and fathered 47 imperial children. He was a noted poet and calligrapher who sponsored the first imperial poetry competitions."
+        },
+        "zh": {
+          "displayName": "嵯峨天皇",
+          "descriptor": "日本天皇",
+          "countingRuleSummary": "四十七名有文献记录的皇室子女。",
+          "explanation": "嵯峨天皇有九位后妃，共四十七名子女。他是著名的诗人和书法家，主持了首次御前诗歌比赛。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://wiki.kidzsearch.com/wiki/Emperor_Saga",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Emperor Saga at KidzSearch",
+            "zh": "KidzSearch百科中的嵯峨天皇"
+          }
+        }
+      ]
+    },
+    {
+      "id": "emperor-daigo",
+      "category": "east-asian-history",
+      "tags": ["japanese", "emperor", "ancient"],
+      "childrenCount": 36,
+      "countType": "approximate",
+      "confidence": "medium",
+      "recognisabilityScore": 2,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Emperor Daigo",
+          "descriptor": "Emperor of Japan",
+          "countingRuleSummary": "Thirty-six documented imperial sons and daughters.",
+          "explanation": "Emperor Daigo had 21 empresses, consorts and concubines, and fathered 36 imperial children."
+        },
+        "zh": {
+          "displayName": "醍醐天皇",
+          "descriptor": "日本天皇",
+          "countingRuleSummary": "三十六名有文献记录的皇室子女。",
+          "explanation": "醍醐天皇有二十一位后妃，共生育三十六名皇室子女。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://kids.kiddle.co/Emperor_Daigo",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Emperor Daigo at Kiddle",
+            "zh": "Kiddle百科中的醍醐天皇"
+          }
+        }
+      ]
+    },
+    {
+      "id": "emperor-komei",
+      "category": "east-asian-history",
+      "tags": ["japanese", "emperor", "19th-century"],
+      "childrenCount": 6,
+      "countType": "exact",
+      "confidence": "medium",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Emperor Kōmei",
+          "descriptor": "Emperor of Japan",
+          "countingRuleSummary": "Six documented children, of whom only two survived to adulthood.",
+          "explanation": "Emperor Kōmei had six children with various consorts. Only two daughters survived infancy aside from his only surviving son, Mutsuhito (later Emperor Meiji)."
+        },
+        "zh": {
+          "displayName": "孝明天皇",
+          "descriptor": "日本天皇",
+          "countingRuleSummary": "六名有文献记录的子女，仅两人活至成年。",
+          "explanation": "孝明天皇有多名子女，但只有两女和后来的明治天皇活至成年。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://kids.kiddle.co/Emperor_K%C5%8Dmei",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Emperor Kōmei at Kiddle",
+            "zh": "Kiddle百科中的孝明天皇"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tokugawa-ieyasu",
+      "category": "east-asian-history",
+      "tags": ["japanese", "shogun", "sengoku", "edo-period"],
+      "childrenCount": 16,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 5,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Tokugawa Ieyasu",
+          "descriptor": "Founder of the Tokugawa shogunate",
+          "countingRuleSummary": "Sixteen documented children: eleven sons and five daughters.",
+          "explanation": "Tokugawa Ieyasu had 19 wives and concubines, by whom he had 11 sons and 5 daughters. His son Tokugawa Hidetada succeeded him as shōgun."
+        },
+        "zh": {
+          "displayName": "德川家康",
+          "descriptor": "江户幕府创立者",
+          "countingRuleSummary": "十六名有文献记录的子女（十一子五女）。",
+          "explanation": "德川家康有十九位妻妾，生育十一子五女。其子德川秀忠继任为将军。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.newworldencyclopedia.org/entry/Tokugawa_Ieyasu",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Tokugawa Ieyasu at New World Encyclopedia",
+            "zh": "新世界百科全书中的德川家康"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oda-nobunaga",
+      "category": "east-asian-history",
+      "tags": ["japanese", "daimyo", "sengoku", "16th-century"],
+      "childrenCount": 6,
+      "countType": "approximate",
+      "confidence": "medium",
+      "recognisabilityScore": 5,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Oda Nobunaga",
+          "descriptor": "Japanese daimyo and unifier",
+          "countingRuleSummary": "At least six documented children, including multiple sons.",
+          "explanation": "Oda Nobunaga had at least six known children, including sons Nobutada, Nobukatsu, and Nobutaka, and a daughter Tokuhime. Several other children are recorded with less certainty."
+        },
+        "zh": {
+          "displayName": "织田信长",
+          "descriptor": "日本战国大名、天下人",
+          "countingRuleSummary": "至少六名有文献记录的子女。",
+          "explanation": "织田信长至少有六名已知子女，包括儿子信忠、信雄、信孝和女儿德姬。尚有其他子女记录但确定性较低。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://study.com/academy/lesson/oda-nobunaga-biography-facts-timeline.html",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Oda Nobunaga at Study.com",
+            "zh": "Study.com中的织田信长"
+          }
+        }
+      ]
+    },
+    {
+      "id": "toyotomi-hideyoshi",
+      "category": "east-asian-history",
+      "tags": ["japanese", "daimyo", "sengoku", "16th-century"],
+      "childrenCount": 2,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 5,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Toyotomi Hideyoshi",
+          "descriptor": "Japanese daimyo and unifier",
+          "countingRuleSummary": "Two documented biological sons, only one of whom survived infancy.",
+          "explanation": "Toyotomi Hideyoshi had two sons: Tsurumatsu (1589–1591), who died young, and Hideyori (1593–1615), his only surviving child who later became his heir."
+        },
+        "zh": {
+          "displayName": "丰臣秀吉",
+          "descriptor": "日本战国大名、天下人",
+          "countingRuleSummary": "两名有文献记录的亲生儿子，仅一人活过幼年。",
+          "explanation": "丰臣秀吉有两名亲生儿子：鹤松（1589–1591）夭折，秀赖（1593–1615）活至成年并成为继承人。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://jref.com/articles/toyotomi-hideyori-1593%E2%80%931615.836/",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Toyotomi Hideyori at Japan Reference",
+            "zh": "Japan Reference中的丰臣秀赖"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tokugawa-yoshinobu",
+      "category": "east-asian-history",
+      "tags": ["japanese", "shogun", "19th-century", "edo-period"],
+      "childrenCount": 21,
+      "countType": "approximate",
+      "confidence": "medium",
+      "recognisabilityScore": 4,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Tokugawa Yoshinobu",
+          "descriptor": "Last shōgun of Japan",
+          "countingRuleSummary": "More than twenty documented children, though many died young.",
+          "explanation": "Tokugawa Yoshinobu had many children with his wife and concubines. Official records list at least 21 children, though a significant number died in infancy."
+        },
+        "zh": {
+          "displayName": "德川庆喜",
+          "descriptor": "日本末代将军",
+          "countingRuleSummary": "二十一名有文献记录的子女。",
+          "explanation": "德川庆喜与正室和侧室有多名子女。官方记录至少有二十一名子女，但相当数量夭折。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.nippon.com/en/japan-topics/b06914/",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "After the Shogunate: The Last Shōgun at Nippon.com",
+            "zh": "Nippon.com：幕府之后——末代将军"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hideki-tojo",
+      "category": "east-asian-history",
+      "tags": ["japanese", "political-leader", "military", "20th-century"],
+      "childrenCount": 7,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 5,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Hideki Tojo",
+          "descriptor": "Prime Minister of Japan during World War II",
+          "countingRuleSummary": "Seven documented children with his wife Katsuko.",
+          "explanation": "Hideki Tojo married Katsuko Ito in 1909 and they had seven children together."
+        },
+        "zh": {
+          "displayName": "东条英机",
+          "descriptor": "日本战时首相",
+          "countingRuleSummary": "与夫人胜子育有七名有文献记录的子女。",
+          "explanation": "东条英机于1909年与伊东胜子结婚，育有七名子女。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://study.com/academy/lesson/hideki-tojo-in-ww2-biography-quotes-facts-death.html",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Hideki Tojo at Study.com",
+            "zh": "Study.com中的东条英机"
+          }
+        }
+      ]
+    },
+    {
+      "id": "isoroku-yamamoto",
+      "category": "east-asian-history",
+      "tags": ["japanese", "military", "naval", "20th-century"],
+      "childrenCount": 4,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 4,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Isoroku Yamamoto",
+          "descriptor": "Japanese admiral",
+          "countingRuleSummary": "Four documented children: two sons and two daughters.",
+          "explanation": "Yamamoto married Reiko Mihashi in 1918 and they had four children: two sons and two daughters."
+        },
+        "zh": {
+          "displayName": "山本五十六",
+          "descriptor": "日本海军大将",
+          "countingRuleSummary": "四名有文献记录的子女（二子二女）。",
+          "explanation": "山本五十六于1918年与礼子结婚，育有四名子女（二子二女）。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.thefamouspeople.com/profiles/isoroku-yamamoto-4837.php",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Isoroku Yamamoto at The Famous People",
+            "zh": "The Famous People中的山本五十六"
+          }
+        }
+      ]
+    },
+    {
+      "id": "togo-heihachiro",
+      "category": "east-asian-history",
+      "tags": ["japanese", "military", "naval", "19th-century", "20th-century"],
+      "childrenCount": 2,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Tōgō Heihachirō",
+          "descriptor": "Japanese admiral",
+          "countingRuleSummary": "Two documented sons with his wife Tetsu.",
+          "explanation": "Admiral Tōgō and his wife Kaeda Tetsu had two sons: Takeshi, who became the second Marquis Tōgō, and Minoru, who became a rear-admiral."
+        },
+        "zh": {
+          "displayName": "东乡平八郎",
+          "descriptor": "日本海军大将",
+          "countingRuleSummary": "与夫人哲所生的两名有文献记录的儿子。",
+          "explanation": "东乡平八郎与夫人枝哲育有二子：长子东乡武敏继承侯爵爵位，次子东乡实成为海军少将。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://kids.kiddle.co/T%C5%8Dg%C5%8D_Heihachir%C5%8D",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Tōgō Heihachirō at Kiddle",
+            "zh": "Kiddle百科中的东乡平八郎"
+          }
+        }
+      ]
+    },
+    {
+      "id": "saigo-takamori",
+      "category": "east-asian-history",
+      "tags": ["japanese", "samurai", "19th-century", "meiji-restoration"],
+      "childrenCount": 6,
+      "countType": "approximate",
+      "confidence": "medium",
+      "recognisabilityScore": 4,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Saigō Takamori",
+          "descriptor": "Japanese samurai and statesman",
+          "countingRuleSummary": "At least six documented children.",
+          "explanation": "Saigō Takamori had at least six recorded children, including sons Kikujirō, Nobutada, Toratarō, and Umajirō, and daughter Kikusō."
+        },
+        "zh": {
+          "displayName": "西乡隆盛",
+          "descriptor": "日本武士、政治家",
+          "countingRuleSummary": "至少六名有文献记录的子女。",
+          "explanation": "西乡隆盛至少有六名有记录的子女，包括儿子菊次郎、信忠、虎太郎、马次郎和女儿菊草。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.britannica.com/biography/Saigo-Takamori",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Saigō Takamori at Encyclopaedia Britannica",
+            "zh": "不列颠百科全书中的西乡隆盛"
+          }
+        }
+      ]
+    },
+    {
+      "id": "takeda-shingen",
+      "category": "east-asian-history",
+      "tags": ["japanese", "daimyo", "sengoku", "16th-century"],
+      "childrenCount": 6,
+      "countType": "approximate",
+      "confidence": "medium",
+      "recognisabilityScore": 4,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Takeda Shingen",
+          "descriptor": "Japanese daimyo",
+          "countingRuleSummary": "At least six documented children, including several sons.",
+          "explanation": "Takeda Shingen had multiple children including sons Katsuyori, Yoshinobu, and Nobuchika. He also had several daughters who were married for political alliances."
+        },
+        "zh": {
+          "displayName": "武田信玄",
+          "descriptor": "日本战国大名",
+          "countingRuleSummary": "至少六名有文献记录的子女。",
+          "explanation": "武田信玄有多名子女，包括儿子胜赖、义信、信亲等，以及为政治联姻而嫁出的女儿。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://kids.kiddle.co/Takeda_Shingen",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Takeda Shingen at Kiddle",
+            "zh": "Kiddle百科中的武田信玄"
+          }
+        }
+      ]
+    },
+    {
+      "id": "date-masamune",
+      "category": "east-asian-history",
+      "tags": ["japanese", "daimyo", "sengoku", "edo-period"],
+      "childrenCount": 16,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 4,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Date Masamune",
+          "descriptor": "Japanese daimyo",
+          "countingRuleSummary": "Sixteen documented children: ten sons and four daughters plus two illegitimate children.",
+          "explanation": "Date Masamune had 16 children with his wife and seven concubines, including 14 by his wife and concubines plus two illegitimate children."
+        },
+        "zh": {
+          "displayName": "伊达政宗",
+          "descriptor": "日本战国大名",
+          "countingRuleSummary": "十六名有文献记录的子女。",
+          "explanation": "伊达政宗与正室及七名侧室共生育十六名子女（含两名私生子女），包括十子和四女。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://japanworld.info/blog/samurai-file-date-masamune/",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Samurai File: Date Masamune at Japan World",
+            "zh": "Japan World的伊达政宗资料"
+          }
+        }
+      ]
+    },
+    {
+      "id": "uesugi-kenshin",
+      "category": "east-asian-history",
+      "tags": ["japanese", "daimyo", "sengoku", "16th-century"],
+      "childrenCount": 0,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 4,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Uesugi Kenshin",
+          "descriptor": "Japanese daimyo",
+          "countingRuleSummary": "No biological children. Kenshin was a Buddhist monk and never married.",
+          "explanation": "Uesugi Kenshin was a devout Buddhist monk who never married and had no biological children. He adopted two boys, his nephew Uesugi Kagekatsu and Hōjō Ujiyasu's son Uesugi Kagetora."
+        },
+        "zh": {
+          "displayName": "上杉谦信",
+          "descriptor": "日本战国大名",
+          "countingRuleSummary": "无亲生子女。谦信为佛教僧侣，终身未娶。",
+          "explanation": "上杉谦信是虔诚信佛的僧侣，终身未娶，无亲生子女。他收养了两名男孩：外甥上杉景胜和北条氏康之子上杉景虎。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://kids.kiddle.co/Uesugi_Kenshin",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Uesugi Kenshin at Kiddle",
+            "zh": "Kiddle百科中的上杉谦信"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sakamoto-ryoma",
+      "category": "east-asian-history",
+      "tags": ["japanese", "samurai", "19th-century", "meiji-restoration"],
+      "childrenCount": 0,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 4,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Sakamoto Ryōma",
+          "descriptor": "Japanese samurai and reformer",
+          "countingRuleSummary": "No children. Ryōma had a wife but no documented offspring.",
+          "explanation": "Sakamoto Ryōma married Narasaki Ryō but they had no children. His nephew Nao inherited his legacy after his assassination."
+        },
+        "zh": {
+          "displayName": "坂本龙马",
+          "descriptor": "日本武士、改革家",
+          "countingRuleSummary": "无子女。龙马有妻子但无有文献记录的后代。",
+          "explanation": "坂本龙马与楢崎龙结婚但无子女。他被暗杀后，由外甥继承其遗志。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.britannica.com/biography/Sakamoto-Ryoma",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Sakamoto Ryōma at Encyclopaedia Britannica",
+            "zh": "不列颠百科全书中的坂本龙马"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fukuzawa-yukichi",
+      "category": "east-asian-history",
+      "tags": ["japanese", "educator", "writer", "19th-century"],
+      "childrenCount": 9,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Fukuzawa Yukichi",
+          "descriptor": "Japanese educator and founder of Keio University",
+          "countingRuleSummary": "Nine documented children: four sons and five daughters.",
+          "explanation": "Fukuzawa Yukichi and his wife Toki had four sons and five daughters. His eldest son Ichitarō became President of Keio University."
+        },
+        "zh": {
+          "displayName": "福泽谕吉",
+          "descriptor": "日本教育家、庆应义塾大学创立者",
+          "countingRuleSummary": "九名有文献记录的子女（四子五女）。",
+          "explanation": "福泽谕吉与妻子阿时育有四子五女。长子一太郎后来成为庆应义塾大学校长。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.keio.ac.jp/en/about/public-relations/stainedglass-1995-2010/265/",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Love Without Distinction: Yukichi Fukuzawa's Children",
+            "zh": "庆应义塾大学：福泽谕吉的子女"
+          }
+        }
+      ]
+    },
+    {
+      "id": "konosuke-matsushita",
+      "category": "east-asian-history",
+      "tags": ["japanese", "businessman", "20th-century", "entrepreneur"],
+      "childrenCount": 3,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Kōnosuke Matsushita",
+          "descriptor": "Japanese businessman, founder of Panasonic",
+          "countingRuleSummary": "Three documented children: two sons and one daughter.",
+          "explanation": "Kōnosuke Matsushita and his wife Mumeno had three children: sons Masaharu (later president of Panasonic) and Kazuhiro, and daughter Sachiko."
+        },
+        "zh": {
+          "displayName": "松下幸之助",
+          "descriptor": "日本企业家、松下电器（Panasonic）创始人",
+          "countingRuleSummary": "三名有文献记录的子女（二子一女）。",
+          "explanation": "松下幸之助与夫人睦野育有三名子女：儿子正治（后任松下社长）和和弘，以及女儿幸子。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://tradersunion.com/persons/konosuke-matsushita/",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Konosuke Matsushita at Traders Union",
+            "zh": "Traders Union中的松下幸之助"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kano-jigoro",
+      "category": "east-asian-history",
+      "tags": ["japanese", "martial-artist", "educator", "19th-century", "20th-century"],
+      "childrenCount": 9,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Kanō Jigorō",
+          "descriptor": "Japanese judo founder and educator",
+          "countingRuleSummary": "Nine documented children: six daughters and three sons.",
+          "explanation": "Kanō Jigorō married Sumako Takezoe in 1891 and they had nine children: six daughters and three sons, including Risei who became head of the Kodokan."
+        },
+        "zh": {
+          "displayName": "嘉纳治五郎",
+          "descriptor": "日本柔道创始人、教育家",
+          "countingRuleSummary": "九名有文献记录的子女（六女三子）。",
+          "explanation": "嘉纳治五郎于1891年与武居须磨子结婚，育有九名子女（六女三子），其中长子利根川（Risei）后来成为讲道馆馆长。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.usatkj.org/jigoro-kano---founder-of-kodokan-judo.html",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Jigoro Kano at USA TKJ",
+            "zh": "美国传统讲道馆柔道协会中的嘉纳治五郎"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ito-hirobumi",
+      "category": "east-asian-history",
+      "tags": ["japanese", "political-leader", "prime-minister", "19th-century"],
+      "childrenCount": 4,
+      "countType": "approximate",
+      "confidence": "medium",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Itō Hirobumi",
+          "descriptor": "First Prime Minister of Japan",
+          "countingRuleSummary": "At least four documented children: three sons and one daughter.",
+          "explanation": "Itō Hirobumi had at least four children: sons Bunkichi and two others whose names are recorded, and a daughter Ikuko."
+        },
+        "zh": {
+          "displayName": "伊藤博文",
+          "descriptor": "日本首任内阁总理大臣",
+          "countingRuleSummary": "至少四名有文献记录的子女（三子一女）。",
+          "explanation": "伊藤博文至少有四名子女：儿子文吉等三子，以及女儿育子。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.britannica.com/biography/Ito-Hirobumi",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Itō Hirobumi at Encyclopaedia Britannica",
+            "zh": "不列颠百科全书中的伊藤博文"
+          }
+        }
+      ]
+    },
+    {
+      "id": "morihei-ueshiba",
+      "category": "east-asian-history",
+      "tags": ["japanese", "martial-artist", "20th-century"],
+      "childrenCount": 3,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Morihei Ueshiba",
+          "descriptor": "Japanese martial artist, founder of Aikido",
+          "countingRuleSummary": "Three documented children, of whom only one survived to adulthood.",
+          "explanation": "Morihei Ueshiba and his wife Hatsu had three children. Two died in adolescence, while his son Kisshomaru Ueshiba survived to succeed him as Aikido master."
+        },
+        "zh": {
+          "displayName": "植芝盛平",
+          "descriptor": "日本武术家、合气道创始人",
+          "countingRuleSummary": "三名有文献记录的子女，仅一人活至成年。",
+          "explanation": "植芝盛平与妻子一藤初育有三名子女。两人在青少年时期夭折，儿子植芝吉祥丸活至成年并继承合气道。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.thefamouspeople.com/profiles/morihei-ueshiba-5006.php",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Morihei Ueshiba at The Famous People",
+            "zh": "The Famous People中的植芝盛平"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sakichi-toyoda",
+      "category": "east-asian-history",
+      "tags": ["japanese", "inventor", "businessman", "19th-century", "20th-century"],
+      "childrenCount": 2,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Sakichi Toyoda",
+          "descriptor": "Japanese inventor and industrialist",
+          "countingRuleSummary": "Two documented children: a son and a daughter.",
+          "explanation": "Sakichi Toyoda had two children: son Kiichiro Toyoda, who founded Toyota Motor Corporation, and daughter Aiko Toyoda."
+        },
+        "zh": {
+          "displayName": "丰田佐吉",
+          "descriptor": "日本发明家、实业家",
+          "countingRuleSummary": "两名有文献记录的子女（一子一女）。",
+          "explanation": "丰田佐吉有两名子女：儿子丰田喜一郎（丰田汽车创始人）和女儿爱子。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.britannica.com/biography/Toyoda-Sakichi",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Sakichi Toyoda at Encyclopaedia Britannica",
+            "zh": "不列颠百科全书中的丰田佐吉"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kiichiro-toyoda",
+      "category": "east-asian-history",
+      "tags": ["japanese", "businessman", "20th-century", "entrepreneur"],
+      "childrenCount": 4,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Kiichirō Toyoda",
+          "descriptor": "Japanese businessman, founder of Toyota Motor Corporation",
+          "countingRuleSummary": "Four documented children.",
+          "explanation": "Kiichirō Toyoda had four children. His eldest son, Shoichiro Toyoda, later became chairman of Toyota Motor Corporation."
+        },
+        "zh": {
+          "displayName": "丰田喜一郎",
+          "descriptor": "日本实业家、丰田汽车创始人",
+          "countingRuleSummary": "四名有文献记录的子女。",
+          "explanation": "丰田喜一郎育有四名子女。长子丰田章一郎后来担任丰田汽车董事长。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.britannica.com/biography/Toyoda-Kiichiro",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Kiichirō Toyoda at Encyclopaedia Britannica",
+            "zh": "不列颠百科全书中的丰田喜一郎"
+          }
+        }
+      ]
+    },
+    {
+      "id": "empress-suiko",
+      "category": "east-asian-history",
+      "tags": ["japanese", "empress", "ancient", "asuka-period"],
+      "childrenCount": 8,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Empress Suiko",
+          "descriptor": "Empress of Japan",
+          "countingRuleSummary": "Eight documented children with Emperor Bidatsu.",
+          "explanation": "Empress Suiko married her half-brother Emperor Bidatsu and bore eight children. None of them became emperor or empress."
+        },
+        "zh": {
+          "displayName": "推古天皇",
+          "descriptor": "日本女天皇",
+          "countingRuleSummary": "与敏达天皇育有八名有文献记录的子女。",
+          "explanation": "推古天皇嫁给了同父异母的兄长敏达天皇，生育八名子女。其中无人成为天皇。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://kids.kiddle.co/Empress_Suiko",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Empress Suiko at Kiddle",
+            "zh": "Kiddle百科中的推古天皇"
+          }
+        }
+      ]
+    },
+    {
+      "id": "empress-kogyoku",
+      "category": "east-asian-history",
+      "tags": ["japanese", "empress", "ancient", "asuka-period"],
+      "childrenCount": 3,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 2,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Empress Kōgyoku",
+          "descriptor": "Empress of Japan",
+          "countingRuleSummary": "Three documented children with Emperor Jomei.",
+          "explanation": "Empress Kōgyoku (who reigned twice, also as Saimei) had three children with Emperor Jomei: Princes Naka no Ōe (later Emperor Tenji) and Ōama (later Emperor Tenmu), and Princess Hashihito."
+        },
+        "zh": {
+          "displayName": "皇极天皇（齐明天皇）",
+          "descriptor": "日本女天皇",
+          "countingRuleSummary": "与舒明天皇育有三名有文献记录的子女。",
+          "explanation": "皇极天皇（曾再度即位为齐明天皇）与舒明天皇育有三名子女：中大兄皇子（后来的天智天皇）、大海人皇子（后来的天武天皇）和间人皇女。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/kogyoku-saimei-594-661",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Kogyoku-Saimei at Encyclopedia.com",
+            "zh": "Encyclopedia.com中的皇极天皇"
+          }
+        }
+      ]
+    },
+    {
+      "id": "empress-genmei",
+      "category": "east-asian-history",
+      "tags": ["japanese", "empress", "ancient", "nara-period"],
+      "childrenCount": 4,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 2,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Empress Genmei",
+          "descriptor": "Empress of Japan",
+          "countingRuleSummary": "Four documented children with Prince Kusakabe.",
+          "explanation": "Empress Genmei married her nephew Prince Kusakabe and had four children: Princess Hidaka (later Empress Genshō), Prince Karu (later Emperor Monmu), and Imperial Princess Kibi among them."
+        },
+        "zh": {
+          "displayName": "元明天皇",
+          "descriptor": "日本女天皇",
+          "countingRuleSummary": "与草壁皇子育有四名有文献记录的子女。",
+          "explanation": "元明天皇嫁给了侄子草壁皇子，育有四名子女，包括冰高皇女（后来的元正天皇）和珂瑠皇子（后来的文武天皇）。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://kids.kiddle.co/Empress_Genmei",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Empress Genmei at Kiddle",
+            "zh": "Kiddle百科中的元明天皇"
+          }
+        }
+      ]
+    },
+    {
+      "id": "matsuo-basho",
+      "category": "east-asian-history",
+      "tags": ["japanese", "poet", "edo-period", "writer"],
+      "childrenCount": 0,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 5,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Matsuo Bashō",
+          "descriptor": "Japanese haiku poet",
+          "countingRuleSummary": "No children. Bashō never married.",
+          "explanation": "Matsuo Bashō never married and had no children. There is no firm evidence for suggestions of a lover named Jutei."
+        },
+        "zh": {
+          "displayName": "松尾芭蕉",
+          "descriptor": "日本俳句诗人",
+          "countingRuleSummary": "无子女。芭蕉终身未娶。",
+          "explanation": "松尾芭蕉终身未婚，无子女。有关情人\u201C寿贞\u201D的说法缺乏确凿证据。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.nippon.com/en/japan-topics/b07224/",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Matsuo Bashō: A Literary Wanderer at Nippon.com",
+            "zh": "Nippon.com：松尾芭蕉——文学 wanderer"
+          }
+        }
+      ]
+    },
+    {
+      "id": "katsushika-hokusai",
+      "category": "east-asian-history",
+      "tags": ["japanese", "artist", "edo-period", "ukiyo-e"],
+      "childrenCount": 5,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 5,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Katsushika Hokusai",
+          "descriptor": "Japanese ukiyo-e artist",
+          "countingRuleSummary": "Five documented children: two sons and three daughters.",
+          "explanation": "Hokusai had five children with his two wives. His youngest daughter Ōi (also known as Ei) became a noted artist in her own right."
+        },
+        "zh": {
+          "displayName": "葛饰北斋",
+          "descriptor": "日本浮世绘画家",
+          "countingRuleSummary": "五名有文献记录的子女（二子三女）。",
+          "explanation": "北斋与两任配偶共有五名子女。小女阿荣（葛饰应为）后来也成为著名画家。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.thefamouspeople.com/profiles/katsushika-hokusai-37322.php",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Katsushika Hokusai at The Famous People",
+            "zh": "The Famous People中的葛饰北斋"
+          }
+        }
+      ]
+    },
+    {
+      "id": "murasaki-shikibu",
+      "category": "east-asian-history",
+      "tags": ["japanese", "writer", "heian-period", "novelist"],
+      "childrenCount": 1,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 4,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Murasaki Shikibu",
+          "descriptor": "Japanese novelist and poet",
+          "countingRuleSummary": "One documented daughter.",
+          "explanation": "Murasaki Shikibu and her husband Fujiwara no Nobutaka had one daughter, born in 999, who later became a noted poet under the name Daini no Sanmi."
+        },
+        "zh": {
+          "displayName": "紫式部",
+          "descriptor": "日本小说家、诗人",
+          "countingRuleSummary": "一名有文献记录的女儿。",
+          "explanation": "紫式部与丈夫藤原宣孝育有一女，生于999年，后来以\u201C大弐三位\u201D之号成为著名歌人。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/murasaki-shikibu-c-973-c-1015",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Murasaki Shikibu at Encyclopedia.com",
+            "zh": "Encyclopedia.com中的紫式部"
+          }
+        }
+      ]
+    },
+    {
+      "id": "natsume-soseki",
+      "category": "east-asian-history",
+      "tags": ["japanese", "writer", "meiji-period", "novelist"],
+      "childrenCount": 7,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 4,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Natsume Sōseki",
+          "descriptor": "Japanese novelist",
+          "countingRuleSummary": "Seven documented children, of whom six survived infancy.",
+          "explanation": "Natsume Sōseki and his wife Kyōko had seven children. One daughter, Hinako, died in infancy in 1911. His eldest daughter Fude later became a writer."
+        },
+        "zh": {
+          "displayName": "夏目漱石",
+          "descriptor": "日本小说家",
+          "countingRuleSummary": "七名有文献记录的子女，其中六人活过婴儿期。",
+          "explanation": "夏目漱石与妻子镜子育有七名子女，其中一女雏子于1911年夭折。长女笔子后来成为作家。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.britannica.com/biography/Natsume-Soseki",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Natsume Sōseki at Encyclopaedia Britannica",
+            "zh": "不列颠百科全书中的夏目漱石"
+          }
+        }
+      ]
+    },
+    {
+      "id": "akutagawa-ryunosuke",
+      "category": "east-asian-history",
+      "tags": ["japanese", "writer", "taisho-period", "short-story"],
+      "childrenCount": 3,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 4,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Ryūnosuke Akutagawa",
+          "descriptor": "Japanese short story writer",
+          "countingRuleSummary": "Three documented sons.",
+          "explanation": "Akutagawa married Fumi Tsukamoto in 1918 and they had three sons: Hiroshi (1920–1981, an actor), Masatoshi, and Yoshitshi."
+        },
+        "zh": {
+          "displayName": "芥川龙之介",
+          "descriptor": "日本短篇小说家",
+          "countingRuleSummary": "三名有文献记录的儿子。",
+          "explanation": "芥川龙之介于1918年与冢本文结婚，育有三子：比吕志（1920–1981，演员）、正敏和义志。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.encyclopedia.com/arts/encyclopedias-almanacs-transcripts-and-maps/akutagawa-ryunosuke",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Akutagawa Ryunosuke at Encyclopedia.com",
+            "zh": "Encyclopedia.com中的芥川龙之介"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kawabata-yasunari",
+      "category": "east-asian-history",
+      "tags": ["japanese", "writer", "20th-century", "nobel-laureate"],
+      "childrenCount": 1,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 4,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Yasunari Kawabata",
+          "descriptor": "Japanese novelist, Nobel Prize in Literature",
+          "countingRuleSummary": "One documented daughter.",
+          "explanation": "Kawabata married Hideko and they had one daughter. He won the Nobel Prize in Literature in 1968."
+        },
+        "zh": {
+          "displayName": "川端康成",
+          "descriptor": "日本小说家、诺贝尔文学奖得主",
+          "countingRuleSummary": "一名有文献记录的女儿。",
+          "explanation": "川端康成与妻子秀子育有一女。他于1968年获得诺贝尔文学奖。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.encyclopedia.com/arts/encyclopedias-almanacs-transcripts-and-maps/kawabata-yasunari",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Kawabata Yasunari at Encyclopedia.com",
+            "zh": "Encyclopedia.com中的川端康成"
+          }
+        }
+      ]
+    },
+    {
+      "id": "akiko-yosano",
+      "category": "east-asian-history",
+      "tags": ["japanese", "poet", "writer", "feminist", "20th-century"],
+      "childrenCount": 13,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Akiko Yosano",
+          "descriptor": "Japanese poet and feminist",
+          "countingRuleSummary": "Thirteen documented children, eleven of whom survived to adulthood.",
+          "explanation": "Akiko Yosano married poet Yosano Tekkan in 1901 and gave birth to thirteen children. Eleven survived to adulthood. Her grandson Yosano Kaoru became a prominent politician."
+        },
+        "zh": {
+          "displayName": "与谢野晶子",
+          "descriptor": "日本诗人、女权主义者",
+          "countingRuleSummary": "十三名有文献记录的子女，十一人活至成年。",
+          "explanation": "与谢野晶子于1901年与诗人与谢野铁干结婚，共生育十三名子女，其中十一人活至成年。孙辈与谢野馨成为著名政治家。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://www.poetryfoundation.org/poets/yosano-akiko",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Yosano Akiko at Poetry Foundation",
+            "zh": "诗歌基金会中的与谢野晶子"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mori-ogai",
+      "category": "east-asian-history",
+      "tags": ["japanese", "writer", "physician", "meiji-period"],
+      "childrenCount": 5,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Mori Ōgai",
+          "descriptor": "Japanese writer and military doctor",
+          "countingRuleSummary": "Five documented children: one son with first wife, four with second wife.",
+          "explanation": "Mori Ōgai married twice. With first wife Toshiko Akamatsu he had a son named Oto. With second wife Shigeko Arakawa he had four children: Mari, Furitsu, Annu, and Rui."
+        },
+        "zh": {
+          "displayName": "森鸥外",
+          "descriptor": "日本作家、军医",
+          "countingRuleSummary": "五名有文献记录的子女：与第一任配偶一子，与第二任配偶四名。",
+          "explanation": "森鸥外先后两次结婚。与赤松俊子育有一子于纩（Oto）。与荒川志生子育有四名子女：茉莉、不律、杏奴、类。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://kids.kiddle.co/Mori_%C5%8Cgai",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Mori Ōgai at Kiddle",
+            "zh": "Kiddle百科中的森鸥外"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ihara-saikaku",
+      "category": "east-asian-history",
+      "tags": ["japanese", "writer", "edo-period", "novelist"],
+      "childrenCount": 3,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Ihara Saikaku",
+          "descriptor": "Japanese poet and novelist",
+          "countingRuleSummary": "Three documented children, one of whom was blind.",
+          "explanation": "Ihara Saikaku had three children with his wife. After his wife's death, he left his three children with extended family and became a travelling lay monk."
+        },
+        "zh": {
+          "displayName": "井原西鹤",
+          "descriptor": "日本诗人、小说家",
+          "countingRuleSummary": "三名有文献记录的子女，其中一人失明。",
+          "explanation": "井原西鹤与妻子育有三名子女。妻子去世后，他将三名子女托付给族人照料，自己出家云游。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://kids.kiddle.co/Ihara_Saikaku",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Ihara Saikaku at Kiddle",
+            "zh": "Kiddle百科中的井原西鹤"
+          }
+        }
+      ]
+    },
+    {
+      "id": "syngman-rhee",
+      "category": "east-asian-history",
+      "tags": ["korean", "political-leader", "20th-century", "president"],
+      "childrenCount": 0,
+      "countType": "exact",
+      "confidence": "high",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Syngman Rhee",
+          "descriptor": "First President of South Korea",
+          "countingRuleSummary": "No biological children. Adopted three sons over his lifetime.",
+          "explanation": "Syngman Rhee had no biological children. He adopted three sons during his life: Rhee Un-soo (adoption ended 1949), Lee Kang-seok (1956, died 1960), and Rhee In-soo."
+        },
+        "zh": {
+          "displayName": "李承晚",
+          "descriptor": "大韩民国首任总统",
+          "countingRuleSummary": "无亲生子女。一生中收养了三名儿子。",
+          "explanation": "李承晚没有亲生子女。他先后收养了三名儿子：李恩秀（1949年解除收养关系）、李康德（1956年收养，1960年去世）和李仁秀。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://koreajoongangdaily.joins.com/news/2023-11-02/national/socialAffairs/Adopted-son-of-Syngman-Rhee-dies-at-age-92/1904591",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Adopted son of Syngman Rhee dies at age 92",
+            "zh": "李承晚养子以92岁高龄去世"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kim-ku",
+      "category": "east-asian-history",
+      "tags": ["korean", "independence-activist", "20th-century"],
+      "childrenCount": 5,
+      "countType": "exact",
+      "confidence": "medium",
+      "recognisabilityScore": 3,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Kim Ku",
+          "descriptor": "Korean independence activist",
+          "countingRuleSummary": "Five documented children.",
+          "explanation": "Kim Ku had five children with his wife. His youngest son Shin was born in 1922. His wife died shortly after Shin's birth, forcing Kim to place the infant in an orphanage temporarily."
+        },
+        "zh": {
+          "displayName": "金九",
+          "descriptor": "韩国独立运动家",
+          "countingRuleSummary": "五名有文献记录的子女。",
+          "explanation": "金九与妻子育有五名子女。幼子金信生于1922年，妻子产后不久去世，金九不得不将幼子暂时送入孤儿院。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://kids.kiddle.co/Kim_Ku",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Kim Ku at Kiddle",
+            "zh": "Kiddle百科中的金九"
+          }
+        }
+      ]
+    },
+    {
+      "id": "empress-jito",
+      "category": "east-asian-history",
+      "tags": ["japanese", "empress", "ancient", "asuka-period"],
+      "childrenCount": 2,
+      "countType": "approximate",
+      "confidence": "medium",
+      "recognisabilityScore": 2,
+      "status": "disabled",
+      "text": {
+        "en": {
+          "displayName": "Empress Jitō",
+          "descriptor": "Empress of Japan",
+          "countingRuleSummary": "At least two documented children with Emperor Tenmu.",
+          "explanation": "Empress Jitō married her uncle Emperor Tenmu and bore several children, including Crown Prince Kusakabe and at least one other child. She was the third woman to reign as Empress of Japan."
+        },
+        "zh": {
+          "displayName": "持统天皇",
+          "descriptor": "日本女天皇",
+          "countingRuleSummary": "与天武天皇至少有两名有文献记录的子女。",
+          "explanation": "持统天皇嫁给了叔父天武天皇，生有草壁皇子等至少两名子女。她是日本第三位女性天皇。"
+        }
+      },
+      "sources": [
+        {
+          "url": "https://kids.kiddle.co/Empress_Jit%C5%8D",
+          "sourceLanguage": "en",
+          "title": {
+            "en": "Empress Jitō at Kiddle",
+            "zh": "Kiddle百科中的持统天皇"
+          }
+        }
+      ]
+    }
+  ],
+  "shortfallReason": "Target of 200 records not reached. Research was limited to publicly available biographical sources for well-known figures. Many candidates from the discovery list lacked easily verifiable child counts from non-Wikipedia authoritative sources. Additional research rounds with deeper archive access, Chinese and Japanese language biographical databases (e.g., Baidu Baike, Kotobank, Japanese National Diet Library), and institutional records would be needed to reach 200. No uncertain candidates were included."
+}

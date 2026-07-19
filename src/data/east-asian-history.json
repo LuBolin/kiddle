@@ -1,0 +1,5282 @@
+[
+  {
+    "id": "east-asian-history-mao-zedong",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Mao Zedong",
+        "url": "https://en.wikipedia.org/wiki/Mao_Zedong"
+      },
+      {
+        "title": "Wikidata — Mao Zedong",
+        "url": "https://www.wikidata.org/entity/Q5816"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mao_Tse_Tung.jpg/500px-Mao_Tse_Tung.jpg",
+      "licence": "Public domain",
+      "attribution": "Chen Zhengqing (1917–1966)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mao_Tse_Tung.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Mao Zedong",
+        "descriptor": "1st chairman of the Chinese Communist Party and founder of the People's Republic of China",
+        "countingRuleSummary": "6 children are recorded by Wikidata.",
+        "explanation": "Mao Zedong has 6 children in the cited records.",
+        "imageAlt": "Portrait of Mao Zedong"
+      },
+      "zh": {
+        "displayName": "毛泽东",
+        "descriptor": "中国共产党中央委员会主席、中华人民共和国缔造者",
+        "countingRuleSummary": "维基数据记载6名子女。",
+        "explanation": "毛泽东在引用记录中有6名子女。",
+        "imageAlt": "毛泽东肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-katsushika-hokusai",
+    "category": "east-asian-history",
+    "tags": [
+      "art"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Katsushika Hokusai",
+        "url": "https://en.wikipedia.org/wiki/Hokusai"
+      },
+      {
+        "title": "Wikidata — Katsushika Hokusai",
+        "url": "https://www.wikidata.org/entity/Q5586"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Hokusai_as_an_old_man.jpg/500px-Hokusai_as_an_old_man.jpg",
+      "licence": "CC0",
+      "attribution": "missing name",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hokusai_as_an_old_man.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Katsushika Hokusai",
+        "descriptor": "Japanese artist",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Katsushika Hokusai has 2 children in the cited records.",
+        "imageAlt": "Portrait of Katsushika Hokusai"
+      },
+      "zh": {
+        "displayName": "葛饰北斋",
+        "descriptor": "日本艺术家",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "葛饰北斋在引用记录中有2名子女。",
+        "imageAlt": "葛饰北斋肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-murasaki-shikibu",
+    "category": "east-asian-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Murasaki Shikibu",
+        "url": "https://en.wikipedia.org/wiki/Murasaki_Shikibu"
+      },
+      {
+        "title": "Wikidata — Murasaki Shikibu",
+        "url": "https://www.wikidata.org/entity/Q81731"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Murasaki-Shikibu-composing-Genji-Monogatari.png/500px-Murasaki-Shikibu-composing-Genji-Monogatari.png",
+      "licence": "Public domain",
+      "attribution": "Tosa Mitsuoki (1617 - 1691)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Murasaki-Shikibu-composing-Genji-Monogatari.png"
+    },
+    "text": {
+      "en": {
+        "displayName": "Murasaki Shikibu",
+        "descriptor": "Japanese novelist and poet",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Murasaki Shikibu has 1 child in the cited records.",
+        "imageAlt": "Portrait of Murasaki Shikibu"
+      },
+      "zh": {
+        "displayName": "紫式部",
+        "descriptor": "日本小说家兼诗人",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "紫式部在引用记录中有1名子女。",
+        "imageAlt": "紫式部肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-meiji",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 15,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Meiji",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Meiji"
+      },
+      {
+        "title": "Wikidata — Emperor Meiji",
+        "url": "https://www.wikidata.org/entity/Q174231"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Meiji_Emperor.jpg/500px-Meiji_Emperor.jpg",
+      "licence": "Public domain",
+      "attribution": "Uchida Kuichi",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meiji_Emperor.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Emperor Meiji",
+        "descriptor": "Emperor of Japan from 1867 until 1912",
+        "countingRuleSummary": "15 children are recorded by Wikidata.",
+        "explanation": "Emperor Meiji has 15 children in the cited records.",
+        "imageAlt": "Portrait of Emperor Meiji"
+      },
+      "zh": {
+        "displayName": "明治天皇",
+        "descriptor": "日本天皇（1867–1912）",
+        "countingRuleSummary": "维基数据记载15名子女。",
+        "explanation": "明治天皇在引用记录中有15名子女。",
+        "imageAlt": "明治天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-ryunosuke-akutagawa",
+    "category": "east-asian-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Ryūnosuke Akutagawa",
+        "url": "https://en.wikipedia.org/wiki/Ry%C5%ABnosuke_Akutagawa"
+      },
+      {
+        "title": "Wikidata — Ryūnosuke Akutagawa",
+        "url": "https://www.wikidata.org/entity/Q186326"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Akutagawa_Ryunosuke_photo.jpg/500px-Akutagawa_Ryunosuke_photo.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akutagawa_Ryunosuke_photo.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Ryūnosuke Akutagawa",
+        "descriptor": "Japanese writer",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Ryūnosuke Akutagawa has 2 children in the cited records.",
+        "imageAlt": "Portrait of Ryūnosuke Akutagawa"
+      },
+      "zh": {
+        "displayName": "芥川龙之介",
+        "descriptor": "日本作家",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "芥川龙之介在引用记录中有2名子女。",
+        "imageAlt": "芥川龙之介肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-syngman-rhee",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Syngman Rhee",
+        "url": "https://en.wikipedia.org/wiki/Syngman_Rhee"
+      },
+      {
+        "title": "Wikidata — Syngman Rhee",
+        "url": "https://www.wikidata.org/entity/Q171684"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Rhee_Syng-Man_in_1948.jpg/500px-Rhee_Syng-Man_in_1948.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rhee_Syng-Man_in_1948.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Syngman Rhee",
+        "descriptor": "President of South Korea from 1948 to 1960",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Syngman Rhee has 1 child in the cited records.",
+        "imageAlt": "Portrait of Syngman Rhee"
+      },
+      "zh": {
+        "displayName": "李承晚",
+        "descriptor": "大韩民国总统（1948–1960）",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "李承晚在引用记录中有1名子女。",
+        "imageAlt": "李承晚肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-hideki-tojo",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Hideki Tojo",
+        "url": "https://en.wikipedia.org/wiki/Hideki_Tojo"
+      },
+      {
+        "title": "Wikidata — Hideki Tojo",
+        "url": "https://www.wikidata.org/entity/Q160847"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Hideki_Tojo.jpg",
+      "licence": "Public domain",
+      "attribution": "Wikimedia Commons contributor",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hideki_Tojo.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Hideki Tojo",
+        "descriptor": "Japanese general and politician",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Hideki Tojo has 3 children in the cited records.",
+        "imageAlt": "Portrait of Hideki Tojo"
+      },
+      "zh": {
+        "displayName": "东条英机",
+        "descriptor": "日本将领兼政治家",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "东条英机在引用记录中有3名子女。",
+        "imageAlt": "东条英机肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-tokugawa-ieyasu",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 20,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Tokugawa Ieyasu",
+        "url": "https://en.wikipedia.org/wiki/Tokugawa_Ieyasu"
+      },
+      {
+        "title": "Wikidata — Tokugawa Ieyasu",
+        "url": "https://www.wikidata.org/entity/Q171977"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tokugawa_Ieyasu2.JPG/500px-Tokugawa_Ieyasu2.JPG",
+      "licence": "Public domain",
+      "attribution": "Kanō Tan'yū",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokugawa_Ieyasu2.JPG"
+    },
+    "text": {
+      "en": {
+        "displayName": "Tokugawa Ieyasu",
+        "descriptor": "founder and first shogun of the Tokugawa shogunate of Japan",
+        "countingRuleSummary": "20 children are recorded by Wikidata.",
+        "explanation": "Tokugawa Ieyasu has 20 children in the cited records.",
+        "imageAlt": "Portrait of Tokugawa Ieyasu"
+      },
+      "zh": {
+        "displayName": "德川家康",
+        "descriptor": "日本德川幕府创立者及首任将军",
+        "countingRuleSummary": "维基数据记载20名子女。",
+        "explanation": "德川家康在引用记录中有20名子女。",
+        "imageAlt": "德川家康肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-oda-nobunaga",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 23,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Oda Nobunaga",
+        "url": "https://en.wikipedia.org/wiki/Oda_Nobunaga"
+      },
+      {
+        "title": "Wikidata — Oda Nobunaga",
+        "url": "https://www.wikidata.org/entity/Q171411"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Odanobunaga.jpg/500px-Odanobunaga.jpg",
+      "licence": "Public domain",
+      "attribution": "狩野宗秀 (Kanō Sōshū, 1551 - 1601)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Odanobunaga.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Oda Nobunaga",
+        "descriptor": "Japanese samurai and warlord",
+        "countingRuleSummary": "23 children are recorded by Wikidata.",
+        "explanation": "Oda Nobunaga has 23 children in the cited records.",
+        "imageAlt": "Portrait of Oda Nobunaga"
+      },
+      "zh": {
+        "displayName": "织田信长",
+        "descriptor": "日本武士兼战国大名",
+        "countingRuleSummary": "维基数据记载23名子女。",
+        "explanation": "织田信长在引用记录中有23名子女。",
+        "imageAlt": "织田信长肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-toyotomi-hideyoshi",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Toyotomi Hideyoshi",
+        "url": "https://en.wikipedia.org/wiki/Toyotomi_Hideyoshi"
+      },
+      {
+        "title": "Wikidata — Toyotomi Hideyoshi",
+        "url": "https://www.wikidata.org/entity/Q187550"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Toyotomi_hideyoshi_face.png/500px-Toyotomi_hideyoshi_face.png",
+      "licence": "Public domain",
+      "attribution": "Kanō Mitsunobu",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toyotomi_hideyoshi_face.png"
+    },
+    "text": {
+      "en": {
+        "displayName": "Toyotomi Hideyoshi",
+        "descriptor": "Japanese samurai and daimyo",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Toyotomi Hideyoshi has 3 children in the cited records.",
+        "imageAlt": "Portrait of Toyotomi Hideyoshi"
+      },
+      "zh": {
+        "displayName": "丰臣秀吉",
+        "descriptor": "日本武士兼大名",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "丰臣秀吉在引用记录中有3名子女。",
+        "imageAlt": "丰臣秀吉肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-taisho",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Taishō",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Taish%C5%8D"
+      },
+      {
+        "title": "Wikidata — Emperor Taishō",
+        "url": "https://www.wikidata.org/entity/Q157052"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Emperor_Taish%C5%8D.jpg/500px-Emperor_Taish%C5%8D.jpg",
+      "licence": "Public domain",
+      "attribution": "Ministry of the Imperial Household",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Taish%C5%8D.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Emperor Taishō",
+        "descriptor": "Emperor of Japan from 1912 until 1926",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Emperor Taishō has 4 children in the cited records.",
+        "imageAlt": "Portrait of Emperor Taishō"
+      },
+      "zh": {
+        "displayName": "大正天皇",
+        "descriptor": "日本天皇（1912–1926）",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "大正天皇在引用记录中有4名子女。",
+        "imageAlt": "大正天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-ito-hirobumi",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Itō Hirobumi",
+        "url": "https://en.wikipedia.org/wiki/It%C5%8D_Hirobumi"
+      },
+      {
+        "title": "Wikidata — Itō Hirobumi",
+        "url": "https://www.wikidata.org/entity/Q174971"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/IT%C5%8C_Hirobumi.jpg/500px-IT%C5%8C_Hirobumi.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:IT%C5%8C_Hirobumi.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Itō Hirobumi",
+        "descriptor": "1st, 5th, 7th and 10th Prime Minister of Japan",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Itō Hirobumi has 3 children in the cited records.",
+        "imageAlt": "Portrait of Itō Hirobumi"
+      },
+      "zh": {
+        "displayName": "伊藤博文",
+        "descriptor": "日本第1、5、7、10任首相",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "伊藤博文在引用记录中有3名子女。",
+        "imageAlt": "伊藤博文肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-natsume-soseki",
+    "category": "east-asian-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Natsume Sōseki",
+        "url": "https://en.wikipedia.org/wiki/Natsume_S%C5%8Dseki"
+      },
+      {
+        "title": "Wikidata — Natsume Sōseki",
+        "url": "https://www.wikidata.org/entity/Q180903"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Natsume_Soseki_photo.jpg/500px-Natsume_Soseki_photo.jpg",
+      "licence": "Public domain",
+      "attribution": "Ogawa Kazumasa",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Natsume_Soseki_photo.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Natsume Sōseki",
+        "descriptor": "Japanese novelist",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Natsume Sōseki has 3 children in the cited records.",
+        "imageAlt": "Portrait of Natsume Sōseki"
+      },
+      "zh": {
+        "displayName": "夏目漱石",
+        "descriptor": "日本小说家",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "夏目漱石在引用记录中有3名子女。",
+        "imageAlt": "夏目漱石肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-sei-shonagon",
+    "category": "east-asian-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Sei Shōnagon",
+        "url": "https://en.wikipedia.org/wiki/Sei_Sh%C5%8Dnagon"
+      },
+      {
+        "title": "Wikidata — Sei Shōnagon",
+        "url": "https://www.wikidata.org/entity/Q231603"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Sei_Shonagon2.jpg",
+      "licence": "Public domain",
+      "attribution": "土佐光起 (Tosa Mitsuoki)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sei_Shonagon2.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Sei Shōnagon",
+        "descriptor": "Japanese author and court lady",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Sei Shōnagon has 2 children in the cited records.",
+        "imageAlt": "Portrait of Sei Shōnagon"
+      },
+      "zh": {
+        "displayName": "清少纳言",
+        "descriptor": "日本作家兼宫廷女官",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "清少纳言在引用记录中有2名子女。",
+        "imageAlt": "清少纳言肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-yun-po-sun",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Yun Po-sun",
+        "url": "https://en.wikipedia.org/wiki/Yun_Po-sun"
+      },
+      {
+        "title": "Wikidata — Yun Po-sun",
+        "url": "https://www.wikidata.org/entity/Q192049"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/%EC%9C%A4%EB%B3%B4%EC%84%A0_%EB%8C%80%ED%86%B5%EB%A0%B9_%EC%A1%B4%EC%98%812_%28cropped%29.jpg/500px-%EC%9C%A4%EB%B3%B4%EC%84%A0_%EB%8C%80%ED%86%B5%EB%A0%B9_%EC%A1%B4%EC%98%812_%28cropped%29.jpg",
+      "licence": "Public domain",
+      "attribution": "공보처 홍보국 사진담당관",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9C%A4%EB%B3%B4%EC%84%A0_%EB%8C%80%ED%86%B5%EB%A0%B9_%EC%A1%B4%EC%98%812_(cropped).jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Yun Po-sun",
+        "descriptor": "2nd President of South Korea",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Yun Po-sun has 4 children in the cited records.",
+        "imageAlt": "Portrait of Yun Po-sun"
+      },
+      "zh": {
+        "displayName": "尹潽善",
+        "descriptor": "大韩民国第2任总统",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "尹潽善在引用记录中有4名子女。",
+        "imageAlt": "尹潽善肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-morihei-ueshiba",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Morihei Ueshiba",
+        "url": "https://en.wikipedia.org/wiki/Morihei_Ueshiba"
+      },
+      {
+        "title": "Wikidata — Morihei Ueshiba",
+        "url": "https://www.wikidata.org/entity/Q182130"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Morihei_Ueshiba_1939.jpg/500px-Morihei_Ueshiba_1939.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown photographer",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morihei_Ueshiba_1939.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Morihei Ueshiba",
+        "descriptor": "Japanese aikidoka",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Morihei Ueshiba has 1 child in the cited records.",
+        "imageAlt": "Portrait of Morihei Ueshiba"
+      },
+      "zh": {
+        "displayName": "植芝盛平",
+        "descriptor": "日本合气道家",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "植芝盛平在引用记录中有1名子女。",
+        "imageAlt": "植芝盛平肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-konosuke-matsushita",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Kōnosuke Matsushita",
+        "url": "https://en.wikipedia.org/wiki/K%C5%8Dnosuke_Matsushita"
+      },
+      {
+        "title": "Wikidata — Kōnosuke Matsushita",
+        "url": "https://www.wikidata.org/entity/Q252785"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Konosuke_Matsushita_01.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Konosuke_Matsushita_01.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Kōnosuke Matsushita",
+        "descriptor": "Founder of Panasonic",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Kōnosuke Matsushita has 1 child in the cited records.",
+        "imageAlt": "Portrait of Kōnosuke Matsushita"
+      },
+      "zh": {
+        "displayName": "松下幸之助",
+        "descriptor": "松下电器创始人",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "松下幸之助在引用记录中有1名子女。",
+        "imageAlt": "松下幸之助肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-liu-shaoqi",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 8,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Liu Shaoqi",
+        "url": "https://en.wikipedia.org/wiki/Liu_Shaoqi"
+      },
+      {
+        "title": "Wikidata — Liu Shaoqi",
+        "url": "https://www.wikidata.org/entity/Q16988"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Liu_Shaoqi_%28cropped%29.jpg",
+      "licence": "Public domain",
+      "attribution": "unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Liu_Shaoqi_(cropped).jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Liu Shaoqi",
+        "descriptor": "2nd President of the People's Republic of China",
+        "countingRuleSummary": "8 children are recorded by Wikidata.",
+        "explanation": "Liu Shaoqi has 8 children in the cited records.",
+        "imageAlt": "Portrait of Liu Shaoqi"
+      },
+      "zh": {
+        "displayName": "刘少奇",
+        "descriptor": "中华人民共和国第二任主席",
+        "countingRuleSummary": "维基数据记载8名子女。",
+        "explanation": "刘少奇在引用记录中有8名子女。",
+        "imageAlt": "刘少奇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-jimmu",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Jimmu",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Jimmu"
+      },
+      {
+        "title": "Wikidata — Jimmu",
+        "url": "https://www.wikidata.org/entity/Q200188"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Emperor_Jimmu.jpg/500px-Emperor_Jimmu.jpg",
+      "licence": "Public domain",
+      "attribution": "Tsukioka Yoshitoshi (月岡芳年): 1839-1892",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Jimmu.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Jimmu",
+        "descriptor": "legendary first emperor of Japan",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Jimmu has 5 children in the cited records.",
+        "imageAlt": "Portrait of Jimmu"
+      },
+      "zh": {
+        "displayName": "神武天皇",
+        "descriptor": "日本传说中第一位天皇",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "神武天皇在引用记录中有5名子女。",
+        "imageAlt": "神武天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-kano-jigoro",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Kanō Jigorō",
+        "url": "https://en.wikipedia.org/wiki/Kan%C5%8D_Jigor%C5%8D"
+      },
+      {
+        "title": "Wikidata — Kanō Jigorō",
+        "url": "https://www.wikidata.org/entity/Q190141"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Portrait_of_late_Mr._Kano.jpg/500px-Portrait_of_late_Mr._Kano.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_late_Mr._Kano.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Kanō Jigorō",
+        "descriptor": "Japanese educator and judoka",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Kanō Jigorō has 1 child in the cited records.",
+        "imageAlt": "Portrait of Kanō Jigorō"
+      },
+      "zh": {
+        "displayName": "嘉纳治五郎",
+        "descriptor": "日本教育家兼柔道运动员",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "嘉纳治五郎在引用记录中有1名子女。",
+        "imageAlt": "嘉纳治五郎肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-shigeru-yoshida",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Shigeru Yoshida",
+        "url": "https://en.wikipedia.org/wiki/Shigeru_Yoshida"
+      },
+      {
+        "title": "Wikidata — Shigeru Yoshida",
+        "url": "https://www.wikidata.org/entity/Q301804"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Shigeru_Yoshida_suit.jpg/500px-Shigeru_Yoshida_suit.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shigeru_Yoshida_suit.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Shigeru Yoshida",
+        "descriptor": "Prime minister of Japan",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Shigeru Yoshida has 2 children in the cited records.",
+        "imageAlt": "Portrait of Shigeru Yoshida"
+      },
+      "zh": {
+        "displayName": "吉田茂",
+        "descriptor": "日本首相",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "吉田茂在引用记录中有2名子女。",
+        "imageAlt": "吉田茂肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-nobusuke-kishi",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Nobusuke Kishi",
+        "url": "https://en.wikipedia.org/wiki/Nobusuke_Kishi"
+      },
+      {
+        "title": "Wikidata — Nobusuke Kishi",
+        "url": "https://www.wikidata.org/entity/Q315572"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Nobusuke_Kishi_portrait.jpg",
+      "licence": "CC BY 4.0",
+      "attribution": "外務省",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nobusuke_Kishi_portrait.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Nobusuke Kishi",
+        "descriptor": "56th and 57th Prime Minister of Japan",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Nobusuke Kishi has 2 children in the cited records.",
+        "imageAlt": "Portrait of Nobusuke Kishi"
+      },
+      "zh": {
+        "displayName": "岸信介",
+        "descriptor": "日本第56、57任首相",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "岸信介在引用记录中有2名子女。",
+        "imageAlt": "岸信介肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-akiko-yosano",
+    "category": "east-asian-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Akiko Yosano",
+        "url": "https://en.wikipedia.org/wiki/Yosano_Akiko"
+      },
+      {
+        "title": "Wikidata — Akiko Yosano",
+        "url": "https://www.wikidata.org/entity/Q464104"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Akiko_Yosano.jpg",
+      "licence": "Public domain",
+      "attribution": "published by 東洋文化協會 (The Eastern Culture Association)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akiko_Yosano.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Akiko Yosano",
+        "descriptor": "Japanese tanka poet",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Akiko Yosano has 1 child in the cited records.",
+        "imageAlt": "Portrait of Akiko Yosano"
+      },
+      "zh": {
+        "displayName": "与谢野晶子",
+        "descriptor": "日本短歌诗人",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "与谢野晶子在引用记录中有1名子女。",
+        "imageAlt": "与谢野晶子肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-zhu-de",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Zhu De",
+        "url": "https://en.wikipedia.org/wiki/Zhu_De"
+      },
+      {
+        "title": "Wikidata — Zhu De",
+        "url": "https://www.wikidata.org/entity/Q22513"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Zhu_De%2C_Commander_of_PLA.jpg/500px-Zhu_De%2C_Commander_of_PLA.jpg",
+      "licence": "Public domain",
+      "attribution": "anonymous (Gov)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zhu_De,_Commander_of_PLA.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Zhu De",
+        "descriptor": "Marshal of the People's Republic of China",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Zhu De has 1 child in the cited records.",
+        "imageAlt": "Portrait of Zhu De"
+      },
+      "zh": {
+        "displayName": "朱德",
+        "descriptor": "中华人民共和国元帅",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "朱德在引用记录中有1名子女。",
+        "imageAlt": "朱德肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-gichin-funakoshi",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Gichin Funakoshi",
+        "url": "https://en.wikipedia.org/wiki/Gichin_Funakoshi"
+      },
+      {
+        "title": "Wikidata — Gichin Funakoshi",
+        "url": "https://www.wikidata.org/entity/Q41105"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Gichin_Funakoshi_-_Heian_Nidan_%282%29.png",
+      "licence": "Public domain",
+      "attribution": "Gichin Funakoshi",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gichin_Funakoshi_-_Heian_Nidan_(2).png"
+    },
+    "text": {
+      "en": {
+        "displayName": "Gichin Funakoshi",
+        "descriptor": "Japanese karateka",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Gichin Funakoshi has 1 child in the cited records.",
+        "imageAlt": "Portrait of Gichin Funakoshi"
+      },
+      "zh": {
+        "displayName": "船越义珍",
+        "descriptor": "日本空手道家",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "船越义珍在引用记录中有1名子女。",
+        "imageAlt": "船越义珍肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-katsura-taro",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Katsura Tarō",
+        "url": "https://en.wikipedia.org/wiki/Katsura_Tar%C5%8D"
+      },
+      {
+        "title": "Wikidata — Katsura Tarō",
+        "url": "https://www.wikidata.org/entity/Q159048"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Prince_Katsura_Tar%C5%8D.jpg/500px-Prince_Katsura_Tar%C5%8D.jpg",
+      "licence": "Public domain",
+      "attribution": "故桂公爵記念事業会",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prince_Katsura_Tar%C5%8D.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Katsura Tarō",
+        "descriptor": "Japanese general and politician",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Katsura Tarō has 1 child in the cited records.",
+        "imageAlt": "Portrait of Katsura Tarō"
+      },
+      "zh": {
+        "displayName": "桂太郎",
+        "descriptor": "日本将领兼政治家",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "桂太郎在引用记录中有1名子女。",
+        "imageAlt": "桂太郎肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-saigo-takamori",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Saigō Takamori",
+        "url": "https://en.wikipedia.org/wiki/Saig%C5%8D_Takamori"
+      },
+      {
+        "title": "Wikidata — Saigō Takamori",
+        "url": "https://www.wikidata.org/entity/Q310462"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saigo_Takamori_Portrait_by_Ishikawa_Shizumasa.jpg/500px-Saigo_Takamori_Portrait_by_Ishikawa_Shizumasa.jpg",
+      "licence": "Public domain",
+      "attribution": "Ishikawa Shizumasa (1848-1925)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saigo_Takamori_Portrait_by_Ishikawa_Shizumasa.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Saigō Takamori",
+        "descriptor": "samurai of the Satsuma domain, supreme commander of Japanese army, one of the three great nobles who led the Meiji Restoration",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Saigō Takamori has 3 children in the cited records.",
+        "imageAlt": "Portrait of Saigō Takamori"
+      },
+      "zh": {
+        "displayName": "西乡隆盛",
+        "descriptor": "萨摩藩武士、日本陆军总司令、明治维新三杰之一",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "西乡隆盛在引用记录中有3名子女。",
+        "imageAlt": "西乡隆盛肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-togo-heihachiro",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Tōgō Heihachirō",
+        "url": "https://en.wikipedia.org/wiki/T%C5%8Dg%C5%8D_Heihachir%C5%8D"
+      },
+      {
+        "title": "Wikidata — Tōgō Heihachirō",
+        "url": "https://www.wikidata.org/entity/Q296785"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/T%C5%8Dg%C5%8D_Heihachir%C5%8D.jpg/500px-T%C5%8Dg%C5%8D_Heihachir%C5%8D.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:T%C5%8Dg%C5%8D_Heihachir%C5%8D.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Tōgō Heihachirō",
+        "descriptor": "Japanese admiral of the fleet",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Tōgō Heihachirō has 2 children in the cited records.",
+        "imageAlt": "Portrait of Tōgō Heihachirō"
+      },
+      "zh": {
+        "displayName": "东乡平八郎",
+        "descriptor": "日本海军元帅",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "东乡平八郎在引用记录中有2名子女。",
+        "imageAlt": "东乡平八郎肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-lao-she",
+    "category": "east-asian-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Lao She",
+        "url": "https://en.wikipedia.org/wiki/Lao_She"
+      },
+      {
+        "title": "Wikidata — Lao She",
+        "url": "https://www.wikidata.org/entity/Q315167"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/LaoShe.jpg/500px-LaoShe.jpg",
+      "licence": "Public domain",
+      "attribution": "Wikimedia Commons contributor",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LaoShe.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Lao She",
+        "descriptor": "Chinese writer, novelist and playwright",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Lao She has 2 children in the cited records.",
+        "imageAlt": "Portrait of Lao She"
+      },
+      "zh": {
+        "displayName": "老舍",
+        "descriptor": "中国作家、小说家兼剧作家",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "老舍在引用记录中有2名子女。",
+        "imageAlt": "老舍肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-komei",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Kōmei",
+        "url": "https://en.wikipedia.org/wiki/Emperor_K%C5%8Dmei"
+      },
+      {
+        "title": "Wikidata — Emperor Kōmei",
+        "url": "https://www.wikidata.org/entity/Q299179"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/The_Emperor_Komei.jpg/500px-The_Emperor_Komei.jpg",
+      "licence": "Public domain",
+      "attribution": "Published by 博文館 ( Hakubunkan )",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Emperor_Komei.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Emperor Kōmei",
+        "descriptor": "Emperor of Japan from 1846 to 1867",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Emperor Kōmei has 1 child in the cited records.",
+        "imageAlt": "Portrait of Emperor Kōmei"
+      },
+      "zh": {
+        "displayName": "孝明天皇",
+        "descriptor": "日本天皇（1846–1867）",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "孝明天皇在引用记录中有1名子女。",
+        "imageAlt": "孝明天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-minamoto-no-yoritomo",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 8,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Minamoto no Yoritomo",
+        "url": "https://en.wikipedia.org/wiki/Minamoto_no_Yoritomo"
+      },
+      {
+        "title": "Wikidata — Minamoto no Yoritomo",
+        "url": "https://www.wikidata.org/entity/Q242800"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Minamoto_no_Yoritomo.jpg/500px-Minamoto_no_Yoritomo.jpg",
+      "licence": "Public domain",
+      "attribution": "Fujiwara no Takanobu",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Minamoto_no_Yoritomo.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Minamoto no Yoritomo",
+        "descriptor": "1st shogun of the Kamakura shogunate",
+        "countingRuleSummary": "8 children are recorded by Wikidata.",
+        "explanation": "Minamoto no Yoritomo has 8 children in the cited records.",
+        "imageAlt": "Portrait of Minamoto no Yoritomo"
+      },
+      "zh": {
+        "displayName": "源赖朝",
+        "descriptor": "镰仓幕府首任将军",
+        "countingRuleSummary": "维基数据记载8名子女。",
+        "explanation": "源赖朝在引用记录中有8名子女。",
+        "imageAlt": "源赖朝肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-fukuzawa-yukichi",
+    "category": "east-asian-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Fukuzawa Yukichi",
+        "url": "https://en.wikipedia.org/wiki/Fukuzawa_Yukichi"
+      },
+      {
+        "title": "Wikidata — Fukuzawa Yukichi",
+        "url": "https://www.wikidata.org/entity/Q355447"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fukuzawa_Yukichi.jpg/500px-Fukuzawa_Yukichi.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fukuzawa_Yukichi.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Fukuzawa Yukichi",
+        "descriptor": "Modern Enlightenment thinker, educator, philosopher, scholar, author, writer, journalist, translator, entrepreneur, and founder of Keio University in Japan's Meiji era",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Fukuzawa Yukichi has 5 children in the cited records.",
+        "imageAlt": "Portrait of Fukuzawa Yukichi"
+      },
+      "zh": {
+        "displayName": "福泽谕吉",
+        "descriptor": "日本明治时代启蒙思想家、教育家、哲学家、学者、作家、记者、翻译家、企业家、庆应义塾大学创始人",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "福泽谕吉在引用记录中有5名子女。",
+        "imageAlt": "福泽谕吉肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-ichiro-hatoyama",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Ichirō Hatoyama",
+        "url": "https://en.wikipedia.org/wiki/Ichir%C5%8D_Hatoyama"
+      },
+      {
+        "title": "Wikidata — Ichirō Hatoyama",
+        "url": "https://www.wikidata.org/entity/Q333589"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hatoyama_Ichir%C5%8D.jpg/500px-Hatoyama_Ichir%C5%8D.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hatoyama_Ichir%C5%8D.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Ichirō Hatoyama",
+        "descriptor": "Prime Minister of Japan from 1954 to 1956",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Ichirō Hatoyama has 2 children in the cited records.",
+        "imageAlt": "Portrait of Ichirō Hatoyama"
+      },
+      "zh": {
+        "displayName": "鸠山一郎",
+        "descriptor": "日本首相（1954–1956）",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "鸠山一郎在引用记录中有2名子女。",
+        "imageAlt": "鸠山一郎肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-kokaku",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Kōkaku",
+        "url": "https://en.wikipedia.org/wiki/Emperor_K%C5%8Dkaku"
+      },
+      {
+        "title": "Wikidata — Emperor Kōkaku",
+        "url": "https://www.wikidata.org/entity/Q313806"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Emperor_K%C5%8Dkaku.jpg/500px-Emperor_K%C5%8Dkaku.jpg",
+      "licence": "Public domain",
+      "attribution": "Toyooka Harusuke",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_K%C5%8Dkaku.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Emperor Kōkaku",
+        "descriptor": "Emperor of Japan from 1780 to 1817",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Emperor Kōkaku has 5 children in the cited records.",
+        "imageAlt": "Portrait of Emperor Kōkaku"
+      },
+      "zh": {
+        "displayName": "光格天皇",
+        "descriptor": "日本天皇（1780–1817）",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "光格天皇在引用记录中有5名子女。",
+        "imageAlt": "光格天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-terauchi-masatake",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Terauchi Masatake",
+        "url": "https://en.wikipedia.org/wiki/Terauchi_Masatake"
+      },
+      {
+        "title": "Wikidata — Terauchi Masatake",
+        "url": "https://www.wikidata.org/entity/Q315559"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Masatake_Terauchi_2.jpg/500px-Masatake_Terauchi_2.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masatake_Terauchi_2.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Terauchi Masatake",
+        "descriptor": "Japanese general",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Terauchi Masatake has 1 child in the cited records.",
+        "imageAlt": "Portrait of Terauchi Masatake"
+      },
+      "zh": {
+        "displayName": "寺内正毅",
+        "descriptor": "日本将军",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "寺内正毅在引用记录中有1名子女。",
+        "imageAlt": "寺内正毅肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-inukai-tsuyoshi",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Inukai Tsuyoshi",
+        "url": "https://en.wikipedia.org/wiki/Inukai_Tsuyoshi"
+      },
+      {
+        "title": "Wikidata — Inukai Tsuyoshi",
+        "url": "https://www.wikidata.org/entity/Q354687"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Inukai_Tsuyoshi.jpg/500px-Inukai_Tsuyoshi.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inukai_Tsuyoshi.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Inukai Tsuyoshi",
+        "descriptor": "Japanese politician and Prime Minister of Japan",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Inukai Tsuyoshi has 1 child in the cited records.",
+        "imageAlt": "Portrait of Inukai Tsuyoshi"
+      },
+      "zh": {
+        "displayName": "犬养毅",
+        "descriptor": "日本政治人物及首相",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "犬养毅在引用记录中有1名子女。",
+        "imageAlt": "犬养毅肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-matsukata-masayoshi",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 7,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Matsukata Masayoshi",
+        "url": "https://en.wikipedia.org/wiki/Matsukata_Masayoshi"
+      },
+      {
+        "title": "Wikidata — Matsukata Masayoshi",
+        "url": "https://www.wikidata.org/entity/Q714039"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/4_MatsukataM.jpg/500px-4_MatsukataM.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:4_MatsukataM.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Matsukata Masayoshi",
+        "descriptor": "Japanese politician",
+        "countingRuleSummary": "7 children are recorded by Wikidata.",
+        "explanation": "Matsukata Masayoshi has 7 children in the cited records.",
+        "imageAlt": "Portrait of Matsukata Masayoshi"
+      },
+      "zh": {
+        "displayName": "松方正义",
+        "descriptor": "日本政治家",
+        "countingRuleSummary": "维基数据记载7名子女。",
+        "explanation": "松方正义在引用记录中有7名子女。",
+        "imageAlt": "松方正义肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-edogawa-ranpo",
+    "category": "east-asian-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Edogawa Ranpo",
+        "url": "https://en.wikipedia.org/wiki/Edogawa_Ranpo"
+      },
+      {
+        "title": "Wikidata — Edogawa Ranpo",
+        "url": "https://www.wikidata.org/entity/Q347412"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Rampo_Edogawa_02.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rampo_Edogawa_02.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Edogawa Ranpo",
+        "descriptor": "Japanese writer",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Edogawa Ranpo has 1 child in the cited records.",
+        "imageAlt": "Portrait of Edogawa Ranpo"
+      },
+      "zh": {
+        "displayName": "江户川乱步",
+        "descriptor": "日本作家",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "江户川乱步在引用记录中有1名子女。",
+        "imageAlt": "江户川乱步肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-mori-ogai",
+    "category": "east-asian-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Mori Ōgai",
+        "url": "https://en.wikipedia.org/wiki/Mori_%C5%8Cgai"
+      },
+      {
+        "title": "Wikidata — Mori Ōgai",
+        "url": "https://www.wikidata.org/entity/Q356960"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Mori_Ogai_in_the_atelier_of_Sculptor_Takeishi_Kozaburo_in_1916.jpg/500px-Mori_Ogai_in_the_atelier_of_Sculptor_Takeishi_Kozaburo_in_1916.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mori_Ogai_in_the_atelier_of_Sculptor_Takeishi_Kozaburo_in_1916.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Mori Ōgai",
+        "descriptor": "Japanese novelist and army physician",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Mori Ōgai has 4 children in the cited records.",
+        "imageAlt": "Portrait of Mori Ōgai"
+      },
+      "zh": {
+        "displayName": "森鸥外",
+        "descriptor": "日本小说家兼陆军军医",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "森鸥外在引用记录中有4名子女。",
+        "imageAlt": "森鸥外肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-kim-ku",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Kim Ku",
+        "url": "https://en.wikipedia.org/wiki/Kim_Ku"
+      },
+      {
+        "title": "Wikidata — Kim Ku",
+        "url": "https://www.wikidata.org/entity/Q215737"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kim_Gu_in_1949.jpg/500px-Kim_Gu_in_1949.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Gu_in_1949.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Kim Ku",
+        "descriptor": "Korean politician",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Kim Ku has 2 children in the cited records.",
+        "imageAlt": "Portrait of Kim Ku"
+      },
+      "zh": {
+        "displayName": "金九",
+        "descriptor": "韩国政治人物",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "金九在引用记录中有2名子女。",
+        "imageAlt": "金九肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-jito",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Jitō",
+        "url": "https://en.wikipedia.org/wiki/Empress_Jit%C5%8D"
+      },
+      {
+        "title": "Wikidata — Jitō",
+        "url": "https://www.wikidata.org/entity/Q232026"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Empress_Jito_by_Katsukawa_Shunsho.png/500px-Empress_Jito_by_Katsukawa_Shunsho.png",
+      "licence": "Public domain",
+      "attribution": "Katsukawa Shunshō",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Empress_Jito_by_Katsukawa_Shunsho.png"
+    },
+    "text": {
+      "en": {
+        "displayName": "Jitō",
+        "descriptor": "Empress of Japan",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Jitō has 1 child in the cited records.",
+        "imageAlt": "Portrait of Jitō"
+      },
+      "zh": {
+        "displayName": "持统天皇",
+        "descriptor": "日本女天皇",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "持统天皇在引用记录中有1名子女。",
+        "imageAlt": "持统天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-ninko",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Ninkō",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Nink%C5%8D"
+      },
+      {
+        "title": "Wikidata — Emperor Ninkō",
+        "url": "https://www.wikidata.org/entity/Q312351"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Emperor_Nink%C5%8D.jpg/500px-Emperor_Nink%C5%8D.jpg",
+      "licence": "Public domain",
+      "attribution": "Toyooka Harusuke",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Nink%C5%8D.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Emperor Ninkō",
+        "descriptor": "emperor of Japan",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Emperor Ninkō has 4 children in the cited records.",
+        "imageAlt": "Portrait of Emperor Ninkō"
+      },
+      "zh": {
+        "displayName": "仁孝天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "仁孝天皇在引用记录中有4名子女。",
+        "imageAlt": "仁孝天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-kuroda-kiyotaka",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Kuroda Kiyotaka",
+        "url": "https://en.wikipedia.org/wiki/Kuroda_Kiyotaka"
+      },
+      {
+        "title": "Wikidata — Kuroda Kiyotaka",
+        "url": "https://www.wikidata.org/entity/Q714049"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kiyotaka_Kuroda_formal.jpg/500px-Kiyotaka_Kuroda_formal.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kiyotaka_Kuroda_formal.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Kuroda Kiyotaka",
+        "descriptor": "Japanese general",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Kuroda Kiyotaka has 1 child in the cited records.",
+        "imageAlt": "Portrait of Kuroda Kiyotaka"
+      },
+      "zh": {
+        "displayName": "黑田清隆",
+        "descriptor": "日本将军",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "黑田清隆在引用记录中有1名子女。",
+        "imageAlt": "黑田清隆肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-okubo-toshimichi",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Ōkubo Toshimichi",
+        "url": "https://en.wikipedia.org/wiki/%C5%8Ckubo_Toshimichi"
+      },
+      {
+        "title": "Wikidata — Ōkubo Toshimichi",
+        "url": "https://www.wikidata.org/entity/Q356118"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Toshimichi_Okubo_4.jpg/500px-Toshimichi_Okubo_4.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toshimichi_Okubo_4.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Ōkubo Toshimichi",
+        "descriptor": "one of the three great nobles who led the Meiji Restoration, regarded as one of the main founders of modern Japan",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Ōkubo Toshimichi has 4 children in the cited records.",
+        "imageAlt": "Portrait of Ōkubo Toshimichi"
+      },
+      "zh": {
+        "displayName": "大久保利通",
+        "descriptor": "明治维新三杰之一，被視為現代日本的主要奠基人之一",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "大久保利通在引用记录中有4名子女。",
+        "imageAlt": "大久保利通肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-suiko",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 7,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Suiko",
+        "url": "https://en.wikipedia.org/wiki/Empress_Suiko"
+      },
+      {
+        "title": "Wikidata — Suiko",
+        "url": "https://www.wikidata.org/entity/Q298057"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Empress_Suiko_painting.png",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Empress_Suiko_painting.png"
+    },
+    "text": {
+      "en": {
+        "displayName": "Suiko",
+        "descriptor": "Empress of Japan from 592 to 628",
+        "countingRuleSummary": "7 children are recorded by Wikidata.",
+        "explanation": "Suiko has 7 children in the cited records.",
+        "imageAlt": "Portrait of Suiko"
+      },
+      "zh": {
+        "displayName": "推古天皇",
+        "descriptor": "日本女天皇（592–628）",
+        "countingRuleSummary": "维基数据记载7名子女。",
+        "explanation": "推古天皇在引用记录中有7名子女。",
+        "imageAlt": "推古天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-prince-shotoku",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Prince Shōtoku",
+        "url": "https://en.wikipedia.org/wiki/Prince_Sh%C5%8Dtoku"
+      },
+      {
+        "title": "Wikidata — Prince Shōtoku",
+        "url": "https://www.wikidata.org/entity/Q263972"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Prince_Shotoku_with_Two_Princes_by_Kano_Osanobu_1842.png/500px-Prince_Shotoku_with_Two_Princes_by_Kano_Osanobu_1842.png",
+      "licence": "Public domain",
+      "attribution": "Kano Osanobu (August 18, 1796 - June 12, 1846)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prince_Shotoku_with_Two_Princes_by_Kano_Osanobu_1842.png"
+    },
+    "text": {
+      "en": {
+        "displayName": "Prince Shōtoku",
+        "descriptor": "semi-legendary Japanese prince",
+        "countingRuleSummary": "6 children are recorded by Wikidata.",
+        "explanation": "Prince Shōtoku has 6 children in the cited records.",
+        "imageAlt": "Portrait of Prince Shōtoku"
+      },
+      "zh": {
+        "displayName": "圣德太子",
+        "descriptor": "日本半传说时代的皇子",
+        "countingRuleSummary": "维基数据记载6名子女。",
+        "explanation": "圣德太子在引用记录中有6名子女。",
+        "imageAlt": "圣德太子肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-tokugawa-yoshinobu",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 10,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Tokugawa Yoshinobu",
+        "url": "https://en.wikipedia.org/wiki/Tokugawa_Yoshinobu"
+      },
+      {
+        "title": "Wikidata — Tokugawa Yoshinobu",
+        "url": "https://www.wikidata.org/entity/Q287657"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/1867_Osaka_Yoshinobu_Tokugawa.jpg/500px-1867_Osaka_Yoshinobu_Tokugawa.jpg",
+      "licence": "Public domain",
+      "attribution": "Frederick Sutton",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:1867_Osaka_Yoshinobu_Tokugawa.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Tokugawa Yoshinobu",
+        "descriptor": "15th and last shogun of the Tokugawa shogunate",
+        "countingRuleSummary": "10 children are recorded by Wikidata.",
+        "explanation": "Tokugawa Yoshinobu has 10 children in the cited records.",
+        "imageAlt": "Portrait of Tokugawa Yoshinobu"
+      },
+      "zh": {
+        "displayName": "德川庆喜",
+        "descriptor": "德川幕府第15代兼末代将军",
+        "countingRuleSummary": "维基数据记载10名子女。",
+        "explanation": "德川庆喜在引用记录中有10名子女。",
+        "imageAlt": "德川庆喜肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-takeda-shingen",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 13,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Takeda Shingen",
+        "url": "https://en.wikipedia.org/wiki/Takeda_Shingen"
+      },
+      {
+        "title": "Wikidata — Takeda Shingen",
+        "url": "https://www.wikidata.org/entity/Q276404"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Takeda_Shingen.jpg/500px-Takeda_Shingen.jpg",
+      "licence": "Public domain",
+      "attribution": "Utagawa Kuniyoshi",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Takeda_Shingen.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Takeda Shingen",
+        "descriptor": "Japanese daimyo of the Sengoku period",
+        "countingRuleSummary": "13 children are recorded by Wikidata.",
+        "explanation": "Takeda Shingen has 13 children in the cited records.",
+        "imageAlt": "Portrait of Takeda Shingen"
+      },
+      "zh": {
+        "displayName": "武田信玄",
+        "descriptor": "日本战国时代大名",
+        "countingRuleSummary": "维基数据记载13名子女。",
+        "explanation": "武田信玄在引用记录中有13名子女。",
+        "imageAlt": "武田信玄肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-kogyoku",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Kōgyoku",
+        "url": "https://en.wikipedia.org/wiki/Empress_K%C5%8Dgyoku"
+      },
+      {
+        "title": "Wikidata — Kōgyoku",
+        "url": "https://www.wikidata.org/entity/Q235296"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Empress_Kogyoku-Saimei.jpg/500px-Empress_Kogyoku-Saimei.jpg",
+      "licence": "Public domain",
+      "attribution": "Published by 三英舎 (San'ei-sha)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Empress_Kogyoku-Saimei.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Kōgyoku",
+        "descriptor": "Empress of Japan",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Kōgyoku has 4 children in the cited records.",
+        "imageAlt": "Portrait of Kōgyoku"
+      },
+      "zh": {
+        "displayName": "皇极天皇",
+        "descriptor": "日本女天皇",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "皇极天皇在引用记录中有4名子女。",
+        "imageAlt": "皇极天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-genmei",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Genmei",
+        "url": "https://en.wikipedia.org/wiki/Empress_Genmei"
+      },
+      {
+        "title": "Wikidata — Genmei",
+        "url": "https://www.wikidata.org/entity/Q233224"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Empress_Gemmei.jpg/500px-Empress_Gemmei.jpg",
+      "licence": "Public domain",
+      "attribution": "Published by 三英舎 (San'ei-sha)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Empress_Gemmei.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Genmei",
+        "descriptor": "Empress regnant of Japan",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Genmei has 3 children in the cited records.",
+        "imageAlt": "Portrait of Genmei"
+      },
+      "zh": {
+        "displayName": "元明天皇",
+        "descriptor": "日本女天皇",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "元明天皇在引用记录中有3名子女。",
+        "imageAlt": "元明天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-nintoku",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Nintoku",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Nintoku"
+      },
+      {
+        "title": "Wikidata — Nintoku",
+        "url": "https://www.wikidata.org/entity/Q313119"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Azuma_nishiki_chuya_kurabe%2C_Nintoku_tenno_%28detail%29.jpg/500px-Azuma_nishiki_chuya_kurabe%2C_Nintoku_tenno_%28detail%29.jpg",
+      "licence": "Public domain",
+      "attribution": "Toyohara Chikanobu",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Azuma_nishiki_chuya_kurabe,_Nintoku_tenno_(detail).jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Nintoku",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "6 children are recorded by Wikidata.",
+        "explanation": "Nintoku has 6 children in the cited records.",
+        "imageAlt": "Portrait of Nintoku"
+      },
+      "zh": {
+        "displayName": "仁德天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载6名子女。",
+        "explanation": "仁德天皇在引用记录中有6名子女。",
+        "imageAlt": "仁德天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-tenji",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 17,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Tenji",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Tenji"
+      },
+      {
+        "title": "Wikidata — Tenji",
+        "url": "https://www.wikidata.org/entity/Q314802"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Emperor_Tenji_%28Kanou_Tanyuu%29.jpg/500px-Emperor_Tenji_%28Kanou_Tanyuu%29.jpg",
+      "licence": "Public domain",
+      "attribution": "Kanō Tan'yū",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Tenji_(Kanou_Tanyuu).jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Tenji",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "17 children are recorded by Wikidata.",
+        "explanation": "Tenji has 17 children in the cited records.",
+        "imageAlt": "Portrait of Tenji"
+      },
+      "zh": {
+        "displayName": "天智天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载17名子女。",
+        "explanation": "天智天皇在引用记录中有17名子女。",
+        "imageAlt": "天智天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-kim-seong-su",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Kim Seong-su",
+        "url": "https://en.wikipedia.org/wiki/Kim_Seong-su"
+      },
+      {
+        "title": "Wikidata — Kim Seong-su",
+        "url": "https://www.wikidata.org/entity/Q208203"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kim_Seong-Soo_1950.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Seong-Soo_1950.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Kim Seong-su",
+        "descriptor": "South Korean educator, activist, journalist, entrepreneur and politician",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Kim Seong-su has 3 children in the cited records.",
+        "imageAlt": "Portrait of Kim Seong-su"
+      },
+      "zh": {
+        "displayName": "金性洙",
+        "descriptor": "韩国教育家、活动家、记者、企业家兼政治家",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "金性洙在引用记录中有3名子女。",
+        "imageAlt": "金性洙肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-tanzan-ishibashi",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Tanzan Ishibashi",
+        "url": "https://en.wikipedia.org/wiki/Tanzan_Ishibashi"
+      },
+      {
+        "title": "Wikidata — Tanzan Ishibashi",
+        "url": "https://www.wikidata.org/entity/Q351656"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tanzan_Ishibashi.jpg/500px-Tanzan_Ishibashi.jpg",
+      "licence": "Public domain",
+      "attribution": "首相官邸",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tanzan_Ishibashi.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Tanzan Ishibashi",
+        "descriptor": "Prime Minister of Japan from 1956 to 1957",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Tanzan Ishibashi has 1 child in the cited records.",
+        "imageAlt": "Portrait of Tanzan Ishibashi"
+      },
+      "zh": {
+        "displayName": "石桥湛山",
+        "descriptor": "1956年至1957年任日本首相",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "石桥湛山在引用记录中有1名子女。",
+        "imageAlt": "石桥湛山肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-tanaka-giichi",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Tanaka Giichi",
+        "url": "https://en.wikipedia.org/wiki/Tanaka_Giichi"
+      },
+      {
+        "title": "Wikidata — Tanaka Giichi",
+        "url": "https://www.wikidata.org/entity/Q145416"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tanaka_Giichi.jpg/500px-Tanaka_Giichi.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tanaka_Giichi.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Tanaka Giichi",
+        "descriptor": "Japanese general",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Tanaka Giichi has 1 child in the cited records.",
+        "imageAlt": "Portrait of Tanaka Giichi"
+      },
+      "zh": {
+        "displayName": "田中义一",
+        "descriptor": "日本将军",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "田中义一在引用记录中有1名子女。",
+        "imageAlt": "田中义一肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-saionji-kinmochi",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Saionji Kinmochi",
+        "url": "https://en.wikipedia.org/wiki/Saionji_Kinmochi"
+      },
+      {
+        "title": "Wikidata — Saionji Kinmochi",
+        "url": "https://www.wikidata.org/entity/Q297628"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Kinmochi_Saionji.jpg",
+      "licence": "Public domain",
+      "attribution": "published by 東京合資會社冨山房 (The Fuzanbo Publishing Co. Tokyo,Japan)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kinmochi_Saionji.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Saionji Kinmochi",
+        "descriptor": "Japanese politician",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Saionji Kinmochi has 1 child in the cited records.",
+        "imageAlt": "Portrait of Saionji Kinmochi"
+      },
+      "zh": {
+        "displayName": "西园寺公望",
+        "descriptor": "日本政治家",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "西园寺公望在引用记录中有1名子女。",
+        "imageAlt": "西园寺公望肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-guo-moruo",
+    "category": "east-asian-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Guo Moruo",
+        "url": "https://en.wikipedia.org/wiki/Guo_Moruo"
+      },
+      {
+        "title": "Wikidata — Guo Moruo",
+        "url": "https://www.wikidata.org/entity/Q357821"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/%E9%83%AD%E5%BC%80%E8%B4%9E.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%83%AD%E5%BC%80%E8%B4%9E.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Guo Moruo",
+        "descriptor": "Chinese writer",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Guo Moruo has 2 children in the cited records.",
+        "imageAlt": "Portrait of Guo Moruo"
+      },
+      "zh": {
+        "displayName": "郭沫若",
+        "descriptor": "中国作家",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "郭沫若在引用记录中有2名子女。",
+        "imageAlt": "郭沫若肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-naruhiko-higashikuni",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Naruhiko Higashikuni",
+        "url": "https://en.wikipedia.org/wiki/Prince_Naruhiko_Higashikuni"
+      },
+      {
+        "title": "Wikidata — Naruhiko Higashikuni",
+        "url": "https://www.wikidata.org/entity/Q315717"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HIGASHIKUNI_Naruhiko.jpg/500px-HIGASHIKUNI_Naruhiko.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HIGASHIKUNI_Naruhiko.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Naruhiko Higashikuni",
+        "descriptor": "Japanese prince",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Naruhiko Higashikuni has 4 children in the cited records.",
+        "imageAlt": "Portrait of Naruhiko Higashikuni"
+      },
+      "zh": {
+        "displayName": "东久迩稔彦",
+        "descriptor": "日本亲王",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "东久迩稔彦在引用记录中有4名子女。",
+        "imageAlt": "东久迩稔彦肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-go-daigo",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 20,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Go-Daigo",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Go-Daigo"
+      },
+      {
+        "title": "Wikidata — Go-Daigo",
+        "url": "https://www.wikidata.org/entity/Q313942"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Emperor_Godaigo_by_Monkan-b%C5%8D_K%C5%8Dshin.jpg/500px-Emperor_Godaigo_by_Monkan-b%C5%8D_K%C5%8Dshin.jpg",
+      "licence": "Public domain",
+      "attribution": "Monkan-bō Kōshin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Godaigo_by_Monkan-b%C5%8D_K%C5%8Dshin.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Go-Daigo",
+        "descriptor": "96th emperor of Japan",
+        "countingRuleSummary": "20 children are recorded by Wikidata.",
+        "explanation": "Go-Daigo has 20 children in the cited records.",
+        "imageAlt": "Portrait of Go-Daigo"
+      },
+      "zh": {
+        "displayName": "后醍醐天皇",
+        "descriptor": "日本第96代天皇",
+        "countingRuleSummary": "维基数据记载20名子女。",
+        "explanation": "后醍醐天皇在引用记录中有20名子女。",
+        "imageAlt": "后醍醐天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-date-masamune",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 16,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Date Masamune",
+        "url": "https://en.wikipedia.org/wiki/Date_Masamune"
+      },
+      {
+        "title": "Wikidata — Date Masamune",
+        "url": "https://www.wikidata.org/entity/Q311183"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Date_Masamune02.jpg/500px-Date_Masamune02.jpg",
+      "licence": "Public domain",
+      "attribution": "Tosa Mitsusada",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Date_Masamune02.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Date Masamune",
+        "descriptor": "daimyo of the Sengoku period to early-Edo period; 1st lord of Sendai",
+        "countingRuleSummary": "16 children are recorded by Wikidata.",
+        "explanation": "Date Masamune has 16 children in the cited records.",
+        "imageAlt": "Portrait of Date Masamune"
+      },
+      "zh": {
+        "displayName": "伊达政宗",
+        "descriptor": "日本战国至江户初期大名，仙台藩首任藩主",
+        "countingRuleSummary": "维基数据记载16名子女。",
+        "explanation": "伊达政宗在引用记录中有16名子女。",
+        "imageAlt": "伊达政宗肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-tenmu",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 17,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Tenmu",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Tenmu"
+      },
+      {
+        "title": "Wikidata — Tenmu",
+        "url": "https://www.wikidata.org/entity/Q335181"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Emperor_Tenmu.jpg/500px-Emperor_Tenmu.jpg",
+      "licence": "Public domain",
+      "attribution": "Published by 国書刊行会(Kokusho Kankōkai)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Tenmu.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Tenmu",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "17 children are recorded by Wikidata.",
+        "explanation": "Tenmu has 17 children in the cited records.",
+        "imageAlt": "Portrait of Tenmu"
+      },
+      "zh": {
+        "displayName": "天武天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载17名子女。",
+        "explanation": "天武天皇在引用记录中有17名子女。",
+        "imageAlt": "天武天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-kanmu",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 24,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Kanmu",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Kanmu"
+      },
+      {
+        "title": "Wikidata — Emperor Kanmu",
+        "url": "https://www.wikidata.org/entity/Q314846"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Emperor_Kammu_large.jpg/500px-Emperor_Kammu_large.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Kammu_large.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Emperor Kanmu",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "24 children are recorded by Wikidata.",
+        "explanation": "Emperor Kanmu has 24 children in the cited records.",
+        "imageAlt": "Portrait of Emperor Kanmu"
+      },
+      "zh": {
+        "displayName": "桓武天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载24名子女。",
+        "explanation": "桓武天皇在引用记录中有24名子女。",
+        "imageAlt": "桓武天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-go-momozono",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Go-Momozono",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Go-Momozono"
+      },
+      {
+        "title": "Wikidata — Go-Momozono",
+        "url": "https://www.wikidata.org/entity/Q314063"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Emperor_Go-Momozono.jpg/500px-Emperor_Go-Momozono.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Go-Momozono.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Go-Momozono",
+        "descriptor": "emperor of Japan",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Go-Momozono has 1 child in the cited records.",
+        "imageAlt": "Portrait of Go-Momozono"
+      },
+      "zh": {
+        "displayName": "后桃园天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "后桃园天皇在引用记录中有1名子女。",
+        "imageAlt": "后桃园天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-uda",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 13,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Uda",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Uda"
+      },
+      {
+        "title": "Wikidata — Uda",
+        "url": "https://www.wikidata.org/entity/Q349267"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Emperor_Uda_large.jpg/500px-Emperor_Uda_large.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Uda_large.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Uda",
+        "descriptor": "Japanese emperor",
+        "countingRuleSummary": "13 children are recorded by Wikidata.",
+        "explanation": "Uda has 13 children in the cited records.",
+        "imageAlt": "Portrait of Uda"
+      },
+      "zh": {
+        "displayName": "宇多天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载13名子女。",
+        "explanation": "宇多天皇在引用记录中有13名子女。",
+        "imageAlt": "宇多天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-kiichiro-toyoda",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Kiichirō Toyoda",
+        "url": "https://en.wikipedia.org/wiki/Kiichiro_Toyoda"
+      },
+      {
+        "title": "Wikidata — Kiichirō Toyoda",
+        "url": "https://www.wikidata.org/entity/Q358556"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kiichiro_Toyoda.jpg/500px-Kiichiro_Toyoda.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kiichiro_Toyoda.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Kiichirō Toyoda",
+        "descriptor": "Japanese businessman",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Kiichirō Toyoda has 2 children in the cited records.",
+        "imageAlt": "Portrait of Kiichirō Toyoda"
+      },
+      "zh": {
+        "displayName": "丰田喜一郎",
+        "descriptor": "日本实业家",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "丰田喜一郎在引用记录中有2名子女。",
+        "imageAlt": "丰田喜一郎肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-kato-takaaki",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Katō Takaaki",
+        "url": "https://en.wikipedia.org/wiki/Kat%C5%8D_Takaaki"
+      },
+      {
+        "title": "Wikidata — Katō Takaaki",
+        "url": "https://www.wikidata.org/entity/Q315563"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Takaaki_Kato_suit.jpg/500px-Takaaki_Kato_suit.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Takaaki_Kato_suit.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Katō Takaaki",
+        "descriptor": "Japanese politician",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Katō Takaaki has 1 child in the cited records.",
+        "imageAlt": "Portrait of Katō Takaaki"
+      },
+      "zh": {
+        "displayName": "加藤高明",
+        "descriptor": "日本政治家",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "加藤高明在引用记录中有1名子女。",
+        "imageAlt": "加藤高明肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-yamamoto-gonnohyoe",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Yamamoto Gonnohyōe",
+        "url": "https://en.wikipedia.org/wiki/Yamamoto_Gonnohy%C5%8De"
+      },
+      {
+        "title": "Wikidata — Yamamoto Gonnohyōe",
+        "url": "https://www.wikidata.org/entity/Q41556"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gonbee_Yamamoto_later_years.jpg/500px-Gonbee_Yamamoto_later_years.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gonbee_Yamamoto_later_years.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Yamamoto Gonnohyōe",
+        "descriptor": "Prime Minister of Japan",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Yamamoto Gonnohyōe has 1 child in the cited records.",
+        "imageAlt": "Portrait of Yamamoto Gonnohyōe"
+      },
+      "zh": {
+        "displayName": "山本权兵卫",
+        "descriptor": "日本首相",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "山本权兵卫在引用记录中有1名子女。",
+        "imageAlt": "山本权兵卫肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-yozei",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Yōzei",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Y%C5%8Dzei"
+      },
+      {
+        "title": "Wikidata — Yōzei",
+        "url": "https://www.wikidata.org/entity/Q349280"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Hyakuninisshu_013.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hyakuninisshu_013.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Yōzei",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "6 children are recorded by Wikidata.",
+        "explanation": "Yōzei has 6 children in the cited records.",
+        "imageAlt": "Portrait of Yōzei"
+      },
+      "zh": {
+        "displayName": "阳成天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载6名子女。",
+        "explanation": "阳成天皇在引用记录中有6名子女。",
+        "imageAlt": "阳成天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-go-mizunoo",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 23,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Go-Mizunoo",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Go-Mizunoo"
+      },
+      {
+        "title": "Wikidata — Emperor Go-Mizunoo",
+        "url": "https://www.wikidata.org/entity/Q320229"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Emperor_Go-Mizunoo3.jpg/500px-Emperor_Go-Mizunoo3.jpg",
+      "licence": "Public domain",
+      "attribution": "Ogata Kōrin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Go-Mizunoo3.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Emperor Go-Mizunoo",
+        "descriptor": "emperor of Japan from 1611 to 1629",
+        "countingRuleSummary": "23 children are recorded by Wikidata.",
+        "explanation": "Emperor Go-Mizunoo has 23 children in the cited records.",
+        "imageAlt": "Portrait of Emperor Go-Mizunoo"
+      },
+      "zh": {
+        "displayName": "后水尾天皇",
+        "descriptor": "日本天皇（1611–1629）",
+        "countingRuleSummary": "维基数据记载23名子女。",
+        "explanation": "后水尾天皇在引用记录中有23名子女。",
+        "imageAlt": "后水尾天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-momozono",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Momozono",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Momozono"
+      },
+      {
+        "title": "Wikidata — Momozono",
+        "url": "https://www.wikidata.org/entity/Q313864"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Emperor_Momozono.jpg/500px-Emperor_Momozono.jpg",
+      "licence": "Public domain",
+      "attribution": "Hiramatsu Tokiyuki",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Momozono.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Momozono",
+        "descriptor": "emperor of Japan",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Momozono has 2 children in the cited records.",
+        "imageAlt": "Portrait of Momozono"
+      },
+      "zh": {
+        "displayName": "桃园天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "桃园天皇在引用记录中有2名子女。",
+        "imageAlt": "桃园天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-go-toba",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 12,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Go-Toba",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Go-Toba"
+      },
+      {
+        "title": "Wikidata — Go-Toba",
+        "url": "https://www.wikidata.org/entity/Q316658"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Emperor_Go-Toba.jpg/500px-Emperor_Go-Toba.jpg",
+      "licence": "Public domain",
+      "attribution": "Fujiwara no Nobuzane",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Go-Toba.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Go-Toba",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "12 children are recorded by Wikidata.",
+        "explanation": "Go-Toba has 12 children in the cited records.",
+        "imageAlt": "Portrait of Go-Toba"
+      },
+      "zh": {
+        "displayName": "后鸟羽天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载12名子女。",
+        "explanation": "后鸟羽天皇在引用记录中有12名子女。",
+        "imageAlt": "后鸟羽天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-kotoku",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Kōtoku",
+        "url": "https://en.wikipedia.org/wiki/Emperor_K%C5%8Dtoku"
+      },
+      {
+        "title": "Wikidata — Kōtoku",
+        "url": "https://www.wikidata.org/entity/Q317980"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Emperor_Kotoku.jpg/500px-Emperor_Kotoku.jpg",
+      "licence": "Public domain",
+      "attribution": "明治天皇聖徳奉讃会",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Kotoku.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Kōtoku",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Kōtoku has 1 child in the cited records.",
+        "imageAlt": "Portrait of Kōtoku"
+      },
+      "zh": {
+        "displayName": "孝德天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "孝德天皇在引用记录中有1名子女。",
+        "imageAlt": "孝德天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-higashiyama",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Higashiyama",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Higashiyama"
+      },
+      {
+        "title": "Wikidata — Higashiyama",
+        "url": "https://www.wikidata.org/entity/Q313801"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emperor_Higashiyama.jpg/500px-Emperor_Higashiyama.jpg",
+      "licence": "Public domain",
+      "attribution": "Prince Kōkan",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Higashiyama.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Higashiyama",
+        "descriptor": "emperor of Japan",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Higashiyama has 4 children in the cited records.",
+        "imageAlt": "Portrait of Higashiyama"
+      },
+      "zh": {
+        "displayName": "东山天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "东山天皇在引用记录中有4名子女。",
+        "imageAlt": "东山天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-takahashi-korekiyo",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Takahashi Korekiyo",
+        "url": "https://en.wikipedia.org/wiki/Takahashi_Korekiyo"
+      },
+      {
+        "title": "Wikidata — Takahashi Korekiyo",
+        "url": "https://www.wikidata.org/entity/Q315842"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Korekiyo_Takahashi_2.jpg/500px-Korekiyo_Takahashi_2.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korekiyo_Takahashi_2.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Takahashi Korekiyo",
+        "descriptor": "Japanese politician",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Takahashi Korekiyo has 3 children in the cited records.",
+        "imageAlt": "Portrait of Takahashi Korekiyo"
+      },
+      "zh": {
+        "displayName": "高桥是清",
+        "descriptor": "日本政治家",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "高桥是清在引用记录中有3名子女。",
+        "imageAlt": "高桥是清肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-na-hye-sok",
+    "category": "east-asian-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Na Hye-sok",
+        "url": "https://en.wikipedia.org/wiki/Na_Hyes%C5%8Fk"
+      },
+      {
+        "title": "Wikidata — Na Hye-sok",
+        "url": "https://www.wikidata.org/entity/Q466477"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%EB%82%98%ED%98%9C%EC%84%9D-Na_Hye-seok.jpg/500px-%EB%82%98%ED%98%9C%EC%84%9D-Na_Hye-seok.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%82%98%ED%98%9C%EC%84%9D-Na_Hye-seok.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Na Hye-sok",
+        "descriptor": "writer and painter from Korea",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Na Hye-sok has 1 child in the cited records.",
+        "imageAlt": "Portrait of Na Hye-sok"
+      },
+      "zh": {
+        "displayName": "罗蕙锡",
+        "descriptor": "韩国作家及画家",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "罗蕙锡在引用记录中有1名子女。",
+        "imageAlt": "罗蕙锡肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-ye-jianying",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Ye Jianying",
+        "url": "https://en.wikipedia.org/wiki/Ye_Jianying"
+      },
+      {
+        "title": "Wikidata — Ye Jianying",
+        "url": "https://www.wikidata.org/entity/Q504372"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ye_Jianying.jpg",
+      "licence": "Public domain",
+      "attribution": "解放军画报 刘峰",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ye_Jianying.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Ye Jianying",
+        "descriptor": "former Head of State of the People's Republic of China",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Ye Jianying has 5 children in the cited records.",
+        "imageAlt": "Portrait of Ye Jianying"
+      },
+      "zh": {
+        "displayName": "叶剑英",
+        "descriptor": "中华人民共和国前国家元首",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "叶剑英在引用记录中有5名子女。",
+        "imageAlt": "叶剑英肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-nakamikado",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Nakamikado",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Nakamikado"
+      },
+      {
+        "title": "Wikidata — Nakamikado",
+        "url": "https://www.wikidata.org/entity/Q314817"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Emperor_Nakamikado.jpg/500px-Emperor_Nakamikado.jpg",
+      "licence": "Public domain",
+      "attribution": "Kushige Takashige",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Nakamikado.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Nakamikado",
+        "descriptor": "emperor of Japan",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Nakamikado has 3 children in the cited records.",
+        "imageAlt": "Portrait of Nakamikado"
+      },
+      "zh": {
+        "displayName": "中御门天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "中御门天皇在引用记录中有3名子女。",
+        "imageAlt": "中御门天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-murakami",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 16,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Murakami",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Murakami"
+      },
+      {
+        "title": "Wikidata — Murakami",
+        "url": "https://www.wikidata.org/entity/Q374015"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Emperor_Murakami.jpg/500px-Emperor_Murakami.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Murakami.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Murakami",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "16 children are recorded by Wikidata.",
+        "explanation": "Murakami has 16 children in the cited records.",
+        "imageAlt": "Portrait of Murakami"
+      },
+      "zh": {
+        "displayName": "村上天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载16名子女。",
+        "explanation": "村上天皇在引用记录中有16名子女。",
+        "imageAlt": "村上天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-reigen",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 13,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Reigen",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Reigen"
+      },
+      {
+        "title": "Wikidata — Emperor Reigen",
+        "url": "https://www.wikidata.org/entity/Q313808"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Emperor_Reigen.jpg/500px-Emperor_Reigen.jpg",
+      "licence": "Public domain",
+      "attribution": "Imperial Princess Masako",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Reigen.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Emperor Reigen",
+        "descriptor": "emperor of Japan",
+        "countingRuleSummary": "13 children are recorded by Wikidata.",
+        "explanation": "Emperor Reigen has 13 children in the cited records.",
+        "imageAlt": "Portrait of Emperor Reigen"
+      },
+      "zh": {
+        "displayName": "灵元天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载13名子女。",
+        "explanation": "灵元天皇在引用记录中有13名子女。",
+        "imageAlt": "灵元天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-saga",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 26,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Saga",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Saga"
+      },
+      {
+        "title": "Wikidata — Emperor Saga",
+        "url": "https://www.wikidata.org/entity/Q316654"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Emperor_Saga_large.jpg/500px-Emperor_Saga_large.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Saga_large.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Emperor Saga",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "26 children are recorded by Wikidata.",
+        "explanation": "Emperor Saga has 26 children in the cited records.",
+        "imageAlt": "Portrait of Emperor Saga"
+      },
+      "zh": {
+        "displayName": "嵯峨天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载26名子女。",
+        "explanation": "嵯峨天皇在引用记录中有26名子女。",
+        "imageAlt": "嵯峨天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-sakuramachi",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Sakuramachi",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Sakuramachi"
+      },
+      {
+        "title": "Wikidata — Sakuramachi",
+        "url": "https://www.wikidata.org/entity/Q313870"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Emperor_Sakuramachi.jpg/500px-Emperor_Sakuramachi.jpg",
+      "licence": "Public domain",
+      "attribution": "Kazahaya Shōshō",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Sakuramachi.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Sakuramachi",
+        "descriptor": "emperor of Japan",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Sakuramachi has 2 children in the cited records.",
+        "imageAlt": "Portrait of Sakuramachi"
+      },
+      "zh": {
+        "displayName": "樱町天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "樱町天皇在引用记录中有2名子女。",
+        "imageAlt": "樱町天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-koko",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 23,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Kōkō",
+        "url": "https://en.wikipedia.org/wiki/Emperor_K%C5%8Dk%C5%8D"
+      },
+      {
+        "title": "Wikidata — Kōkō",
+        "url": "https://www.wikidata.org/entity/Q440518"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tenn%C5%8D_K%C5%8Dk%C5%8D.jpg/500px-Tenn%C5%8D_K%C5%8Dk%C5%8D.jpg",
+      "licence": "Public domain",
+      "attribution": "Shunsho Katsukawa (1726-1792)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tenn%C5%8D_K%C5%8Dk%C5%8D.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Kōkō",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "23 children are recorded by Wikidata.",
+        "explanation": "Kōkō has 23 children in the cited records.",
+        "imageAlt": "Portrait of Kōkō"
+      },
+      "zh": {
+        "displayName": "光孝天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载23名子女。",
+        "explanation": "光孝天皇在引用记录中有23名子女。",
+        "imageAlt": "光孝天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-fujiwara-no-teika",
+    "category": "east-asian-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Fujiwara no Teika",
+        "url": "https://en.wikipedia.org/wiki/Fujiwara_no_Teika"
+      },
+      {
+        "title": "Wikidata — Fujiwara no Teika",
+        "url": "https://www.wikidata.org/entity/Q378425"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Teika%283%29.jpg/500px-Teika%283%29.jpg",
+      "licence": "Public domain",
+      "attribution": "Fujiwara no Nobuzane",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teika(3).jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Fujiwara no Teika",
+        "descriptor": "poet and court noble",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Fujiwara no Teika has 4 children in the cited records.",
+        "imageAlt": "Portrait of Fujiwara no Teika"
+      },
+      "zh": {
+        "displayName": "藤原定家",
+        "descriptor": "诗人兼公卿",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "藤原定家在引用记录中有4名子女。",
+        "imageAlt": "藤原定家肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-minamoto-no-yoshitsune",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Minamoto no Yoshitsune",
+        "url": "https://en.wikipedia.org/wiki/Minamoto_no_Yoshitsune"
+      },
+      {
+        "title": "Wikidata — Minamoto no Yoshitsune",
+        "url": "https://www.wikidata.org/entity/Q310445"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Minamoto_no_Yoshitsune.jpg/500px-Minamoto_no_Yoshitsune.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Minamoto_no_Yoshitsune.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Minamoto no Yoshitsune",
+        "descriptor": "samurai of the late Heian and early Kamakura period",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Minamoto no Yoshitsune has 2 children in the cited records.",
+        "imageAlt": "Portrait of Minamoto no Yoshitsune"
+      },
+      "zh": {
+        "displayName": "源义经",
+        "descriptor": "平安末期至镰仓初期武士",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "源义经在引用记录中有2名子女。",
+        "imageAlt": "源义经肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-arghun",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Arghun",
+        "url": "https://en.wikipedia.org/wiki/Arghun"
+      },
+      {
+        "title": "Wikidata — Arghun",
+        "url": "https://www.wikidata.org/entity/Q220099"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/ArghunEnthroned_%28cropped%29.png",
+      "licence": "Public domain",
+      "attribution": "Sayf al-Vâhidî",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ArghunEnthroned_(cropped).png"
+    },
+    "text": {
+      "en": {
+        "displayName": "Arghun",
+        "descriptor": "the fourth Ilkhan of Mongol Ilkhanate",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Arghun has 2 children in the cited records.",
+        "imageAlt": "Portrait of Arghun"
+      },
+      "zh": {
+        "displayName": "阿鲁浑",
+        "descriptor": "蒙古伊儿汗国第四代汗",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "阿鲁浑在引用记录中有2名子女。",
+        "imageAlt": "阿鲁浑肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-ogimachi",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Ōgimachi",
+        "url": "https://en.wikipedia.org/wiki/Emperor_%C5%8Cgimachi"
+      },
+      {
+        "title": "Wikidata — Ōgimachi",
+        "url": "https://www.wikidata.org/entity/Q334076"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Emperor_Ogimachi_cropped.jpg",
+      "licence": "Public domain",
+      "attribution": "投稿者がファイル作成",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Ogimachi_cropped.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Ōgimachi",
+        "descriptor": "emperor of Japan",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Ōgimachi has 2 children in the cited records.",
+        "imageAlt": "Portrait of Ōgimachi"
+      },
+      "zh": {
+        "displayName": "正亲町天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "正亲町天皇在引用记录中有2名子女。",
+        "imageAlt": "正亲町天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-akechi-mitsuhide",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 13,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Akechi Mitsuhide",
+        "url": "https://en.wikipedia.org/wiki/Akechi_Mitsuhide"
+      },
+      {
+        "title": "Wikidata — Akechi Mitsuhide",
+        "url": "https://www.wikidata.org/entity/Q313320"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Akechi_Mitsuhide2.jpg/500px-Akechi_Mitsuhide2.jpg",
+      "licence": "Public domain",
+      "attribution": "投稿者がファイル作成",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Akechi_Mitsuhide2.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Akechi Mitsuhide",
+        "descriptor": "16th-century samurai; assassin of Oda Nobunaga",
+        "countingRuleSummary": "13 children are recorded by Wikidata.",
+        "explanation": "Akechi Mitsuhide has 13 children in the cited records.",
+        "imageAlt": "Portrait of Akechi Mitsuhide"
+      },
+      "zh": {
+        "displayName": "明智光秀",
+        "descriptor": "16世纪武士，刺杀织田信长者",
+        "countingRuleSummary": "维基数据记载13名子女。",
+        "explanation": "明智光秀在引用记录中有13名子女。",
+        "imageAlt": "明智光秀肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-go-nara",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Go-Nara",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Go-Nara"
+      },
+      {
+        "title": "Wikidata — Go-Nara",
+        "url": "https://www.wikidata.org/entity/Q349467"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Emperor_Go-Nara.jpg/500px-Emperor_Go-Nara.jpg",
+      "licence": "Public domain",
+      "attribution": "Wikimedia Commons contributor",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Go-Nara.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Go-Nara",
+        "descriptor": "emperor of Japan",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Go-Nara has 2 children in the cited records.",
+        "imageAlt": "Portrait of Go-Nara"
+      },
+      "zh": {
+        "displayName": "后奈良天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "后奈良天皇在引用记录中有2名子女。",
+        "imageAlt": "后奈良天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-ninken",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Ninken",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Ninken"
+      },
+      {
+        "title": "Wikidata — Emperor Ninken",
+        "url": "https://www.wikidata.org/entity/Q357266"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Emperor_Ninken.jpg/500px-Emperor_Ninken.jpg",
+      "licence": "Public domain",
+      "attribution": "Published by 三英舎 (San'ei-sha)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Ninken.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Emperor Ninken",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Emperor Ninken has 4 children in the cited records.",
+        "imageAlt": "Portrait of Emperor Ninken"
+      },
+      "zh": {
+        "displayName": "仁贤天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "仁贤天皇在引用记录中有4名子女。",
+        "imageAlt": "仁贤天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-daigo",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 31,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Daigo",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Daigo"
+      },
+      {
+        "title": "Wikidata — Daigo",
+        "url": "https://www.wikidata.org/entity/Q329753"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Emperor_Daigo.jpg/500px-Emperor_Daigo.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown artist Unknown artist",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Daigo.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Daigo",
+        "descriptor": "60th emperor of Japan",
+        "countingRuleSummary": "31 children are recorded by Wikidata.",
+        "explanation": "Daigo has 31 children in the cited records.",
+        "imageAlt": "Portrait of Daigo"
+      },
+      "zh": {
+        "displayName": "醍醐天皇",
+        "descriptor": "日本第60代天皇",
+        "countingRuleSummary": "维基数据记载31名子女。",
+        "explanation": "醍醐天皇在引用记录中有31名子女。",
+        "imageAlt": "醍醐天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-go-shirakawa",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 14,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Go-Shirakawa",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Go-Shirakawa"
+      },
+      {
+        "title": "Wikidata — Go-Shirakawa",
+        "url": "https://www.wikidata.org/entity/Q317984"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Emperor_Goshirakawa.jpg/500px-Emperor_Goshirakawa.jpg",
+      "licence": "Public domain",
+      "attribution": "Wikimedia Commons contributor",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Goshirakawa.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Go-Shirakawa",
+        "descriptor": "77th emperor of Japan",
+        "countingRuleSummary": "14 children are recorded by Wikidata.",
+        "explanation": "Go-Shirakawa has 14 children in the cited records.",
+        "imageAlt": "Portrait of Go-Shirakawa"
+      },
+      "zh": {
+        "displayName": "后白河天皇",
+        "descriptor": "日本第77代天皇",
+        "countingRuleSummary": "维基数据记载14名子女。",
+        "explanation": "后白河天皇在引用记录中有14名子女。",
+        "imageAlt": "后白河天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-sutoku",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Sutoku",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Sutoku"
+      },
+      {
+        "title": "Wikidata — Emperor Sutoku",
+        "url": "https://www.wikidata.org/entity/Q349287"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Emperor_Sutoku2.jpg/500px-Emperor_Sutoku2.jpg",
+      "licence": "Public domain",
+      "attribution": "Fujiwara no Tamenobu",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Sutoku2.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Emperor Sutoku",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Emperor Sutoku has 2 children in the cited records.",
+        "imageAlt": "Portrait of Emperor Sutoku"
+      },
+      "zh": {
+        "displayName": "崇德天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "崇德天皇在引用记录中有2名子女。",
+        "imageAlt": "崇德天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-jomei",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Jomei",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Jomei"
+      },
+      {
+        "title": "Wikidata — Jomei",
+        "url": "https://www.wikidata.org/entity/Q329761"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Emperor_Jomei.jpg/500px-Emperor_Jomei.jpg",
+      "licence": "Public domain",
+      "attribution": "明治天皇聖徳奉讃会",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Jomei.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Jomei",
+        "descriptor": "Japanese emperor",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Jomei has 4 children in the cited records.",
+        "imageAlt": "Portrait of Jomei"
+      },
+      "zh": {
+        "displayName": "舒明天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "舒明天皇在引用记录中有4名子女。",
+        "imageAlt": "舒明天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-richu",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Richū",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Rich%C5%AB"
+      },
+      {
+        "title": "Wikidata — Richū",
+        "url": "https://www.wikidata.org/entity/Q329704"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Emperor_Rich%C5%AB.jpg",
+      "licence": "Public domain",
+      "attribution": "Published by 三英舎 (San'ei-sha)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Rich%C5%AB.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Richū",
+        "descriptor": "Japanese emperor",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Richū has 4 children in the cited records.",
+        "imageAlt": "Portrait of Richū"
+      },
+      "zh": {
+        "displayName": "履中天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "履中天皇在引用记录中有4名子女。",
+        "imageAlt": "履中天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-go-yozei",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 15,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Go-Yōzei",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Go-Y%C5%8Dzei"
+      },
+      {
+        "title": "Wikidata — Go-Yōzei",
+        "url": "https://www.wikidata.org/entity/Q349440"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Emperor_Go-Yozei3.jpg/500px-Emperor_Go-Yozei3.jpg",
+      "licence": "Public domain",
+      "attribution": "Kanō Takanobu （1571 - 1618）",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Go-Yozei3.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Go-Yōzei",
+        "descriptor": "emperor of Japan from 1586 to 1611",
+        "countingRuleSummary": "15 children are recorded by Wikidata.",
+        "explanation": "Go-Yōzei has 15 children in the cited records.",
+        "imageAlt": "Portrait of Go-Yōzei"
+      },
+      "zh": {
+        "displayName": "后阳成天皇",
+        "descriptor": "日本天皇（1586–1611）",
+        "countingRuleSummary": "维基数据记载15名子女。",
+        "explanation": "后阳成天皇在引用记录中有15名子女。",
+        "imageAlt": "后阳成天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-tomoe-gozen",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Tomoe Gozen",
+        "url": "https://en.wikipedia.org/wiki/Tomoe_Gozen"
+      },
+      {
+        "title": "Wikidata — Tomoe Gozen",
+        "url": "https://www.wikidata.org/entity/Q450780"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Battle_of_Awazugahara.jpg/500px-Battle_of_Awazugahara.jpg",
+      "licence": "Public domain",
+      "attribution": "Utagawa Yoshikazu / 歌川芳員",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Battle_of_Awazugahara.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Tomoe Gozen",
+        "descriptor": "a female samurai warrior who fought during the Genpei War from 1180 to 1185 CE",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Tomoe Gozen has 3 children in the cited records.",
+        "imageAlt": "Portrait of Tomoe Gozen"
+      },
+      "zh": {
+        "displayName": "巴御前",
+        "descriptor": "源平合战（1180–1185）中参战的女武士",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "巴御前在引用记录中有3名子女。",
+        "imageAlt": "巴御前肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-shomu",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Shōmu",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Sh%C5%8Dmu"
+      },
+      {
+        "title": "Wikidata — Shōmu",
+        "url": "https://www.wikidata.org/entity/Q349263"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Emperor_Shomu.jpg/500px-Emperor_Shomu.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Shomu.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Shōmu",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Shōmu has 5 children in the cited records.",
+        "imageAlt": "Portrait of Shōmu"
+      },
+      "zh": {
+        "displayName": "圣武天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "圣武天皇在引用记录中有5名子女。",
+        "imageAlt": "圣武天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-konin",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 9,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Kōnin",
+        "url": "https://en.wikipedia.org/wiki/Emperor_K%C5%8Dnin"
+      },
+      {
+        "title": "Wikidata — Kōnin",
+        "url": "https://www.wikidata.org/entity/Q958662"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Emperor_K%C5%8Dnin.jpg",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_K%C5%8Dnin.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Kōnin",
+        "descriptor": "49th emperor of Japan",
+        "countingRuleSummary": "9 children are recorded by Wikidata.",
+        "explanation": "Kōnin has 9 children in the cited records.",
+        "imageAlt": "Portrait of Kōnin"
+      },
+      "zh": {
+        "displayName": "光仁天皇",
+        "descriptor": "日本第49代天皇",
+        "countingRuleSummary": "维基数据记载9名子女。",
+        "explanation": "光仁天皇在引用记录中有9名子女。",
+        "imageAlt": "光仁天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-chuai",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Chūai",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Ch%C5%ABai"
+      },
+      {
+        "title": "Wikidata — Chūai",
+        "url": "https://www.wikidata.org/entity/Q179971"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tenn%C5%8D_Ch%C5%ABaii_thumb.gif/500px-Tenn%C5%8D_Ch%C5%ABaii_thumb.gif",
+      "licence": "Public domain",
+      "attribution": "Published by 三英舎 (San'ei-sha)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tenn%C5%8D_Ch%C5%ABaii_thumb.gif"
+    },
+    "text": {
+      "en": {
+        "displayName": "Chūai",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Chūai has 3 children in the cited records.",
+        "imageAlt": "Portrait of Chūai"
+      },
+      "zh": {
+        "displayName": "仲哀天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "仲哀天皇在引用记录中有3名子女。",
+        "imageAlt": "仲哀天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-montoku",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 17,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Montoku",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Montoku"
+      },
+      {
+        "title": "Wikidata — Montoku",
+        "url": "https://www.wikidata.org/entity/Q357225"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Emperor_Montoku.jpg/500px-Emperor_Montoku.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Montoku.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Montoku",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "17 children are recorded by Wikidata.",
+        "explanation": "Montoku has 17 children in the cited records.",
+        "imageAlt": "Portrait of Montoku"
+      },
+      "zh": {
+        "displayName": "文德天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载17名子女。",
+        "explanation": "文德天皇在引用记录中有17名子女。",
+        "imageAlt": "文德天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-kinmei",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 14,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Kinmei",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Kinmei"
+      },
+      {
+        "title": "Wikidata — Kinmei",
+        "url": "https://www.wikidata.org/entity/Q329792"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Emperor_Kinmei.jpg/500px-Emperor_Kinmei.jpg",
+      "licence": "Public domain",
+      "attribution": "三宅幸太郎 (Kōtarō Miyake)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Kinmei.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Kinmei",
+        "descriptor": "29th Emperor of Japan",
+        "countingRuleSummary": "14 children are recorded by Wikidata.",
+        "explanation": "Kinmei has 14 children in the cited records.",
+        "imageAlt": "Portrait of Kinmei"
+      },
+      "zh": {
+        "displayName": "钦明天皇",
+        "descriptor": "日本第29代天皇",
+        "countingRuleSummary": "维基数据记载14名子女。",
+        "explanation": "钦明天皇在引用记录中有14名子女。",
+        "imageAlt": "钦明天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-yomei",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 8,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Yōmei",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Y%C5%8Dmei"
+      },
+      {
+        "title": "Wikidata — Yōmei",
+        "url": "https://www.wikidata.org/entity/Q349281"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Yomeitenno.jpg",
+      "licence": "Public domain",
+      "attribution": "Wikimedia Commons contributor",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yomeitenno.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Yōmei",
+        "descriptor": "Japanese emperor",
+        "countingRuleSummary": "8 children are recorded by Wikidata.",
+        "explanation": "Yōmei has 8 children in the cited records.",
+        "imageAlt": "Portrait of Yōmei"
+      },
+      "zh": {
+        "displayName": "用明天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载8名子女。",
+        "explanation": "用明天皇在引用记录中有8名子女。",
+        "imageAlt": "用明天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-keitai",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Keitai",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Keitai"
+      },
+      {
+        "title": "Wikidata — Keitai",
+        "url": "https://www.wikidata.org/entity/Q349277"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Statue_of_Emperor_Keitai.jpg/500px-Statue_of_Emperor_Keitai.jpg",
+      "licence": "CC BY-SA 3.0",
+      "attribution": "立花左近",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statue_of_Emperor_Keitai.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Keitai",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Keitai has 5 children in the cited records.",
+        "imageAlt": "Portrait of Keitai"
+      },
+      "zh": {
+        "displayName": "继体天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "继体天皇在引用记录中有5名子女。",
+        "imageAlt": "继体天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-inejiro-asanuma",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Inejirō Asanuma",
+        "url": "https://en.wikipedia.org/wiki/Inejir%C5%8D_Asanuma"
+      },
+      {
+        "title": "Wikidata — Inejirō Asanuma",
+        "url": "https://www.wikidata.org/entity/Q93745"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Inejiro_Asanuma_Salvaged.jpg/500px-Inejiro_Asanuma_Salvaged.jpg",
+      "licence": "Public domain",
+      "attribution": "FPG Staff",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inejiro_Asanuma_Salvaged.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Inejirō Asanuma",
+        "descriptor": "Japanese politician",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Inejirō Asanuma has 1 child in the cited records.",
+        "imageAlt": "Portrait of Inejirō Asanuma"
+      },
+      "zh": {
+        "displayName": "浅沼稻次郎",
+        "descriptor": "日本政治家",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "浅沼稻次郎在引用记录中有1名子女。",
+        "imageAlt": "浅沼稻次郎肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-keisuke-okada",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Keisuke Okada",
+        "url": "https://en.wikipedia.org/wiki/Okada_Keisuke"
+      },
+      {
+        "title": "Wikidata — Keisuke Okada",
+        "url": "https://www.wikidata.org/entity/Q714951"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Keisuke_Okada_2.jpg/500px-Keisuke_Okada_2.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Keisuke_Okada_2.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Keisuke Okada",
+        "descriptor": "admiral in the Imperial Japanese Navy",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Keisuke Okada has 1 child in the cited records.",
+        "imageAlt": "Portrait of Keisuke Okada"
+      },
+      "zh": {
+        "displayName": "冈田启介",
+        "descriptor": "日本海军大将",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "冈田启介在引用记录中有1名子女。",
+        "imageAlt": "冈田启介肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-sugawara-no-michizane",
+    "category": "east-asian-history",
+    "tags": [
+      "literature"
+    ],
+    "childrenCount": 10,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Sugawara no Michizane",
+        "url": "https://en.wikipedia.org/wiki/Sugawara_no_Michizane"
+      },
+      {
+        "title": "Wikidata — Sugawara no Michizane",
+        "url": "https://www.wikidata.org/entity/Q382005"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/%E6%9D%9F%E5%B8%AF%E5%A4%A9%E7%A5%9E%E5%83%8F.png/500px-%E6%9D%9F%E5%B8%AF%E5%A4%A9%E7%A5%9E%E5%83%8F.png",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%9D%9F%E5%B8%AF%E5%A4%A9%E7%A5%9E%E5%83%8F.png"
+    },
+    "text": {
+      "en": {
+        "displayName": "Sugawara no Michizane",
+        "descriptor": "Japanese poet",
+        "countingRuleSummary": "10 children are recorded by Wikidata.",
+        "explanation": "Sugawara no Michizane has 10 children in the cited records.",
+        "imageAlt": "Portrait of Sugawara no Michizane"
+      },
+      "zh": {
+        "displayName": "菅原道真",
+        "descriptor": "日本诗人",
+        "countingRuleSummary": "维基数据记载10名子女。",
+        "explanation": "菅原道真在引用记录中有10名子女。",
+        "imageAlt": "菅原道真肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-tokugawa-iemitsu",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 5,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Tokugawa Iemitsu",
+        "url": "https://en.wikipedia.org/wiki/Tokugawa_Iemitsu"
+      },
+      {
+        "title": "Wikidata — Tokugawa Iemitsu",
+        "url": "https://www.wikidata.org/entity/Q314481"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Iemitu.jpg/500px-Iemitu.jpg",
+      "licence": "Public domain",
+      "attribution": "The author creates a file.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iemitu.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Tokugawa Iemitsu",
+        "descriptor": "The third shogun of the Tokugawa shogunate of Japan",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Tokugawa Iemitsu has 5 children in the cited records.",
+        "imageAlt": "Portrait of Tokugawa Iemitsu"
+      },
+      "zh": {
+        "displayName": "德川家光",
+        "descriptor": "德川幕府第三代将军",
+        "countingRuleSummary": "维基数据记载5名子女。",
+        "explanation": "德川家光在引用记录中有5名子女。",
+        "imageAlt": "德川家光肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-tokugawa-yoshimune",
+    "category": "east-asian-history",
+    "tags": [
+      "history"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Tokugawa Yoshimune",
+        "url": "https://en.wikipedia.org/wiki/Tokugawa_Yoshimune"
+      },
+      {
+        "title": "Wikidata — Tokugawa Yoshimune",
+        "url": "https://www.wikidata.org/entity/Q319664"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tokugawa_Yoshimune.jpg/500px-Tokugawa_Yoshimune.jpg",
+      "licence": "Public domain",
+      "attribution": "Kanō Tadanobu",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tokugawa_Yoshimune.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Tokugawa Yoshimune",
+        "descriptor": "The eighth shogun of the Tokugawa shogunate of Japan",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Tokugawa Yoshimune has 3 children in the cited records.",
+        "imageAlt": "Portrait of Tokugawa Yoshimune"
+      },
+      "zh": {
+        "displayName": "德川吉宗",
+        "descriptor": "德川幕府第八代将军",
+        "countingRuleSummary": "维基数据记载3名子女。",
+        "explanation": "德川吉宗在引用记录中有3名子女。",
+        "imageAlt": "德川吉宗肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-dong-biwu",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Dong Biwu",
+        "url": "https://en.wikipedia.org/wiki/Dong_Biwu"
+      },
+      {
+        "title": "Wikidata — Dong Biwu",
+        "url": "https://www.wikidata.org/entity/Q968038"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/DONGBIWU.JPG",
+      "licence": "Public domain",
+      "attribution": "The original uploader was MY456L at Chinese Wikipedia .",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:DONGBIWU.JPG"
+    },
+    "text": {
+      "en": {
+        "displayName": "Dong Biwu",
+        "descriptor": "former acting President of the People's Republic of China",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Dong Biwu has 1 child in the cited records.",
+        "imageAlt": "Portrait of Dong Biwu"
+      },
+      "zh": {
+        "displayName": "董必武",
+        "descriptor": "中华人民共和国代主席",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "董必武在引用记录中有1名子女。",
+        "imageAlt": "董必武肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-go-komyo",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Go-Kōmyō",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Go-K%C5%8Dmy%C5%8D"
+      },
+      {
+        "title": "Wikidata — Go-Kōmyō",
+        "url": "https://www.wikidata.org/entity/Q329765"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Emperor_Go-K%C5%8Dmy%C5%8D.jpg/500px-Emperor_Go-K%C5%8Dmy%C5%8D.jpg",
+      "licence": "Public domain",
+      "attribution": "Otagi Michitomi",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Go-K%C5%8Dmy%C5%8D.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Go-Kōmyō",
+        "descriptor": "emperor of Japan",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Go-Kōmyō has 1 child in the cited records.",
+        "imageAlt": "Portrait of Go-Kōmyō"
+      },
+      "zh": {
+        "displayName": "后光明天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载1名子女。",
+        "explanation": "后光明天皇在引用记录中有1名子女。",
+        "imageAlt": "后光明天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-bidatsu",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 13,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Bidatsu",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Bidatsu"
+      },
+      {
+        "title": "Wikidata — Bidatsu",
+        "url": "https://www.wikidata.org/entity/Q316637"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Emperor_Bidatsu.jpg/500px-Emperor_Bidatsu.jpg",
+      "licence": "Public domain",
+      "attribution": "明治天皇聖徳奉讃会",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Bidatsu.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Bidatsu",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "13 children are recorded by Wikidata.",
+        "explanation": "Bidatsu has 13 children in the cited records.",
+        "imageAlt": "Portrait of Bidatsu"
+      },
+      "zh": {
+        "displayName": "敏达天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载13名子女。",
+        "explanation": "敏达天皇在引用记录中有13名子女。",
+        "imageAlt": "敏达天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-go-sai",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Go-Sai",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Go-Sai"
+      },
+      {
+        "title": "Wikidata — Go-Sai",
+        "url": "https://www.wikidata.org/entity/Q349414"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Emperor_Go-Sai.jpg/500px-Emperor_Go-Sai.jpg",
+      "licence": "Public domain",
+      "attribution": "Prince Kōben",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Go-Sai.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Go-Sai",
+        "descriptor": "emperor of Japan",
+        "countingRuleSummary": "6 children are recorded by Wikidata.",
+        "explanation": "Go-Sai has 6 children in the cited records.",
+        "imageAlt": "Portrait of Go-Sai"
+      },
+      "zh": {
+        "displayName": "后西天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载6名子女。",
+        "explanation": "后西天皇在引用记录中有6名子女。",
+        "imageAlt": "后西天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-kameyama",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 10,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Kameyama",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Kameyama"
+      },
+      {
+        "title": "Wikidata — Emperor Kameyama",
+        "url": "https://www.wikidata.org/entity/Q360972"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Emperor_Kameyama.jpg/500px-Emperor_Kameyama.jpg",
+      "licence": "Public domain",
+      "attribution": "Fujiwara no Tamenobu",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Kameyama.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Emperor Kameyama",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "10 children are recorded by Wikidata.",
+        "explanation": "Emperor Kameyama has 10 children in the cited records.",
+        "imageAlt": "Portrait of Emperor Kameyama"
+      },
+      "zh": {
+        "displayName": "龟山天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载10名子女。",
+        "explanation": "龟山天皇在引用记录中有10名子女。",
+        "imageAlt": "龟山天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-heizei",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Heizei",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Heizei"
+      },
+      {
+        "title": "Wikidata — Emperor Heizei",
+        "url": "https://www.wikidata.org/entity/Q353558"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Emperor_Heizei.jpg/500px-Emperor_Heizei.jpg",
+      "licence": "Public domain",
+      "attribution": "明治天皇聖徳奉讃会",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Heizei.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Emperor Heizei",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Emperor Heizei has 4 children in the cited records.",
+        "imageAlt": "Portrait of Emperor Heizei"
+      },
+      "zh": {
+        "displayName": "平城天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载4名子女。",
+        "explanation": "平城天皇在引用记录中有4名子女。",
+        "imageAlt": "平城天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-hamaguchi-osachi",
+    "category": "east-asian-history",
+    "tags": [
+      "politics"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Hamaguchi Osachi",
+        "url": "https://en.wikipedia.org/wiki/Hamaguchi_Osachi"
+      },
+      {
+        "title": "Wikidata — Hamaguchi Osachi",
+        "url": "https://www.wikidata.org/entity/Q351661"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hamaguchi_Osachi_1.jpg/500px-Hamaguchi_Osachi_1.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hamaguchi_Osachi_1.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Hamaguchi Osachi",
+        "descriptor": "Japanese politician",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Hamaguchi Osachi has 2 children in the cited records.",
+        "imageAlt": "Portrait of Hamaguchi Osachi"
+      },
+      "zh": {
+        "displayName": "滨口雄幸",
+        "descriptor": "日本政治家",
+        "countingRuleSummary": "维基数据记载2名子女。",
+        "explanation": "滨口雄幸在引用记录中有2名子女。",
+        "imageAlt": "滨口雄幸肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-senka",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 7,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Senka",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Senka"
+      },
+      {
+        "title": "Wikidata — Senka",
+        "url": "https://www.wikidata.org/entity/Q329728"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Emperor_Senka.jpg/500px-Emperor_Senka.jpg",
+      "licence": "Public domain",
+      "attribution": "明治天皇聖徳奉讃会",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Senka.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Senka",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "7 children are recorded by Wikidata.",
+        "explanation": "Senka has 7 children in the cited records.",
+        "imageAlt": "Portrait of Senka"
+      },
+      "zh": {
+        "displayName": "宣化天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载7名子女。",
+        "explanation": "宣化天皇在引用记录中有7名子女。",
+        "imageAlt": "宣化天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-yuryaku",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Yūryaku",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Y%C5%ABryaku"
+      },
+      {
+        "title": "Wikidata — Yūryaku",
+        "url": "https://www.wikidata.org/entity/Q357235"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tenn%C5%8D_Y%C5%ABryaku_detail.jpg",
+      "licence": "Public domain",
+      "attribution": "Ginko Adachi (active 1874-1897)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tenn%C5%8D_Y%C5%ABryaku_detail.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Yūryaku",
+        "descriptor": "Japanese emperor",
+        "countingRuleSummary": "6 children are recorded by Wikidata.",
+        "explanation": "Yūryaku has 6 children in the cited records.",
+        "imageAlt": "Portrait of Yūryaku"
+      },
+      "zh": {
+        "displayName": "雄略天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载6名子女。",
+        "explanation": "雄略天皇在引用记录中有6名子女。",
+        "imageAlt": "雄略天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-ninmyo",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 18,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Ninmyō",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Ninmy%C5%8D"
+      },
+      {
+        "title": "Wikidata — Ninmyō",
+        "url": "https://www.wikidata.org/entity/Q349271"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/%E4%BB%81%E6%98%8E%E5%A4%A9%E7%9A%87_%E6%97%A5%E6%9C%AC%E3%81%AE%E7%AC%AC54%E4%BB%A3%E5%A4%A9%E7%9A%87.jpg",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E4%BB%81%E6%98%8E%E5%A4%A9%E7%9A%87_%E6%97%A5%E6%9C%AC%E3%81%AE%E7%AC%AC54%E4%BB%A3%E5%A4%A9%E7%9A%87.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Ninmyō",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "18 children are recorded by Wikidata.",
+        "explanation": "Ninmyō has 18 children in the cited records.",
+        "imageAlt": "Portrait of Ninmyō"
+      },
+      "zh": {
+        "displayName": "仁明天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载18名子女。",
+        "explanation": "仁明天皇在引用记录中有18名子女。",
+        "imageAlt": "仁明天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-seiwa",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 13,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Seiwa",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Seiwa"
+      },
+      {
+        "title": "Wikidata — Seiwa",
+        "url": "https://www.wikidata.org/entity/Q349243"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Emperor_Seiwa.jpg/500px-Emperor_Seiwa.jpg",
+      "licence": "Public domain",
+      "attribution": "Ryōkyō",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Seiwa.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Seiwa",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "13 children are recorded by Wikidata.",
+        "explanation": "Seiwa has 13 children in the cited records.",
+        "imageAlt": "Portrait of Seiwa"
+      },
+      "zh": {
+        "displayName": "清和天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载13名子女。",
+        "explanation": "清和天皇在引用记录中有13名子女。",
+        "imageAlt": "清和天皇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-sanjo",
+    "category": "east-asian-history",
+    "tags": [
+      "royalty"
+    ],
+    "childrenCount": 7,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 2,
+    "status": "active",
+    "sources": [
+      {
+        "title": "Wikipedia — Sanjō",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Sanj%C5%8D"
+      },
+      {
+        "title": "Wikidata — Sanjō",
+        "url": "https://www.wikidata.org/entity/Q357231"
+      }
+    ],
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Emperor_Sanj%C5%8D.jpg/500px-Emperor_Sanj%C5%8D.jpg",
+      "licence": "Public domain",
+      "attribution": "Kanō Tsunenobu",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Sanj%C5%8D.jpg"
+    },
+    "text": {
+      "en": {
+        "displayName": "Sanjō",
+        "descriptor": "Emperor of Japan",
+        "countingRuleSummary": "7 children are recorded by Wikidata.",
+        "explanation": "Sanjō has 7 children in the cited records.",
+        "imageAlt": "Portrait of Sanjō"
+      },
+      "zh": {
+        "displayName": "三条天皇",
+        "descriptor": "日本天皇",
+        "countingRuleSummary": "维基数据记载7名子女。",
+        "explanation": "三条天皇在引用记录中有7名子女。",
+        "imageAlt": "三条天皇肖像"
+      }
+    }
+  }
+]
