@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import figuresData from "../data/western-history.json";
-import { difficultyFor, generateInfiniteQuestion, generateQuickSession, isCorrect } from "./game";
+import { difficultyFor, generateChainedInfiniteQuestion, generateChainedQuickSession, generateInfiniteQuestion, generateQuickSession, isCorrect } from "./game";
 import type { Figure } from "../types";
 
 const figures = figuresData as Figure[];
@@ -24,14 +24,25 @@ describe("Quick Mode generation", () => {
     expect(isCorrect(question, low.id)).toBe(false);
   });
 
-  it("pairs a revealed figure only with a figure whose count is still hidden", () => {
+  it("never pairs two revealed figures", () => {
     const first = generateInfiniteQuestion(figures, new Set(), () => 0)!;
     const seen = new Set([first.left.id, first.right.id]);
     const next = generateInfiniteQuestion(figures, seen, () => 0)!;
-    const knownInNext = [next.left, next.right].filter((figure) => seen.has(figure.id));
-    const newInNext = [next.left, next.right].filter((figure) => !seen.has(figure.id));
-    expect(knownInNext).toHaveLength(1);
-    expect(newInNext).toHaveLength(1);
+    expect([next.left, next.right].every((figure) => seen.has(figure.id))).toBe(false);
     expect(next.left.childrenCount).not.toBe(next.right.childrenCount);
+  });
+
+  it("carries the previous right figure into a chained match", () => {
+    const first = generateInfiniteQuestion(figures, new Set(), () => 0)!;
+    const seen = new Set([first.left.id, first.right.id]);
+    const next = generateChainedInfiniteQuestion(figures, first.right.id, seen, () => 0)!;
+    expect(next.left.id).toBe(first.right.id);
+    expect(seen.has(next.right.id)).toBe(false);
+  });
+
+  it("builds a chained Quick session with each right figure carried forward", () => {
+    const session = generateChainedQuickSession(figures, "quick-chain");
+    expect(session).toHaveLength(10);
+    expect(session.slice(1).every((question, index) => question.left.id === session[index].right.id)).toBe(true);
   });
 });

@@ -56,6 +56,18 @@ body, .home-page { background: var(--sand); color: var(--ink); }
 .game-progress span, .primary { background: var(--orange); }
 .primary { color: var(--cream); box-shadow: 0 4px 0 var(--orange-dark); }
 .primary:hover { background: #984917; }
+.alternate-heading { flex-direction: column; align-items: stretch; gap: .45rem; }
+.pool-menu { width: 100%; }
+.pool-menu summary { text-align: right; }
+.pool-menu .category-picker { position: static; display: grid; gap: .35rem; width: 100%; min-width: 0; margin: .45rem 0 0; box-shadow: none; }
+.chain-option, .chain-toggle { display: flex; align-items: center; gap: .35rem; }
+.chain-option { margin-top: .65rem; }
+.chain-toggle { color: var(--muted); font-size: .8rem; }
+.chain-help { position: relative; }
+.chain-help summary { display: flex; width: 1.25rem; height: 1.25rem; align-items: center; justify-content: center; padding: 0; border: 1px solid var(--line); border-radius: 50%; color: var(--brown); cursor: pointer; font-weight: 800; line-height: 1; list-style: none; }
+.chain-help summary::marker { content: ""; }
+.chain-help summary::-webkit-details-marker { display: none; }
+.chain-help p { position: absolute; z-index: 3; bottom: calc(100% + .45rem); left: 0; width: 220px; margin: 0; padding: .65rem; border: 1px solid var(--line); border-radius: .55rem; background: var(--cream); box-shadow: 0 8px 18px #4b33231f; color: var(--muted); font-size: .78rem; line-height: 1.4; }
 .eyebrow, .alternate-heading, .pool-menu summary, .category-picker, .hero-showdown::before { color: var(--brown); }
 .hero h1, h1, .section-heading h2, .about-copy h3, .figure-name { color: var(--ink); }
 .hero-copy > p:not(.eyebrow):not(.hero-note), .descriptor, .rule, .about-copy p { color: var(--muted); }

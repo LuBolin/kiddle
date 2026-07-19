@@ -78,14 +78,9 @@ export function generateInfiniteQuestion(figures: Figure[], seenFigureIds: Reado
   const unseen = active.filter((figure) => !seenFigureIds.has(figure.id));
   if (unseen.length === 0) return null;
 
-  const known = active.filter((figure) => seenFigureIds.has(figure.id));
-  const candidates = known.length === 0
-    ? active.flatMap((left, leftIndex) => active.slice(leftIndex + 1).map((right) => ({ left, right })))
-    : known.flatMap((left) => unseen.map((right) => ({ left, right })));
-  const playable = candidates.filter(({ left, right }) => left.childrenCount !== right.childrenCount);
-  const pool = playable.length > 0
-    ? playable
-    : unseen.flatMap((left, leftIndex) => unseen.slice(leftIndex + 1).map((right) => ({ left, right }))).filter(({ left, right }) => left.childrenCount !== right.childrenCount);
+  const pool = active.flatMap((left, leftIndex) => active.slice(leftIndex + 1).map((right) => ({ left, right }))).filter(
+    ({ left, right }) => left.childrenCount !== right.childrenCount && !(seenFigureIds.has(left.id) && seenFigureIds.has(right.id)),
+  );
   if (pool.length === 0) return null;
 
   const { left, right } = pool[Math.floor(nextRandom() * pool.length)];
@@ -95,6 +90,37 @@ export function generateInfiniteQuestion(figures: Figure[], seenFigureIds: Reado
     right,
     difficulty: difficultyFor(left, right),
   };
+}
+
+export function generateChainedInfiniteQuestion(figures: Figure[], leftId: string, seenFigureIds: ReadonlySet<string>, nextRandom = Math.random): Question | null {
+  const active = figures.filter((figure) => figure.status === "active");
+  const left = active.find((figure) => figure.id === leftId);
+  const pool = left ? active.filter((right) => !seenFigureIds.has(right.id) && right.childrenCount !== left.childrenCount) : [];
+  if (!left || pool.length === 0) return null;
+
+  const right = pool[Math.floor(nextRandom() * pool.length)];
+  return {
+    id: `infinite-${[left.id, right.id].sort().join("--")}`,
+    left,
+    right,
+    difficulty: difficultyFor(left, right),
+  };
+}
+
+export function generateChainedQuickSession(figures: Figure[], seed?: string): Question[] {
+  const nextRandom = random(seed);
+  const first = generateInfiniteQuestion(figures, new Set(), nextRandom);
+  if (!first) throw new Error("Not enough figures for a chained ten-question session.");
+
+  const selected = [first];
+  const seen = new Set([first.left.id, first.right.id]);
+  while (selected.length < 10) {
+    const next = generateChainedInfiniteQuestion(figures, selected.at(-1)!.right.id, seen, nextRandom);
+    if (!next) throw new Error("Not enough figures for a chained ten-question session.");
+    selected.push(next);
+    seen.add(next.right.id);
+  }
+  return selected.map((question, index) => ({ ...question, id: `quick-chain-${index + 1}-${question.id}` }));
 }
 
 export function isCorrect(question: Question, selectedFigureId: string): boolean {

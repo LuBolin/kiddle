@@ -2,7 +2,7 @@ import { createContext, useContext, useEffect, useMemo, useRef, useState, type F
 import { categories, categoryKey, categoryLabel, poolLabel } from "./categories";
 import { figures } from "./data/figures";
 import { dailyCategoryForDate, dailyQuestionsForDate } from "./lib/daily";
-import { generateInfiniteQuestion, generateQuickSession, isCorrect } from "./lib/game";
+import { generateChainedInfiniteQuestion, generateChainedQuickSession, generateInfiniteQuestion, generateQuickSession, isCorrect } from "./lib/game";
 import { infiniteShareText, sessionShareText, share } from "./lib/share";
 import { buildGitHubIssueUrl, type ProblemType } from "./lib/report";
 import { clearDailyProgress, getDailyProgress, getDailyResult, saveDailyProgress, saveDailyResult, saveQuickResult, type DailyProgress, type DailyResult } from "./lib/storage";
@@ -62,6 +62,10 @@ function poolFromHash(): CategoryId[] {
   const pool = window.location.hash.slice(1).split("/")[1]?.split("+") ?? [];
   const valid = pool.filter((category): category is CategoryId => categories.some((candidate) => candidate.id === category));
   return valid.length > 0 ? valid : ["western-history"];
+}
+
+function chainedFromHash(): boolean {
+  return window.location.hash.slice(1).split("/")[2] === "chain";
 }
 
 function categoryHasFigures(category: CategoryId): boolean {
@@ -158,7 +162,7 @@ function GameHeader({ home, label, children, tracker }: { home: () => void; labe
   );
 }
 
-function Home({ start, pool, setPool }: { start: (mode: PlayMode, pool?: CategoryId[]) => void; pool: CategoryId[]; setPool: (pool: CategoryId[]) => void }) {
+function Home({ start, pool, setPool, chainedMatches, setChainedMatches }: { start: (mode: PlayMode, pool?: CategoryId[], chained?: boolean) => void; pool: CategoryId[]; setPool: (pool: CategoryId[]) => void; chainedMatches: boolean; setChainedMatches: (chained: boolean) => void }) {
   const { language, text } = useLanguage();
   const date = localDateKey();
   const dailyCategory = dailyCategoryForDate(date, figures);
@@ -184,8 +188,9 @@ function Home({ start, pool, setPool }: { start: (mode: PlayMode, pool?: Categor
             <div className="play-stack">
               <button className="primary daily-action" onClick={() => start("daily")} type="button"><span><small>{text.dailyChallenge}</small><strong>{text.playToday}</strong></span><span aria-hidden="true">→</span></button>
               <div className="alternate-modes">
-                <div className="alternate-heading"><span>{text.otherModes}</span><details className="pool-menu"><summary>{text.pool} · {pool.length === 0 ? text.choose : pool.length === 1 ? categoryLabel(pool[0], language) : `${pool.length} ${text.categories}`}</summary><fieldset className="category-picker"><legend>{text.gamePool}</legend>{categories.filter((candidate) => categoryHasFigures(candidate.id)).map((candidate) => <label key={candidate.id}><input checked={pool.includes(candidate.id)} onChange={() => setPool(pool.includes(candidate.id) ? pool.filter((id) => id !== candidate.id) : [...pool, candidate.id])} type="checkbox" /> {categoryLabel(candidate.id, language)} ({categoryFigureCount(candidate.id)} {text.characters})</label>)}</fieldset></details></div>
-                <div className="mode-choices"><button disabled={!isPlayablePool(pool)} onClick={() => start("quick", pool)} type="button"><strong>{text.quick}</strong><span>{text.tenQuestions}</span></button><button disabled={!isPlayablePool(pool)} onClick={() => start("infinite", pool)} type="button"><strong>{text.infinite}</strong><span>{text.threeLives}</span></button></div>
+                <div className="alternate-heading"><span>{text.otherModes}</span><details className="pool-menu"><summary>{text.pool} · {pool.length === 0 ? text.choose : pool.length === 1 ? categoryLabel(pool[0], language) : `${pool.length} ${text.categories}`}</summary><div aria-label={text.gamePool} className="category-picker" role="group">{categories.filter((candidate) => categoryHasFigures(candidate.id)).map((candidate) => <label key={candidate.id}><input checked={pool.includes(candidate.id)} onChange={() => setPool(pool.includes(candidate.id) ? pool.filter((id) => id !== candidate.id) : [...pool, candidate.id])} type="checkbox" /> {categoryLabel(candidate.id, language)} ({categoryFigureCount(candidate.id)} {text.characters})</label>)}</div></details></div>
+                <div className="mode-choices"><button disabled={!isPlayablePool(pool)} onClick={() => start("quick", pool, chainedMatches)} type="button"><strong>{text.quick}</strong><span>{text.tenQuestions}</span></button><button disabled={!isPlayablePool(pool)} onClick={() => start("infinite", pool, chainedMatches)} type="button"><strong>{text.infinite}</strong><span>{text.threeLives}</span></button></div>
+                <div className="chain-option"><label className="chain-toggle"><input checked={chainedMatches} onChange={(event) => setChainedMatches(event.target.checked)} type="checkbox" /> {text.chainMatches}</label><details className="chain-help"><summary aria-label={text.chainHelpLabel}>?</summary><p>{text.chainHelp}</p></details></div>
               </div>
             </div>
           </div>
@@ -246,7 +251,7 @@ function Results({ answers, mode, restart, home, pool, dailyDate, isPractice = f
   );
 }
 
-function FixedGame({ mode, questions, restart, home, pool, dailyDate, isPractice = false, newDailyAvailable = false, initialProgress }: { mode: "quick" | "daily"; questions: Question[]; restart: () => void; home: () => void; pool: CategoryId[]; dailyDate?: string; isPractice?: boolean; newDailyAvailable?: boolean; initialProgress?: DailyProgress | null }) {
+function FixedGame({ mode, questions, restart, home, pool, dailyDate, isPractice = false, newDailyAvailable = false, initialProgress, chained = false }: { mode: "quick" | "daily"; questions: Question[]; restart: () => void; home: () => void; pool: CategoryId[]; dailyDate?: string; isPractice?: boolean; newDailyAvailable?: boolean; initialProgress?: DailyProgress | null; chained?: boolean }) {
   const { language, text } = useLanguage();
   const [index, setIndex] = useState(initialProgress?.index ?? 0);
   const [selectedId, setSelectedId] = useState<string | null>(initialProgress?.selectedFigureId ?? null);
@@ -270,16 +275,16 @@ function FixedGame({ mode, questions, restart, home, pool, dailyDate, isPractice
       <section className="game-prompt">
         <h1>{text.title}</h1>
       </section>
-      <div className="figures"><FigureButton figure={question.left} onSelect={() => choose(question.left.id)} selected={selectedId === question.left.id} correct={winnerId === question.left.id} revealed={revealed} /><FigureButton figure={question.right} onSelect={() => choose(question.right.id)} selected={selectedId === question.right.id} correct={winnerId === question.right.id} revealed={revealed} /></div>
+      <div className="figures"><FigureButton figure={question.left} known={chained} onSelect={() => choose(question.left.id)} selected={selectedId === question.left.id} correct={winnerId === question.left.id} revealed={revealed} /><FigureButton figure={question.right} onSelect={() => choose(question.right.id)} selected={selectedId === question.right.id} correct={winnerId === question.right.id} revealed={revealed} /></div>
       {revealed && <section className={`reveal ${selectedCorrect ? "positive" : "negative"}`} aria-live="polite"><h2>{selectedCorrect ? text.correct : text.incorrect}</h2><p>{selectedCorrect ? text.niceCall : `${question.left.childrenCount > question.right.childrenCount ? question.left.displayName : question.right.displayName}${language === "zh" ? "" : " "}${text.hadMoreChildren}`}</p><div className="reveal-actions"><button onClick={() => setShowSources((current) => !current)} type="button">{showSources ? text.hideSources : text.showSources}</button><button className="primary" onClick={() => { setIndex((current) => current + 1); setSelectedId(null); setShowSources(false); }} type="button">{index === questions.length - 1 ? text.seeResults : text.nextQuestion}</button></div>{showSources && <Sources figures={[question.left, question.right]} />}</section>}
     </main>
   );
 }
 
-function QuickGame({ restart, home, pool }: { restart: () => void; home: () => void; pool: CategoryId[] }) {
+function QuickGame({ restart, home, pool, chained }: { restart: () => void; home: () => void; pool: CategoryId[]; chained: boolean }) {
   const poolFigures = figures.filter((figure) => pool.includes(figure.category));
-  const questions = useMemo(() => generateQuickSession(poolFigures), [pool, poolFigures]);
-  return <FixedGame mode="quick" questions={questions} restart={restart} home={home} pool={pool} />;
+  const questions = useMemo(() => chained ? generateChainedQuickSession(poolFigures) : generateQuickSession(poolFigures), [chained, pool, poolFigures]);
+  return <FixedGame mode="quick" questions={questions} restart={restart} home={home} pool={pool} chained={chained} />;
 }
 
 function DailyComplete({ date, result, home, pool }: { date: string; result: DailyResult; home: () => void; pool: CategoryId[] }) {
@@ -315,7 +320,7 @@ function DailyGame({ restart, home }: { restart: () => void; home: () => void })
   return <FixedGame mode="daily" questions={questions} restart={restart} home={home} pool={pool} dailyDate={date} initialProgress={progress} newDailyAvailable={newDailyAvailable} />;
 }
 
-function InfiniteGame({ restart, home, pool }: { restart: () => void; home: () => void; pool: CategoryId[] }) {
+function InfiniteGame({ restart, home, pool, chained }: { restart: () => void; home: () => void; pool: CategoryId[]; chained: boolean }) {
   const { language, text } = useLanguage();
   const poolFigures = figures.filter((figure) => pool.includes(figure.category));
   const [question, setQuestion] = useState<Question | null>(() => generateInfiniteQuestion(poolFigures, new Set()));
@@ -361,7 +366,7 @@ function InfiniteGame({ restart, home, pool }: { restart: () => void; home: () =
   };
   const nextQuestion = () => {
     const nextSeen = new Set([...seenIds, question.left.id, question.right.id]);
-    const next = generateInfiniteQuestion(poolFigures, nextSeen);
+    const next = chained ? generateChainedInfiniteQuestion(poolFigures, question.right.id, nextSeen) : generateInfiniteQuestion(poolFigures, nextSeen);
     setSeenIds([...nextSeen]);
     if (!next) {
       setFinished(true);
@@ -378,7 +383,7 @@ function InfiniteGame({ restart, home, pool }: { restart: () => void; home: () =
       <section className="game-prompt">
         <h1>{text.title}</h1>
       </section>
-      <div className="figures"><FigureButton figure={question.left} known={knownIds.has(question.left.id)} onSelect={() => choose(question.left.id)} selected={selectedId === question.left.id} correct={winnerId === question.left.id} revealed={revealed} /><FigureButton figure={question.right} known={knownIds.has(question.right.id)} onSelect={() => choose(question.right.id)} selected={selectedId === question.right.id} correct={winnerId === question.right.id} revealed={revealed} /></div>
+      <div className="figures"><FigureButton figure={question.left} known={knownIds.has(question.left.id) || (chained && seenIds.length === 0)} onSelect={() => choose(question.left.id)} selected={selectedId === question.left.id} correct={winnerId === question.left.id} revealed={revealed} /><FigureButton figure={question.right} known={knownIds.has(question.right.id)} onSelect={() => choose(question.right.id)} selected={selectedId === question.right.id} correct={winnerId === question.right.id} revealed={revealed} /></div>
       {revealed && !gameOver && <section className={`reveal ${selectedCorrect ? "positive" : "negative"}`} aria-live="polite"><h2>{selectedCorrect ? text.correct : text.incorrect}</h2><p>{selectedCorrect ? text.streakContinues : `${question.left.childrenCount > question.right.childrenCount ? question.left.displayName : question.right.displayName}${language === "zh" ? "" : " "}${text.hadMoreChildren}`}</p><div className="reveal-actions"><button onClick={() => setShowSources((current) => !current)} type="button">{showSources ? text.hideSources : text.showSources}</button><button className="primary" onClick={nextQuestion} type="button">{text.nextMatch}</button></div>{showSources && <Sources figures={[question.left, question.right]} />}</section>}
       {gameOver && <div className="modal-backdrop"><section aria-labelledby="run-over-title" aria-modal="true" className="game-over" role="dialog"><p className="eyebrow">{text.infiniteMode}</p><h2 id="run-over-title">{finished ? text.everySeen : text.runOver}</h2><p>{finished ? (language === "zh" ? `你已经看完目前${poolLabel(pool, language)}题库中的所有人物。` : `You reached the end of the current ${poolLabel(pool, language)} pool.`) : text.noLives}</p><div className="run-stats"><span>{text.score} <strong>{score}</strong></span><span>{text.bestStreak} <strong>{runBest}</strong></span></div><div className="reveal-actions"><button className="primary" onClick={onShare} type="button">{text.shareResult}</button><button onClick={restart} type="button">{text.playAgain}</button><button onClick={home} type="button">{text.returnHome}</button></div>{notice && <p className="notice" role="status">{notice}</p>}</section></div>}
     </main>
@@ -388,14 +393,15 @@ function InfiniteGame({ restart, home, pool }: { restart: () => void; home: () =
 function AppContent() {
   const [mode, setMode] = useState<PlayMode | null>(modeFromHash);
   const [pool, setPool] = useState<CategoryId[]>(poolFromHash);
+  const [chainedMatches, setChainedMatches] = useState(chainedFromHash);
   const [gameKey, setGameKey] = useState(0);
-  const start = (nextMode: PlayMode, nextPool = pool) => { window.location.hash = nextMode === "daily" ? nextMode : `${nextMode}/${categoryKey(nextPool)}`; if (nextMode !== "daily") setPool(nextPool); setGameKey((current) => current + 1); setMode(nextMode); };
-  const restart = () => { if (mode) start(mode); };
+  const start = (nextMode: PlayMode, nextPool = pool, chained = chainedMatches) => { window.location.hash = nextMode === "daily" ? nextMode : `${nextMode}/${categoryKey(nextPool)}${(nextMode === "quick" || nextMode === "infinite") && chained ? "/chain" : ""}`; if (nextMode !== "daily") setPool(nextPool); setChainedMatches(chained); setGameKey((current) => current + 1); setMode(nextMode); };
+  const restart = () => { if (mode) start(mode, pool, chainedMatches); };
   const home = () => { window.history.replaceState(null, "", `${window.location.pathname}${window.location.search}`); setMode(null); };
-  if (!mode) return <Home start={start} pool={pool} setPool={setPool} />;
-  if (mode === "infinite") return <InfiniteGame key={gameKey} restart={restart} home={home} pool={pool} />;
+  if (!mode) return <Home start={start} pool={pool} setPool={setPool} chainedMatches={chainedMatches} setChainedMatches={setChainedMatches} />;
+  if (mode === "infinite") return <InfiniteGame key={gameKey} restart={restart} home={home} pool={pool} chained={chainedMatches} />;
   if (mode === "daily") return <DailyGame key={gameKey} restart={restart} home={home} />;
-  return <QuickGame key={gameKey} restart={restart} home={home} pool={pool} />;
+  return <QuickGame key={gameKey} restart={restart} home={home} pool={pool} chained={chainedMatches} />;
 }
 
 export default function App() {
