@@ -1,4 +1,4 @@
-:root { --ink: #3b281d; --ink-strong: #2a1b13; --chestnut: #5a3324; --sand: #e8d2aa; --cream: #fff4dc; --ochre: #c98a36; --orange: #b85f24; --orange-dark: #713313; --brown: #6b3d24; --line: #b88c5a; --muted: #6d6258; --green: #607b52; --green-soft: #e7edcf; --red: #9b5544; --red-soft: #f2d8c8; color: var(--ink); background: var(--sand); font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
+:root { --ink: #40352f; --ink-strong: #332a25; --chestnut: #6b5a50; --sand: #e6d7bd; --cream: #fbf4e8; --ochre: #b59058; --orange: #a9683f; --orange-dark: #73503b; --brown: #705747; --line: #aa9275; --muted: #6f6861; --green: #687c5e; --green-soft: #e7ebd8; --red: #966357; --red-soft: #f0ddd3; color: var(--ink); background: var(--sand); font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body { margin: 0; min-width: 320px; }
