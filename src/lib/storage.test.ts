@@ -1,5 +1,5 @@
 import { beforeEach, describe, expect, it } from "vitest";
-import { clearDailyProgress, getDailyProgress, getDailyResult, getInfiniteBest, saveDailyProgress, saveDailyResult, saveInfiniteBest, saveQuickResult } from "./storage";
+import { clearDailyProgress, getDailyProgress, getDailyResult, saveDailyProgress, saveDailyResult, saveQuickResult } from "./storage";
 
 describe("Quick result storage", () => {
   beforeEach(() => localStorage.clear());
@@ -12,14 +12,6 @@ describe("Quick result storage", () => {
       { score: 8, completedAt: "2026-07-18T00:01:00.000Z" },
       { score: 7, completedAt: "2026-07-18T00:00:00.000Z" },
     ]);
-  });
-
-  it("keeps the highest Infinite streak without relying on storage", () => {
-    localStorage.setItem("kiddle:v1:infinite-best:western-history", "not-a-number");
-    expect(getInfiniteBest("western-history")).toBe(0);
-    expect(saveInfiniteBest("western-history", 4)).toBe(4);
-    expect(saveInfiniteBest("western-history", 2)).toBe(4);
-    expect(getInfiniteBest("western-history")).toBe(4);
   });
 
   it("locks the first completed Daily result for a date", () => {

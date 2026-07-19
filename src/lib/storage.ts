@@ -14,7 +14,6 @@ export interface DailyProgress {
 }
 
 const quickHistoryKey = (poolKey: string) => `kiddle:v1:quick-history:${poolKey}`;
-const infiniteBestKey = (poolKey: string) => `kiddle:v1:infinite-best:${poolKey}`;
 const dailyKey = (poolKey: string, date: string) => `kiddle:v1:daily:${poolKey}:${date}`;
 const dailyProgressKey = (poolKey: string, date: string) => `kiddle:v1:daily-progress:${poolKey}:${date}`;
 
@@ -56,25 +55,6 @@ export function saveQuickResult(poolKey: string, result: QuickResult): void {
   } catch {
     // Storage is optional; a blocked store must not stop the game.
   }
-}
-
-export function getInfiniteBest(poolKey: string): number {
-  try {
-    const value = Number(localStorage.getItem(infiniteBestKey(poolKey)));
-    return Number.isInteger(value) && value >= 0 ? value : 0;
-  } catch {
-    return 0;
-  }
-}
-
-export function saveInfiniteBest(poolKey: string, streak: number): number {
-  const best = Math.max(getInfiniteBest(poolKey), streak);
-  try {
-    localStorage.setItem(infiniteBestKey(poolKey), `${best}`);
-  } catch {
-    // Storage is optional; a blocked store must not stop the game.
-  }
-  return best;
 }
 
 export function getDailyResult(poolKey: string, date: string): DailyResult | null {
