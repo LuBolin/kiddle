@@ -71,7 +71,7 @@ function FigureButton({ figure, onSelect, selected, correct, revealed, known = f
       <Portrait figure={figure} />
       <span className="figure-name">{figure.displayName}</span>
       <span className="descriptor">{figure.descriptor}</span>
-      {showCount ? <strong className="count">{childLabel(figure.childrenCount)}</strong> : <span className="hidden-count">Child count hidden</span>}
+      {showCount ? <strong className="count">{childLabel(figure.childrenCount)}</strong> : <span aria-label="Child count hidden" className="hidden-count">?</span>}
       {revealed && correct && <span className="result-mark">✓ More children</span>}
       {revealed && selected && !correct && <span className="result-mark">✕ Not this one</span>}
     </button>
