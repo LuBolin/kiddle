@@ -5,7 +5,8 @@ import { dailyCategoryForDate, dailyQuestionsForDate } from "./lib/daily";
 import { generateInfiniteQuestion, generateQuickSession, isCorrect } from "./lib/game";
 import { sessionShareText, share } from "./lib/share";
 import { clearDailyProgress, getDailyProgress, getDailyResult, getInfiniteBest, saveDailyProgress, saveDailyResult, saveInfiniteBest, saveQuickResult, type DailyProgress, type DailyResult } from "./lib/storage";
-import type { CategoryId, Figure, Question } from "./types";
+import { LanguageProvider, LanguageSelect, useLanguage } from "./i18n";
+import type { CategoryId, Figure, Language, Question } from "./types";
 import "./styles.css";
 
 type PlayMode = "quick" | "daily" | "infinite";
@@ -36,7 +37,8 @@ function localDateKey(): string {
   return `${date.getFullYear()}-${month}-${day}`;
 }
 
-function modeLabel(mode: PlayMode): string {
+function modeLabel(mode: PlayMode, language: Language = "en"): string {
+  if (language === "zh") return mode === "daily" ? "每日挑战" : mode === "infinite" ? "无限模式" : "快速模式";
   if (mode === "daily") return "Daily Challenge";
   return mode === "infinite" ? "Infinite" : "Quick";
 }
@@ -52,8 +54,8 @@ function Portrait({ figure }: { figure: Figure }) {
   );
 }
 
-function childLabel(count: number): string {
-  return `${count} ${count === 1 ? "child" : "children"}`;
+function childLabel(count: number, language: Language): string {
+  return language === "zh" ? `${count} 个孩子` : `${count} ${count === 1 ? "child" : "children"}`;
 }
 
 function FigureButton({ figure, onSelect, selected, correct, revealed, known = false }: {
@@ -64,6 +66,7 @@ function FigureButton({ figure, onSelect, selected, correct, revealed, known = f
   revealed: boolean;
   known?: boolean;
 }) {
+  const { language, text } = useLanguage();
   const resultClass = !revealed ? "" : correct ? " correct" : selected ? " incorrect" : "";
   const showCount = revealed || known;
   return (
@@ -71,23 +74,24 @@ function FigureButton({ figure, onSelect, selected, correct, revealed, known = f
       <Portrait figure={figure} />
       <span className="figure-name">{figure.displayName}</span>
       <span className="descriptor">{figure.descriptor}</span>
-      {showCount ? <strong className="count">{childLabel(figure.childrenCount)}</strong> : <span aria-label="Child count hidden" className="hidden-count">?</span>}
-      {revealed && correct && <span className="result-mark">✓ More children</span>}
-      {revealed && selected && !correct && <span className="result-mark">✕ Not this one</span>}
+      {showCount ? <strong className="count">{childLabel(figure.childrenCount, language)}</strong> : <span aria-label={text.hiddenCount} className="hidden-count">?</span>}
+      {revealed && correct && <span className="result-mark">✓ {text.moreChildren}</span>}
+      {revealed && selected && !correct && <span className="result-mark">✕ {text.notThisOne}</span>}
     </button>
   );
 }
 
 function Sources({ figures }: { figures: Figure[] }) {
+  const { text } = useLanguage();
   return (
     <section className="sources" aria-labelledby="sources-title">
-      <h2 id="sources-title">Sources</h2>
+      <h2 id="sources-title">{text.sources}</h2>
       {figures.map((figure) => (
         <article key={figure.id} className="source-item">
           <h3>{figure.displayName}: {figure.childrenCount}</h3>
           <p>{figure.explanation}</p>
           <p className="rule">{figure.countingRuleSummary}</p>
-          <p className="image-credit">Portrait: {figure.image.attribution} · <a href={figure.image.sourceUrl} target="_blank" rel="noreferrer">Wikimedia Commons ({figure.image.licence})</a></p>
+          <p className="image-credit">{text.portrait}: {figure.image.attribution} · <a href={figure.image.sourceUrl} target="_blank" rel="noreferrer">Wikimedia Commons ({figure.image.licence})</a></p>
           <ul>{figure.sources.map((source) => <li key={source.url}><a href={source.url} target="_blank" rel="noreferrer">{source.title}</a></li>)}</ul>
         </article>
       ))}
@@ -96,16 +100,18 @@ function Sources({ figures }: { figures: Figure[] }) {
 }
 
 function GameHeader({ home, label, children }: { home: () => void; label: string; children: ReactNode }) {
+  const { text } = useLanguage();
   return (
     <header className="game-header">
-      <button className="back" onClick={home} type="button">← Home</button>
+      <button className="back" onClick={home} type="button">← {text.home}</button>
       <div className="game-brand"><strong>Kiddle</strong><span>{label}</span></div>
-      <div className="game-tools"><div className="game-status">{children}</div><details className="game-help"><summary>How to play</summary><p>Pick the figure with more children. Counts and sources appear after your answer.</p></details></div>
+      <div className="game-tools"><div className="game-status">{children}</div><LanguageSelect /><details className="game-help"><summary>{text.howToPlay}</summary><p>{text.help}</p></details></div>
     </header>
   );
 }
 
 function Home({ start, pool, setPool }: { start: (mode: PlayMode, pool?: CategoryId[]) => void; pool: CategoryId[]; setPool: (pool: CategoryId[]) => void }) {
+  const { language, text } = useLanguage();
   const date = localDateKey();
   const dailyCategory = dailyCategoryForDate(date, figures);
   const dailyPreview = dailyQuestionsForDate(date, dailyCategory, figures)[0];
@@ -118,36 +124,36 @@ function Home({ start, pool, setPool }: { start: (mode: PlayMode, pool?: Categor
     <div className="home-page">
       <header className="site-header site-shell">
         <button className="wordmark" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })} type="button">Kiddle</button>
-        <button aria-controls="about-dialog" aria-expanded={moreOpen} className="more-info" onClick={() => setMoreOpen(true)} type="button">More info</button>
+        <div className="site-actions"><LanguageSelect /><button aria-controls="about-dialog" aria-expanded={moreOpen} className="more-info" onClick={() => setMoreOpen(true)} type="button">{text.moreInfo}</button></div>
       </header>
 
       <main className="site-shell home-content">
         <section className="hero">
           <div className="hero-copy">
-            <p className="eyebrow">Today's theme · {categoryLabel(dailyCategory)}</p>
-            <h1>Who had more children?</h1>
-            <p>A daily trivia game with sourced answers.</p>
+            <p className="eyebrow">{text.todayTheme} · {categoryLabel(dailyCategory, language)}</p>
+            <h1>{text.title}</h1>
+            <p>{text.tagline}</p>
             <div className="play-stack">
-              <button className="primary daily-action" onClick={() => start("daily")} type="button"><span><small>Daily Challenge</small><strong>Play today’s challenge</strong></span><span aria-hidden="true">→</span></button>
+              <button className="primary daily-action" onClick={() => start("daily")} type="button"><span><small>{text.dailyChallenge}</small><strong>{text.playToday}</strong></span><span aria-hidden="true">→</span></button>
               <div className="alternate-modes">
-                <div className="alternate-heading"><span>Other modes</span><details className="pool-menu"><summary>Pool · {pool.length === 0 ? "Choose" : pool.length === 1 ? categoryLabel(pool[0]) : `${pool.length} categories`}</summary><fieldset className="category-picker"><legend>Game pool</legend>{categories.filter((candidate) => categoryHasFigures(candidate.id)).map((candidate) => <label key={candidate.id}><input checked={pool.includes(candidate.id)} onChange={() => setPool(pool.includes(candidate.id) ? pool.filter((id) => id !== candidate.id) : [...pool, candidate.id])} type="checkbox" /> {candidate.label}</label>)}</fieldset></details></div>
-                <div className="mode-choices"><button disabled={!isPlayablePool(pool)} onClick={() => start("quick", pool)} type="button"><strong>Quick</strong><span>10 questions</span></button><button disabled={!isPlayablePool(pool)} onClick={() => start("infinite", pool)} type="button"><strong>Infinite</strong><span>3 lives</span></button></div>
+                <div className="alternate-heading"><span>{text.otherModes}</span><details className="pool-menu"><summary>{text.pool} · {pool.length === 0 ? text.choose : pool.length === 1 ? categoryLabel(pool[0], language) : `${pool.length} ${text.categories}`}</summary><fieldset className="category-picker"><legend>{text.gamePool}</legend>{categories.filter((candidate) => categoryHasFigures(candidate.id)).map((candidate) => <label key={candidate.id}><input checked={pool.includes(candidate.id)} onChange={() => setPool(pool.includes(candidate.id) ? pool.filter((id) => id !== candidate.id) : [...pool, candidate.id])} type="checkbox" /> {categoryLabel(candidate.id, language)}</label>)}</fieldset></details></div>
+                <div className="mode-choices"><button disabled={!isPlayablePool(pool)} onClick={() => start("quick", pool)} type="button"><strong>{text.quick}</strong><span>{text.tenQuestions}</span></button><button disabled={!isPlayablePool(pool)} onClick={() => start("infinite", pool)} type="button"><strong>{text.infinite}</strong><span>{text.threeLives}</span></button></div>
               </div>
             </div>
           </div>
-          <div className="hero-showdown" aria-label="Example figure comparison">
+          <div className="hero-showdown" aria-label={text.exampleComparison} data-label={language === "zh" ? "今日对决" : "TODAY'S PAIR"}>
             <div className="hero-person"><Portrait figure={left} /><strong>{left.displayName}</strong><span>{left.descriptor}</span></div>
             <div className="vs">VS</div>
             <div className="hero-person"><Portrait figure={right} /><strong>{right.displayName}</strong><span>{right.descriptor}</span></div>
-            <p className="hero-question">Who had more children?</p>
+            <p className="hero-question">{text.title}</p>
           </div>
         </section>
 
         {moreOpen && <div className="about-backdrop" onKeyDown={(event) => { if (event.key === "Escape") setMoreOpen(false); }}>
           <section aria-labelledby="about-title" aria-modal="true" className="about-panel" id="about-dialog" role="dialog">
-          <button aria-label="Close more information" className="about-close" onClick={() => setMoreOpen(false)} ref={moreCloseRef} type="button">×</button>
-          <div className="section-heading"><p className="eyebrow">About Kiddle</p><h2 id="about-title">How the game works.</h2></div>
-          <div className="about-copy"><section><h3>Make your pick</h3><p>Choose who had more children. Counts and sources appear after every answer.</p></section><section><h3>The Daily Challenge</h3><p>A new themed puzzle starts at midnight in your local time. Progress is saved on this device.</p></section><section><h3>About us</h3><p>Made by Bloin with the help of Codex.</p></section></div>
+          <button aria-label={text.closeInfo} className="about-close" onClick={() => setMoreOpen(false)} ref={moreCloseRef} type="button">×</button>
+          <div className="section-heading"><p className="eyebrow">{text.aboutKiddle}</p><h2 id="about-title">{text.howItWorks}</h2></div>
+          <div className="about-copy"><section><h3>{text.choosePerson}</h3><p>{text.help}</p></section><section><h3>{text.dailyChallenge}</h3><p>{text.dailyDescription}</p></section><section><h3>{text.aboutUs}</h3><p>{text.credit}</p></section></div>
           </section>
         </div>}
       </main>
@@ -156,6 +162,7 @@ function Home({ start, pool, setPool }: { start: (mode: PlayMode, pool?: Categor
 }
 
 function Results({ answers, mode, restart, home, pool, dailyDate, isPractice = false }: { answers: boolean[]; mode: PlayMode; restart: () => void; home: () => void; pool: CategoryId[]; dailyDate?: string; isPractice?: boolean }) {
+  const { language, text } = useLanguage();
   const [notice, setNotice] = useState("");
   const score = answers.filter(Boolean).length;
   const saved = useRef(false);
@@ -173,25 +180,26 @@ function Results({ answers, mode, restart, home, pool, dailyDate, isPractice = f
 
   const onShare = async () => {
     try {
-      const label = mode === "daily" && dailyDate ? `Daily ${dailyDate}` : modeLabel(mode);
-      const outcome = await share(sessionShareText(label, poolLabel(pool), score, answers));
-      setNotice(outcome === "copied" ? "Result copied to your clipboard." : "Share sheet opened.");
-    } catch { setNotice("Could not share your result. Try again from a supported browser."); }
+      const label = mode === "daily" && dailyDate ? `${text.dailyChallenge} ${dailyDate}` : modeLabel(mode, language);
+      const outcome = await share(sessionShareText(label, poolLabel(pool, language), score, answers));
+      setNotice(outcome === "copied" ? text.copied : text.shareOpened);
+    } catch { setNotice(text.shareFailed); }
   };
 
   return (
     <main className="shell results">
-      <p className="eyebrow">Kiddle {modeLabel(mode)}{isPractice ? " · Practice" : ""} · {poolLabel(pool)}</p>
+      <p className="eyebrow">Kiddle {modeLabel(mode, language)}{isPractice ? ` · ${text.practice}` : ""} · {poolLabel(pool, language)}</p>
       <h1>{score}/10</h1>
-      <div className="answer-grid" aria-label={`${score} correct answers out of 10`}>{answers.map((correct, index) => <span key={index} aria-label={correct ? "Correct" : "Incorrect"}>{correct ? "🟩" : "🟥"}</span>)}</div>
-      <button className="primary" onClick={onShare} type="button">Share spoiler-free result</button>
+      <div className="answer-grid" aria-label={language === "zh" ? `10 题中答对 ${score} 题` : `${score} correct answers out of 10`}>{answers.map((correct, index) => <span key={index} aria-label={correct ? text.correct : text.incorrect}>{correct ? "🟩" : "🟥"}</span>)}</div>
+      <button className="primary" onClick={onShare} type="button">{text.shareResult}</button>
       {notice && <p className="notice" role="status">{notice}</p>}
-      <div className="secondary-actions">{mode !== "daily" && <button onClick={restart} type="button">Play again</button>}<button onClick={home} type="button">Return home</button></div>
+      <div className="secondary-actions">{mode !== "daily" && <button onClick={restart} type="button">{text.playAgain}</button>}<button onClick={home} type="button">{text.returnHome}</button></div>
     </main>
   );
 }
 
 function FixedGame({ mode, questions, restart, home, pool, dailyDate, isPractice = false, newDailyAvailable = false, initialProgress }: { mode: "quick" | "daily"; questions: Question[]; restart: () => void; home: () => void; pool: CategoryId[]; dailyDate?: string; isPractice?: boolean; newDailyAvailable?: boolean; initialProgress?: DailyProgress | null }) {
+  const { language, text } = useLanguage();
   const [index, setIndex] = useState(initialProgress?.index ?? 0);
   const [selectedId, setSelectedId] = useState<string | null>(initialProgress?.selectedFigureId ?? null);
   const [showSources, setShowSources] = useState(false);
@@ -209,15 +217,13 @@ function FixedGame({ mode, questions, restart, home, pool, dailyDate, isPractice
   const score = answers.filter(Boolean).length;
   return (
     <main className="shell game">
-      <section className="game-panel"><GameHeader home={home} label={`${modeLabel(mode)}${isPractice ? " · Practice" : ""} · ${poolLabel(pool)}`}><span>Question <strong>{index + 1}/10</strong></span><span>Score <strong>{score}</strong></span></GameHeader><div className="game-progress" aria-label={`${index} of ${questions.length} questions complete`} aria-valuemax={questions.length} aria-valuemin={0} aria-valuenow={index} role="progressbar"><span style={{ width: `${(index / questions.length) * 100}%` }} /></div></section>
-      {newDailyAvailable && <div className="daily-notice" role="status">A new Daily Challenge is ready. <button onClick={restart} type="button">Start it</button></div>}
+      <section className="game-panel"><GameHeader home={home} label={`${modeLabel(mode, language)}${isPractice ? ` · ${text.practice}` : ""} · ${poolLabel(pool, language)}`}><span>{text.question} <strong>{index + 1}/10</strong></span><span>{text.score} <strong>{score}</strong></span></GameHeader><div className="game-progress" aria-label={language === "zh" ? `已完成 ${index}/${questions.length} 题` : `${index} of ${questions.length} questions complete`} aria-valuemax={questions.length} aria-valuemin={0} aria-valuenow={index} role="progressbar"><span style={{ width: `${(index / questions.length) * 100}%` }} /></div></section>
+      {newDailyAvailable && <div className="daily-notice" role="status">{text.newDaily} <button onClick={restart} type="button">{text.startIt}</button></div>}
       <section className="game-prompt">
-        <p className="eyebrow">Make your pick</p>
-        <h1>Who had more children?</h1>
-        <p className="instruction">Choose a figure. Counts stay hidden until you answer.</p>
+        <h1>{text.title}</h1>
       </section>
       <div className="figures"><FigureButton figure={question.left} onSelect={() => choose(question.left.id)} selected={selectedId === question.left.id} correct={winnerId === question.left.id} revealed={revealed} /><FigureButton figure={question.right} onSelect={() => choose(question.right.id)} selected={selectedId === question.right.id} correct={winnerId === question.right.id} revealed={revealed} /></div>
-      {revealed && <section className={`reveal ${selectedCorrect ? "positive" : "negative"}`} aria-live="polite"><h2>{selectedCorrect ? "Correct" : "Incorrect"}</h2><p>{selectedCorrect ? "Nice call." : `${question.left.childrenCount > question.right.childrenCount ? question.left.displayName : question.right.displayName} had more children.`}</p><div className="reveal-actions"><button onClick={() => setShowSources((current) => !current)} type="button">{showSources ? "Hide sources" : "Show sources"}</button><button className="primary" onClick={() => { setIndex((current) => current + 1); setSelectedId(null); setShowSources(false); }} type="button">{index === questions.length - 1 ? "See results" : "Next question"}</button></div>{showSources && <Sources figures={[question.left, question.right]} />}</section>}
+      {revealed && <section className={`reveal ${selectedCorrect ? "positive" : "negative"}`} aria-live="polite"><h2>{selectedCorrect ? text.correct : text.incorrect}</h2><p>{selectedCorrect ? text.niceCall : `${question.left.childrenCount > question.right.childrenCount ? question.left.displayName : question.right.displayName}${language === "zh" ? "" : " "}${text.hadMoreChildren}`}</p><div className="reveal-actions"><button onClick={() => setShowSources((current) => !current)} type="button">{showSources ? text.hideSources : text.showSources}</button><button className="primary" onClick={() => { setIndex((current) => current + 1); setSelectedId(null); setShowSources(false); }} type="button">{index === questions.length - 1 ? text.seeResults : text.nextQuestion}</button></div>{showSources && <Sources figures={[question.left, question.right]} />}</section>}
     </main>
   );
 }
@@ -229,14 +235,15 @@ function QuickGame({ restart, home, pool }: { restart: () => void; home: () => v
 }
 
 function DailyComplete({ date, result, home, pool }: { date: string; result: DailyResult; home: () => void; pool: CategoryId[] }) {
+  const { language, text } = useLanguage();
   const [notice, setNotice] = useState("");
   const onShare = async () => {
     try {
-      const outcome = await share(sessionShareText(`Daily ${date}`, poolLabel(pool), result.score, result.answers ?? []));
-      setNotice(outcome === "copied" ? "Result copied to your clipboard." : "Share sheet opened.");
-    } catch { setNotice("Could not share your result. Try again from a supported browser."); }
+      const outcome = await share(sessionShareText(`${text.dailyChallenge} ${date}`, poolLabel(pool, language), result.score, result.answers ?? []));
+      setNotice(outcome === "copied" ? text.copied : text.shareOpened);
+    } catch { setNotice(text.shareFailed); }
   };
-  return <main className="shell results"><p className="eyebrow">Daily Challenge · {poolLabel(pool)} · {date}</p><h1>Today’s puzzle is complete</h1><p>Great job. You scored <strong>{result.score}/10</strong>.</p><button className="primary" onClick={onShare} type="button">Share spoiler-free result</button>{notice && <p className="notice" role="status">{notice}</p>}<button onClick={home} type="button">Return home</button></main>;
+  return <main className="shell results"><p className="eyebrow">{text.dailyChallenge} · {poolLabel(pool, language)} · {date}</p><h1>{text.todayComplete}</h1><p>{text.greatJob} <strong>{result.score}/10</strong>.</p><button className="primary" onClick={onShare} type="button">{text.shareResult}</button>{notice && <p className="notice" role="status">{notice}</p>}<button onClick={home} type="button">{text.returnHome}</button></main>;
 }
 
 function DailyGame({ restart, home }: { restart: () => void; home: () => void }) {
@@ -261,6 +268,7 @@ function DailyGame({ restart, home }: { restart: () => void; home: () => void })
 }
 
 function InfiniteGame({ restart, home, pool }: { restart: () => void; home: () => void; pool: CategoryId[] }) {
+  const { language, text } = useLanguage();
   const poolFigures = figures.filter((figure) => pool.includes(figure.category));
   const [question, setQuestion] = useState<Question | null>(() => generateInfiniteQuestion(poolFigures, new Set()));
   const [seenIds, setSeenIds] = useState<string[]>([]);
@@ -281,7 +289,7 @@ function InfiniteGame({ restart, home, pool }: { restart: () => void; home: () =
     setPersonalBest(saveInfiniteBest(categoryKey(pool), runBest));
   }, [gameOver, pool, runBest]);
 
-  if (!question) return <main className="shell results"><h1>More figures needed</h1><button className="primary" onClick={home} type="button">Return home</button></main>;
+  if (!question) return <main className="shell results"><h1>{text.moreFigures}</h1><button className="primary" onClick={home} type="button">{text.returnHome}</button></main>;
 
   const winnerId = question.left.childrenCount > question.right.childrenCount ? question.left.id : question.right.id;
   const selectedCorrect = selectedId ? isCorrect(question, selectedId) : false;
@@ -314,20 +322,18 @@ function InfiniteGame({ restart, home, pool }: { restart: () => void; home: () =
 
   return (
     <main className="shell game">
-      <section className="game-panel"><GameHeader home={home} label={`Infinite · ${poolLabel(pool)}`}><span>Lives <strong className="lives" aria-label={`${lives} lives remaining`}>{"♥".repeat(lives)}</strong></span><span>Streak <strong>{streak}</strong></span><span>Best <strong>{personalBest}</strong></span></GameHeader></section>
+      <section className="game-panel"><GameHeader home={home} label={`${text.infinite} · ${poolLabel(pool, language)}`}><span>{text.lives} <strong className="lives" aria-label={language === "zh" ? `剩余 ${lives} 条命` : `${lives} lives remaining`}>{"♥".repeat(lives)}</strong></span><span>{text.streak} <strong>{streak}</strong></span><span>{text.best} <strong>{personalBest}</strong></span></GameHeader></section>
       <section className="game-prompt">
-        <p className="eyebrow">Infinite Mode</p>
-        <h1>Who had more children?</h1>
-        <p className="instruction">Known count versus someone new.</p>
+        <h1>{text.title}</h1>
       </section>
       <div className="figures"><FigureButton figure={question.left} known={knownIds.has(question.left.id)} onSelect={() => choose(question.left.id)} selected={selectedId === question.left.id} correct={winnerId === question.left.id} revealed={revealed} /><FigureButton figure={question.right} known={knownIds.has(question.right.id)} onSelect={() => choose(question.right.id)} selected={selectedId === question.right.id} correct={winnerId === question.right.id} revealed={revealed} /></div>
-      {revealed && !gameOver && <section className={`reveal ${selectedCorrect ? "positive" : "negative"}`} aria-live="polite"><h2>{selectedCorrect ? "Correct" : "Incorrect"}</h2><p>{selectedCorrect ? "Streak continues." : `${question.left.childrenCount > question.right.childrenCount ? question.left.displayName : question.right.displayName} had more children.`}</p><div className="reveal-actions"><button onClick={() => setShowSources((current) => !current)} type="button">{showSources ? "Hide sources" : "Show sources"}</button><button className="primary" onClick={nextQuestion} type="button">Next match</button></div>{showSources && <Sources figures={[question.left, question.right]} />}</section>}
-      {gameOver && <div className="modal-backdrop"><section aria-labelledby="run-over-title" aria-modal="true" className="game-over" role="dialog"><p className="eyebrow">Infinite Mode</p><h2 id="run-over-title">{finished ? "Every figure seen" : "Run over"}</h2><p>{finished ? `You reached the end of the current ${poolLabel(pool)} pool.` : "Your three lives are gone."}</p><div className="run-stats"><span>Best streak <strong>{runBest}</strong></span><span>Personal best <strong>{personalBest}</strong></span></div><div className="reveal-actions"><button className="primary" onClick={restart} type="button">Play again</button><button onClick={home} type="button">Return home</button></div></section></div>}
+      {revealed && !gameOver && <section className={`reveal ${selectedCorrect ? "positive" : "negative"}`} aria-live="polite"><h2>{selectedCorrect ? text.correct : text.incorrect}</h2><p>{selectedCorrect ? text.streakContinues : `${question.left.childrenCount > question.right.childrenCount ? question.left.displayName : question.right.displayName}${language === "zh" ? "" : " "}${text.hadMoreChildren}`}</p><div className="reveal-actions"><button onClick={() => setShowSources((current) => !current)} type="button">{showSources ? text.hideSources : text.showSources}</button><button className="primary" onClick={nextQuestion} type="button">{text.nextMatch}</button></div>{showSources && <Sources figures={[question.left, question.right]} />}</section>}
+      {gameOver && <div className="modal-backdrop"><section aria-labelledby="run-over-title" aria-modal="true" className="game-over" role="dialog"><p className="eyebrow">{text.infiniteMode}</p><h2 id="run-over-title">{finished ? text.everySeen : text.runOver}</h2><p>{finished ? (language === "zh" ? `你已经看完目前${poolLabel(pool, language)}题库中的所有人物。` : `You reached the end of the current ${poolLabel(pool, language)} pool.`) : text.noLives}</p><div className="run-stats"><span>{text.bestStreak} <strong>{runBest}</strong></span><span>{text.personalBest} <strong>{personalBest}</strong></span></div><div className="reveal-actions"><button className="primary" onClick={restart} type="button">{text.playAgain}</button><button onClick={home} type="button">{text.returnHome}</button></div></section></div>}
     </main>
   );
 }
 
-export default function App() {
+function AppContent() {
   const [mode, setMode] = useState<PlayMode | null>(modeFromHash);
   const [pool, setPool] = useState<CategoryId[]>(poolFromHash);
   const [gameKey, setGameKey] = useState(0);
@@ -338,4 +344,8 @@ export default function App() {
   if (mode === "infinite") return <InfiniteGame key={gameKey} restart={restart} home={home} pool={pool} />;
   if (mode === "daily") return <DailyGame key={gameKey} restart={restart} home={home} />;
   return <QuickGame key={gameKey} restart={restart} home={home} pool={pool} />;
+}
+
+export default function App() {
+  return <LanguageProvider><AppContent /></LanguageProvider>;
 }

@@ -5,6 +5,7 @@ export type CategoryId =
   | "western-history"
   | "western-mythology";
 export type Difficulty = "easy" | "medium" | "hard";
+export type Language = "en" | "zh";
 
 export interface Source {
   title: string;
