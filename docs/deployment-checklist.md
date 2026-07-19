@@ -21,9 +21,12 @@ Launch with these five categories:
 
 ### Content and data
 
+- [ ] Migrate every Figure to the canonical single-record localized schema in `data-crawling-guide.md`; remove the legacy top-level English text fields after rendering and validation use `text.<language>` with field-level English fallback.
+- [ ] Require reviewed English and Chinese names, descriptors, explanations, counting rules, image alt text, and source display titles before a Figure becomes bilingual-launch ready.
+- [ ] Extend `npm run validate-data` to reject duplicate locale records, missing English fallback text, incomplete required Chinese text, and localized records whose shared facts diverge.
 - [ ] Gather and review at least 20 active Figures for at least two launch Categories; Quick Mode needs 20 distinct Figures in any selectable Game pool.
 - [ ] Verify a mixed two-category pool generates cross-category comparisons and has no repeated Figure inside a Quick session.
-- [ ] Keep one JSON file per category with the same Figure contract: approved child count, explanation, sources, tags, status, image URL, licence, attribution, and source URL.
+- [ ] Keep one JSON file per category using the canonical Figure contract: shared facts and media once, with reader-facing text under `text.en` and `text.zh`.
 - [ ] Run the data validator across all five category files.
 - [ ] Confirm every active Figure has a non-tied possible matchup and that each category can produce the intended easy, medium, and hard mix.
 - [ ] Establish a category-specific source rule for mythology: use a named tradition/source, never merge conflicting versions into one invented count.
