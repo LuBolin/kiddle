@@ -11,6 +11,7 @@
     "discover-candidates": "node scripts/discover-candidates.mjs",
     "seed-modern-celebrities": "node scripts/seed-modern-celebrities.mjs",
     "seed-history-pools": "node scripts/seed-history-pools.mjs",
+    "rebalance-east-asian-history": "node scripts/rebalance-east-asian-history.mjs",
     "sync-portraits": "node scripts/download-portraits.mjs"
   },
   "dependencies": {
