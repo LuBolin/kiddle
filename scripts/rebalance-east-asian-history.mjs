@@ -41,28 +41,30 @@ async function wikidata(query) {
 async function detailsFor(ids) {
   const details = [];
   for (let index = 0; index < ids.length; index += 25) {
-    details.push(...await wikidata(`${prefix} SELECT ?person ?en ?zh ?description ?descriptionZh ?image ?articleTitle ?sitelinks (COUNT(DISTINCT ?child) AS ?children) WHERE {
+    details.push(...await wikidata(`${prefix} SELECT ?person ?en ?zh ?description ?descriptionZh ?descriptionHans ?image ?articleTitle ?sitelinks (COUNT(DISTINCT ?child) AS ?children) WHERE {
       VALUES ?person { ${ids.slice(index, index + 25).map((id) => `<${id}>`).join(" ")} }
       ?person wdt:P40 ?child; wdt:P18 ?image; wikibase:sitelinks ?sitelinks; rdfs:label ?en. FILTER(LANG(?en) = "en")
       OPTIONAL { ?person rdfs:label ?zh. FILTER(LANG(?zh) = "zh") }
       OPTIONAL { ?person schema:description ?description. FILTER(LANG(?description) = "en") }
       OPTIONAL { ?person schema:description ?descriptionZh. FILTER(LANG(?descriptionZh) = "zh") }
+      OPTIONAL { ?person schema:description ?descriptionHans. FILTER(LANG(?descriptionHans) = "zh-hans") }
       OPTIONAL { ?article schema:about ?person; schema:isPartOf <https://en.wikipedia.org/>; schema:name ?articleTitle. }
-    } GROUP BY ?person ?en ?zh ?description ?descriptionZh ?image ?articleTitle ?sitelinks`));
+    } GROUP BY ?person ?en ?zh ?description ?descriptionZh ?descriptionHans ?image ?articleTitle ?sitelinks`));
   }
   return details;
 }
 
 const names = Object.values(groups).flat();
 const values = names.map((name) => `${JSON.stringify(name)}@en`).join(" ");
-const selectedRows = await wikidata(`${prefix} SELECT ?person ?en ?zh ?description ?descriptionZh ?image ?articleTitle ?sitelinks (COUNT(DISTINCT ?child) AS ?children) WHERE {
+const selectedRows = await wikidata(`${prefix} SELECT ?person ?en ?zh ?description ?descriptionZh ?descriptionHans ?image ?articleTitle ?sitelinks (COUNT(DISTINCT ?child) AS ?children) WHERE {
   VALUES ?en { ${values} }
   ?person rdfs:label ?en; wdt:P40 ?child; wdt:P18 ?image; wikibase:sitelinks ?sitelinks.
   OPTIONAL { ?person rdfs:label ?zh. FILTER(LANG(?zh) = "zh") }
   OPTIONAL { ?person schema:description ?description. FILTER(LANG(?description) = "en") }
   OPTIONAL { ?person schema:description ?descriptionZh. FILTER(LANG(?descriptionZh) = "zh") }
+  OPTIONAL { ?person schema:description ?descriptionHans. FILTER(LANG(?descriptionHans) = "zh-hans") }
   OPTIONAL { ?article schema:about ?person; schema:isPartOf <https://en.wikipedia.org/>; schema:name ?articleTitle. }
-} GROUP BY ?person ?en ?zh ?description ?descriptionZh ?image ?articleTitle ?sitelinks`);
+} GROUP BY ?person ?en ?zh ?description ?descriptionZh ?descriptionHans ?image ?articleTitle ?sitelinks`);
 const selectedByName = new Map(selectedRows.map((row) => [row.en.value, row]));
 const missing = names.filter((name) => !selectedByName.has(name));
 if (missing.length) throw new Error(`Missing source-backed records: ${missing.join(", ")}`);
@@ -115,7 +117,7 @@ const generated = rows.map((row) => {
   const childrenCount = Number(row.children.value);
   const chineseName = row.zh?.value ?? displayName;
   const descriptor = row.description?.value ?? "East Asian historical figure";
-  const chineseDescriptor = fallbackZh[displayName] ?? row.descriptionZh?.value ?? descriptor;
+  const chineseDescriptor = fallbackZh[displayName] ?? row.descriptionHans?.value ?? row.descriptionZh?.value ?? descriptor;
   return {
     id: `east-asian-history-${slug(displayName)}-${row.person.value.split("/").pop().toLowerCase()}`,
     category: "east-asian-history", tags: [story, region], childrenCount, countType: "commonly-recorded", confidence: "medium",

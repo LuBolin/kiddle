@@ -1187,7 +1187,7 @@
       },
       "zh": {
         "displayName": "成吉思汗",
-        "descriptor": "第1任蒙古大汗、蒙古帝国开创者",
+        "descriptor": "蒙古帝国开创者",
         "countingRuleSummary": "15 名子女记录于维基数据。",
         "explanation": "引用的记录显示成吉思汗有15名子女。",
         "imageAlt": "成吉思汗肖像"
@@ -1232,100 +1232,10 @@
       },
       "zh": {
         "displayName": "孔子",
-        "descriptor": "中国古代思想家，儒家学派创始人",
+        "descriptor": "中国古代思想家",
         "countingRuleSummary": "2 名子女记录于维基数据。",
         "explanation": "引用的记录显示孔子有2名子女。",
         "imageAlt": "孔子肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-park-chung-hee-q14356",
-    "category": "east-asian-history",
-    "tags": [
-      "korean-history",
-      "korea"
-    ],
-    "childrenCount": 4,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Park_Chung_Hee_%28%EB%B0%95%EC%A0%95%ED%9D%AC%29_Presidential_Portrait.jpg/500px-Park_Chung_Hee_%28%EB%B0%95%EC%A0%95%ED%9D%AC%29_Presidential_Portrait.jpg",
-      "licence": "CC BY-SA 2.0",
-      "attribution": "Korea.net / Korean Culture and Information Service",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Park_Chung_Hee_(%EB%B0%95%EC%A0%95%ED%9D%AC)_Presidential_Portrait.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Park Chung-hee",
-        "url": "https://en.wikipedia.org/wiki/Park_Chung_Hee"
-      },
-      {
-        "title": "Wikidata — Park Chung-hee",
-        "url": "https://www.wikidata.org/entity/Q14356"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Park Chung-hee",
-        "descriptor": "3rd President of the Republic of Korea",
-        "countingRuleSummary": "4 children are recorded by Wikidata.",
-        "explanation": "Park Chung-hee has 4 children in the cited records.",
-        "imageAlt": "Portrait of Park Chung-hee"
-      },
-      "zh": {
-        "displayName": "朴正熙",
-        "descriptor": "前任大韓民國總統",
-        "countingRuleSummary": "4 名子女记录于维基数据。",
-        "explanation": "引用的记录显示朴正熙有4名子女。",
-        "imageAlt": "朴正熙肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-hu-jintao-q15029",
-    "category": "east-asian-history",
-    "tags": [
-      "republic-prc",
-      "china"
-    ],
-    "childrenCount": 2,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 5,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Hu_Jintao_at_White_House_2011.jpg/500px-Hu_Jintao_at_White_House_2011.jpg",
-      "licence": "Public domain",
-      "attribution": "Pete Souza",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hu_Jintao_at_White_House_2011.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Hu Jintao",
-        "url": "https://en.wikipedia.org/wiki/Hu_Jintao"
-      },
-      {
-        "title": "Wikidata — Hu Jintao",
-        "url": "https://www.wikidata.org/entity/Q15029"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Hu Jintao",
-        "descriptor": "former General Secretary of the Chinese Communist Party",
-        "countingRuleSummary": "2 children are recorded by Wikidata.",
-        "explanation": "Hu Jintao has 2 children in the cited records.",
-        "imageAlt": "Portrait of Hu Jintao"
-      },
-      "zh": {
-        "displayName": "胡锦涛",
-        "descriptor": "原中国共产党中央委员会总书记（2002—2012年）",
-        "countingRuleSummary": "2 名子女记录于维基数据。",
-        "explanation": "引用的记录显示胡锦涛有2名子女。",
-        "imageAlt": "胡锦涛肖像"
       }
     }
   },
@@ -1367,7 +1277,7 @@
       },
       "zh": {
         "displayName": "老子",
-        "descriptor": "中國春秋時代思想家",
+        "descriptor": "中国春秋时代思想家",
         "countingRuleSummary": "1 名子女记录于维基数据。",
         "explanation": "引用的记录显示老子有1名子女。",
         "imageAlt": "老子肖像"
@@ -1412,100 +1322,10 @@
       },
       "zh": {
         "displayName": "司馬遷",
-        "descriptor": "西漢史學家、文學家",
+        "descriptor": "西汉史学家、文学家",
         "countingRuleSummary": "2 名子女记录于维基数据。",
         "explanation": "引用的记录显示司馬遷有2名子女。",
         "imageAlt": "司馬遷肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-li-peng-q18301",
-    "category": "east-asian-history",
-    "tags": [
-      "republic-prc",
-      "china"
-    ],
-    "childrenCount": 3,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lipeng.jpg",
-      "licence": "CC BY-SA 2.0",
-      "attribution": "World Economic Forum from Cologny, Switzerland. cropped by Shizhao",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lipeng.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Li Peng",
-        "url": "https://en.wikipedia.org/wiki/Li_Peng"
-      },
-      {
-        "title": "Wikidata — Li Peng",
-        "url": "https://www.wikidata.org/entity/Q18301"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Li Peng",
-        "descriptor": "4th Premier of the People's Republic of China (1928–2019)",
-        "countingRuleSummary": "3 children are recorded by Wikidata.",
-        "explanation": "Li Peng has 3 children in the cited records.",
-        "imageAlt": "Portrait of Li Peng"
-      },
-      "zh": {
-        "displayName": "李鹏",
-        "descriptor": "第七、八届中华人民共和国国务院总理，第九届中华人民共和国全国人民代表大会常务委员会委员长",
-        "countingRuleSummary": "3 名子女记录于维基数据。",
-        "explanation": "引用的记录显示李鹏有3名子女。",
-        "imageAlt": "李鹏肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-moon-jae-in-q21001",
-    "category": "east-asian-history",
-    "tags": [
-      "korean-history",
-      "korea"
-    ],
-    "childrenCount": 2,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 5,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Moon_Jae-in%2C_Official_portrait_in_2017.png/500px-Moon_Jae-in%2C_Official_portrait_in_2017.png",
-      "licence": "KOGL Type 1",
-      "attribution": "Unknown author Unknown author",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moon_Jae-in,_Official_portrait_in_2017.png"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Moon Jae-in",
-        "url": "https://en.wikipedia.org/wiki/Moon_Jae-in"
-      },
-      {
-        "title": "Wikidata — Moon Jae-in",
-        "url": "https://www.wikidata.org/entity/Q21001"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Moon Jae-in",
-        "descriptor": "12th President of the Republic of Korea",
-        "countingRuleSummary": "2 children are recorded by Wikidata.",
-        "explanation": "Moon Jae-in has 2 children in the cited records.",
-        "imageAlt": "Portrait of Moon Jae-in"
-      },
-      "zh": {
-        "displayName": "文在寅",
-        "descriptor": "大韩民国第19任总统",
-        "countingRuleSummary": "2 名子女记录于维基数据。",
-        "explanation": "引用的记录显示文在寅有2名子女。",
-        "imageAlt": "文在寅肖像"
       }
     }
   },
@@ -1547,325 +1367,10 @@
       },
       "zh": {
         "displayName": "朱熹",
-        "descriptor": "中國南宋理學家 (1130–1200)",
+        "descriptor": "南宋理学家 (1130–1200)",
         "countingRuleSummary": "3 名子女记录于维基数据。",
         "explanation": "引用的记录显示朱熹有3名子女。",
         "imageAlt": "朱熹肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-ba-jin-q13005",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-classics",
-      "china"
-    ],
-    "childrenCount": 1,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/%E5%B7%B4%E9%87%911938.jpg",
-      "licence": "Public domain",
-      "attribution": "Unknown author Unknown author",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%B7%B4%E9%87%911938.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Ba Jin",
-        "url": "https://en.wikipedia.org/wiki/Ba_Jin"
-      },
-      {
-        "title": "Wikidata — Ba Jin",
-        "url": "https://www.wikidata.org/entity/Q13005"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Ba Jin",
-        "descriptor": "Chinese novelist and anarchist activist (1904-2005)",
-        "countingRuleSummary": "1 child is recorded by Wikidata.",
-        "explanation": "Ba Jin has 1 child in the cited records.",
-        "imageAlt": "Portrait of Ba Jin"
-      },
-      "zh": {
-        "displayName": "巴金",
-        "descriptor": "中國作家 (1904-2005)",
-        "countingRuleSummary": "1 名子女记录于维基数据。",
-        "explanation": "引用的记录显示巴金有1名子女。",
-        "imageAlt": "巴金肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-roh-moo-hyun-q14345",
-    "category": "east-asian-history",
-    "tags": [
-      "korean-history",
-      "korea"
-    ],
-    "childrenCount": 2,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Roh_Moo-hyun_presidential_portrait.jpg/500px-Roh_Moo-hyun_presidential_portrait.jpg",
-      "licence": "KOGL Type 1",
-      "attribution": "대한민국 국가기록원",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roh_Moo-hyun_presidential_portrait.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Roh Moo-hyun",
-        "url": "https://en.wikipedia.org/wiki/Roh_Moo-hyun"
-      },
-      {
-        "title": "Wikidata — Roh Moo-hyun",
-        "url": "https://www.wikidata.org/entity/Q14345"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Roh Moo-hyun",
-        "descriptor": "16th President of the Republic of Korea (1946–2009)",
-        "countingRuleSummary": "2 children are recorded by Wikidata.",
-        "explanation": "Roh Moo-hyun has 2 children in the cited records.",
-        "imageAlt": "Portrait of Roh Moo-hyun"
-      },
-      "zh": {
-        "displayName": "盧武鉉",
-        "descriptor": "大韓民國前任總統",
-        "countingRuleSummary": "2 名子女记录于维基数据。",
-        "explanation": "引用的记录显示盧武鉉有2名子女。",
-        "imageAlt": "盧武鉉肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-zhu-de-q22513",
-    "category": "east-asian-history",
-    "tags": [
-      "republic-prc",
-      "china"
-    ],
-    "childrenCount": 1,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Zhu_De%2C_Commander_of_PLA.jpg/500px-Zhu_De%2C_Commander_of_PLA.jpg",
-      "licence": "Public domain",
-      "attribution": "anonymous (Gov)",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zhu_De,_Commander_of_PLA.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Zhu De",
-        "url": "https://en.wikipedia.org/wiki/Zhu_De"
-      },
-      {
-        "title": "Wikidata — Zhu De",
-        "url": "https://www.wikidata.org/entity/Q22513"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Zhu De",
-        "descriptor": "Marshal of the People's Republic of China (1886－1976)",
-        "countingRuleSummary": "1 child is recorded by Wikidata.",
-        "explanation": "Zhu De has 1 child in the cited records.",
-        "imageAlt": "Portrait of Zhu De"
-      },
-      "zh": {
-        "displayName": "朱德",
-        "descriptor": "中华人民共和国元帅 (1886-1976)",
-        "countingRuleSummary": "1 名子女记录于维基数据。",
-        "explanation": "引用的记录显示朱德有1名子女。",
-        "imageAlt": "朱德肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-du-fu-q33772",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-classics",
-      "china"
-    ],
-    "childrenCount": 3,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 5,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dufu.jpg/500px-Dufu.jpg",
-      "licence": "Public domain",
-      "attribution": "Unknown author Unknown author",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dufu.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Du Fu",
-        "url": "https://en.wikipedia.org/wiki/Du_Fu"
-      },
-      {
-        "title": "Wikidata — Du Fu",
-        "url": "https://www.wikidata.org/entity/Q33772"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Du Fu",
-        "descriptor": "Tang dynasty Chinese poet (712–770)",
-        "countingRuleSummary": "3 children are recorded by Wikidata.",
-        "explanation": "Du Fu has 3 children in the cited records.",
-        "imageAlt": "Portrait of Du Fu"
-      },
-      "zh": {
-        "displayName": "杜甫",
-        "descriptor": "唐代詩人",
-        "countingRuleSummary": "3 名子女记录于维基数据。",
-        "explanation": "引用的记录显示杜甫有3名子女。",
-        "imageAlt": "杜甫肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-su-shi-q36020",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-classics",
-      "china"
-    ],
-    "childrenCount": 3,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Su_shi.jpg/500px-Su_shi.jpg",
-      "licence": "Public domain",
-      "attribution": "Zhao Mengfu",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Su_shi.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Su Shi",
-        "url": "https://en.wikipedia.org/wiki/Su_Shi"
-      },
-      {
-        "title": "Wikidata — Su Shi",
-        "url": "https://www.wikidata.org/entity/Q36020"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Su Shi",
-        "descriptor": "Chinese writer and politician (1037–1101)",
-        "countingRuleSummary": "3 children are recorded by Wikidata.",
-        "explanation": "Su Shi has 3 children in the cited records.",
-        "imageAlt": "Portrait of Su Shi"
-      },
-      "zh": {
-        "displayName": "蘇軾",
-        "descriptor": "中國宋朝文學家、政治家、藝術家",
-        "countingRuleSummary": "3 名子女记录于维基数据。",
-        "explanation": "引用的记录显示蘇軾有3名子女。",
-        "imageAlt": "蘇軾肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-sejong-the-great-q37682",
-    "category": "east-asian-history",
-    "tags": [
-      "korean-history",
-      "korea"
-    ],
-    "childrenCount": 22,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/10000_won_banknote_%28cropped%29.jpg/500px-10000_won_banknote_%28cropped%29.jpg",
-      "licence": "South Korean currency",
-      "attribution": "Bank of Korea",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:10000_won_banknote_(cropped).jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Sejong the Great",
-        "url": "https://en.wikipedia.org/wiki/Sejong_the_Great"
-      },
-      {
-        "title": "Wikidata — Sejong the Great",
-        "url": "https://www.wikidata.org/entity/Q37682"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Sejong the Great",
-        "descriptor": "fourth king of Joseon (Korea), creator of Hangul",
-        "countingRuleSummary": "22 children are recorded by Wikidata.",
-        "explanation": "Sejong the Great has 22 children in the cited records.",
-        "imageAlt": "Portrait of Sejong the Great"
-      },
-      "zh": {
-        "displayName": "朝鮮世宗",
-        "descriptor": "朝鮮王朝第4代國王",
-        "countingRuleSummary": "22 名子女记录于维基数据。",
-        "explanation": "引用的记录显示朝鮮世宗有22名子女。",
-        "imageAlt": "朝鮮世宗肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-kim-dae-jung-q45785",
-    "category": "east-asian-history",
-    "tags": [
-      "korean-history",
-      "korea"
-    ],
-    "childrenCount": 3,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kim_Dae-jung_presidential_portrait.jpg/500px-Kim_Dae-jung_presidential_portrait.jpg",
-      "licence": "KOGL Type 1",
-      "attribution": "대한민국 국가기록원",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Dae-jung_presidential_portrait.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Kim Dae-jung",
-        "url": "https://en.wikipedia.org/wiki/Kim_Dae-jung"
-      },
-      {
-        "title": "Wikidata — Kim Dae-jung",
-        "url": "https://www.wikidata.org/entity/Q45785"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Kim Dae-jung",
-        "descriptor": "8th President of the Republic of Korea (1924–2009)",
-        "countingRuleSummary": "3 children are recorded by Wikidata.",
-        "explanation": "Kim Dae-jung has 3 children in the cited records.",
-        "imageAlt": "Portrait of Kim Dae-jung"
-      },
-      "zh": {
-        "displayName": "金大中",
-        "descriptor": "大韓民國前任總統",
-        "countingRuleSummary": "3 名子女记录于维基数据。",
-        "explanation": "引用的记录显示金大中有3名子女。",
-        "imageAlt": "金大中肖像"
       }
     }
   },
@@ -1907,7 +1412,7 @@
       },
       "zh": {
         "displayName": "蔣中正",
-        "descriptor": "中華民國軍事及政治人物",
+        "descriptor": "中华民国政治人物及军事家、中华民国第1－5任总统",
         "countingRuleSummary": "2 名子女记录于维基数据。",
         "explanation": "引用的记录显示蔣中正有2名子女。",
         "imageAlt": "蔣中正肖像"
@@ -1927,10 +1432,10 @@
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Jiang_Zemin1.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Jiang_Zemin_2002.jpg",
       "licence": "CC BY 4.0",
-      "attribution": "Presidential Press and Information Office",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jiang_Zemin1.png"
+      "attribution": "Kremlin.ru / Roman Kubanskiy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jiang_Zemin_2002.jpg"
     },
     "sources": [
       {
@@ -1952,7 +1457,7 @@
       },
       "zh": {
         "displayName": "江澤民",
-        "descriptor": "原中国共产党中央委员会总书记（1989年–2002年）",
+        "descriptor": "原中国共产党中央委员会总书记",
         "countingRuleSummary": "2 名子女记录于维基数据。",
         "explanation": "引用的记录显示江澤民有2名子女。",
         "imageAlt": "江澤民肖像"
@@ -1997,7 +1502,7 @@
       },
       "zh": {
         "displayName": "邓小平",
-        "descriptor": "中国共产党第二代中央领导集体核心",
+        "descriptor": "中国政治人物，中国共产党第二代中央领导集体核心人物。",
         "countingRuleSummary": "4 名子女记录于维基数据。",
         "explanation": "引用的记录显示邓小平有4名子女。",
         "imageAlt": "邓小平肖像"
@@ -2042,10 +1547,235 @@
       },
       "zh": {
         "displayName": "劉少奇",
-        "descriptor": "首任中華人民共和國全國人民代表大會常務委員會委員長，第二任中華人民共和國主席",
+        "descriptor": "第二任中华人民共和国主席，第一任全国人民代表大会常务委员会委员长",
         "countingRuleSummary": "8 名子女记录于维基数据。",
         "explanation": "引用的记录显示劉少奇有8名子女。",
         "imageAlt": "劉少奇肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-li-peng-q18301",
+    "category": "east-asian-history",
+    "tags": [
+      "republic-prc",
+      "china"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lipeng.jpg",
+      "licence": "CC BY-SA 2.0",
+      "attribution": "World Economic Forum from Cologny, Switzerland. cropped by Shizhao",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lipeng.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Li Peng",
+        "url": "https://en.wikipedia.org/wiki/Li_Peng"
+      },
+      {
+        "title": "Wikidata — Li Peng",
+        "url": "https://www.wikidata.org/entity/Q18301"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Li Peng",
+        "descriptor": "4th Premier of the People's Republic of China (1928–2019)",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Li Peng has 3 children in the cited records.",
+        "imageAlt": "Portrait of Li Peng"
+      },
+      "zh": {
+        "displayName": "李鹏",
+        "descriptor": "前中华人民共和国国务院总理",
+        "countingRuleSummary": "3 名子女记录于维基数据。",
+        "explanation": "引用的记录显示李鹏有3名子女。",
+        "imageAlt": "李鹏肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-ba-jin-q13005",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-classics",
+      "china"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/%E5%B7%B4%E9%87%911938.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%B7%B4%E9%87%911938.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Ba Jin",
+        "url": "https://en.wikipedia.org/wiki/Ba_Jin"
+      },
+      {
+        "title": "Wikidata — Ba Jin",
+        "url": "https://www.wikidata.org/entity/Q13005"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Ba Jin",
+        "descriptor": "Chinese novelist and anarchist activist (1904-2005)",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Ba Jin has 1 child in the cited records.",
+        "imageAlt": "Portrait of Ba Jin"
+      },
+      "zh": {
+        "displayName": "巴金",
+        "descriptor": "中国作家 (1904-2005)",
+        "countingRuleSummary": "1 名子女记录于维基数据。",
+        "explanation": "引用的记录显示巴金有1名子女。",
+        "imageAlt": "巴金肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-roh-moo-hyun-q14345",
+    "category": "east-asian-history",
+    "tags": [
+      "korean-history",
+      "korea"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Roh_Moo-hyun_presidential_portrait.jpg/500px-Roh_Moo-hyun_presidential_portrait.jpg",
+      "licence": "KOGL Type 1",
+      "attribution": "대한민국 국가기록원",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roh_Moo-hyun_presidential_portrait.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Roh Moo-hyun",
+        "url": "https://en.wikipedia.org/wiki/Roh_Moo-hyun"
+      },
+      {
+        "title": "Wikidata — Roh Moo-hyun",
+        "url": "https://www.wikidata.org/entity/Q14345"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Roh Moo-hyun",
+        "descriptor": "16th President of the Republic of Korea (1946–2009)",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Roh Moo-hyun has 2 children in the cited records.",
+        "imageAlt": "Portrait of Roh Moo-hyun"
+      },
+      "zh": {
+        "displayName": "盧武鉉",
+        "descriptor": "已故前韩国总统",
+        "countingRuleSummary": "2 名子女记录于维基数据。",
+        "explanation": "引用的记录显示盧武鉉有2名子女。",
+        "imageAlt": "盧武鉉肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-park-chung-hee-q14356",
+    "category": "east-asian-history",
+    "tags": [
+      "korean-history",
+      "korea"
+    ],
+    "childrenCount": 4,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Park_Chung_Hee_%28%EB%B0%95%EC%A0%95%ED%9D%AC%29_Presidential_Portrait.jpg/500px-Park_Chung_Hee_%28%EB%B0%95%EC%A0%95%ED%9D%AC%29_Presidential_Portrait.jpg",
+      "licence": "CC BY-SA 2.0",
+      "attribution": "Korea.net / Korean Culture and Information Service",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Park_Chung_Hee_(%EB%B0%95%EC%A0%95%ED%9D%AC)_Presidential_Portrait.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Park Chung-hee",
+        "url": "https://en.wikipedia.org/wiki/Park_Chung_Hee"
+      },
+      {
+        "title": "Wikidata — Park Chung-hee",
+        "url": "https://www.wikidata.org/entity/Q14356"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Park Chung-hee",
+        "descriptor": "3rd President of the Republic of Korea",
+        "countingRuleSummary": "4 children are recorded by Wikidata.",
+        "explanation": "Park Chung-hee has 4 children in the cited records.",
+        "imageAlt": "Portrait of Park Chung-hee"
+      },
+      "zh": {
+        "displayName": "朴正熙",
+        "descriptor": "大韩民国前总统",
+        "countingRuleSummary": "4 名子女记录于维基数据。",
+        "explanation": "引用的记录显示朴正熙有4名子女。",
+        "imageAlt": "朴正熙肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-hu-jintao-q15029",
+    "category": "east-asian-history",
+    "tags": [
+      "republic-prc",
+      "china"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Hu_Jintao_at_White_House_2011.jpg/500px-Hu_Jintao_at_White_House_2011.jpg",
+      "licence": "Public domain",
+      "attribution": "Pete Souza",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hu_Jintao_at_White_House_2011.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Hu Jintao",
+        "url": "https://en.wikipedia.org/wiki/Hu_Jintao"
+      },
+      {
+        "title": "Wikidata — Hu Jintao",
+        "url": "https://www.wikidata.org/entity/Q15029"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Hu Jintao",
+        "descriptor": "former General Secretary of the Chinese Communist Party",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Hu Jintao has 2 children in the cited records.",
+        "imageAlt": "Portrait of Hu Jintao"
+      },
+      "zh": {
+        "displayName": "胡锦涛",
+        "descriptor": "中国共产党中央委员会原总书记",
+        "countingRuleSummary": "2 名子女记录于维基数据。",
+        "explanation": "引用的记录显示胡锦涛有2名子女。",
+        "imageAlt": "胡锦涛肖像"
       }
     }
   },
@@ -2087,7 +1817,7 @@
       },
       "zh": {
         "displayName": "毛泽东",
-        "descriptor": "中国共产党第一任中央委员会主席，中华人民共和国第一代最高领导人",
+        "descriptor": "中国共产党第一任中央委员会主席丶中华人民共和国第一代最高领导人（1893–1976）",
         "countingRuleSummary": "6 名子女记录于维基数据。",
         "explanation": "引用的记录显示毛泽东有6名子女。",
         "imageAlt": "毛泽东肖像"
@@ -2132,7 +1862,7 @@
       },
       "zh": {
         "displayName": "李白",
-        "descriptor": "唐代詩人",
+        "descriptor": "唐代诗人",
         "countingRuleSummary": "1 名子女记录于维基数据。",
         "explanation": "引用的记录显示李白有1名子女。",
         "imageAlt": "李白肖像"
@@ -2222,10 +1952,550 @@
       },
       "zh": {
         "displayName": "孫中山",
-        "descriptor": "中華民國國父",
+        "descriptor": "近代中国政治人物、革命家，中国国民党总理，中华民国国父（1866—1925）",
         "countingRuleSummary": "4 名子女记录于维基数据。",
         "explanation": "引用的记录显示孫中山有4名子女。",
         "imageAlt": "孫中山肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-kim-seong-su-q208203",
+    "category": "east-asian-history",
+    "tags": [
+      "korean-history",
+      "korea"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kim_Seong-Soo_1950.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Seong-Soo_1950.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Kim Seong-su",
+        "url": "https://en.wikipedia.org/wiki/Kim_Seong-su"
+      },
+      {
+        "title": "Wikidata — Kim Seong-su",
+        "url": "https://www.wikidata.org/entity/Q208203"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Kim Seong-su",
+        "descriptor": "South Korean educator, activist, journalist, entrepreneur and politician (1891-1955)",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Kim Seong-su has 3 children in the cited records.",
+        "imageAlt": "Portrait of Kim Seong-su"
+      },
+      "zh": {
+        "displayName": "金性洙",
+        "descriptor": "大韓民國政治人物",
+        "countingRuleSummary": "3 名子女记录于维基数据。",
+        "explanation": "引用的记录显示金性洙有3名子女。",
+        "imageAlt": "金性洙肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-gia-long-q210417",
+    "category": "east-asian-history",
+    "tags": [
+      "vietnamese-history",
+      "vietnam"
+    ],
+    "childrenCount": 26,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Emperor_Gia_Long.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author , restored by Nguyễn Phước Vĩnh Khánh ( [1] )",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Gia_Long.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Gia Long",
+        "url": "https://en.wikipedia.org/wiki/Gia_Long"
+      },
+      {
+        "title": "Wikidata — Gia Long",
+        "url": "https://www.wikidata.org/entity/Q210417"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Gia Long",
+        "descriptor": "founder and 1st emperor of the Nguyễn dynasty of Vietnam (r. 1802-04)",
+        "countingRuleSummary": "26 children are recorded by Wikidata.",
+        "explanation": "Gia Long has 26 children in the cited records.",
+        "imageAlt": "Portrait of Gia Long"
+      },
+      "zh": {
+        "displayName": "阮福映",
+        "descriptor": "越南阮朝开国皇帝",
+        "countingRuleSummary": "26 名子女记录于维基数据。",
+        "explanation": "引用的记录显示阮福映有26名子女。",
+        "imageAlt": "阮福映肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-kim-ku-q215737",
+    "category": "east-asian-history",
+    "tags": [
+      "korean-history",
+      "korea"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kim_Gu_in_1949.jpg/500px-Kim_Gu_in_1949.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Gu_in_1949.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Kim Ku",
+        "url": "https://en.wikipedia.org/wiki/Kim_Ku"
+      },
+      {
+        "title": "Wikidata — Kim Ku",
+        "url": "https://www.wikidata.org/entity/Q215737"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Kim Ku",
+        "descriptor": "Korean politician (1876–1949)",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Kim Ku has 2 children in the cited records.",
+        "imageAlt": "Portrait of Kim Ku"
+      },
+      "zh": {
+        "displayName": "金九",
+        "descriptor": "朝鲜半岛国父",
+        "countingRuleSummary": "2 名子女记录于维基数据。",
+        "explanation": "引用的记录显示金九有2名子女。",
+        "imageAlt": "金九肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-liu-bei-q245315",
+    "category": "east-asian-history",
+    "tags": [
+      "three-kingdoms",
+      "china"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Liu_Bei_Tang.jpg/500px-Liu_Bei_Tang.jpg",
+      "licence": "Public domain",
+      "attribution": "Yan Liben (閻立本)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Liu_Bei_Tang.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Liu Bei",
+        "url": "https://en.wikipedia.org/wiki/Liu_Bei"
+      },
+      {
+        "title": "Wikidata — Liu Bei",
+        "url": "https://www.wikidata.org/entity/Q245315"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Liu Bei",
+        "descriptor": "Chinese warlord and founding Emperor of Shu Han (161–223)",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Liu Bei has 3 children in the cited records.",
+        "imageAlt": "Portrait of Liu Bei"
+      },
+      "zh": {
+        "displayName": "劉備",
+        "descriptor": "三国时期蜀汉开国皇帝 (161–223)",
+        "countingRuleSummary": "3 名子女记录于维基数据。",
+        "explanation": "引用的记录显示劉備有3名子女。",
+        "imageAlt": "劉備肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-sun-quan-q313327",
+    "category": "east-asian-history",
+    "tags": [
+      "three-kingdoms",
+      "china"
+    ],
+    "childrenCount": 9,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sun_Quan_Tang.jpg/500px-Sun_Quan_Tang.jpg",
+      "licence": "Public domain",
+      "attribution": "Yan Liben",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sun_Quan_Tang.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Sun Quan",
+        "url": "https://en.wikipedia.org/wiki/Sun_Quan"
+      },
+      {
+        "title": "Wikidata — Sun Quan",
+        "url": "https://www.wikidata.org/entity/Q313327"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Sun Quan",
+        "descriptor": "Emperor of Eastern Wu during the Three Kingdoms period",
+        "countingRuleSummary": "9 children are recorded by Wikidata.",
+        "explanation": "Sun Quan has 9 children in the cited records.",
+        "imageAlt": "Portrait of Sun Quan"
+      },
+      "zh": {
+        "displayName": "孙权",
+        "descriptor": "东吴皇帝",
+        "countingRuleSummary": "9 名子女记录于维基数据。",
+        "explanation": "引用的记录显示孙权有9名子女。",
+        "imageAlt": "孙权肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-lao-she-q315167",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-classics",
+      "china"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/LaoShe.jpg/500px-LaoShe.jpg",
+      "licence": "Public domain",
+      "attribution": "Wikimedia Commons contributor",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LaoShe.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Lao She",
+        "url": "https://en.wikipedia.org/wiki/Lao_She"
+      },
+      {
+        "title": "Wikidata — Lao She",
+        "url": "https://www.wikidata.org/entity/Q315167"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Lao She",
+        "descriptor": "Chinese writer, novelist and playwright (1899-1966)",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Lao She has 2 children in the cited records.",
+        "imageAlt": "Portrait of Lao She"
+      },
+      "zh": {
+        "displayName": "老舍",
+        "descriptor": "中國作家（1899—1966）",
+        "countingRuleSummary": "2 名子女记录于维基数据。",
+        "explanation": "引用的记录显示老舍有2名子女。",
+        "imageAlt": "老舍肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-lin-biao-q315475",
+    "category": "east-asian-history",
+    "tags": [
+      "republic-prc",
+      "china"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lin_Biao.jpg",
+      "licence": "Public domain",
+      "attribution": "​《 解放军画报 》 记者 柳成行",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lin_Biao.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Lin Biao",
+        "url": "https://en.wikipedia.org/wiki/Lin_Biao"
+      },
+      {
+        "title": "Wikidata — Lin Biao",
+        "url": "https://www.wikidata.org/entity/Q315475"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Lin Biao",
+        "descriptor": "Chinese Communist military commander and politician",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Lin Biao has 3 children in the cited records.",
+        "imageAlt": "Portrait of Lin Biao"
+      },
+      "zh": {
+        "displayName": "林彪",
+        "descriptor": "中华人民共和国元帅",
+        "countingRuleSummary": "3 名子女记录于维基数据。",
+        "explanation": "引用的记录显示林彪有3名子女。",
+        "imageAlt": "林彪肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-wang-anshi-q319618",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-classics",
+      "china"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%90%8D%E4%BA%BA%E5%83%8F-29-%E5%AE%8B%E4%B8%9E%E7%9B%B8%E7%8E%8B%E8%8D%86%E5%85%AC%E5%AE%89%E7%9F%B3.jpg/500px-%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%90%8D%E4%BA%BA%E5%83%8F-29-%E5%AE%8B%E4%B8%9E%E7%9B%B8%E7%8E%8B%E8%8D%86%E5%85%AC%E5%AE%89%E7%9F%B3.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%90%8D%E4%BA%BA%E5%83%8F-29-%E5%AE%8B%E4%B8%9E%E7%9B%B8%E7%8E%8B%E8%8D%86%E5%85%AC%E5%AE%89%E7%9F%B3.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Wang Anshi",
+        "url": "https://en.wikipedia.org/wiki/Wang_Anshi"
+      },
+      {
+        "title": "Wikidata — Wang Anshi",
+        "url": "https://www.wikidata.org/entity/Q319618"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Wang Anshi",
+        "descriptor": "Song Dynasty chancellor and poet (1021-1086)",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Wang Anshi has 3 children in the cited records.",
+        "imageAlt": "Portrait of Wang Anshi"
+      },
+      "zh": {
+        "displayName": "王安石",
+        "descriptor": "中国宋朝的政治家、文学家、思想家（1021-1086）",
+        "countingRuleSummary": "3 名子女记录于维基数据。",
+        "explanation": "引用的记录显示王安石有3名子女。",
+        "imageAlt": "王安石肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-yue-fei-q334398",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-classics",
+      "china"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%E5%B2%B3%E9%A3%9B.jpg/500px-%E5%B2%B3%E9%A3%9B.jpg",
+      "licence": "CC BY-SA 4.0",
+      "attribution": "劉松年繪",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%B2%B3%E9%A3%9B.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Yue Fei",
+        "url": "https://en.wikipedia.org/wiki/Yue_Fei"
+      },
+      {
+        "title": "Wikidata — Yue Fei",
+        "url": "https://www.wikidata.org/entity/Q334398"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Yue Fei",
+        "descriptor": "Song dynasty general, killed by royal decree from the Emperor Gaozong of Song (1103–1142)",
+        "countingRuleSummary": "6 children are recorded by Wikidata.",
+        "explanation": "Yue Fei has 6 children in the cited records.",
+        "imageAlt": "Portrait of Yue Fei"
+      },
+      "zh": {
+        "displayName": "岳飞",
+        "descriptor": "北宋、南宋將領",
+        "countingRuleSummary": "6 名子女记录于维基数据。",
+        "explanation": "引用的记录显示岳飞有6名子女。",
+        "imageAlt": "岳飞肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-sima-yi-q353698",
+    "category": "east-asian-history",
+    "tags": [
+      "three-kingdoms",
+      "china"
+    ],
+    "childrenCount": 11,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%E9%AD%8F%C2%B7%E5%A4%AA%E5%82%85_%E5%8F%B8%E9%A6%AC%E6%87%BF.jpg/500px-%E9%AD%8F%C2%B7%E5%A4%AA%E5%82%85_%E5%8F%B8%E9%A6%AC%E6%87%BF.jpg",
+      "licence": "Public domain",
+      "attribution": "Ming Zhu Tianran",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%AD%8F%C2%B7%E5%A4%AA%E5%82%85_%E5%8F%B8%E9%A6%AC%E6%87%BF.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Sima Yi",
+        "url": "https://en.wikipedia.org/wiki/Sima_Yi"
+      },
+      {
+        "title": "Wikidata — Sima Yi",
+        "url": "https://www.wikidata.org/entity/Q353698"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Sima Yi",
+        "descriptor": "Chinese general, politician and regent (179-251)",
+        "countingRuleSummary": "11 children are recorded by Wikidata.",
+        "explanation": "Sima Yi has 11 children in the cited records.",
+        "imageAlt": "Portrait of Sima Yi"
+      },
+      "zh": {
+        "displayName": "司马懿",
+        "descriptor": "三國時期政治人物",
+        "countingRuleSummary": "11 名子女记录于维基数据。",
+        "explanation": "引用的记录显示司马懿有11名子女。",
+        "imageAlt": "司马懿肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-guo-moruo-q357821",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-classics",
+      "china"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/%E9%83%AD%E5%BC%80%E8%B4%9E.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%83%AD%E5%BC%80%E8%B4%9E.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Guo Moruo",
+        "url": "https://en.wikipedia.org/wiki/Guo_Moruo"
+      },
+      {
+        "title": "Wikidata — Guo Moruo",
+        "url": "https://www.wikidata.org/entity/Q357821"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Guo Moruo",
+        "descriptor": "Chinese writer (1892-1978)",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Guo Moruo has 2 children in the cited records.",
+        "imageAlt": "Portrait of Guo Moruo"
+      },
+      "zh": {
+        "displayName": "郭沫若",
+        "descriptor": "中國作家、歷史學家",
+        "countingRuleSummary": "2 名子女记录于维基数据。",
+        "explanation": "引用的记录显示郭沫若有2名子女。",
+        "imageAlt": "郭沫若肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-qi-baishi-q369608",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-classics",
+      "china"
+    ],
+    "childrenCount": 1,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Qi_Baishi_%281956%29%2C_by_Zheng_Jingkang.jpg/500px-Qi_Baishi_%281956%29%2C_by_Zheng_Jingkang.jpg",
+      "licence": "Public domain",
+      "attribution": "Zheng Jingkang",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qi_Baishi_(1956),_by_Zheng_Jingkang.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Qi Baishi",
+        "url": "https://en.wikipedia.org/wiki/Qi_Baishi"
+      },
+      {
+        "title": "Wikidata — Qi Baishi",
+        "url": "https://www.wikidata.org/entity/Q369608"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Qi Baishi",
+        "descriptor": "Chinese painter (1864-1957)",
+        "countingRuleSummary": "1 child is recorded by Wikidata.",
+        "explanation": "Qi Baishi has 1 child in the cited records.",
+        "imageAlt": "Portrait of Qi Baishi"
+      },
+      "zh": {
+        "displayName": "齐白石",
+        "descriptor": "中国著名国画家",
+        "countingRuleSummary": "1 名子女记录于维基数据。",
+        "explanation": "引用的记录显示齐白石有1名子女。",
+        "imageAlt": "齐白石肖像"
       }
     }
   },
@@ -2672,7 +2942,7 @@
       },
       "zh": {
         "displayName": "袁隆平",
-        "descriptor": "雜交水稻專家、中國工程院院士",
+        "descriptor": "中国工程院院士、杂交水稻专家（1930-2021）",
         "countingRuleSummary": "1 名子女记录于维基数据。",
         "explanation": "引用的记录显示袁隆平有1名子女。",
         "imageAlt": "袁隆平肖像"
@@ -2717,7 +2987,7 @@
       },
       "zh": {
         "displayName": "赵紫阳",
-        "descriptor": "中国共产党中央委员会原总书记，中华人民共和国第3任国务院总理",
+        "descriptor": "中国共产党中央委员会原总书记",
         "countingRuleSummary": "2 名子女记录于维基数据。",
         "explanation": "引用的记录显示赵紫阳有2名子女。",
         "imageAlt": "赵紫阳肖像"
@@ -3032,7 +3302,7 @@
       },
       "zh": {
         "displayName": "曹操",
-        "descriptor": "東漢末年的軍事家、政治家和詩人",
+        "descriptor": "东汉末年政治军事人物",
         "countingRuleSummary": "31 名子女记录于维基数据。",
         "explanation": "引用的记录显示曹操有31名子女。",
         "imageAlt": "曹操肖像"
@@ -3040,97 +3310,7 @@
     }
   },
   {
-    "id": "east-asian-history-kim-seong-su-q208203",
-    "category": "east-asian-history",
-    "tags": [
-      "korean-history",
-      "korea"
-    ],
-    "childrenCount": 3,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kim_Seong-Soo_1950.jpg",
-      "licence": "Public domain",
-      "attribution": "Unknown author Unknown author",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Seong-Soo_1950.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Kim Seong-su",
-        "url": "https://en.wikipedia.org/wiki/Kim_Seong-su"
-      },
-      {
-        "title": "Wikidata — Kim Seong-su",
-        "url": "https://www.wikidata.org/entity/Q208203"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Kim Seong-su",
-        "descriptor": "South Korean educator, activist, journalist, entrepreneur and politician (1891-1955)",
-        "countingRuleSummary": "3 children are recorded by Wikidata.",
-        "explanation": "Kim Seong-su has 3 children in the cited records.",
-        "imageAlt": "Portrait of Kim Seong-su"
-      },
-      "zh": {
-        "displayName": "金性洙",
-        "descriptor": "大韓民國政治人物",
-        "countingRuleSummary": "3 名子女记录于维基数据。",
-        "explanation": "引用的记录显示金性洙有3名子女。",
-        "imageAlt": "金性洙肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-gia-long-q210417",
-    "category": "east-asian-history",
-    "tags": [
-      "vietnamese-history",
-      "vietnam"
-    ],
-    "childrenCount": 26,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 3,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Emperor_Gia_Long.jpg",
-      "licence": "Public domain",
-      "attribution": "Unknown author Unknown author , restored by Nguyễn Phước Vĩnh Khánh ( [1] )",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Gia_Long.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Gia Long",
-        "url": "https://en.wikipedia.org/wiki/Gia_Long"
-      },
-      {
-        "title": "Wikidata — Gia Long",
-        "url": "https://www.wikidata.org/entity/Q210417"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Gia Long",
-        "descriptor": "founder and 1st emperor of the Nguyễn dynasty of Vietnam (r. 1802-04)",
-        "countingRuleSummary": "26 children are recorded by Wikidata.",
-        "explanation": "Gia Long has 26 children in the cited records.",
-        "imageAlt": "Portrait of Gia Long"
-      },
-      "zh": {
-        "displayName": "阮福映",
-        "descriptor": "越南阮朝开国皇帝",
-        "countingRuleSummary": "26 名子女记录于维基数据。",
-        "explanation": "引用的记录显示阮福映有26名子女。",
-        "imageAlt": "阮福映肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-kim-ku-q215737",
+    "id": "east-asian-history-moon-jae-in-q21001",
     "category": "east-asian-history",
     "tags": [
       "korean-history",
@@ -3139,443 +3319,263 @@
     "childrenCount": 2,
     "countType": "commonly-recorded",
     "confidence": "medium",
-    "recognisabilityScore": 4,
+    "recognisabilityScore": 5,
     "status": "active",
     "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kim_Gu_in_1949.jpg/500px-Kim_Gu_in_1949.jpg",
-      "licence": "Public domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Moon_Jae-in%2C_Official_portrait_in_2017.png/500px-Moon_Jae-in%2C_Official_portrait_in_2017.png",
+      "licence": "KOGL Type 1",
       "attribution": "Unknown author Unknown author",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Gu_in_1949.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moon_Jae-in,_Official_portrait_in_2017.png"
     },
     "sources": [
       {
-        "title": "Wikipedia — Kim Ku",
-        "url": "https://en.wikipedia.org/wiki/Kim_Ku"
+        "title": "Wikipedia — Moon Jae-in",
+        "url": "https://en.wikipedia.org/wiki/Moon_Jae-in"
       },
       {
-        "title": "Wikidata — Kim Ku",
-        "url": "https://www.wikidata.org/entity/Q215737"
+        "title": "Wikidata — Moon Jae-in",
+        "url": "https://www.wikidata.org/entity/Q21001"
       }
     ],
     "text": {
       "en": {
-        "displayName": "Kim Ku",
-        "descriptor": "Korean politician (1876–1949)",
+        "displayName": "Moon Jae-in",
+        "descriptor": "12th President of the Republic of Korea",
         "countingRuleSummary": "2 children are recorded by Wikidata.",
-        "explanation": "Kim Ku has 2 children in the cited records.",
-        "imageAlt": "Portrait of Kim Ku"
+        "explanation": "Moon Jae-in has 2 children in the cited records.",
+        "imageAlt": "Portrait of Moon Jae-in"
       },
       "zh": {
-        "displayName": "金九",
-        "descriptor": "朝鲜半岛国父",
+        "displayName": "文在寅",
+        "descriptor": "大韩民国大统领（总统）",
         "countingRuleSummary": "2 名子女记录于维基数据。",
-        "explanation": "引用的记录显示金九有2名子女。",
-        "imageAlt": "金九肖像"
+        "explanation": "引用的记录显示文在寅有2名子女。",
+        "imageAlt": "文在寅肖像"
       }
     }
   },
   {
-    "id": "east-asian-history-liu-bei-q245315",
-    "category": "east-asian-history",
-    "tags": [
-      "three-kingdoms",
-      "china"
-    ],
-    "childrenCount": 3,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Liu_Bei_Tang.jpg/500px-Liu_Bei_Tang.jpg",
-      "licence": "Public domain",
-      "attribution": "Yan Liben (閻立本)",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Liu_Bei_Tang.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Liu Bei",
-        "url": "https://en.wikipedia.org/wiki/Liu_Bei"
-      },
-      {
-        "title": "Wikidata — Liu Bei",
-        "url": "https://www.wikidata.org/entity/Q245315"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Liu Bei",
-        "descriptor": "Chinese warlord and founding Emperor of Shu Han (161–223)",
-        "countingRuleSummary": "3 children are recorded by Wikidata.",
-        "explanation": "Liu Bei has 3 children in the cited records.",
-        "imageAlt": "Portrait of Liu Bei"
-      },
-      "zh": {
-        "displayName": "劉備",
-        "descriptor": "中国三国时期政治家、军事家、蜀汉开国皇帝",
-        "countingRuleSummary": "3 名子女记录于维基数据。",
-        "explanation": "引用的记录显示劉備有3名子女。",
-        "imageAlt": "劉備肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-sun-quan-q313327",
-    "category": "east-asian-history",
-    "tags": [
-      "three-kingdoms",
-      "china"
-    ],
-    "childrenCount": 9,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sun_Quan_Tang.jpg/500px-Sun_Quan_Tang.jpg",
-      "licence": "Public domain",
-      "attribution": "Yan Liben",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sun_Quan_Tang.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Sun Quan",
-        "url": "https://en.wikipedia.org/wiki/Sun_Quan"
-      },
-      {
-        "title": "Wikidata — Sun Quan",
-        "url": "https://www.wikidata.org/entity/Q313327"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Sun Quan",
-        "descriptor": "Emperor of Eastern Wu during the Three Kingdoms period",
-        "countingRuleSummary": "9 children are recorded by Wikidata.",
-        "explanation": "Sun Quan has 9 children in the cited records.",
-        "imageAlt": "Portrait of Sun Quan"
-      },
-      "zh": {
-        "displayName": "孙权",
-        "descriptor": "東吳皇帝",
-        "countingRuleSummary": "9 名子女记录于维基数据。",
-        "explanation": "引用的记录显示孙权有9名子女。",
-        "imageAlt": "孙权肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-lao-she-q315167",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-classics",
-      "china"
-    ],
-    "childrenCount": 2,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/LaoShe.jpg/500px-LaoShe.jpg",
-      "licence": "Public domain",
-      "attribution": "Wikimedia Commons contributor",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LaoShe.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Lao She",
-        "url": "https://en.wikipedia.org/wiki/Lao_She"
-      },
-      {
-        "title": "Wikidata — Lao She",
-        "url": "https://www.wikidata.org/entity/Q315167"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Lao She",
-        "descriptor": "Chinese writer, novelist and playwright (1899-1966)",
-        "countingRuleSummary": "2 children are recorded by Wikidata.",
-        "explanation": "Lao She has 2 children in the cited records.",
-        "imageAlt": "Portrait of Lao She"
-      },
-      "zh": {
-        "displayName": "老舍",
-        "descriptor": "中國作家（1899—1966）",
-        "countingRuleSummary": "2 名子女记录于维基数据。",
-        "explanation": "引用的记录显示老舍有2名子女。",
-        "imageAlt": "老舍肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-lin-biao-q315475",
+    "id": "east-asian-history-zhu-de-q22513",
     "category": "east-asian-history",
     "tags": [
       "republic-prc",
       "china"
     ],
-    "childrenCount": 3,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lin_Biao.jpg",
-      "licence": "Public domain",
-      "attribution": "​《 解放军画报 》 记者 柳成行",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lin_Biao.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Lin Biao",
-        "url": "https://en.wikipedia.org/wiki/Lin_Biao"
-      },
-      {
-        "title": "Wikidata — Lin Biao",
-        "url": "https://www.wikidata.org/entity/Q315475"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Lin Biao",
-        "descriptor": "Chinese Communist military commander and politician",
-        "countingRuleSummary": "3 children are recorded by Wikidata.",
-        "explanation": "Lin Biao has 3 children in the cited records.",
-        "imageAlt": "Portrait of Lin Biao"
-      },
-      "zh": {
-        "displayName": "林彪",
-        "descriptor": "中华人民共和国元帅（排名第三）",
-        "countingRuleSummary": "3 名子女记录于维基数据。",
-        "explanation": "引用的记录显示林彪有3名子女。",
-        "imageAlt": "林彪肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-wang-anshi-q319618",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-classics",
-      "china"
-    ],
-    "childrenCount": 3,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%90%8D%E4%BA%BA%E5%83%8F-29-%E5%AE%8B%E4%B8%9E%E7%9B%B8%E7%8E%8B%E8%8D%86%E5%85%AC%E5%AE%89%E7%9F%B3.jpg/500px-%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%90%8D%E4%BA%BA%E5%83%8F-29-%E5%AE%8B%E4%B8%9E%E7%9B%B8%E7%8E%8B%E8%8D%86%E5%85%AC%E5%AE%89%E7%9F%B3.jpg",
-      "licence": "Public domain",
-      "attribution": "Unknown author Unknown author",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%90%8D%E4%BA%BA%E5%83%8F-29-%E5%AE%8B%E4%B8%9E%E7%9B%B8%E7%8E%8B%E8%8D%86%E5%85%AC%E5%AE%89%E7%9F%B3.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Wang Anshi",
-        "url": "https://en.wikipedia.org/wiki/Wang_Anshi"
-      },
-      {
-        "title": "Wikidata — Wang Anshi",
-        "url": "https://www.wikidata.org/entity/Q319618"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Wang Anshi",
-        "descriptor": "Song Dynasty chancellor and poet (1021-1086)",
-        "countingRuleSummary": "3 children are recorded by Wikidata.",
-        "explanation": "Wang Anshi has 3 children in the cited records.",
-        "imageAlt": "Portrait of Wang Anshi"
-      },
-      "zh": {
-        "displayName": "王安石",
-        "descriptor": "中国宋朝的政治家、文学家、思想家（1021-1086）",
-        "countingRuleSummary": "3 名子女记录于维基数据。",
-        "explanation": "引用的记录显示王安石有3名子女。",
-        "imageAlt": "王安石肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-yue-fei-q334398",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-classics",
-      "china"
-    ],
-    "childrenCount": 6,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 3,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%E5%B2%B3%E9%A3%9B.jpg/500px-%E5%B2%B3%E9%A3%9B.jpg",
-      "licence": "CC BY-SA 4.0",
-      "attribution": "劉松年繪",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%B2%B3%E9%A3%9B.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Yue Fei",
-        "url": "https://en.wikipedia.org/wiki/Yue_Fei"
-      },
-      {
-        "title": "Wikidata — Yue Fei",
-        "url": "https://www.wikidata.org/entity/Q334398"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Yue Fei",
-        "descriptor": "Song dynasty general, killed by royal decree from the Emperor Gaozong of Song (1103–1142)",
-        "countingRuleSummary": "6 children are recorded by Wikidata.",
-        "explanation": "Yue Fei has 6 children in the cited records.",
-        "imageAlt": "Portrait of Yue Fei"
-      },
-      "zh": {
-        "displayName": "岳飞",
-        "descriptor": "北宋、南宋將領",
-        "countingRuleSummary": "6 名子女记录于维基数据。",
-        "explanation": "引用的记录显示岳飞有6名子女。",
-        "imageAlt": "岳飞肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-sima-yi-q353698",
-    "category": "east-asian-history",
-    "tags": [
-      "three-kingdoms",
-      "china"
-    ],
-    "childrenCount": 11,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 3,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%E9%AD%8F%C2%B7%E5%A4%AA%E5%82%85_%E5%8F%B8%E9%A6%AC%E6%87%BF.jpg/500px-%E9%AD%8F%C2%B7%E5%A4%AA%E5%82%85_%E5%8F%B8%E9%A6%AC%E6%87%BF.jpg",
-      "licence": "Public domain",
-      "attribution": "Ming Zhu Tianran",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%AD%8F%C2%B7%E5%A4%AA%E5%82%85_%E5%8F%B8%E9%A6%AC%E6%87%BF.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Sima Yi",
-        "url": "https://en.wikipedia.org/wiki/Sima_Yi"
-      },
-      {
-        "title": "Wikidata — Sima Yi",
-        "url": "https://www.wikidata.org/entity/Q353698"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Sima Yi",
-        "descriptor": "Chinese general, politician and regent (179-251)",
-        "countingRuleSummary": "11 children are recorded by Wikidata.",
-        "explanation": "Sima Yi has 11 children in the cited records.",
-        "imageAlt": "Portrait of Sima Yi"
-      },
-      "zh": {
-        "displayName": "司马懿",
-        "descriptor": "三國時期政治人物",
-        "countingRuleSummary": "11 名子女记录于维基数据。",
-        "explanation": "引用的记录显示司马懿有11名子女。",
-        "imageAlt": "司马懿肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-guo-moruo-q357821",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-classics",
-      "china"
-    ],
-    "childrenCount": 2,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/%E9%83%AD%E5%BC%80%E8%B4%9E.jpg",
-      "licence": "Public domain",
-      "attribution": "Unknown author Unknown author",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%83%AD%E5%BC%80%E8%B4%9E.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Guo Moruo",
-        "url": "https://en.wikipedia.org/wiki/Guo_Moruo"
-      },
-      {
-        "title": "Wikidata — Guo Moruo",
-        "url": "https://www.wikidata.org/entity/Q357821"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Guo Moruo",
-        "descriptor": "Chinese writer (1892-1978)",
-        "countingRuleSummary": "2 children are recorded by Wikidata.",
-        "explanation": "Guo Moruo has 2 children in the cited records.",
-        "imageAlt": "Portrait of Guo Moruo"
-      },
-      "zh": {
-        "displayName": "郭沫若",
-        "descriptor": "中國作家、歷史學家",
-        "countingRuleSummary": "2 名子女记录于维基数据。",
-        "explanation": "引用的记录显示郭沫若有2名子女。",
-        "imageAlt": "郭沫若肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-qi-baishi-q369608",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-classics",
-      "china"
-    ],
     "childrenCount": 1,
     "countType": "commonly-recorded",
     "confidence": "medium",
-    "recognisabilityScore": 3,
+    "recognisabilityScore": 4,
     "status": "active",
     "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Qi_Baishi_%281956%29%2C_by_Zheng_Jingkang.jpg/500px-Qi_Baishi_%281956%29%2C_by_Zheng_Jingkang.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Zhu_De%2C_Commander_of_PLA.jpg/500px-Zhu_De%2C_Commander_of_PLA.jpg",
       "licence": "Public domain",
-      "attribution": "Zheng Jingkang",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qi_Baishi_(1956),_by_Zheng_Jingkang.jpg"
+      "attribution": "anonymous (Gov)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zhu_De,_Commander_of_PLA.jpg"
     },
     "sources": [
       {
-        "title": "Wikipedia — Qi Baishi",
-        "url": "https://en.wikipedia.org/wiki/Qi_Baishi"
+        "title": "Wikipedia — Zhu De",
+        "url": "https://en.wikipedia.org/wiki/Zhu_De"
       },
       {
-        "title": "Wikidata — Qi Baishi",
-        "url": "https://www.wikidata.org/entity/Q369608"
+        "title": "Wikidata — Zhu De",
+        "url": "https://www.wikidata.org/entity/Q22513"
       }
     ],
     "text": {
       "en": {
-        "displayName": "Qi Baishi",
-        "descriptor": "Chinese painter (1864-1957)",
+        "displayName": "Zhu De",
+        "descriptor": "Marshal of the People's Republic of China (1886－1976)",
         "countingRuleSummary": "1 child is recorded by Wikidata.",
-        "explanation": "Qi Baishi has 1 child in the cited records.",
-        "imageAlt": "Portrait of Qi Baishi"
+        "explanation": "Zhu De has 1 child in the cited records.",
+        "imageAlt": "Portrait of Zhu De"
       },
       "zh": {
-        "displayName": "齐白石",
-        "descriptor": "中国著名国画家",
+        "displayName": "朱德",
+        "descriptor": "中华人民共和国元帅 (1886-1976)",
         "countingRuleSummary": "1 名子女记录于维基数据。",
-        "explanation": "引用的记录显示齐白石有1名子女。",
-        "imageAlt": "齐白石肖像"
+        "explanation": "引用的记录显示朱德有1名子女。",
+        "imageAlt": "朱德肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-du-fu-q33772",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-classics",
+      "china"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dufu.jpg/500px-Dufu.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dufu.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Du Fu",
+        "url": "https://en.wikipedia.org/wiki/Du_Fu"
+      },
+      {
+        "title": "Wikidata — Du Fu",
+        "url": "https://www.wikidata.org/entity/Q33772"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Du Fu",
+        "descriptor": "Tang dynasty Chinese poet (712–770)",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Du Fu has 3 children in the cited records.",
+        "imageAlt": "Portrait of Du Fu"
+      },
+      "zh": {
+        "displayName": "杜甫",
+        "descriptor": "唐代诗人",
+        "countingRuleSummary": "3 名子女记录于维基数据。",
+        "explanation": "引用的记录显示杜甫有3名子女。",
+        "imageAlt": "杜甫肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-su-shi-q36020",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-classics",
+      "china"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Su_shi.jpg/500px-Su_shi.jpg",
+      "licence": "Public domain",
+      "attribution": "Zhao Mengfu",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Su_shi.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Su Shi",
+        "url": "https://en.wikipedia.org/wiki/Su_Shi"
+      },
+      {
+        "title": "Wikidata — Su Shi",
+        "url": "https://www.wikidata.org/entity/Q36020"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Su Shi",
+        "descriptor": "Chinese writer and politician (1037–1101)",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Su Shi has 3 children in the cited records.",
+        "imageAlt": "Portrait of Su Shi"
+      },
+      "zh": {
+        "displayName": "蘇軾",
+        "descriptor": "北宋文学家",
+        "countingRuleSummary": "3 名子女记录于维基数据。",
+        "explanation": "引用的记录显示蘇軾有3名子女。",
+        "imageAlt": "蘇軾肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-sejong-the-great-q37682",
+    "category": "east-asian-history",
+    "tags": [
+      "korean-history",
+      "korea"
+    ],
+    "childrenCount": 22,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/10000_won_banknote_%28cropped%29.jpg/500px-10000_won_banknote_%28cropped%29.jpg",
+      "licence": "South Korean currency",
+      "attribution": "Bank of Korea",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:10000_won_banknote_(cropped).jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Sejong the Great",
+        "url": "https://en.wikipedia.org/wiki/Sejong_the_Great"
+      },
+      {
+        "title": "Wikidata — Sejong the Great",
+        "url": "https://www.wikidata.org/entity/Q37682"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Sejong the Great",
+        "descriptor": "fourth king of Joseon (Korea), creator of Hangul",
+        "countingRuleSummary": "22 children are recorded by Wikidata.",
+        "explanation": "Sejong the Great has 22 children in the cited records.",
+        "imageAlt": "Portrait of Sejong the Great"
+      },
+      "zh": {
+        "displayName": "朝鮮世宗",
+        "descriptor": "朝鮮王朝第4代國王",
+        "countingRuleSummary": "22 名子女记录于维基数据。",
+        "explanation": "引用的记录显示朝鮮世宗有22名子女。",
+        "imageAlt": "朝鮮世宗肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-kim-dae-jung-q45785",
+    "category": "east-asian-history",
+    "tags": [
+      "korean-history",
+      "korea"
+    ],
+    "childrenCount": 3,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Kim_Dae-jung_presidential_portrait.jpg/500px-Kim_Dae-jung_presidential_portrait.jpg",
+      "licence": "KOGL Type 1",
+      "attribution": "대한민국 국가기록원",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Dae-jung_presidential_portrait.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Kim Dae-jung",
+        "url": "https://en.wikipedia.org/wiki/Kim_Dae-jung"
+      },
+      {
+        "title": "Wikidata — Kim Dae-jung",
+        "url": "https://www.wikidata.org/entity/Q45785"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Kim Dae-jung",
+        "descriptor": "8th President of the Republic of Korea (1924–2009)",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Kim Dae-jung has 3 children in the cited records.",
+        "imageAlt": "Portrait of Kim Dae-jung"
+      },
+      "zh": {
+        "displayName": "金大中",
+        "descriptor": "大韩民国政治人物",
+        "countingRuleSummary": "3 名子女记录于维基数据。",
+        "explanation": "引用的记录显示金大中有3名子女。",
+        "imageAlt": "金大中肖像"
       }
     }
   },
@@ -3592,10 +3592,10 @@
     "recognisabilityScore": 5,
     "status": "active",
     "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Qinshihuangdi3.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Qinshihuang.jpg/500px-Qinshihuang.jpg",
       "licence": "Public domain",
-      "attribution": "Wikimedia Commons contributor",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qinshihuangdi3.jpg"
+      "attribution": "Unknown artist Unknown artist",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qinshihuang.jpg"
     },
     "sources": [
       {
@@ -3617,100 +3617,10 @@
       },
       "zh": {
         "displayName": "秦始皇",
-        "descriptor": "中国秦朝开国皇帝、中国历史上首位皇帝",
+        "descriptor": "中国历史上第一位使用“皇帝”称号的封建君主",
         "countingRuleSummary": "6 名子女记录于维基数据。",
         "explanation": "引用的记录显示秦始皇有6名子女。",
         "imageAlt": "秦始皇肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-kublai-khan-q7523",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-emperors",
-      "china"
-    ],
-    "childrenCount": 24,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 5,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/YuanEmperorAlbumKhubilaiPortrait.jpg/500px-YuanEmperorAlbumKhubilaiPortrait.jpg",
-      "licence": "Public domain",
-      "attribution": "Araniko",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:YuanEmperorAlbumKhubilaiPortrait.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Kublai Khan",
-        "url": "https://en.wikipedia.org/wiki/Kublai_Khan"
-      },
-      {
-        "title": "Wikidata — Kublai Khan",
-        "url": "https://www.wikidata.org/entity/Q7523"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Kublai Khan",
-        "descriptor": "founding emperor of the Yuan dynasty, grandson of Genghis Khan (1215–1294)",
-        "countingRuleSummary": "24 children are recorded by Wikidata.",
-        "explanation": "Kublai Khan has 24 children in the cited records.",
-        "imageAlt": "Portrait of Kublai Khan"
-      },
-      "zh": {
-        "displayName": "忽必烈",
-        "descriptor": "中国元朝开国皇帝",
-        "countingRuleSummary": "24 名子女记录于维基数据。",
-        "explanation": "引用的记录显示忽必烈有24名子女。",
-        "imageAlt": "忽必烈肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-toghon-temur-q8666",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-emperors",
-      "china"
-    ],
-    "childrenCount": 3,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Toghon_Temur.png/500px-Toghon_Temur.png",
-      "licence": "Public domain",
-      "attribution": "Unknown author Unknown author",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toghon_Temur.png"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Toghon Temür",
-        "url": "https://en.wikipedia.org/wiki/Toghon_Tem%C3%BCr"
-      },
-      {
-        "title": "Wikidata — Toghon Temür",
-        "url": "https://www.wikidata.org/entity/Q8666"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Toghon Temür",
-        "descriptor": "Yuan and Northern Yuan emperor from 1333 to 1370",
-        "countingRuleSummary": "3 children are recorded by Wikidata.",
-        "explanation": "Toghon Temür has 3 children in the cited records.",
-        "imageAlt": "Portrait of Toghon Temür"
-      },
-      "zh": {
-        "displayName": "元順帝",
-        "descriptor": "元朝第11位皇帝",
-        "countingRuleSummary": "3 名子女记录于维基数据。",
-        "explanation": "引用的记录显示元順帝有3名子女。",
-        "imageAlt": "元順帝肖像"
       }
     }
   },
@@ -3752,7 +3662,7 @@
       },
       "zh": {
         "displayName": "刘邦",
-        "descriptor": "中国汉朝开国皇帝",
+        "descriptor": "西汉开国皇帝",
         "countingRuleSummary": "9 名子女记录于维基数据。",
         "explanation": "引用的记录显示刘邦有9名子女。",
         "imageAlt": "刘邦肖像"
@@ -3797,7 +3707,7 @@
       },
       "zh": {
         "displayName": "漢武帝",
-        "descriptor": "中国汉朝（西汉）皇帝",
+        "descriptor": "中国汉朝皇帝",
         "countingRuleSummary": "12 名子女记录于维基数据。",
         "explanation": "引用的记录显示漢武帝有12名子女。",
         "imageAlt": "漢武帝肖像"
@@ -3805,47 +3715,407 @@
     }
   },
   {
-    "id": "east-asian-history-xianfeng-emperor-q334452",
+    "id": "east-asian-history-toghon-temur-q8666",
     "category": "east-asian-history",
     "tags": [
       "chinese-emperors",
       "china"
     ],
-    "childrenCount": 3,
+    "childrenCount": 5,
     "countType": "commonly-recorded",
     "confidence": "medium",
     "recognisabilityScore": 4,
     "status": "active",
     "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/%E3%80%8A%E5%92%B8%E4%B8%B0%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg/500px-%E3%80%8A%E5%92%B8%E4%B8%B0%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Toghon_Temur.png/500px-Toghon_Temur.png",
       "licence": "Public domain",
-      "attribution": "Qing Dynasty Court Painter",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E3%80%8A%E5%92%B8%E4%B8%B0%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg"
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toghon_Temur.png"
     },
     "sources": [
       {
-        "title": "Wikipedia — Xianfeng Emperor",
-        "url": "https://en.wikipedia.org/wiki/Xianfeng_Emperor"
+        "title": "Wikipedia — Toghon Temür",
+        "url": "https://en.wikipedia.org/wiki/Toghon_Tem%C3%BCr"
       },
       {
-        "title": "Wikidata — Xianfeng Emperor",
-        "url": "https://www.wikidata.org/entity/Q334452"
+        "title": "Wikidata — Toghon Temür",
+        "url": "https://www.wikidata.org/entity/Q8666"
       }
     ],
     "text": {
       "en": {
-        "displayName": "Xianfeng Emperor",
-        "descriptor": "The ninth emperor (and the seventh after defeating Ming) of the Qing Dynasty (1831-1861)",
-        "countingRuleSummary": "3 children are recorded by Wikidata.",
-        "explanation": "Xianfeng Emperor has 3 children in the cited records.",
-        "imageAlt": "Portrait of Xianfeng Emperor"
+        "displayName": "Toghon Temür",
+        "descriptor": "Yuan and Northern Yuan emperor from 1333 to 1370",
+        "countingRuleSummary": "5 children are recorded by Wikidata.",
+        "explanation": "Toghon Temür has 5 children in the cited records.",
+        "imageAlt": "Portrait of Toghon Temür"
       },
       "zh": {
-        "displayName": "咸丰帝",
-        "descriptor": "中国清朝皇帝",
-        "countingRuleSummary": "3 名子女记录于维基数据。",
-        "explanation": "引用的记录显示咸丰帝有3名子女。",
-        "imageAlt": "咸丰帝肖像"
+        "displayName": "元順帝",
+        "descriptor": "元朝皇帝",
+        "countingRuleSummary": "5 名子女记录于维基数据。",
+        "explanation": "引用的记录显示元順帝有5名子女。",
+        "imageAlt": "元順帝肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-kublai-khan-q7523",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-emperors",
+      "china"
+    ],
+    "childrenCount": 26,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 5,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/YuanEmperorAlbumKhubilaiPortrait.jpg/500px-YuanEmperorAlbumKhubilaiPortrait.jpg",
+      "licence": "Public domain",
+      "attribution": "Araniko",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:YuanEmperorAlbumKhubilaiPortrait.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Kublai Khan",
+        "url": "https://en.wikipedia.org/wiki/Kublai_Khan"
+      },
+      {
+        "title": "Wikidata — Kublai Khan",
+        "url": "https://www.wikidata.org/entity/Q7523"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Kublai Khan",
+        "descriptor": "founding emperor of the Yuan dynasty, grandson of Genghis Khan (1215–1294)",
+        "countingRuleSummary": "26 children are recorded by Wikidata.",
+        "explanation": "Kublai Khan has 26 children in the cited records.",
+        "imageAlt": "Portrait of Kublai Khan"
+      },
+      "zh": {
+        "displayName": "忽必烈",
+        "descriptor": "元朝皇帝",
+        "countingRuleSummary": "26 名子女记录于维基数据。",
+        "explanation": "引用的记录显示忽必烈有26名子女。",
+        "imageAlt": "忽必烈肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-gaozu-of-tang-q9700",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-emperors",
+      "china"
+    ],
+    "childrenCount": 41,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TangGaozu.jpg/500px-TangGaozu.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TangGaozu.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Gaozu of Tang",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Tang"
+      },
+      {
+        "title": "Wikidata — Emperor Gaozu of Tang",
+        "url": "https://www.wikidata.org/entity/Q9700"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Emperor Gaozu of Tang",
+        "descriptor": "Founding emperor of the Tang Dynasty (566-635) (r. 618–626)",
+        "countingRuleSummary": "41 children are recorded by Wikidata.",
+        "explanation": "Emperor Gaozu of Tang has 41 children in the cited records.",
+        "imageAlt": "Portrait of Emperor Gaozu of Tang"
+      },
+      "zh": {
+        "displayName": "李淵",
+        "descriptor": "唐朝开国皇帝",
+        "countingRuleSummary": "41 名子女记录于维基数据。",
+        "explanation": "引用的记录显示李淵有41名子女。",
+        "imageAlt": "李淵肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-taizong-of-tang-q9701",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-emperors",
+      "china"
+    ],
+    "childrenCount": 35,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/TangTaizong.jpg/500px-TangTaizong.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown artist Unknown artist",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TangTaizong.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Taizong of Tang",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Taizong_of_Tang"
+      },
+      {
+        "title": "Wikidata — Emperor Taizong of Tang",
+        "url": "https://www.wikidata.org/entity/Q9701"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Emperor Taizong of Tang",
+        "descriptor": "Chinese emperor of the Tang Dynasty (598-649) (r. 626-649)",
+        "countingRuleSummary": "35 children are recorded by Wikidata.",
+        "explanation": "Emperor Taizong of Tang has 35 children in the cited records.",
+        "imageAlt": "Portrait of Emperor Taizong of Tang"
+      },
+      "zh": {
+        "displayName": "唐太宗",
+        "descriptor": "唐朝第二任皇帝，中国杰出的政治家，军事家。开创了中国历史上著名的“贞观之治”。",
+        "countingRuleSummary": "35 名子女记录于维基数据。",
+        "explanation": "引用的记录显示唐太宗有35名子女。",
+        "imageAlt": "唐太宗肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-wu-zetian-q9738",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-emperors",
+      "china"
+    ],
+    "childrenCount": 6,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_%28%E5%B1%80%E9%83%A8%29_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png/500px-%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_%28%E5%B1%80%E9%83%A8%29_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png",
+      "licence": "Public domain",
+      "attribution": "Likely to be Zhang Xuan (张萱)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_(%E5%B1%80%E9%83%A8)_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Wu Zetian",
+        "url": "https://en.wikipedia.org/wiki/Wu_Zetian"
+      },
+      {
+        "title": "Wikidata — Wu Zetian",
+        "url": "https://www.wikidata.org/entity/Q9738"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Wu Zetian",
+        "descriptor": "founding empress of Zhou dynasty (r. 690–705); de facto ruler of Tang dynasty from 665 to 690",
+        "countingRuleSummary": "6 children are recorded by Wikidata.",
+        "explanation": "Wu Zetian has 6 children in the cited records.",
+        "imageAlt": "Portrait of Wu Zetian"
+      },
+      "zh": {
+        "displayName": "武則天",
+        "descriptor": "武周皇帝，中國史上唯一的女皇",
+        "countingRuleSummary": "6 名子女记录于维基数据。",
+        "explanation": "引用的记录显示武則天有6名子女。",
+        "imageAlt": "武則天肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-xuanzong-of-tang-q9746",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-emperors",
+      "china"
+    ],
+    "childrenCount": 54,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg/500px-%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Xuanzong of Tang",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Xuanzong_of_Tang"
+      },
+      {
+        "title": "Wikidata — Emperor Xuanzong of Tang",
+        "url": "https://www.wikidata.org/entity/Q9746"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Emperor Xuanzong of Tang",
+        "descriptor": "7th emperor of the Tang dynasty, reigning from 713 to 756 CE",
+        "countingRuleSummary": "54 children are recorded by Wikidata.",
+        "explanation": "Emperor Xuanzong of Tang has 54 children in the cited records.",
+        "imageAlt": "Portrait of Emperor Xuanzong of Tang"
+      },
+      "zh": {
+        "displayName": "唐玄宗",
+        "descriptor": "唐朝皇帝",
+        "countingRuleSummary": "54 名子女记录于维基数据。",
+        "explanation": "引用的记录显示唐玄宗有54名子女。",
+        "imageAlt": "唐玄宗肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-hongwu-emperor-q9957",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-emperors",
+      "china"
+    ],
+    "childrenCount": 40,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Portrait_assis_de_l%27empereur_Ming_Taizu.jpg/500px-Portrait_assis_de_l%27empereur_Ming_Taizu.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l%27empereur_Ming_Taizu.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Hongwu Emperor",
+        "url": "https://en.wikipedia.org/wiki/Hongwu_Emperor"
+      },
+      {
+        "title": "Wikidata — Hongwu Emperor",
+        "url": "https://www.wikidata.org/entity/Q9957"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Hongwu Emperor",
+        "descriptor": "founding emperor of China's Ming dynasty; ruled 1368–1398",
+        "countingRuleSummary": "40 children are recorded by Wikidata.",
+        "explanation": "Hongwu Emperor has 40 children in the cited records.",
+        "imageAlt": "Portrait of Hongwu Emperor"
+      },
+      "zh": {
+        "displayName": "朱元璋",
+        "descriptor": "明朝开国皇帝",
+        "countingRuleSummary": "40 名子女记录于维基数据。",
+        "explanation": "引用的记录显示朱元璋有40名子女。",
+        "imageAlt": "朱元璋肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-jianwen-emperor-q9961",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-emperors",
+      "china"
+    ],
+    "childrenCount": 2,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Jianwen_Emperor.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jianwen_Emperor.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Jianwen Emperor",
+        "url": "https://en.wikipedia.org/wiki/Jianwen_Emperor"
+      },
+      {
+        "title": "Wikidata — Jianwen Emperor",
+        "url": "https://www.wikidata.org/entity/Q9961"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Jianwen Emperor",
+        "descriptor": "emperor of China from 1398 to 1402",
+        "countingRuleSummary": "2 children are recorded by Wikidata.",
+        "explanation": "Jianwen Emperor has 2 children in the cited records.",
+        "imageAlt": "Portrait of Jianwen Emperor"
+      },
+      "zh": {
+        "displayName": "建文帝",
+        "descriptor": "明朝第二位皇帝",
+        "countingRuleSummary": "2 名子女记录于维基数据。",
+        "explanation": "引用的记录显示建文帝有2名子女。",
+        "imageAlt": "建文帝肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-yongle-emperor-q9965",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-emperors",
+      "china"
+    ],
+    "childrenCount": 9,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg/500px-Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg",
+      "licence": "Public domain",
+      "attribution": "Unknown author Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Yongle Emperor",
+        "url": "https://en.wikipedia.org/wiki/Yongle_Emperor"
+      },
+      {
+        "title": "Wikidata — Yongle Emperor",
+        "url": "https://www.wikidata.org/entity/Q9965"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Yongle Emperor",
+        "descriptor": "emperor of Ming dynasty China from 1402 to 1424",
+        "countingRuleSummary": "9 children are recorded by Wikidata.",
+        "explanation": "Yongle Emperor has 9 children in the cited records.",
+        "imageAlt": "Portrait of Yongle Emperor"
+      },
+      "zh": {
+        "displayName": "明成祖",
+        "descriptor": "明朝第三位皇帝",
+        "countingRuleSummary": "9 名子女记录于维基数据。",
+        "explanation": "引用的记录显示明成祖有9名子女。",
+        "imageAlt": "明成祖肖像"
       }
     }
   },
@@ -3887,7 +4157,7 @@
       },
       "zh": {
         "displayName": "袁世凱",
-        "descriptor": "第一任中华民国大总统",
+        "descriptor": "中华民国大总统，独裁者 (1859–1916)",
         "countingRuleSummary": "6 名子女记录于维基数据。",
         "explanation": "引用的记录显示袁世凱有6名子女。",
         "imageAlt": "袁世凱肖像"
@@ -3932,7 +4202,7 @@
       },
       "zh": {
         "displayName": "皇太极",
-        "descriptor": "中国清朝开国皇帝、后金第二位汗",
+        "descriptor": "清朝第1位皇帝",
         "countingRuleSummary": "24 名子女记录于维基数据。",
         "explanation": "引用的记录显示皇太极有24名子女。",
         "imageAlt": "皇太极肖像"
@@ -3977,7 +4247,7 @@
       },
       "zh": {
         "displayName": "順治帝",
-        "descriptor": "中国清朝第2位皇帝",
+        "descriptor": "清朝第2位皇帝",
         "countingRuleSummary": "9 名子女记录于维基数据。",
         "explanation": "引用的记录显示順治帝有9名子女。",
         "imageAlt": "順治帝肖像"
@@ -4112,7 +4382,7 @@
       },
       "zh": {
         "displayName": "雍正帝",
-        "descriptor": "中国清朝皇帝",
+        "descriptor": "清朝第4位皇帝",
         "countingRuleSummary": "11 名子女记录于维基数据。",
         "explanation": "引用的记录显示雍正帝有11名子女。",
         "imageAlt": "雍正帝肖像"
@@ -4120,317 +4390,92 @@
     }
   },
   {
-    "id": "east-asian-history-emperor-gaozu-of-tang-q9700",
+    "id": "east-asian-history-daoguang-emperor-q334351",
     "category": "east-asian-history",
     "tags": [
       "chinese-emperors",
       "china"
     ],
-    "childrenCount": 41,
+    "childrenCount": 16,
     "countType": "commonly-recorded",
     "confidence": "medium",
     "recognisabilityScore": 4,
     "status": "active",
     "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TangGaozu.jpg/500px-TangGaozu.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E6%B8%85%E4%BA%BA%E7%94%BB%E6%97%BB%E5%AE%81%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png/500px-%E6%B8%85%E4%BA%BA%E7%94%BB%E6%97%BB%E5%AE%81%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png",
       "licence": "Public domain",
       "attribution": "Unknown author Unknown author",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TangGaozu.jpg"
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%B8%85%E4%BA%BA%E7%94%BB%E6%97%BB%E5%AE%81%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png"
     },
     "sources": [
       {
-        "title": "Wikipedia — Emperor Gaozu of Tang",
-        "url": "https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Tang"
+        "title": "Wikipedia — Daoguang Emperor",
+        "url": "https://en.wikipedia.org/wiki/Daoguang_Emperor"
       },
       {
-        "title": "Wikidata — Emperor Gaozu of Tang",
-        "url": "https://www.wikidata.org/entity/Q9700"
+        "title": "Wikidata — Daoguang Emperor",
+        "url": "https://www.wikidata.org/entity/Q334351"
       }
     ],
     "text": {
       "en": {
-        "displayName": "Emperor Gaozu of Tang",
-        "descriptor": "Founding emperor of the Tang Dynasty (566-635) (r. 618–626)",
-        "countingRuleSummary": "41 children are recorded by Wikidata.",
-        "explanation": "Emperor Gaozu of Tang has 41 children in the cited records.",
-        "imageAlt": "Portrait of Emperor Gaozu of Tang"
+        "displayName": "Daoguang Emperor",
+        "descriptor": "Qing-dynasty Chinese emperor (1782–1850)",
+        "countingRuleSummary": "16 children are recorded by Wikidata.",
+        "explanation": "Daoguang Emperor has 16 children in the cited records.",
+        "imageAlt": "Portrait of Daoguang Emperor"
       },
       "zh": {
-        "displayName": "李淵",
-        "descriptor": "中国唐朝开国皇帝",
-        "countingRuleSummary": "41 名子女记录于维基数据。",
-        "explanation": "引用的记录显示李淵有41名子女。",
-        "imageAlt": "李淵肖像"
+        "displayName": "道光帝",
+        "descriptor": "清朝第7位皇帝",
+        "countingRuleSummary": "16 名子女记录于维基数据。",
+        "explanation": "引用的记录显示道光帝有16名子女。",
+        "imageAlt": "道光帝肖像"
       }
     }
   },
   {
-    "id": "east-asian-history-emperor-taizong-of-tang-q9701",
+    "id": "east-asian-history-xianfeng-emperor-q334452",
     "category": "east-asian-history",
     "tags": [
       "chinese-emperors",
       "china"
     ],
-    "childrenCount": 35,
+    "childrenCount": 3,
     "countType": "commonly-recorded",
     "confidence": "medium",
     "recognisabilityScore": 4,
     "status": "active",
     "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/TangTaizong.jpg/500px-TangTaizong.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/%E3%80%8A%E5%92%B8%E4%B8%B0%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg/500px-%E3%80%8A%E5%92%B8%E4%B8%B0%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg",
       "licence": "Public domain",
-      "attribution": "Unknown artist Unknown artist",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TangTaizong.jpg"
+      "attribution": "Qing Dynasty Court Painter",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E3%80%8A%E5%92%B8%E4%B8%B0%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg"
     },
     "sources": [
       {
-        "title": "Wikipedia — Emperor Taizong of Tang",
-        "url": "https://en.wikipedia.org/wiki/Emperor_Taizong_of_Tang"
+        "title": "Wikipedia — Xianfeng Emperor",
+        "url": "https://en.wikipedia.org/wiki/Xianfeng_Emperor"
       },
       {
-        "title": "Wikidata — Emperor Taizong of Tang",
-        "url": "https://www.wikidata.org/entity/Q9701"
+        "title": "Wikidata — Xianfeng Emperor",
+        "url": "https://www.wikidata.org/entity/Q334452"
       }
     ],
     "text": {
       "en": {
-        "displayName": "Emperor Taizong of Tang",
-        "descriptor": "Chinese emperor of the Tang Dynasty (598-649) (r. 626-649)",
-        "countingRuleSummary": "35 children are recorded by Wikidata.",
-        "explanation": "Emperor Taizong of Tang has 35 children in the cited records.",
-        "imageAlt": "Portrait of Emperor Taizong of Tang"
+        "displayName": "Xianfeng Emperor",
+        "descriptor": "The ninth emperor (and the seventh after defeating Ming) of the Qing Dynasty (1831-1861)",
+        "countingRuleSummary": "3 children are recorded by Wikidata.",
+        "explanation": "Xianfeng Emperor has 3 children in the cited records.",
+        "imageAlt": "Portrait of Xianfeng Emperor"
       },
       "zh": {
-        "displayName": "唐太宗",
-        "descriptor": "中国唐朝第2任皇帝",
-        "countingRuleSummary": "35 名子女记录于维基数据。",
-        "explanation": "引用的记录显示唐太宗有35名子女。",
-        "imageAlt": "唐太宗肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-wu-zetian-q9738",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-emperors",
-      "china"
-    ],
-    "childrenCount": 6,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_%28%E5%B1%80%E9%83%A8%29_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png/500px-%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_%28%E5%B1%80%E9%83%A8%29_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png",
-      "licence": "Public domain",
-      "attribution": "Likely to be Zhang Xuan (张萱)",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_(%E5%B1%80%E9%83%A8)_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Wu Zetian",
-        "url": "https://en.wikipedia.org/wiki/Wu_Zetian"
-      },
-      {
-        "title": "Wikidata — Wu Zetian",
-        "url": "https://www.wikidata.org/entity/Q9738"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Wu Zetian",
-        "descriptor": "founding empress of Zhou dynasty (r. 690–705); de facto ruler of Tang dynasty from 665 to 690",
-        "countingRuleSummary": "6 children are recorded by Wikidata.",
-        "explanation": "Wu Zetian has 6 children in the cited records.",
-        "imageAlt": "Portrait of Wu Zetian"
-      },
-      "zh": {
-        "displayName": "武則天",
-        "descriptor": "武周皇帝，中國史上唯一的女皇帝",
-        "countingRuleSummary": "6 名子女记录于维基数据。",
-        "explanation": "引用的记录显示武則天有6名子女。",
-        "imageAlt": "武則天肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-emperor-xuanzong-of-tang-q9746",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-emperors",
-      "china"
-    ],
-    "childrenCount": 54,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg/500px-%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg",
-      "licence": "Public domain",
-      "attribution": "Unknown author Unknown author",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Emperor Xuanzong of Tang",
-        "url": "https://en.wikipedia.org/wiki/Emperor_Xuanzong_of_Tang"
-      },
-      {
-        "title": "Wikidata — Emperor Xuanzong of Tang",
-        "url": "https://www.wikidata.org/entity/Q9746"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Emperor Xuanzong of Tang",
-        "descriptor": "7th emperor of the Tang dynasty, reigning from 713 to 756 CE",
-        "countingRuleSummary": "54 children are recorded by Wikidata.",
-        "explanation": "Emperor Xuanzong of Tang has 54 children in the cited records.",
-        "imageAlt": "Portrait of Emperor Xuanzong of Tang"
-      },
-      "zh": {
-        "displayName": "唐玄宗",
-        "descriptor": "唐朝第7位皇帝",
-        "countingRuleSummary": "54 名子女记录于维基数据。",
-        "explanation": "引用的记录显示唐玄宗有54名子女。",
-        "imageAlt": "唐玄宗肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-hongwu-emperor-q9957",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-emperors",
-      "china"
-    ],
-    "childrenCount": 40,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Portrait_assis_de_l%27empereur_Ming_Taizu.jpg/500px-Portrait_assis_de_l%27empereur_Ming_Taizu.jpg",
-      "licence": "Public domain",
-      "attribution": "Unknown author Unknown author",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l%27empereur_Ming_Taizu.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Hongwu Emperor",
-        "url": "https://en.wikipedia.org/wiki/Hongwu_Emperor"
-      },
-      {
-        "title": "Wikidata — Hongwu Emperor",
-        "url": "https://www.wikidata.org/entity/Q9957"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Hongwu Emperor",
-        "descriptor": "founding emperor of China's Ming dynasty; ruled 1368–1398",
-        "countingRuleSummary": "40 children are recorded by Wikidata.",
-        "explanation": "Hongwu Emperor has 40 children in the cited records.",
-        "imageAlt": "Portrait of Hongwu Emperor"
-      },
-      "zh": {
-        "displayName": "朱元璋",
-        "descriptor": "中国明朝开国皇帝",
-        "countingRuleSummary": "40 名子女记录于维基数据。",
-        "explanation": "引用的记录显示朱元璋有40名子女。",
-        "imageAlt": "朱元璋肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-jianwen-emperor-q9961",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-emperors",
-      "china"
-    ],
-    "childrenCount": 2,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Jianwen_Emperor.jpg",
-      "licence": "Public domain",
-      "attribution": "Unknown author Unknown author",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jianwen_Emperor.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Jianwen Emperor",
-        "url": "https://en.wikipedia.org/wiki/Jianwen_Emperor"
-      },
-      {
-        "title": "Wikidata — Jianwen Emperor",
-        "url": "https://www.wikidata.org/entity/Q9961"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Jianwen Emperor",
-        "descriptor": "emperor of China from 1398 to 1402",
-        "countingRuleSummary": "2 children are recorded by Wikidata.",
-        "explanation": "Jianwen Emperor has 2 children in the cited records.",
-        "imageAlt": "Portrait of Jianwen Emperor"
-      },
-      "zh": {
-        "displayName": "建文帝",
-        "descriptor": "明朝第2位皇帝",
-        "countingRuleSummary": "2 名子女记录于维基数据。",
-        "explanation": "引用的记录显示建文帝有2名子女。",
-        "imageAlt": "建文帝肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-yongle-emperor-q9965",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-emperors",
-      "china"
-    ],
-    "childrenCount": 9,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg/500px-Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg",
-      "licence": "Public domain",
-      "attribution": "Unknown author Unknown author",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Yongle Emperor",
-        "url": "https://en.wikipedia.org/wiki/Yongle_Emperor"
-      },
-      {
-        "title": "Wikidata — Yongle Emperor",
-        "url": "https://www.wikidata.org/entity/Q9965"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Yongle Emperor",
-        "descriptor": "emperor of Ming dynasty China from 1402 to 1424",
-        "countingRuleSummary": "9 children are recorded by Wikidata.",
-        "explanation": "Yongle Emperor has 9 children in the cited records.",
-        "imageAlt": "Portrait of Yongle Emperor"
-      },
-      "zh": {
-        "displayName": "明成祖",
-        "descriptor": "明朝第3位皇帝",
-        "countingRuleSummary": "9 名子女记录于维基数据。",
-        "explanation": "引用的记录显示明成祖有9名子女。",
-        "imageAlt": "明成祖肖像"
+        "displayName": "咸丰帝",
+        "descriptor": "清朝第8位皇帝",
+        "countingRuleSummary": "3 名子女记录于维基数据。",
+        "explanation": "引用的记录显示咸丰帝有3名子女。",
+        "imageAlt": "咸丰帝肖像"
       }
     }
   },
@@ -4472,7 +4517,7 @@
       },
       "zh": {
         "displayName": "明世宗",
-        "descriptor": "大明第11位皇帝、即嘉靖帝 (1507-1567)",
+        "descriptor": "明朝第十一位皇帝 (1507-1567)",
         "countingRuleSummary": "13 名子女记录于维基数据。",
         "explanation": "引用的记录显示明世宗有13名子女。",
         "imageAlt": "明世宗肖像"
@@ -4517,7 +4562,7 @@
       },
       "zh": {
         "displayName": "明神宗",
-        "descriptor": "大明第13位皇帝",
+        "descriptor": "明朝第十三位皇帝",
         "countingRuleSummary": "18 名子女记录于维基数据。",
         "explanation": "引用的记录显示明神宗有18名子女。",
         "imageAlt": "明神宗肖像"
@@ -4562,7 +4607,7 @@
       },
       "zh": {
         "displayName": "康熙帝",
-        "descriptor": "中国清朝皇帝",
+        "descriptor": "清朝第3位皇帝",
         "countingRuleSummary": "44 名子女记录于维基数据。",
         "explanation": "引用的记录显示康熙帝有44名子女。",
         "imageAlt": "康熙帝肖像"
@@ -4582,10 +4627,10 @@
     "recognisabilityScore": 4,
     "status": "active",
     "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/UB_Maastricht_-_Staunton_1798_-_plate_II.jpg/500px-UB_Maastricht_-_Staunton_1798_-_plate_II.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Portrait_of_the_Qianlong_Emperor_in_Court_Dress.jpg/500px-Portrait_of_the_Qianlong_Emperor_in_Court_Dress.jpg",
       "licence": "Public domain",
-      "attribution": "Sir George Staunton, 1st Baronet",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:UB_Maastricht_-_Staunton_1798_-_plate_II.jpg"
+      "attribution": "Unidentified painter",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_the_Qianlong_Emperor_in_Court_Dress.jpg"
     },
     "sources": [
       {
@@ -4607,10 +4652,145 @@
       },
       "zh": {
         "displayName": "乾隆帝",
-        "descriptor": "中国清朝皇帝",
+        "descriptor": "清朝第5位皇帝",
         "countingRuleSummary": "28 名子女记录于维基数据。",
         "explanation": "引用的记录显示乾隆帝有28名子女。",
         "imageAlt": "乾隆帝肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-wen-of-sui-q7418",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-emperors",
+      "china"
+    ],
+    "childrenCount": 10,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sui_Wendi_Tang.jpg/500px-Sui_Wendi_Tang.jpg",
+      "licence": "Public domain",
+      "attribution": "Yan Li-pen",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sui_Wendi_Tang.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Wen of Sui",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Wen_of_Sui"
+      },
+      {
+        "title": "Wikidata — Emperor Wen of Sui",
+        "url": "https://www.wikidata.org/entity/Q7418"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Emperor Wen of Sui",
+        "descriptor": "founding emperor of the Sui Dynasty (541-604)",
+        "countingRuleSummary": "10 children are recorded by Wikidata.",
+        "explanation": "Emperor Wen of Sui has 10 children in the cited records.",
+        "imageAlt": "Portrait of Emperor Wen of Sui"
+      },
+      "zh": {
+        "displayName": "杨坚",
+        "descriptor": "隋朝开国皇帝",
+        "countingRuleSummary": "10 名子女记录于维基数据。",
+        "explanation": "引用的记录显示杨坚有10名子女。",
+        "imageAlt": "杨坚肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-yang-of-sui-q7419",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-emperors",
+      "china"
+    ],
+    "childrenCount": 7,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 3,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sui_Yangdi_Tang.jpg/500px-Sui_Yangdi_Tang.jpg",
+      "licence": "Public domain",
+      "attribution": "Yan Liben",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sui_Yangdi_Tang.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Yang of Sui",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui"
+      },
+      {
+        "title": "Wikidata — Emperor Yang of Sui",
+        "url": "https://www.wikidata.org/entity/Q7419"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Emperor Yang of Sui",
+        "descriptor": "emperor of the Sui Dynasty",
+        "countingRuleSummary": "7 children are recorded by Wikidata.",
+        "explanation": "Emperor Yang of Sui has 7 children in the cited records.",
+        "imageAlt": "Portrait of Emperor Yang of Sui"
+      },
+      "zh": {
+        "displayName": "隋炀帝",
+        "descriptor": "大隋政权的第二位皇帝",
+        "countingRuleSummary": "7 名子女记录于维基数据。",
+        "explanation": "引用的记录显示隋炀帝有7名子女。",
+        "imageAlt": "隋炀帝肖像"
+      }
+    }
+  },
+  {
+    "id": "east-asian-history-emperor-taizu-of-song-q7471",
+    "category": "east-asian-history",
+    "tags": [
+      "chinese-emperors",
+      "china"
+    ],
+    "childrenCount": 10,
+    "countType": "commonly-recorded",
+    "confidence": "medium",
+    "recognisabilityScore": 4,
+    "status": "active",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Song_Taizu.jpg/500px-Song_Taizu.jpg",
+      "licence": "Public domain",
+      "attribution": "Anonymous Unknown author",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Song_Taizu.jpg"
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Emperor Taizu of Song",
+        "url": "https://en.wikipedia.org/wiki/Emperor_Taizu_of_Song"
+      },
+      {
+        "title": "Wikidata — Emperor Taizu of Song",
+        "url": "https://www.wikidata.org/entity/Q7471"
+      }
+    ],
+    "text": {
+      "en": {
+        "displayName": "Emperor Taizu of Song",
+        "descriptor": "founding emperor of the Song Dynasty (reigned 960-976)",
+        "countingRuleSummary": "10 children are recorded by Wikidata.",
+        "explanation": "Emperor Taizu of Song has 10 children in the cited records.",
+        "imageAlt": "Portrait of Emperor Taizu of Song"
+      },
+      "zh": {
+        "displayName": "宋太祖",
+        "descriptor": "宋朝开国皇帝",
+        "countingRuleSummary": "10 名子女记录于维基数据。",
+        "explanation": "引用的记录显示宋太祖有10名子女。",
+        "imageAlt": "宋太祖肖像"
       }
     }
   },
@@ -4652,7 +4832,7 @@
       },
       "zh": {
         "displayName": "漢文帝",
-        "descriptor": "中國西漢皇帝",
+        "descriptor": "西汉皇帝",
         "countingRuleSummary": "5 名子女记录于维基数据。",
         "explanation": "引用的记录显示漢文帝有5名子女。",
         "imageAlt": "漢文帝肖像"
@@ -4742,145 +4922,10 @@
       },
       "zh": {
         "displayName": "司馬炎",
-        "descriptor": "中國晉朝開國皇帝",
+        "descriptor": "中国晋朝初代皇帝",
         "countingRuleSummary": "31 名子女记录于维基数据。",
         "explanation": "引用的记录显示司馬炎有31名子女。",
         "imageAlt": "司馬炎肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-emperor-wen-of-sui-q7418",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-emperors",
-      "china"
-    ],
-    "childrenCount": 10,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sui_Wendi_Tang.jpg/500px-Sui_Wendi_Tang.jpg",
-      "licence": "Public domain",
-      "attribution": "Yan Li-pen",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sui_Wendi_Tang.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Emperor Wen of Sui",
-        "url": "https://en.wikipedia.org/wiki/Emperor_Wen_of_Sui"
-      },
-      {
-        "title": "Wikidata — Emperor Wen of Sui",
-        "url": "https://www.wikidata.org/entity/Q7418"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Emperor Wen of Sui",
-        "descriptor": "founding emperor of the Sui Dynasty (541-604)",
-        "countingRuleSummary": "10 children are recorded by Wikidata.",
-        "explanation": "Emperor Wen of Sui has 10 children in the cited records.",
-        "imageAlt": "Portrait of Emperor Wen of Sui"
-      },
-      "zh": {
-        "displayName": "杨坚",
-        "descriptor": "隋朝第一位皇帝",
-        "countingRuleSummary": "10 名子女记录于维基数据。",
-        "explanation": "引用的记录显示杨坚有10名子女。",
-        "imageAlt": "杨坚肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-emperor-yang-of-sui-q7419",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-emperors",
-      "china"
-    ],
-    "childrenCount": 7,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 3,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sui_Yangdi_Tang.jpg/500px-Sui_Yangdi_Tang.jpg",
-      "licence": "Public domain",
-      "attribution": "Yan Liben",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sui_Yangdi_Tang.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Emperor Yang of Sui",
-        "url": "https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui"
-      },
-      {
-        "title": "Wikidata — Emperor Yang of Sui",
-        "url": "https://www.wikidata.org/entity/Q7419"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Emperor Yang of Sui",
-        "descriptor": "emperor of the Sui Dynasty",
-        "countingRuleSummary": "7 children are recorded by Wikidata.",
-        "explanation": "Emperor Yang of Sui has 7 children in the cited records.",
-        "imageAlt": "Portrait of Emperor Yang of Sui"
-      },
-      "zh": {
-        "displayName": "隋炀帝",
-        "descriptor": "隋朝第2位皇帝",
-        "countingRuleSummary": "7 名子女记录于维基数据。",
-        "explanation": "引用的记录显示隋炀帝有7名子女。",
-        "imageAlt": "隋炀帝肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-emperor-taizu-of-song-q7471",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-emperors",
-      "china"
-    ],
-    "childrenCount": 10,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Song_Taizu.jpg/500px-Song_Taizu.jpg",
-      "licence": "Public domain",
-      "attribution": "Anonymous Unknown author",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Song_Taizu.jpg"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Emperor Taizu of Song",
-        "url": "https://en.wikipedia.org/wiki/Emperor_Taizu_of_Song"
-      },
-      {
-        "title": "Wikidata — Emperor Taizu of Song",
-        "url": "https://www.wikidata.org/entity/Q7471"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Emperor Taizu of Song",
-        "descriptor": "founding emperor of the Song Dynasty (reigned 960-976)",
-        "countingRuleSummary": "10 children are recorded by Wikidata.",
-        "explanation": "Emperor Taizu of Song has 10 children in the cited records.",
-        "imageAlt": "Portrait of Emperor Taizu of Song"
-      },
-      "zh": {
-        "displayName": "宋太祖",
-        "descriptor": "中國宋朝開國皇帝",
-        "countingRuleSummary": "10 名子女记录于维基数据。",
-        "explanation": "引用的记录显示宋太祖有10名子女。",
-        "imageAlt": "宋太祖肖像"
       }
     }
   },
@@ -4922,7 +4967,7 @@
       },
       "zh": {
         "displayName": "宋神宗",
-        "descriptor": "宋朝第6位皇帝",
+        "descriptor": "北宋皇帝",
         "countingRuleSummary": "25 名子女记录于维基数据。",
         "explanation": "引用的记录显示宋神宗有25名子女。",
         "imageAlt": "宋神宗肖像"
@@ -4967,7 +5012,7 @@
       },
       "zh": {
         "displayName": "宋徽宗",
-        "descriptor": "宋朝第8位皇帝",
+        "descriptor": "北宋皇帝",
         "countingRuleSummary": "70 名子女记录于维基数据。",
         "explanation": "引用的记录显示宋徽宗有70名子女。",
         "imageAlt": "宋徽宗肖像"
@@ -4981,7 +5026,7 @@
       "chinese-emperors",
       "china"
     ],
-    "childrenCount": 9,
+    "childrenCount": 7,
     "countType": "commonly-recorded",
     "confidence": "medium",
     "recognisabilityScore": 4,
@@ -5006,15 +5051,15 @@
       "en": {
         "displayName": "Temür Khan",
         "descriptor": "2nd emperor of the Yuan Dynasty",
-        "countingRuleSummary": "9 children are recorded by Wikidata.",
-        "explanation": "Temür Khan has 9 children in the cited records.",
+        "countingRuleSummary": "7 children are recorded by Wikidata.",
+        "explanation": "Temür Khan has 7 children in the cited records.",
         "imageAlt": "Portrait of Temür Khan"
       },
       "zh": {
         "displayName": "元成宗",
-        "descriptor": "元朝第2位皇帝",
-        "countingRuleSummary": "9 名子女记录于维基数据。",
-        "explanation": "引用的记录显示元成宗有9名子女。",
+        "descriptor": "元朝皇帝",
+        "countingRuleSummary": "7 名子女记录于维基数据。",
+        "explanation": "引用的记录显示元成宗有7名子女。",
         "imageAlt": "元成宗肖像"
       }
     }
@@ -5057,7 +5102,7 @@
       },
       "zh": {
         "displayName": "宋英宗",
-        "descriptor": "宋朝第5位皇帝、宋太宗曾孙",
+        "descriptor": "北宋皇帝",
         "countingRuleSummary": "8 名子女记录于维基数据。",
         "explanation": "引用的记录显示宋英宗有8名子女。",
         "imageAlt": "宋英宗肖像"
@@ -5102,7 +5147,7 @@
       },
       "zh": {
         "displayName": "宋仁宗",
-        "descriptor": "宋朝第4位皇帝",
+        "descriptor": "宋朝第四位皇帝",
         "countingRuleSummary": "16 名子女记录于维基数据。",
         "explanation": "引用的记录显示宋仁宗有16名子女。",
         "imageAlt": "宋仁宗肖像"
@@ -5147,7 +5192,7 @@
       },
       "zh": {
         "displayName": "明仁宗",
-        "descriptor": "明朝第4位皇帝",
+        "descriptor": "明朝第四位皇帝",
         "countingRuleSummary": "17 名子女记录于维基数据。",
         "explanation": "引用的记录显示明仁宗有17名子女。",
         "imageAlt": "明仁宗肖像"
@@ -5192,7 +5237,7 @@
       },
       "zh": {
         "displayName": "明宣宗",
-        "descriptor": "明朝第5位皇帝 (1399-1435)",
+        "descriptor": "明朝第五位皇帝 (1399-1435)",
         "countingRuleSummary": "5 名子女记录于维基数据。",
         "explanation": "引用的记录显示明宣宗有5名子女。",
         "imageAlt": "明宣宗肖像"
@@ -5237,55 +5282,10 @@
       },
       "zh": {
         "displayName": "嘉庆帝",
-        "descriptor": "中国清朝皇帝 (1760-1820)",
+        "descriptor": "清朝皇帝 (1760-1820)",
         "countingRuleSummary": "9 名子女记录于维基数据。",
         "explanation": "引用的记录显示嘉庆帝有9名子女。",
         "imageAlt": "嘉庆帝肖像"
-      }
-    }
-  },
-  {
-    "id": "east-asian-history-daoguang-emperor-q334351",
-    "category": "east-asian-history",
-    "tags": [
-      "chinese-emperors",
-      "china"
-    ],
-    "childrenCount": 16,
-    "countType": "commonly-recorded",
-    "confidence": "medium",
-    "recognisabilityScore": 4,
-    "status": "active",
-    "image": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E6%B8%85%E4%BA%BA%E7%94%BB%E6%97%BB%E5%AE%81%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png/500px-%E6%B8%85%E4%BA%BA%E7%94%BB%E6%97%BB%E5%AE%81%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png",
-      "licence": "Public domain",
-      "attribution": "Unknown author Unknown author",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%B8%85%E4%BA%BA%E7%94%BB%E6%97%BB%E5%AE%81%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png"
-    },
-    "sources": [
-      {
-        "title": "Wikipedia — Daoguang Emperor",
-        "url": "https://en.wikipedia.org/wiki/Daoguang_Emperor"
-      },
-      {
-        "title": "Wikidata — Daoguang Emperor",
-        "url": "https://www.wikidata.org/entity/Q334351"
-      }
-    ],
-    "text": {
-      "en": {
-        "displayName": "Daoguang Emperor",
-        "descriptor": "Qing-dynasty Chinese emperor (1782–1850)",
-        "countingRuleSummary": "16 children are recorded by Wikidata.",
-        "explanation": "Daoguang Emperor has 16 children in the cited records.",
-        "imageAlt": "Portrait of Daoguang Emperor"
-      },
-      "zh": {
-        "displayName": "道光帝",
-        "descriptor": "中国清朝皇帝",
-        "countingRuleSummary": "16 名子女记录于维基数据。",
-        "explanation": "引用的记录显示道光帝有16名子女。",
-        "imageAlt": "道光帝肖像"
       }
     }
   },
@@ -5327,7 +5327,7 @@
       },
       "zh": {
         "displayName": "明英宗",
-        "descriptor": "明朝第6位皇帝",
+        "descriptor": "明朝第六位皇帝",
         "countingRuleSummary": "17 名子女记录于维基数据。",
         "explanation": "引用的记录显示明英宗有17名子女。",
         "imageAlt": "明英宗肖像"
@@ -5372,7 +5372,7 @@
       },
       "zh": {
         "displayName": "景泰帝",
-        "descriptor": "明朝第7位皇帝",
+        "descriptor": "明朝第七位皇帝",
         "countingRuleSummary": "2 名子女记录于维基数据。",
         "explanation": "引用的记录显示景泰帝有2名子女。",
         "imageAlt": "景泰帝肖像"
@@ -5417,7 +5417,7 @@
       },
       "zh": {
         "displayName": "明熹宗",
-        "descriptor": "大明第15位皇帝、天启帝",
+        "descriptor": "明朝第十五位皇帝",
         "countingRuleSummary": "5 名子女记录于维基数据。",
         "explanation": "引用的记录显示明熹宗有5名子女。",
         "imageAlt": "明熹宗肖像"
@@ -5462,7 +5462,7 @@
       },
       "zh": {
         "displayName": "明光宗",
-        "descriptor": "大明第14位皇帝",
+        "descriptor": "明朝第十四位皇帝",
         "countingRuleSummary": "18 名子女记录于维基数据。",
         "explanation": "引用的记录显示明光宗有18名子女。",
         "imageAlt": "明光宗肖像"
