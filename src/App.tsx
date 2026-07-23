@@ -202,6 +202,7 @@ function Home({ start, pool, setPool, chainedMatches, setChainedMatches }: { sta
             </div>
           </div>
           <div className="hero-showdown" aria-label={text.exampleComparison} data-label={language === "zh" ? "今日对决" : "TODAY'S PAIR"}>
+            <p className="hero-preview-category">{categoryLabel(dailyCategory, language)}</p>
             <div className="hero-person"><Portrait figure={left} /><strong>{leftText.displayName}</strong><span>{leftText.descriptor}</span></div>
             <div className="vs">VS</div>
             <div className="hero-person"><Portrait figure={right} /><strong>{rightText.displayName}</strong><span>{rightText.descriptor}</span></div>

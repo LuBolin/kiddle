@@ -37,6 +37,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid #f3a712; outline-offs
 .language-select select { border: 1px solid #b99a70; border-radius: .55rem; padding: .5rem .65rem; background: #fff3dc; color: #172640; font: inherit; font-size: .78rem; font-weight: 750; }
 .game-panel .language-select select { border-color: #667793; background: #263b5d; color: #fff3dc; }
 .hero-showdown::before { content: attr(data-label); }
+.hero-preview-category { position: absolute; top: 2.1rem; left: 50%; margin: 0; transform: translateX(-50%); color: var(--ink); font: 700 .95rem/1 Georgia, serif; text-align: center; white-space: nowrap; }
 
 /* Kiddle palette */
 body, .home-page { background: var(--sand); color: var(--ink); }
@@ -83,7 +84,7 @@ body, .home-page { background: var(--sand); color: var(--ink); }
 .reveal { border-left-color: var(--red); }
 .reveal.positive { border-left-color: var(--green); }
 .hidden-count, .source-item a { color: var(--orange-dark); }
-@media (max-width: 800px) { .site-shell { width: min(100% - 2rem, 1180px); }.hero { grid-template-columns: 1fr; gap: 2.5rem; padding-top: 3rem; }.hero h1 { max-width: 10ch; }.hero-showdown { max-width: 550px; } }
+@media (max-width: 800px) { .site-shell { width: min(100% - 2rem, 1180px); }.hero { grid-template-columns: 1fr; gap: 2.5rem; padding-top: 3rem; }.hero h1 { max-width: 10ch; }.hero-copy, .hero-showdown { width: min(100%, 550px); margin-inline: auto; }.play-stack { width: 100%; } }
 @media (max-width: 600px) { .site-header { min-height: auto; flex-direction: column; align-items: flex-start; padding: 1rem 0; }.site-header nav { width: 100%; flex-wrap: wrap; gap: .15rem; }.site-header nav button, .site-header nav a, .nav-disabled { padding-left: .4rem; padding-right: .4rem; font-size: .82rem; }.hero { min-height: 0; padding: 2.8rem 0; }.hero h1 { font-size: clamp(3rem, 16vw, 4.6rem); }.hero-showdown { padding: 1.5rem .4rem 4rem; }.hero-showdown .portrait { width: 104px; height: 104px; }.hero-person strong { font-size: 1rem; }.shell { width: min(100% - 1.25rem, 850px); padding-top: 1.25rem; }.game-header { grid-template-columns: auto 1fr; }.game-brand { justify-items: end; }.game-tools { grid-column: 1 / -1; justify-content: space-between; padding-top: .7rem; border-top: 1px solid #e3d9cf; }.game-status { gap: .45rem; font-size: .75rem; }.figures { grid-template-columns: 1fr; }.figure-card { min-height: 245px; } }
 @media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; transition: none !important; } }
 .game-panel { padding: .9rem 1.15rem 1rem; }
