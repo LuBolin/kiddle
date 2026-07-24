@@ -1,0 +1,27 @@
+name: Sync Vercel alias
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  sync-alias:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions: {}
+    env:
+      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+    steps:
+      - name: Point the public alias at this commit
+        shell: bash
+        run: |
+          for attempt in {1..30}; do
+            deployment="$(npx --yes vercel@latest ls kid-dle --prod --status READY --meta githubCommitSha="$GITHUB_SHA" --scope bolin-s-team --token "$VERCEL_TOKEN" --no-color | awk '/^https:\/\// { print $1; exit }')"
+            if [ -n "$deployment" ]; then
+              npx --yes vercel@latest alias set "$deployment" kid-dle.vercel.app --scope bolin-s-team --token "$VERCEL_TOKEN"
+              exit 0
+            fi
+            sleep 10
+          done
+          echo "Timed out waiting for Vercel to finish this commit's production deployment." >&2
+          exit 1
